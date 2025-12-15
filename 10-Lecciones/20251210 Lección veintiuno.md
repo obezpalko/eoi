@@ -2,18 +2,7 @@
 
 ## Fiesta de Navidad
 
- Fecha: 18 diciembre (jueves) 16:45
- Lugar: EOI Dénia (edificio colores)
-
-### programa
-
-- 16:45 concurso gastronómico (comida nacionalidad)
-
-- quiz de Navidad
-- 19:45 entrega de premios
-- 19:45 - 20:00 degustación de los platos
-
-Link en AULES (неправильный AULES Не наша группа )
+[[50-Exámenes/Fiesta de Navidad|📅 Ver información completa de la Fiesta de Navidad]]
 
 ---
 

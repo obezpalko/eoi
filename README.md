@@ -1,11 +1,11 @@
 # EOI
 
-This is a set of leccions for EOI Spanish course for level A1. It is extended with AI.
+This is a set of lecciones for EOI Spanish course for level A1. It is extended with AI.
 All materials are on Spanish.
 
 ## Sources
 
-- Matrials are created with Obsidian
+- Materials are created with Obsidian
 - New records also are created with Obsidian and can be extended with AI
 - All changes should be compatible with Obsidian syntax and structure
 - All changes are stored in git
@@ -14,5 +14,5 @@ All materials are on Spanish.
 
 ## Lecciones
 
-- each lesson has links to nex and previous lesson at the bottom
+- each lesson has links to next and previous lesson at the bottom
 - each lesson tas link to the corresponding homework page (deberes)

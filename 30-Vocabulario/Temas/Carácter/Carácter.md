@@ -23,6 +23,8 @@
 | **Paciente**              | **Impaciente**            | _El profesor es muy **paciente**._                                      | _Mi jefe es muy **impaciente**._                                       | Capacidad de esperar con calma.                                               |
 | **Confiado**              | **Desconfiado**           | _El niño es muy **confiado**._                                          | _El gato es **desconfiado** con extraños._                             | Fiarse de los demás (Trusting) vs. No fiarse (Suspicious/Distrustful).        |
 | **Humilde**               | **Arrogante**             | _El Papa es **humilde**._                                               | _El ganador fue un poco arrogante._                                    | Modestia vs. Soberbia.                                                        |
+| **Nervioso**              | **Tranquilo**             | _El niño es muy **nervioso**._                                          | _El abuelo es **tranquilo**._                                          | Inquieto, con ansiedad vs. Calmado, en paz. (Nervous / Calm).                 |
+| **Ordenado**              | **Desordenado**           | _María es muy **ordenada**._                                            | _Carlos es **desordenado** con sus cosas._                             | Que mantiene todo en su lugar vs. Que deja todo en desorden. (Tidy / Messy).  |
 
 ## Otras Palabras de Personalidad y Sentimientos
 
@@ -70,3 +72,4 @@
 - **Confianza** (Nombre, Trust) -> **Confiar** (Verbo, To trust) -> **Confiado / Desconfiado** (Adjetivo, Person) -> **Confiable** (Adjetivo, Reliable thing/person).
 - **Sospecha** (Nombre, Suspicion) -> **Sospechoso** (Adjetivo).
 - **Humildad** (Nombre) -> **Humilde** (Adjetivo) -> **Humillado** (Participio, Humiliated).
+- **Susto** (Nombre, Fright) -> **Asustar** (Verbo, To scare) -> **Asustado** (Adjetivo, Scared).
