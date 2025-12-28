@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Deberes/20251217 Lección veintitrés.md",
+                "file": "30-Vocabulario/Temas/Siempre Plural/Siempre Plural.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251217 Lección veintitrés"
+              "title": "Siempre Plural"
             }
           }
         ],
@@ -253,11 +253,16 @@
   },
   "active": "ee887de8a54d5ef6",
   "lastOpenFiles": [
-    "10-Lecciones/20251215 Lección veintidós.md",
-    "10-Lecciones/20251210 Lección veintiuno.md",
-    "40-Deberes/20251215 Lección veintidós.md",
     "10-Lecciones/20251217 Lección veintitrés.md",
+    "30-Vocabulario/Temas/Descripción Física/Pelo.md",
+    "30-Vocabulario/Temas/Carácter/Carácter.md",
+    "30-Vocabulario/Temas/Descripción Física/Cara.md",
+    "40-Deberes/20251215 Lección veintidós.md",
     "40-Deberes/20251217 Lección veintitrés.md",
+    "10-Lecciones/20251215 Lección veintidós.md",
+    "30-Vocabulario/Temas/Familia del rey/Familia del rey.md",
+    "30-Vocabulario/Temas/Descripción Física/General.md",
+    "10-Lecciones/20251210 Lección veintiuno.md",
     "30-Vocabulario/Temas/Siempre Plural.md",
     "30-Vocabulario/Temas/Colores.md",
     "10-Lecciones/20251126 lección dieciocho.md",
@@ -287,12 +292,8 @@
     "Lecciones/20251126 lección dieciocho.md",
     "Verbos/contaminar.md",
     "palabras.md",
-    "Verbos/dejar.md",
-    "Verbos/prestar.md",
     "Gramática",
-    "Verbos/odiar.md",
     "Lecciones",
-    "Colores.md",
     "Verbos"
   ]
 }

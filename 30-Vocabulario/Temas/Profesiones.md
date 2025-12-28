@@ -1,0 +1,18 @@
+- pensionista
+- jubilado jubilada
+- ama de casa
+- ingeniero ingeniera
+- arquitecto arquitecta
+- yo tele-trabajo
+- abogado abogada
+- peluquera
+- farmacéutico
+- estudiante
+- programador
+- informático
+- periodista
+- el modelo
+- esteticista
+- administrador administradora
+- masajista
+- interiorista

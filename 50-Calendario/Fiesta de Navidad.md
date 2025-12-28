@@ -28,10 +28,6 @@
 
 - Ceremonia de entrega de premios del concurso gastronómico y quiz
 
-## Vacaciones de Navidad
-
-**Último día de clase:** 22 de diciembre de 2025 (lunes)  
-**Regreso a clases:** 7 de enero de 2026 (miércoles)
 
 ## Notas Adicionales
 

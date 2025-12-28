@@ -14,10 +14,8 @@ En esta lección trabajamos:
 ## Información
 
 - [eoidenia](https://www.instagram.com/eoidenia?igsh=MWM0ZGEzaHNkd3NudQ==)
-- Vacaciones de navidad:
-  - 22 diciembre - lunes. Último día
-  - 7 de enero - miércoles. Primer día después de vacaciones
-- [[50-Exámenes/Fiesta de Navidad|📅 Fiesta de Navidad (opcional)]]
+- [[50-Calendario/Vacaciones de Navidad|📅 Ver información de vacaciones de Navidad]]
+- [[50-Calendario/Fiesta de Navidad|📅 Fiesta de Navidad (opcional)]]
 
 ---
 

@@ -1,8 +1,9 @@
 ## tarjeta estudiante
 
-## Fiesta de Navidad
+## Navidad
 
-[[50-Exámenes/Fiesta de Navidad|📅 Ver información completa de la Fiesta de Navidad]]
+[[50-Calendario/Vacaciones de Navidad|📅 Ver información de vacaciones de Navidad]]
+[[50-Calendario/Fiesta de Navidad|📅 Fiesta de Navidad (opcional)]]
 
 ---
 

@@ -77,6 +77,11 @@
 				- gafas
 				- dos tatuajes
 		- 6a)
+			1. Alberto 
+			2. Karl 
+			3. Mariana
+			4. Rachel
+			5. Estefanía
 		- 6b)
 		- 9)
 		- 10)

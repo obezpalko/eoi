@@ -1,0 +1,5 @@
+- hoja con ejercicios (después vacaciones )
+	- ficha 32
+	- gustos y aficiones 48
+- árbol genealógico (dibujo y explicación) (después vacaciones )
+- escribir una carta de tres Reyes magos (hoja) (después vacaciones )
