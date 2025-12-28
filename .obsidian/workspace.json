@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9855fdb79b45e784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-Lecciones/20250929 Lección uno.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250929 Lección uno"
-            }
-          },
-          {
             "id": "f2e64b5b4945dfd0",
             "type": "leaf",
             "state": {
@@ -217,12 +193,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "9855fdb79b45e784",
+  "active": "f2e64b5b4945dfd0",
   "lastOpenFiles": [
+    "30-Vocabulario/Temas/Colores/Colores.md",
+    "30-Vocabulario/Temas/Profesiones.md",
+    "30-Vocabulario/Temas/Profesiones/funcionario.jpg",
+    "30-Vocabulario/Temas/Profesiones/veterinario.jpg",
+    "30-Vocabulario/Temas/Profesiones/taxista.jpg",
+    "30-Vocabulario/Temas/Profesiones/psicologo.jpg",
+    "30-Vocabulario/Temas/Profesiones/modelo.jpg",
+    "30-Vocabulario/Temas/Profesiones/maestro.jpg",
+    "30-Vocabulario/Temas/Profesiones/guia_turistico.jpg",
+    "30-Vocabulario/Temas/Profesiones/fotografo.jpg",
+    "30-Vocabulario/Temas/Profesiones/empresario.jpg",
+    "30-Vocabulario/Temas/Profesiones/dependiente.jpg",
+    "80-Tools/download_missing_profesiones.py",
+    "10-Lecciones/20250929 Lección uno.md",
+    "80-Tools/download_profesiones_ddg.py",
+    "80-Tools/download_profesiones_images.sh",
+    "30-Vocabulario/Temas/Profesiones",
     "40-Deberes/20250929.md",
     "10-Lecciones/20251126 Lección dieciocho.md",
-    "10-Lecciones/20250929 Lección uno.md",
-    "30-Vocabulario/Temas/Profesiones.md",
     "30-Vocabulario/Temas/Nacionalidades/Nacionalidades.md",
     "30-Vocabulario/Temas/Nacionalidades/Lugares Españolas.md",
     "40-Deberes/20251215 Lección veintidós.md",
@@ -243,27 +234,12 @@
     "30-Vocabulario/Temas/Siempre Plural.md",
     "30-Vocabulario/Temas/Carácter/Carácter.md",
     "30-Vocabulario/Temas/Navidad en España.md",
-    "30-Vocabulario/Temas/Navidad en España/belen.jpg",
-    "30-Vocabulario/Temas/Navidad en España/carta_reyes.jpg",
-    "30-Vocabulario/Temas/Navidad en España/roscon_de_reyes.jpg",
-    "30-Vocabulario/Temas/Navidad en España/cabalgata.jpg",
-    "30-Vocabulario/Temas/Navidad en España/reyes_magos.jpg",
-    "30-Vocabulario/Temas/Navidad en España/reyes_magos.svg",
     "30-Vocabulario/Temas/Navidad en España",
     "80-Tools/download_navidad_images.py",
     "50-Calendario/Fiesta de Navidad.md",
     "50-Calendario/Vacaciones de Navidad.md",
     "50-Calendario/Exámenes.md",
     "50-Calendario",
-    "50-Exámenes/Vacaciones de Navidad.md",
-    "30-Vocabulario/Temas/Colores/ejemplos/plateado.jpg",
-    "30-Vocabulario/Temas/Colores/ejemplos/lila.jpg",
-    "30-Vocabulario/Temas/Colores/ejemplos/verde.jpg",
-    "30-Vocabulario/Temas/Colores/ejemplos/crema.jpg",
-    "30-Vocabulario/Temas/Colores/ejemplos",
-    "80-Tools/download_color_images.py",
-    "80-Tools/generate_color_swatches.py",
-    "30-Vocabulario/Temas/Colores/swatches",
-    "80-Tools/test_images_table_desc"
+    "30-Vocabulario/Temas/Colores/ejemplos"
   ]
 }
