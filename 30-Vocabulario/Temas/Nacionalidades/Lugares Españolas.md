@@ -59,20 +59,20 @@
 
 ## Provincia de Alicante (Costa Blanca)
 
-| Lugar | Gentilicio |
-| ----- | ---------- |
-| Alicante | alicantino alicantina |
-| Dénia | dianense |
-| Orihuela | oriolano oriolana |
-| Elche | ilicitano ilicitana |
-| Benidorm | benidormense |
-| Torrevieja | torrevejense |
-| Alcoy | alcoyano alcoyana |
-| Calpe | calpino calpina |
-| Altea | alteano alteana |
+| Lugar         | Gentilicio                         |
+| ------------- | ---------------------------------- |
+| Alicante      | alicantino alicantina              |
+| Dénia         | dianense                           |
+| Orihuela      | oriolano oriolana                  |
+| Elche         | ilicitano ilicitana                |
+| Benidorm      | benidormense                       |
+| Torrevieja    | torrevejense                       |
+| Alcoy         | alcoyano alcoyana                  |
+| Calpe         | calpino calpina                    |
+| Altea         | alteano alteana                    |
 | Jávea / Xàbia | javeano javenea / xabienc xabienca |
-| Villena | villenense |
-| Elda | eldense |
+| Villena       | villenense                         |
+| Elda          | eldense                            |
 
 ## Otras Ciudades Europeas
 
