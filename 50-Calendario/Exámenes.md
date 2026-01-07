@@ -2,7 +2,7 @@
 
 Recopilación de información sobre exámenes y evaluaciones.
 
-## Enero (Primer Cuatrimestre)
+## Enero (Primer Cuatrimestre) (40%)
 
 ### Información General
 
@@ -14,6 +14,13 @@ Recopilación de información sobre exámenes y evaluaciones.
 - **Fecha Principal:** 26 de Enero.
 - **Distribución:** 15 personas por la mañana + 15 por la tarde.
 - **Fechas alternativas mencionadas:** 28 de Enero (L21) o 30 de Enero (L22). *Por confirmar.*
+CE
+CO comprensión oral 
+EE expresión escritos 
+NE
+
+- Describe photo de persona
+- Datos personales 
 
 ### Examen Oral
 
@@ -23,6 +30,6 @@ Recopilación de información sobre exámenes y evaluaciones.
 
 ## Calendario Futuro
 
-- **Mayo:** 2º Examen.
-- **Mayo:** Examen Final.
-- **Junio:** Recuperación / Extra (4).
+- **Mayo:** 2º Examen. (60%)
+- **Mayo:** Examen Final (última semana de mayo)
+- **Junio:** Recuperación / Extraordinario (última `sema`de junio)
