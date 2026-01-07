@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Deberes/Mi Pareja Ideal.md",
-                "mode": "preview",
+                "file": "30-Vocabulario/Verbos/gustar.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mi Pareja Ideal"
+              "title": "gustar"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pelirroja",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,11 +267,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "03bea748f3078242",
+  "active": "4783c5eef788ba19",
   "lastOpenFiles": [
+    "80-Tools/QUICK_REFERENCE.md",
+    "80-Tools/MIGRATION_GUIDE.md",
+    "80-Tools/README_universal_downloader.md",
+    "80-Tools/examples/images.json",
+    "80-Tools/examples/images.csv",
+    "80-Tools/examples",
+    "80-Tools/download_images_universal.py",
+    "30-Vocabulario/Verbos/gustar.md",
+    "40-Deberes/20260107 Lección veinticinco.md",
     "40-Deberes/Mi Pareja Ideal.md",
     "40-Deberes/Carta a los Reyes Magos.md",
-    "40-Deberes/20260107 Lección veinticinco.md",
     "30-Vocabulario/Temas/Nacionalidades/Nacionalidades.md",
     "10-Lecciones/20250929 Lección uno.md",
     "10-Lecciones/20260107 Lección veinticinco.md",
@@ -305,15 +313,7 @@
     "30-Vocabulario/palabras.md",
     "30-Vocabulario/Temas/Días de la semana/Días de la semana.md",
     "10-Lecciones/20251217 Lección veintitrés.md",
-    "10-Lecciones/20251215 Lección veintidós.md",
-    "10-Lecciones/20251210 Lección veintiuno.md",
-    "10-Lecciones/20251203 Lección veinte.md",
-    "10-Lecciones/20251201 Lección diecinueve.md",
     "30-Vocabulario/Temas/Abecedario",
-    "30-Vocabulario/Temas/Nacionalidades",
-    "30-Vocabulario/Temas/Navidad en España",
-    "80-Tools/download_navidad_images.py",
-    "50-Calendario",
-    "30-Vocabulario/Temas/Colores/ejemplos"
+    "30-Vocabulario/Temas/Nacionalidades"
   ]
 }

@@ -1,0 +1,23 @@
+[
+  {
+    "filename": "red_car",
+    "query": "red sports car"
+  },
+  {
+    "filename": "blue_house",
+    "query": "blue house with garden"
+  },
+  {
+    "filename": "black_cat",
+    "query": "black cat sitting"
+  },
+  {
+    "filename": "white_dog",
+    "query": "white fluffy dog"
+  },
+  {
+    "filename": "yellow_flower",
+    "query": "yellow sunflower"
+  }
+]
+
