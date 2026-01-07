@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-Lecciones/20250929 Lección uno.md",
-                "mode": "source",
+                "file": "40-Deberes/Carta a los Reyes Magos.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250929 Lección uno"
+              "title": "Carta a los Reyes Magos"
+            }
+          },
+          {
+            "id": "4783c5eef788ba19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Deberes/Mi Pareja Ideal.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mi Pareja Ideal"
             }
           },
           {
@@ -240,21 +264,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "03bea748f3078242",
   "lastOpenFiles": [
+    "40-Deberes/Mi Pareja Ideal.md",
+    "40-Deberes/Carta a los Reyes Magos.md",
+    "40-Deberes/20260107 Lección veinticinco.md",
+    "30-Vocabulario/Temas/Nacionalidades/Nacionalidades.md",
+    "10-Lecciones/20250929 Lección uno.md",
+    "10-Lecciones/20260107 Lección veinticinco.md",
+    "40-Deberes/20251222 Lección veinticuatro.md",
     "30-Vocabulario/Temas/Profesiones.md",
     "30-Vocabulario/Temas/Descripción Física/Cara.md",
     "30-Vocabulario/Temas/Descripción Física/General.md",
     "30-Vocabulario/Temas/Descripción Física/Pelo.md",
     "10-Lecciones/20251222 Lección veinticuatro.md",
-    "10-Lecciones/20260107 Lección veinticinco.md",
-    "30-Vocabulario/Temas/Nacionalidades/Nacionalidades.md",
     "30-Vocabulario/Temas/Nacionalidades/Lugares Españolas.md",
-    "10-Lecciones/20250929 Lección uno.md",
     "30-Vocabulario/Temas/Colores/Colores.md",
     "30-Vocabulario/Temas/Profesiones/funcionario.jpg",
     "30-Vocabulario/Temas/Profesiones/veterinario.jpg",
@@ -282,12 +309,8 @@
     "10-Lecciones/20251210 Lección veintiuno.md",
     "10-Lecciones/20251203 Lección veinte.md",
     "10-Lecciones/20251201 Lección diecinueve.md",
-    "30-Vocabulario/Temas/Abecedario/Abecedario.md",
     "30-Vocabulario/Temas/Abecedario",
     "30-Vocabulario/Temas/Nacionalidades",
-    "30-Vocabulario/Temas/Siempre Plural.md",
-    "30-Vocabulario/Temas/Carácter/Carácter.md",
-    "30-Vocabulario/Temas/Navidad en España.md",
     "30-Vocabulario/Temas/Navidad en España",
     "80-Tools/download_navidad_images.py",
     "50-Calendario",
