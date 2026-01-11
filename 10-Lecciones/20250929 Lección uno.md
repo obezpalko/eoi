@@ -1,35 +1,44 @@
+---
+date: 2025-09-29
+---
 [[40-Deberes/20250929|Deberes]]
 
 # Información de la profesora
+
 **Profesora:** Lorena  
-**Email:** lorenaprofeeoi@gmail.com
+**Email:** <lorenaprofeeoi@gmail.com>
 
 # Vocabulario básico
 
-- **Deletrear** - decir letras (to spell)
+- [[deletrear|Deletrear]] - decir letras (to spell)
 - **@** - arroba (at symbol)
 
 # Lección: Presentación Personal
 
 ## Nombre
+
 - **¿Cómo te llamas?** - Me llamo Alex
 - **¿Cómo se llama usted?** - Me llamo Alex (formal)
 
 ## Apellido
+
 - **¿Cuál es tu apellido?** - Mi apellido es...
 - **¿Cuáles son tus apellidos?** - Mis apellidos son...
 
 > **Ver también:** [[Nacionalidades]] [[Lugares Españolas]]
 
 ## Edad
+
 - **¿Cuántos años tienes?** - Tengo cincuenta años.
 
 ## Nacionalidad
+
 - **¿De dónde eres?** - Soy de Ucrania e Israel. Soy israelí.
 
 > **Ver también:** [[Nacionalidades]] [[Lugares Españolas]]
 
 ## Trabajo
+
 - **¿Cuál es tu profesión?** - Soy ingeniero
 - **¿En qué trabajas?** - Mi profesión es ingeniero informático
 - **¿A qué te dedicas?** - Soy ingeniero informático / Trabajo como ingeniero
@@ -37,15 +46,19 @@
 > **Ver también:** [[Profesiones]]
 
 ## Residencia
+
 - **¿Dónde vives?** - Yo vivo en Dénia.
 
 ## Teléfono
+
 - **¿Cuál es tu número de teléfono?** - Mi número de teléfono es...
 
 ## Dirección de correo electrónico
+
 - **¿Cuál es tu dirección de correo electrónico?** - Mi dirección de correo electrónico es...
 
 ## Idiomas
+
 - **¿Cuántos idiomas hablas?** - Yo hablo tres idiomas: ruso, ucraniano e inglés
 - **¿Qué idiomas hablas?** - Yo hablo inglés y ruso
 
@@ -53,75 +66,12 @@
 
 ## Verbos principales (Presente simple)
 
-### Ser (to be - permanent qualities)
-| Pronombre | Conjugación | Ejemplo |
-|-----------|-------------|---------|
-| Yo | soy | Yo soy ingeniero |
-| Tú | eres | Tú eres de España |
-| Él/Ella/Usted | es | Ella es profesora |
-| Nosotros/as | somos | Nosotros somos estudiantes |
-| Vosotros/as | sois | Vosotros sois amigos |
-| Ellos/Ellas/Ustedes | son | Ellos son médicos |
-
-**Usos:**
-- Profesión: Soy ingeniero
-- Nacionalidad: Soy israelí
-- Características permanentes: Soy alto
-
-### Tener (to have)
-| Pronombre | Conjugación | Ejemplo |
-|-----------|-------------|---------|
-| Yo | tengo | Yo tengo cincuenta años |
-| Tú | tienes | Tú tienes treinta años |
-| Él/Ella/Usted | tiene | Ella tiene un hermano |
-| Nosotros/as | tenemos | Nosotros tenemos clase |
-| Vosotros/as | tenéis | Vosotros tenéis razón |
-| Ellos/Ellas/Ustedes | tienen | Ellos tienen dos hijos |
-
-**Usos:**
-- Edad: Tengo cincuenta años
-- Posesión: Tengo un coche
-- Familia: Tengo dos hermanos
-
-### Vivir (to live)
-| Pronombre | Conjugación | Ejemplo |
-|-----------|-------------|---------|
-| Yo | vivo | Yo vivo en Dénia |
-| Tú | vives | Tú vives en Madrid |
-| Él/Ella/Usted | vive | Él vive en Barcelona |
-| Nosotros/as | vivimos | Nosotros vivimos aquí |
-| Vosotros/as | vivís | Vosotros vivís cerca |
-| Ellos/Ellas/Ustedes | viven | Ellos viven en España |
-
-### Trabajar (to work)
-| Pronombre | Conjugación | Ejemplo |
-|-----------|-------------|---------|
-| Yo | trabajo | Yo trabajo en una empresa |
-| Tú | trabajas | Tú trabajas mucho |
-| Él/Ella/Usted | trabaja | Ella trabaja en el hospital |
-| Nosotros/as | trabajamos | Nosotros trabajamos juntos |
-| Vosotros/as | trabajáis | Vosotros trabajáis aquí |
-| Ellos/Ellas/Ustedes | trabajan | Ellos trabajan en casa |
-
-### Hablar (to speak)
-| Pronombre | Conjugación | Ejemplo |
-|-----------|-------------|---------|
-| Yo | hablo | Yo hablo inglés |
-| Tú | hablas | Tú hablas bien |
-| Él/Ella/Usted | habla | Él habla tres idiomas |
-| Nosotros/as | hablamos | Nosotros hablamos español |
-| Vosotros/as | habláis | Vosotros habláis rápido |
-| Ellos/Ellas/Ustedes | hablan | Ellos hablan despacio |
-
-### Llamarse (to be called - reflexive verb)
-| Pronombre | Conjugación | Ejemplo |
-|-----------|-------------|---------|
-| Yo | me llamo | Yo me llamo Alex |
-| Tú | te llamas | Tú te llamas María |
-| Él/Ella/Usted | se llama | Él se llama Pedro |
-| Nosotros/as | nos llamamos | Nosotros nos llamamos... |
-| Vosotros/as | os llamáis | Vosotros os llamáis... |
-| Ellos/Ellas/Ustedes | se llaman | Ellos se llaman... |
+- [[ser|Ser]]
+- [[tener|Tener]]
+- [[vivir|Vivir]]
+- [[trabajar|Trabajar]]
+- [[hablar|Hablar]]
+- [[llamarse|Llamarse]]
 
 ## Palabras interrogativas
 
@@ -139,6 +89,7 @@
 ## Adjetivos posesivos
 
 ### Antes del sustantivo
+
 | Pronombre | Singular | Plural |
 |-----------|----------|--------|
 | Yo | mi | mis |
@@ -149,6 +100,7 @@
 | Ellos/Ellas/Ustedes | su | sus |
 
 **Ejemplos:**
+
 - Mi nombre es Alex
 - Mis apellidos son...
 - Tu profesión es ingeniero
@@ -177,6 +129,7 @@ Completa las frases con la forma correcta del verbo **ser**, **tener**, **vivir*
 Relaciona cada pregunta con su respuesta correcta:
 
 **Preguntas:**
+
 1. ¿Cómo te llamas?
 2. ¿Cuántos años tienes?
 3. ¿De dónde eres?
@@ -185,6 +138,7 @@ Relaciona cada pregunta con su respuesta correcta:
 6. ¿Qué idiomas hablas?
 
 **Respuestas:**
+
 - a) Vivo en Dénia.
 - b) Soy ingeniero informático.
 - c) Me llamo Alex.
@@ -254,7 +208,7 @@ Escribe estos números de teléfono en español:
 **Recepcionista:** ¿Cuál es tu número de teléfono?  
 **Estudiante:** Es el 612 345 678.  
 **Recepcionista:** ¿Y tu correo electrónico?  
-**Estudiante:** Es olga.ivanova@email.com  
+**Estudiante:** Es <olga.ivanova@email.com>  
 **Recepcionista:** Perfecto. Gracias.
 
 ## Actividad de role-play
@@ -262,12 +216,14 @@ Escribe estos números de teléfono en español:
 **En parejas, practicad estos roles:**
 
 ### Rol A: Eres un nuevo estudiante en la escuela
+
 - Presenta tu nombre y apellidos
 - Di tu nacionalidad
 - Di dónde vives
 - Di qué idiomas hablas
 
 ### Rol B: Eres el/la recepcionista
+
 - Pregunta el nombre
 - Pregunta los apellidos
 - Pregunta de dónde es
@@ -281,10 +237,12 @@ Escribe estos números de teléfono en español:
 ## Los apellidos en España
 
 En España y muchos países latinoamericanos, las personas tienen **dos apellidos**:
+
 1. **Primer apellido:** del padre
 2. **Segundo apellido:** de la madre
 
 **Ejemplo:**
+
 - Padre: Juan García Martínez
 - Madre: María López Hernández
 - Hijo: Carlos García López
@@ -293,7 +251,8 @@ Cuando te preguntan "¿Cuál es tu apellido?" normalmente das solo el primero, p
 
 ## Tú vs. Usted (Formal e Informal)
 
-### Uso de **TÚ** (informal):
+### Uso de **TÚ** (informal)
+
 - Con amigos
 - Con familia
 - Con compañeros de clase
@@ -301,11 +260,13 @@ Cuando te preguntan "¿Cuál es tu apellido?" normalmente das solo el primero, p
 - Con niños
 
 **Preguntas con tú:**
+
 - ¿Cómo te llamas?
 - ¿Dónde vives?
 - ¿Cuántos años tienes?
 
-### Uso de **USTED** (formal):
+### Uso de **USTED** (formal)
+
 - Con personas mayores
 - Con jefes y superiores
 - En situaciones profesionales
@@ -313,6 +274,7 @@ Cuando te preguntan "¿Cuál es tu apellido?" normalmente das solo el primero, p
 - En tiendas y restaurantes
 
 **Preguntas con usted:**
+
 - ¿Cómo se llama usted?
 - ¿Dónde vive usted?
 - ¿Cuántos años tiene usted?
@@ -332,6 +294,7 @@ Se suelen agrupar de tres en tres para facilitar la lectura.
 ## Profesiones comunes en España
 
 Algunas profesiones muy comunes en España:
+
 - **Funcionario/a** - trabaja para el gobierno
 - **Autónomo/a** - trabaja por cuenta propia
 - **Ingeniero/a** - muy valorado

@@ -17,6 +17,7 @@
 | **Sordo**<br><br>**Oyente**              | _Carlos es **oyente**._<br><br>_Beethoven era **sordo**._                                  | _María es **oyente**._<br><br>_La música es **sorda**._                            | Persona que no puede oír (escuchar). (Deaf)<br><br>Persona que sí puede oír. (Hearing)                                     |
 | **Mudo**<br><br>**Hablante**             | _El personaje es **mudo**._<br><br>_El niño es **hablante**._                              | _La chica es **muda**._<br><br>_Ella es **hablante**._                             | Persona que no puede hablar. (Mute)<br><br>Persona que tiene la capacidad de hablar. (Speaking)                            |
 | **Ciego**<br><br>**Vidente**             | _El cantante Andrea Bocelli es **ciego**._<br><br>_El conductor es **vidente**._           | _La mujer es **ciega**._<br><br>_La doctora es **vidente**._                       | Persona que no puede ver. (Blind)<br><br>Persona que sí puede ver. (Sighted)
+| **Peludo**<br><br>**Lampiño**           | _Ese perro es muy **peludo**._<br><br>_Él es **lampiño**, no tiene barba._      | _La alfombra es muy **peluda**._<br><br>_Ella es **lampiña**, tiene la piel suave._ | Que tiene mucho pelo. (Hairy)<br><br>Persona que casi no tiene vello o barba. (Hairless) |
 
 ## Notas de Vocabulario
 

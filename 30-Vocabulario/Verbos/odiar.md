@@ -5,40 +5,37 @@ tags:
   - verbos
   - presente
 ---
-# El Verbo Odiar
+# El Verbo Odiar (To hate)
 
-Ненавидеть
+Verbo regular terminado en **-ar**.
 
-Regular
+| Pronombre | Conjugación | Ejemplo |
+|-----------|-------------|---------|
+| Yo | odio | Yo odio el tráfico. |
+| Tú | odias | Tú odias cocinar. |
+| Él/Ella/Usted | odia | Él odia las cucarachas. |
+| Nosotros/as | odiamos | Nosotros odiamos la guerra. |
+| Vosotros/as | odiáis | Vosotros odiáis el desorden. |
+| Ellos/Ellas/Ustedes | odian | Ellos odian madrugar. |
 
-### Yo odio +sustantivo
+## Ejemplos de uso
 
-- fume
-- desorden
-- trafico
-- ratas y cucarachas
-- la guerra
-- los mosquitos
-- las enfermedades
-- el alcohol
-- el invierno
-- mucho calor
-- el clima frio
-- las medusas
-- el café negro
-- la lluvia
+### Odiar + sustantivo
 
-### odio +infinitivo
+- El humo / fumar
+- El desorden
+- El tráfico
+- Las ratas y cucarachas
+- Los mosquitos
+- Las enfermedades
+- El alcohol
+- El invierno / el frío / el calor extremo
 
-- cocinar
-- conducir por la noche (en la oscuridad)
-- nadar
-- trabajar
-- despertarse las mañanas de fin de semana
-- sudar en el calor
-- planchar
-- buscar la cita en la extranjería
-- cazar != casar
-- mentir
+### Odiar + infinitivo
 
-Yo no odio nada.
+- Cocinar
+- Conducir por la noche
+- Madrugar (despertarse temprano)
+- Sudar
+- Planchar
+- Mentir
