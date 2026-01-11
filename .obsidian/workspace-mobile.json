@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Vocabulario/Verbos/preferir.md",
+                "file": "30-Vocabulario/Temas/Siempre Plural.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "preferir"
+              "title": "Siempre Plural"
             }
           },
           {
@@ -301,7 +301,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lecciones/20251203 Lección veinte.md",
+            "file": "30-Vocabulario/Temas/Siempre Plural.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -360,8 +360,9 @@
   },
   "active": "e46f1b707c99be9c",
   "lastOpenFiles": [
-    "30-Vocabulario/Temas/Siempre Plural.md",
     "30-Vocabulario/Verbos/preferir.md",
+    "30-Vocabulario/Temas/Siempre Plural.md",
+    "10-Lecciones/20251217 Lección veintitrés.md",
     "50-Calendario/Exámenes.md",
     "40-Deberes/Mi Pareja Ideal.md",
     "30-Vocabulario/Temas/Que prefieres.md",
@@ -373,7 +374,6 @@
     "30-Vocabulario/Verbos/encantar.md",
     "30-Vocabulario/Verbos/gustar.md",
     "10-Lecciones/20251222 Lección veinticuatro.md",
-    "10-Lecciones/20251217 Lección veintitrés.md",
     "30-Vocabulario/Temas/Descripción Física/Pelo.md",
     "30-Vocabulario/Temas/Carácter/Carácter.md",
     "30-Vocabulario/Temas/Descripción Física/Cara.md",

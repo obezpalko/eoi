@@ -8,7 +8,7 @@ date: 2026-01-07
 ---
 # ?Que prefieres?
 
-# Lista de Antónimos y Opuestos Culturales
+## Lista de Antónimos y Opuestos Culturales
 
 > [!NOTE] Nota sobre los Sustantivos
 > En gramática, solo los adjetivos (como *frío*) y los verbos tienen antónimos reales. Para los sustantivos (como *Madrid* o *Star Wars*), usamos sus **rivales culturales** o contrapartes lógicas.
@@ -49,4 +49,3 @@ date: 2026-01-07
 
 3. **Versión Original (V.O.):**
    * En España se dobla (dubs) mucho el cine. Si quieres verla en inglés con subtítulos, debes buscar "V.O." o "V.O.S.E." (Versión Original Subtitulada en Español).
-   * 

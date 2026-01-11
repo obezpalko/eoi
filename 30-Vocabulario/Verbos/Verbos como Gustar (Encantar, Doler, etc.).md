@@ -1,9 +1,9 @@
 ---
 tags:
-  - spanish
-  - grammar
-  - verbs
-date: 2026-01-07
+  - español
+  - gramática
+  - verbos
+  - presente
 ---
 
 # Verbos como Gustar (Encantar, Doler, etc.)
@@ -12,7 +12,7 @@ El verbo **Encantar** y otros similares funcionan exactamente igual que *Gustar*
 
 > [!TIP] La Regla de Oro
 > La conjugación del verbo depende de lo que va **después** del verbo (el objeto), no de la persona.
-> 
+>
 > * **Singular:** A mí me **encanta** el café. (Sustantivo singular)
 > * **Plural:** A mí me **encantan** las mañanas. (Sustantivo plural)
 > * **Verbo:** A mí me **encanta** viajar. (Acción)
@@ -20,6 +20,7 @@ El verbo **Encantar** y otros similares funcionan exactamente igual que *Gustar*
 ---
 
 ## 1. El Verbo "Encantar"
+
 *Significado:* To love / To be enchanted by.
 Es mucho más fuerte que *gustar*.
 
@@ -31,6 +32,7 @@ Es mucho más fuerte que *gustar*.
 ## 2. Lista de Verbos Similares
 
 ### Estado Mental y Emocional
+
 | Verbo | Significado | Ejemplo |
 | :--- | :--- | :--- |
 | **Interesar** | To interest | A mí me **interesa** la historia. |
@@ -39,12 +41,14 @@ Es mucho más fuerte que *gustar*.
 | **Preocupar** | To worry | Me **preocupa** el tráfico. |
 
 ### Sensaciones Físicas
+
 | Verbo | Significado | Ejemplo |
 | :--- | :--- | :--- |
 | **Doler** | To hurt | Me **duele** la cabeza. |
 | **Molestar** | To bother | Me **molesta** el ruido. |
 
 ### Opiniones y Pertenencias
+
 | Verbo | Significado | Ejemplo |
 | :--- | :--- | :--- |
 | **Parecer** | To seem | Me **parece** bien. |
@@ -62,14 +66,14 @@ Es mucho más fuerte que *gustar*.
 Aquí tienes ejemplos útiles para tu contexto personal:
 
 * **Alena (Esposa):**
-	* *A Alena **le encanta** cocinar.*
-	* *A Alena **le interesa** el arte.*
+  * *A Alena **le encanta** cocinar.*
+  * *A Alena **le interesa** el arte.*
 * **Faina (Hija):**
-	* *A Faina **le gustan** los dibujos animados.*
-	* *A Faina **le duelen** los pies.*
+  * *A Faina **le gustan** los dibujos animados.*
+  * *A Faina **le duelen** los pies.*
 * **Alexander (Yo):**
-	* *A mí **me preocupa** el trabajo.*
-	* *A mí **me parece** interesante.*
+  * *A mí **me preocupa** el trabajo.*
+  * *A mí **me parece** interesante.*
 
 ---
 

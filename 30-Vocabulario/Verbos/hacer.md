@@ -1,4 +1,13 @@
-Verbo irregular 
+---
+tags:
+  - español
+  - gramática
+  - verbos
+  - presente
+---
+# El Verbo Hacer
+
+Verbo irregular
 
 | Yo                  | ==Hago== | solo irregular  |
 | ------------------- | -------- | --------------- |

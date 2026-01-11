@@ -105,7 +105,7 @@ def search_ddg_images(query, max_results=5, safesearch='moderate', size='Medium'
         return []
 
 
-def download_and_resize_image(url, output_path, max_size=(512, 512), quality=85):
+def download_and_resize_image(url, output_path, max_size=(256, 256), quality=85):
     """
     Download image from URL and resize it.
     
@@ -305,7 +305,7 @@ def main():
     
     # Output settings
     parser.add_argument('--output', '-o', required=True, help='Output directory for images')
-    parser.add_argument('--size', default='512x512', help='Max image size (e.g., 512x512, 256x256)')
+    parser.add_argument('--size', default='256x256', help='Max image size (e.g., 512x512, 256x256)')
     parser.add_argument('--quality', type=int, default=85, help='JPEG quality (1-100, default: 85)')
     parser.add_argument('--delay', type=float, default=1.0, help='Delay between downloads in seconds (default: 1.0)')
     parser.add_argument('--max-results', type=int, default=5, help='Max search results to try per image (default: 5)')

@@ -1,3 +1,10 @@
+---
+tags:
+  - español
+  - gramática
+  - verbos
+  - presente
+---
 # El Verbo GUSTAR
 
 ## ¿Cómo funciona?
@@ -12,7 +19,8 @@ En español: **A mí me gusta** = literalmente "To me is pleasing"
 A + pronombre personal + pronombre de objeto indirecto + GUSTA/GUSTAN + cosa
 ```
 
-**Importante:** 
+**Importante:**
+
 - **GUSTA** = cuando la cosa que nos gusta es SINGULAR o es un VERBO
 - **GUSTAN** = cuando las cosas que nos gustan son PLURAL
 
@@ -31,21 +39,21 @@ A + pronombre personal + pronombre de objeto indirecto + GUSTA/GUSTAN + cosa
 
 ## Ejemplos con GUSTA (singular)
 
-### A mí ME GUSTA...
+### A mí ME GUSTA
 
 ✅ **A mí me gusta el café** = I like coffee
 ✅ **Me gusta el chocolate** = I like chocolate
 ✅ **A mí me gusta bailar** = I like to dance
 ✅ **Me gusta estudiar español** = I like to study Spanish
 
-### A ti TE GUSTA...
+### A ti TE GUSTA
 
 ✅ **A ti te gusta la pizza** = You like pizza
 ✅ **Te gusta el fútbol** = You like football
 ✅ **¿Te gusta la música?** = Do you like music?
 ✅ **¿A ti te gusta cocinar?** = Do you like to cook?
 
-### A él/ella/usted LE GUSTA...
+### A él/ella/usted LE GUSTA
 
 ✅ **A él le gusta el cine** = He likes cinema
 ✅ **A ella le gusta leer** = She likes to read
@@ -53,21 +61,21 @@ A + pronombre personal + pronombre de objeto indirecto + GUSTA/GUSTAN + cosa
 ✅ **A usted le gusta viajar** = You like to travel (formal)
 ✅ **A María le gusta cantar** = María likes to sing
 
-### A nosotros/as NOS GUSTA...
+### A nosotros/as NOS GUSTA
 
 ✅ **A nosotros nos gusta la comida italiana** = We like Italian food
 ✅ **Nos gusta el verano** = We like summer
 ✅ **A nosotras nos gusta ir al cine** = We like to go to the cinema
 ✅ **Nos gusta hablar español** = We like to speak Spanish
 
-### A vosotros/as OS GUSTA...
+### A vosotros/as OS GUSTA
 
 ✅ **A vosotros os gusta el teatro** = You all like theater
 ✅ **Os gusta la paella** = You all like paella
 ✅ **¿Os gusta esta película?** = Do you all like this movie?
 ✅ **¿A vosotros os gusta trabajar aquí?** = Do you all like to work here?
 
-### A ellos/ellas/ustedes LES GUSTA...
+### A ellos/ellas/ustedes LES GUSTA
 
 ✅ **A ellos les gusta el deporte** = They like sports
 ✅ **A ellas les gusta la moda** = They like fashion
@@ -77,21 +85,21 @@ A + pronombre personal + pronombre de objeto indirecto + GUSTA/GUSTAN + cosa
 
 ## Ejemplos con GUSTAN (plural)
 
-### A mí ME GUSTAN...
+### A mí ME GUSTAN
 
 ✅ **A mí me gustan las manzanas** = I like apples
 ✅ **Me gustan los gatos** = I like cats
 ✅ **Me gustan las películas de terror** = I like horror movies
 ✅ **A mí me gustan los libros** = I like books
 
-### A ti TE GUSTAN...
+### A ti TE GUSTAN
 
 ✅ **A ti te gustan los perros** = You like dogs
 ✅ **Te gustan las flores** = You like flowers
 ✅ **¿Te gustan los deportes?** = Do you like sports?
 ✅ **¿A ti te gustan las verduras?** = Do you like vegetables?
 
-### A él/ella/usted LE GUSTAN...
+### A él/ella/usted LE GUSTAN
 
 ✅ **A él le gustan los coches** = He likes cars
 ✅ **A ella le gustan las rosas** = She likes roses
@@ -99,21 +107,21 @@ A + pronombre personal + pronombre de objeto indirecto + GUSTA/GUSTAN + cosa
 ✅ **A usted le gustan las ciudades grandes** = You like big cities (formal)
 ✅ **A Juan le gustan los videojuegos** = Juan likes video games
 
-### A nosotros/as NOS GUSTAN...
+### A nosotros/as NOS GUSTAN
 
 ✅ **A nosotros nos gustan las vacaciones** = We like vacations
 ✅ **Nos gustan los días soleados** = We like sunny days
 ✅ **A nosotras nos gustan las canciones románticas** = We like romantic songs
 ✅ **Nos gustan los restaurantes italianos** = We like Italian restaurants
 
-### A vosotros/as OS GUSTAN...
+### A vosotros/as OS GUSTAN
 
 ✅ **A vosotros os gustan las fiestas** = You all like parties
 ✅ **Os gustan los dulces** = You all like sweets
 ✅ **¿Os gustan estos zapatos?** = Do you all like these shoes?
 ✅ **¿A vosotras os gustan las series de Netflix?** = Do you all like Netflix series?
 
-### A ellos/ellas/ustedes LES GUSTAN...
+### A ellos/ellas/ustedes LES GUSTAN
 
 ✅ **A ellos les gustan los videojuegos** = They like video games
 ✅ **A ellas les gustan las joyas** = They like jewelry
@@ -134,17 +142,21 @@ Para hacer la forma negativa, añadimos **NO** antes del pronombre de objeto ind
 ## Combinaciones útiles nivel A1
 
 ### Me gusta mucho / Me gustan mucho
+
 ✅ **Me gusta mucho el chocolate** = I really like chocolate
 ✅ **Me gustan mucho las películas** = I really like movies
 
 ### Me gusta un poco
+
 ✅ **Me gusta un poco el té** = I like tea a little bit
 
 ### No me gusta nada
+
 ✅ **No me gusta nada el café** = I don't like coffee at all
 ✅ **No me gustan nada las arañas** = I don't like spiders at all
 
 ### ¿Te gusta...? (preguntas)
+
 ✅ **¿Te gusta la música?** = Do you like music?
 ✅ **¿Te gustan los perros?** = Do you like dogs?
 ✅ **¿A usted le gusta España?** = Do you like Spain? (formal)
@@ -171,6 +183,7 @@ Para hacer la forma negativa, añadimos **NO** antes del pronombre de objeto ind
 ## Práctica
 
 Completa:
+
 1. A mí _______ gusta el chocolate. (me)
 2. ¿A ti _______ gustan las manzanas? (te)
 3. A ella _______ gusta bailar. (le)

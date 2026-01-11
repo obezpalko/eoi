@@ -1,11 +1,9 @@
-
 ---
 tags:
   - español
   - gramática
   - verbos
   - presente
-date: 2026-01-07
 ---
 
 # El Verbo Preferir (Presente de Indicativo)
@@ -35,11 +33,13 @@ La **e** de la raíz cambia a **ie** en todas las personas, **excepto** en *Noso
 Podemos usar *Preferir* principalmente de dos formas:
 
 ### 1. Preferir + Sustantivo (Cosa)
+
 * *Yo **prefiero** el invierno al verano.* (I prefer winter over summer).
 * *¿Tú **prefieres** té o café?*
 * *Mi hija **prefiere** los perros.*
 
 ### 2. Preferir + Infinitivo (Acción)
+
 * *Nosotros **preferimos** comer en casa hoy.* (We prefer to eat at home today).
 * *Ellos **prefieren** ver una película.*
 * *Yo **prefiero** no hablar de política.*
@@ -53,4 +53,4 @@ Podemos usar *Preferir* principalmente de dos formas:
 
 > [!QUESTION] ¿Cómo se dice "She prefers"?
 > **Ella prefiere**
-> 
+>

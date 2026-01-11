@@ -1,4 +1,13 @@
-Verbo irregular 
+---
+tags:
+  - español
+  - gramática
+  - verbos
+  - presente
+---
+# El Verbo Poner
+
+Verbo irregular
 
 | Yo       | ==Pongo== | solo irregular |
 | -------- | --------- | -------------- |

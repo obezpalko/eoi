@@ -27,9 +27,9 @@
   ],
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "A4",
+    "pageSize": "Tabloid",
     "landscape": false,
     "margin": "2",
-    "downscalePercent": 66
+    "downscalePercent": 100
   }
 }
