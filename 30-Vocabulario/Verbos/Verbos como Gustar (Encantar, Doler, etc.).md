@@ -86,3 +86,13 @@ Aquí tienes ejemplos útiles para tu contexto personal:
 | A él/ella/usted **le** | encanta                  | encantan                 |
 | A nosotros **nos**     | encanta                  | encantan                 |
 | A ellos/ellas **les**  | encanta                  | encantan                 |
+
+## Preguntas con verbos and respuestas
+- Me encanta hacer deporte, ¿y a ti?
+- A mí también
+> [!TIP] La Regla de Oro del "Yo también / Yo tampoco"
+>
+> | La otra persona dice... | Tú opinas **igual** (=) | Tú opinas **diferente** (≠) |
+> | :--- | :--- | :--- |
+> | **Frase Afirmativa**<br>*(Me gusta...)* | **A mí también**<br>*(Me too)* | **A mí no**<br>*(I don't)* |
+> | **Frase Negativa**<br>*(No me gusta...)* | **A mí tampoco**<br>*(Me neither)* | **A mí sí**<br>*(I do)* |

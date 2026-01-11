@@ -1,3 +1,5 @@
+# Lección veintiuno
+
 ## tarjeta estudiante
 
 ## Navidad
@@ -7,7 +9,7 @@
 
 ---
 
-# Descripción físico y carácter
+## Descripción físico y carácter
 
 [[Colores]]
 

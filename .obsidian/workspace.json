@@ -8,62 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2e64b5b4945dfd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-Lecciones/20250929 Lección uno.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250929 Lección uno"
-            }
-          },
-          {
-            "id": "03bea748f3078242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Deberes/Carta a los Reyes Magos.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Carta a los Reyes Magos"
-            }
-          },
-          {
             "id": "4783c5eef788ba19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Vocabulario/Temas/Ropa y Accesorios.md",
+                "file": "30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.).md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -76,18 +28,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ropa y Accesorios"
+              "title": "Verbos como Gustar (Encantar, Doler, etc.)"
             }
           },
           {
-            "id": "023c87cca5c6bf93",
+            "id": "410be709345bfca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Vocabulario/Temas/Nacionalidades/Nacionalidades.md",
-                "mode": "source",
-                "source": false,
+                "file": "40-Deberes/20260107 Lección veinticinco.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -100,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nacionalidades"
+              "title": "20260107 Lección veinticinco"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,10 +219,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4783c5eef788ba19",
+  "active": "410be709345bfca3",
   "lastOpenFiles": [
-    "30-Vocabulario/Temas/Siempre Plural.md",
+    "40-Deberes/Untitled.md",
+    "40-Deberes/20260107 Lección veinticinco.md",
+    "30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.).md",
+    "40-Deberes/20260112 Lección veintiséis.md",
     "30-Vocabulario/Temas/Ropa y Accesorios.md",
+    "30-Vocabulario/Verbos/trabajar.md",
+    "10-Lecciones/20250929 Lección uno.md",
+    "40-Deberes/Carta a los Reyes Magos.md",
+    "30-Vocabulario/Temas/Nacionalidades/Nacionalidades.md",
+    "30-Vocabulario/Temas/Siempre Plural.md",
     "30-Vocabulario/Temas/Ropa y Accesorios/gemelos.jpg",
     "30-Vocabulario/Temas/Ropa y Accesorios/broche.jpg",
     "30-Vocabulario/Temas/Ropa y Accesorios/pajarita.jpg",
@@ -284,9 +244,6 @@
     "30-Vocabulario/Temas/Ropa y Accesorios",
     "30-Vocabulario/Temas/Profesiones.md",
     "30-Vocabulario/Temas/Colores/Colores.md",
-    "10-Lecciones/20250929 Lección uno.md",
-    "30-Vocabulario/Temas/Nacionalidades/Nacionalidades.md",
-    "30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.).md",
     "30-Vocabulario/Verbos/hablar.md",
     "30-Vocabulario/Verbos/deletrear.md",
     "30-Vocabulario/Verbos/encantar.md",
@@ -294,7 +251,6 @@
     "30-Vocabulario/Verbos/contaminar.md",
     "30-Vocabulario/Verbos/llamarse.md",
     "30-Vocabulario/Temas/Descripción Física/General.md",
-    "30-Vocabulario/Verbos/trabajar.md",
     "30-Vocabulario/Verbos/vivir.md",
     "30-Vocabulario/Verbos/tener.md",
     "30-Vocabulario/Verbos/ser.md",
@@ -310,9 +266,6 @@
     "30-Vocabulario/Temas/Siempre Plural/municiones.jpg~",
     "30-Vocabulario/Temas/Siempre Plural/matematicas.jpg~",
     "30-Vocabulario/Temas/Siempre Plural/ganas.jpg~",
-    "30-Vocabulario/Temas/Siempre Plural/gafas_de_sol.jpg~",
-    "30-Vocabulario/Temas/Navidad en España.md",
-    "30-Vocabulario/Temas/Mis cosas preferidas.md",
-    "10-Lecciones/20260112 Lección veintiséis.md"
+    "30-Vocabulario/Temas/Siempre Plural/gafas_de_sol.jpg~"
   ]
 }
