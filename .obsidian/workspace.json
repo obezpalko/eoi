@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "40-Deberes/20260107 Lección veinticinco.md",
-                "bFile": "40-Deberes/20260107 Lección veinticinco.md",
+                "aFile": "2026-01-12.md",
+                "bFile": "2026-01-12.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 20260107 Lección veinticinco"
+              "title": "Diff: 2026-01-12"
             }
           }
         ]
@@ -156,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gramática/Artículos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Artículos"
+              "title": "Outline"
             }
           },
           {
@@ -176,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -196,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4783c5eef788ba19",
+  "active": "b80dd600d698a5d9",
   "lastOpenFiles": [
     "30-Vocabulario/Temas/Profesiones.md",
     "30-Vocabulario/Temas/Que prefieres.md",
