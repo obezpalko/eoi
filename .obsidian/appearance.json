@@ -1,7 +1,3 @@
 {
-  "cssTheme": "Minimal",
-  "interfaceFontFamily": "Verdana",
-  "textFontFamily": "Trebuchet MS",
-  "monospaceFontFamily": "Source Code Pro",
-  "baseFontSize": 20
+  "cssTheme": "Minimal"
 }
