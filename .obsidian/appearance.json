@@ -1,3 +1,7 @@
 {
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "baseFontSize": 20,
+  "monospaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Verdana",
+  "interfaceFontFamily": "Tahoma"
 }
