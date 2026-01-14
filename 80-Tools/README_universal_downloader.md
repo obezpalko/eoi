@@ -58,7 +58,7 @@ python3 download_images_universal.py --json images.json --output ./images
 If you have a markdown file with image links like:
 
 ```markdown
-| **el coche** | Vehicle | ![[images/coche.jpg]] |
+| **el coche** | Vehicle | ![[../60-Cultura/España vs Hispanoamerica/coche.jpg]] |
 | **la casa** | House | ![[images/casa.jpg]] |
 ```
 

@@ -1,6 +1,10 @@
 ---
 tags:
   - español
+  - cultura
+  - vocabulario
+  - diferencias_regionales
+  - variantes
 ---
 # España vs. Hispanoamericana (Diferencias de Vocabulario)
 
@@ -15,16 +19,16 @@ Diferencias comunes en el uso de verbos y sustantivos entre el español de Espa�
 | **Aparcar**                   | **Estacionar**                        | Dejar un vehículo en un lugar destinado para ello.                                  | ![[aparcar.jpg]]      |
 | **Móvil**                     | **Celular**                           | Teléfono inteligente portátil.                                                      | ![[movil.jpg]]        |
 | **Ordenador**                 | **Computadora**                       | Máquina electrónica para procesar datos.                                            | ![[ordenador.jpg]]    |
-| **Gafas**                     | **Lentes**<br>**Anteojos**            | Instrumento óptico para corregir la visión.                                         | ![[60-Cultura/España vs Hispanoamerica/gafas.jpg]]        |
+| **Gafas**                     | **Lentes**<br>**Anteojos**            | Instrumento óptico para corregir la visión.                                         | ![[gafas.jpg]]        |
 | **Piso**                      | **Apartamento**<br>**Departamento**   | Vivienda en un edificio de varias plantas.                                          | ![[piso.jpg]]         |
 | **Zumo**                      | **Jugo**                              | Líquido extraído de las frutas o plantas.                                           | ![[zumo.jpg]]         |
 | **Patata**                    | **Papa**                              | Tubérculo comestible muy común en la cocina.                                        | ![[patata.jpg]]       |
 | **Melocotón**                 | **Durazno**                           | Fruta de piel aterciopelada y hueso grande.                                         | ![[melocoton.jpg]]    |
-| **Camarero**                  | **Mesero**                            | Persona que atiende a los clientes en un bar o restaurante.                         | ![[60-Cultura/España vs Hispanoamerica/camarero.jpg]]     |
+| **Camarero**                  | **Mesero**                            | Persona que atiende a los clientes en un bar o restaurante.                         | ![[camarero.jpg]]     |
 | **Bolígrafo**<br>**Boli**     | **Pluma**<br>**Lapicera**             | Instrumento de escritura que utiliza tinta.                                         | ![[boligrafo.jpg]]    |
 | **Zapatillas**                | **Tenis**<br>**Sneakers**             | Calzado deportivo ligero y cómodo.                                                  | ![[zapatillas.jpg]]   |
-| **Chaqueta**                  | **Saco**<br>**Chamarra**              | Prenda de vestir de abrigo que cubre el torso.                                      | ![[60-Cultura/España vs Hispanoamerica/chaqueta.jpg]]     |
-| **Falda**                     | **Pollera**                           | Prenda de vestir femenina que cuelga de la cintura.                                 | ![[60-Cultura/España vs Hispanoamerica/falda.jpg]]        |
+| **Chaqueta**                  | **Saco**<br>**Chamarra**              | Prenda de vestir de abrigo que cubre el torso.                                      | ![[chaqueta.jpg]]     |
+| **Falda**                     | **Pollera**                           | Prenda de vestir femenina que cuelga de la cintura.                                 | ![[falda.jpg]]        |
 | **Manta**                     | **Cobija**<br>**Frazada**             | Pieza de tejido para abrigarse en la cama.                                          | ![[manta.jpg]]        |
 | **Grifo**                     | **Llave**<br>**Canilla**              | Dispositivo que regula la salida del agua.                                          | ![[grifo.jpg]]        |
 | **Maletero**                  | **Baúl**<br>**Cajuela**               | Espacio de carga en la parte trasera de un coche.                                   | ![[maletero.jpg]]     |

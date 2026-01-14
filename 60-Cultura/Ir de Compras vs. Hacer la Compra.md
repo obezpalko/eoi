@@ -4,6 +4,7 @@ tags:
   - vocabulario
   - compras
   - vida_diaria
+  - cultura
 date: 2026-01-13
 ---
 

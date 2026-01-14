@@ -1,7 +1,10 @@
 ---
 date: 2026-01-19
+tags:
+  - español
+  - lección
 ---
-# Lección veinticinco 
+# Lección veinticinco
 
 [[20260119 Lección veinticinco|Deberes]]
 

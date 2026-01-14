@@ -1,3 +1,12 @@
+---
+tags:
+  - español
+  - cultura
+  - monarquía
+  - vocabulario
+  - política
+---
+
 # La Familia Real Española
 
 Información actualizada y contexto cultural sobre la Monarquía en España.

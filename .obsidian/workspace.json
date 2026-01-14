@@ -8,17 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4783c5eef788ba19",
+            "id": "fffd5bfd111befaa",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "2026-01-12.md",
-                "bFile": "2026-01-12.md",
-                "aRef": ""
+                "file": "30-Vocabulario/Temas/Descripción Física/Cara.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 2026-01-12"
+              "icon": "lucide-file",
+              "title": "Cara"
             }
           }
         ]
@@ -156,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "30-Vocabulario/Temas/Descripción Física/Cara.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Cara"
             }
           },
           {
@@ -191,17 +202,18 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b80dd600d698a5d9",
+  "active": "fffd5bfd111befaa",
   "lastOpenFiles": [
+    "30-Vocabulario/Temas/Descripción Física/Cara.md",
+    "30-Vocabulario/Temas/Profesiones/Profesiones.md",
+    "60-Cultura/España vs Hispanoamerica/España vs Hispanoamerica.md",
     "30-Vocabulario/Temas/Profesiones.md",
     "30-Vocabulario/Temas/Que prefieres.md",
     "30-Vocabulario/Temas/Profesiones/abogado.jpg",
     "30-Vocabulario/Temas/Descripción Física/General.md",
-    "30-Vocabulario/Temas/Descripción Física/Cara.md",
     "30-Vocabulario/Temas/Mis cosas preferidas.md",
     "30-Vocabulario/Temas/La Familia/La Familia.md",
     "30-Vocabulario/Temas/Días de la semana.md",
@@ -232,8 +244,6 @@
     "30-Vocabulario/Verbos/deletrear.md",
     "30-Vocabulario/Verbos/encantar.md",
     "30-Vocabulario/Verbos/dejar.md",
-    "30-Vocabulario/Verbos/contaminar.md",
-    "30-Vocabulario/Verbos/llamarse.md",
     "10-Lecciones/20260107",
     "30-Vocabulario/Temas/Siempre Plural/vituallas.jpg~",
     "30-Vocabulario/Temas/Siempre Plural/vacaciones.jpg~",

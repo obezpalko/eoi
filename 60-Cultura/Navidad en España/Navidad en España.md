@@ -1,3 +1,13 @@
+---
+tags:
+  - español
+  - cultura
+  - vocabulario
+  - tradiciones
+  - navidad
+  - fiestas
+---
+
 # Navidad en España
 
 La Navidad en España tiene tradiciones únicas que la distinguen de otros países.

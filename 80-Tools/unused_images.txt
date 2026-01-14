@@ -1,0 +1,22 @@
+Unused Images
+============================================================
+
+Total: 17
+
+30-Vocabulario/Temas/Siempre Plural/calzones.jpg
+60-Cultura/Familia del rey/Cristina.jpg
+60-Cultura/Familia del rey/Elena.jpg
+60-Cultura/Familia del rey/Felipe.jpg
+60-Cultura/Familia del rey/Froilan.jpg
+60-Cultura/Familia del rey/Inaki.jpg
+60-Cultura/Familia del rey/Irene.png
+60-Cultura/Familia del rey/JC.jpg
+60-Cultura/Familia del rey/Jaime.jpg
+60-Cultura/Familia del rey/JuanU.png
+60-Cultura/Familia del rey/Leonor.JPG
+60-Cultura/Familia del rey/Letizia.jpg
+60-Cultura/Familia del rey/Miguel.png
+60-Cultura/Familia del rey/Pablo.png
+60-Cultura/Familia del rey/Sofia.jpg
+60-Cultura/Familia del rey/SofiaHija.jpg
+60-Cultura/Familia del rey/Victoria.png
