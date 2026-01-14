@@ -14,7 +14,7 @@
 
 ## Cultura
 
-[[30-Vocabulario/Temas/Navidad en España|🎄 Ver información cultural sobre Navidad en España]]
+[[Navidad en España|🎄 Ver información cultural sobre Navidad en España]]
 
 ## Enlaces Relacionados
 

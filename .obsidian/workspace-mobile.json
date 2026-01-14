@@ -133,31 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Vocabulario/Temas/Siempre Plural.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Siempre Plural"
-            }
-          },
-          {
-            "id": "4fe06988041c7c82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecciones/Deberes.md",
+                "file": "10-Lecciones/20260112 Lección veintiséis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,16 +148,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deberes"
+              "title": "20260112 Lección veintiséis"
             }
           },
           {
-            "id": "74f3094eb5018b1e",
+            "id": "8e4129f6f268fd17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecciones/Deberes.md",
+                "file": "30-Vocabulario/Verbos/ir.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,21 +172,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deberes"
+              "title": "ir"
             }
           },
           {
-            "id": "ee887de8a54d5ef6",
+            "id": "246a217097d2c08d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10-Lecciones/20260114 Lección veintisiete.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20260114 Lección veintisiete"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -301,7 +291,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "30-Vocabulario/Temas/Siempre Plural.md",
+            "file": "30-Vocabulario/Verbos/ir.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -358,33 +348,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "e46f1b707c99be9c",
+  "active": "246a217097d2c08d",
   "lastOpenFiles": [
-    "30-Vocabulario/Verbos/preferir.md",
-    "30-Vocabulario/Temas/Siempre Plural.md",
-    "10-Lecciones/20251217 Lección veintitrés.md",
+    "40-Deberes/20260119 Lección veintiocho.md",
+    "30-Vocabulario/Verbos/tomar.md",
+    "30-Vocabulario/Verbos/tocar.md",
+    "10-Lecciones/20260114 Lección veintisiete.md",
+    "60-Cultura/Salir de copas.md",
+    "30-Vocabulario/Verbos/salir.md",
+    "30-Vocabulario/Verbos/ir.md",
+    "60-Cultura/Qué se puede cantar.md",
+    "40-Deberes/20260114 Lección veintisiete.md",
+    "40-Deberes/20260107 Lección veinticinco.md",
+    "10-Lecciones/20260119 Lección veinticinco.md",
+    "10-Lecciones/Termómetro de interesas.md",
+    "10-Lecciones/me flipa.md",
+    "60-Cultura/Ir de Compras vs. Hacer la Compra.md",
+    "10-Lecciones/20260112 Lección veintiséis.md",
+    "30-Vocabulario/Verbos/querer.md",
+    "60-Cultura/Navidad en España.md",
+    "40-Deberes/Carta a los Reyes Magos.md",
+    "60-Cultura/España vs Hispanoamerica.md",
+    "60-Cultura",
     "50-Calendario/Exámenes.md",
-    "40-Deberes/Mi Pareja Ideal.md",
-    "30-Vocabulario/Temas/Que prefieres.md",
-    "30-Vocabulario/Temas/Mis cosas preferidas.md",
-    "10-Lecciones/20260107 Lección veinticinco.md",
-    "Untitled",
-    "20-Gramática/El Orden de Sustantivos y Adjetivos.md",
     "30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.).md",
-    "30-Vocabulario/Verbos/encantar.md",
+    "2026-01-12.md",
+    "40-Deberes/20260112 Lección veintiséis.md",
     "30-Vocabulario/Verbos/gustar.md",
-    "10-Lecciones/20251222 Lección veinticuatro.md",
-    "30-Vocabulario/Temas/Descripción Física/Pelo.md",
-    "30-Vocabulario/Temas/Carácter/Carácter.md",
-    "30-Vocabulario/Temas/Descripción Física/Cara.md",
-    "40-Deberes/20251215 Lección veintidós.md",
-    "40-Deberes/20251217 Lección veintitrés.md",
-    "10-Lecciones/20251215 Lección veintidós.md",
-    "30-Vocabulario/Temas/Familia del rey/Familia del rey.md",
-    "30-Vocabulario/Temas/Descripción Física/General.md",
-    "10-Lecciones/20251210 Lección veintiuno.md",
-    "30-Vocabulario/Temas/Colores.md",
-    "10-Lecciones/20251126 lección dieciocho.md",
+    "40-Deberes/Sherlock Holmes.md",
+    "30-Vocabulario/Temas/Siempre Singular.md",
+    "Untitled",
     "download_images.py",
     "30-Vocabulario/Temas/Siempre Plural/zapatos.svg",
     "30-Vocabulario/Temas/Siempre Plural/vituallas.svg",
@@ -397,8 +390,6 @@
     "30-Vocabulario/Temas/Siempre Plural/medias.svg",
     "30-Vocabulario/Temas/Siempre Plural/municiones.svg",
     "30-Vocabulario/Temas/Siempre Plural",
-    "Lecciones/20251210 Lección veintiuno.md",
-    "Lecciones/20251215.md",
     "Gramática",
     "Lecciones",
     "Verbos"

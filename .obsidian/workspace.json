@@ -11,52 +11,17 @@
             "id": "4783c5eef788ba19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.).md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "40-Deberes/20260107 Lección veinticinco.md",
+                "bFile": "40-Deberes/20260107 Lección veinticinco.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Verbos como Gustar (Encantar, Doler, etc.)"
-            }
-          },
-          {
-            "id": "410be709345bfca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Deberes/20260107 Lección veinticinco.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260107 Lección veinticinco"
+              "icon": "diff",
+              "title": "Diff: 20260107 Lección veinticinco"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Artículos"
             }
+          },
+          {
+            "id": "537625020edd3c2c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 581.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,13 +191,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "410be709345bfca3",
+  "active": "4783c5eef788ba19",
   "lastOpenFiles": [
-    "40-Deberes/Untitled.md",
+    "30-Vocabulario/Temas/Profesiones.md",
+    "30-Vocabulario/Temas/Que prefieres.md",
+    "30-Vocabulario/Temas/Profesiones/abogado.jpg",
+    "30-Vocabulario/Temas/Descripción Física/General.md",
+    "30-Vocabulario/Temas/Descripción Física/Cara.md",
+    "30-Vocabulario/Temas/Mis cosas preferidas.md",
+    "30-Vocabulario/Temas/La Familia/La Familia.md",
+    "30-Vocabulario/Temas/Días de la semana.md",
+    "30-Vocabulario/Temas/Carácter/Carácter.md",
+    "10-Lecciones/20260107 Lección veinticinco.md",
     "40-Deberes/20260107 Lección veinticinco.md",
+    "40-Deberes/Untitled.md",
     "30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.).md",
     "40-Deberes/20260112 Lección veintiséis.md",
     "30-Vocabulario/Temas/Ropa y Accesorios.md",
@@ -240,9 +227,7 @@
     "30-Vocabulario/Temas/Ropa y Accesorios/cartera.jpg",
     "30-Vocabulario/Temas/Ropa y Accesorios/gafas_sol.jpg",
     "30-Vocabulario/Temas/Ropa y Accesorios/cinturon.jpg",
-    "30-Vocabulario/Temas/Ropa y Accesorios/pulsera.jpg",
     "30-Vocabulario/Temas/Ropa y Accesorios",
-    "30-Vocabulario/Temas/Profesiones.md",
     "30-Vocabulario/Temas/Colores/Colores.md",
     "30-Vocabulario/Verbos/hablar.md",
     "30-Vocabulario/Verbos/deletrear.md",
@@ -250,15 +235,7 @@
     "30-Vocabulario/Verbos/dejar.md",
     "30-Vocabulario/Verbos/contaminar.md",
     "30-Vocabulario/Verbos/llamarse.md",
-    "30-Vocabulario/Temas/Descripción Física/General.md",
-    "30-Vocabulario/Verbos/vivir.md",
-    "30-Vocabulario/Verbos/tener.md",
-    "30-Vocabulario/Verbos/ser.md",
-    "30-Vocabulario/Temas/Carácter/Carácter.md",
-    "10-Lecciones/20260107 Lección veinticinco.md",
     "10-Lecciones/20260107",
-    "30-Vocabulario/Temas/España vs Hispanoamerica.md",
-    "30-Vocabulario/Temas/Siempre Singular.md",
     "30-Vocabulario/Temas/Siempre Plural/vituallas.jpg~",
     "30-Vocabulario/Temas/Siempre Plural/vacaciones.jpg~",
     "30-Vocabulario/Temas/Siempre Plural/tijeras.jpg~",
