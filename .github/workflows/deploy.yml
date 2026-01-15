@@ -37,15 +37,7 @@ jobs:
           cp -r quartz-temp/quartz ./quartz || true
           # Update package.json with Quartz dependencies
           if [ -f "quartz-temp/package.json" ]; then
-            node << 'EOF'
-            const fs = require('fs');
-            const ourPkg = JSON.parse(fs.readFileSync('package.json', 'utf8'));
-            const quartzPkg = JSON.parse(fs.readFileSync('quartz-temp/package.json', 'utf8'));
-            // Merge dependencies
-            ourPkg.dependencies = { ...ourPkg.dependencies, ...quartzPkg.dependencies };
-            ourPkg.devDependencies = { ...ourPkg.devDependencies, ...quartzPkg.devDependencies };
-            fs.writeFileSync('package.json', JSON.stringify(ourPkg, null, 2));
-            EOF
+            node -e "const fs = require('fs'); const ourPkg = JSON.parse(fs.readFileSync('package.json', 'utf8')); const quartzPkg = JSON.parse(fs.readFileSync('quartz-temp/package.json', 'utf8')); ourPkg.dependencies = Object.assign({}, ourPkg.dependencies || {}, quartzPkg.dependencies || {}); ourPkg.devDependencies = Object.assign({}, ourPkg.devDependencies || {}, quartzPkg.devDependencies || {}); fs.writeFileSync('package.json', JSON.stringify(ourPkg, null, 2));"
           fi
           rm -rf quartz-temp
 
