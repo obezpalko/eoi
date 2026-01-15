@@ -19,9 +19,6 @@ Materiales de gramática española: artículos, números, orden de sustantivos y
 ### 📝 [[30-Vocabulario/]]
 Vocabulario organizado por temas y verbos. Incluye imágenes y ejemplos de uso.
 
-### ✏️ [[40-Deberes/]]
-Tareas y ejercicios para practicar lo aprendido en las lecciones.
-
 ### 📅 [[50-Calendario/]]
 Calendario académico con fechas importantes, exámenes y vacaciones.
 
