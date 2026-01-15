@@ -21,9 +21,9 @@ Palabras que se usan principalmente o exclusivamente en singular.
 | **la fe**        | Creencia y esperanza personal en la existencia de algo.    | ![[Siempre Singular/fe.jpg]]        |
 | **la paciencia** | Capacidad de sufrir y tolerar infortunios.                 | ![[Siempre Singular/paciencia.jpg]] |
 | **el relax**     | Situación de reposo físico y moral.                        | ![[Siempre Singular/relax.jpg]]     |
-| **el este**      | Punto cardinal por donde sale el sol.                      | ![[Siempre Singular/este.jpg]]      |
-| **el oeste**     | Punto cardinal por donde se pone el sol.                   | ![[Siempre Singular/oeste.jpg]]     |
-| **el norte**     | Punto cardinal que está a la izquierda del este.           | ![[Siempre Singular/norte.jpg]]     |
+| **el este**      | Punto cardinal por donde sale el sol.                      | ![[Siempre Singular/sur.jpg]]      |
+| **el oeste**     | Punto cardinal por donde se pone el sol.                   | ![[Siempre Singular/sur.jpg]]     |
+| **el norte**     | Punto cardinal que está a la izquierda del este.           | ![[Siempre Singular/sur.jpg]]     |
 | **el sur**       | Punto cardinal opuesto al norte.                           | ![[Siempre Singular/sur.jpg]]       |
 | **la grima**     | Sensación de desagrado o de dentera.                       | ![[Siempre Singular/grima.jpg]]     |
 | **la nada**      | Inexistencia o falta absoluta de toda cosa.                | ![[Siempre Singular/nada.jpg]]      |
