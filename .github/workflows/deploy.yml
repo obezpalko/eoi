@@ -29,6 +29,29 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Setup Quartz Framework
+        run: |
+          # Clone Quartz v4 to get framework files
+          git clone --depth 1 --branch v4 https://github.com/jackyzha0/quartz.git quartz-temp
+          # Copy quartz framework directory
+          cp -r quartz-temp/quartz ./quartz || true
+          # Update package.json with Quartz dependencies
+          if [ -f "quartz-temp/package.json" ]; then
+            node << 'EOF'
+            const fs = require('fs');
+            const ourPkg = JSON.parse(fs.readFileSync('package.json', 'utf8'));
+            const quartzPkg = JSON.parse(fs.readFileSync('quartz-temp/package.json', 'utf8'));
+            // Merge dependencies
+            ourPkg.dependencies = { ...ourPkg.dependencies, ...quartzPkg.dependencies };
+            ourPkg.devDependencies = { ...ourPkg.devDependencies, ...quartzPkg.devDependencies };
+            fs.writeFileSync('package.json', JSON.stringify(ourPkg, null, 2));
+            EOF
+          fi
+          rm -rf quartz-temp
+
+      - name: Install Dependencies
+        run: npm install
+
       - name: Build Quartz
         run: npx quartz build
 
