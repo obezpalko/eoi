@@ -32,6 +32,6 @@ Palabras que se usan principalmente o exclusivamente en plural.
 | **las vituallas**       | Conjunto de cosas necesarias para la comida, provisiones.  | ![[Siempre Plural/vituallas.jpg]]       |
 | **las finanzas**        | Asuntos relacionados con el manejo del dinero.             | ![[Siempre Plural/finanzas.jpg]]        |
 | **las matemáticas**     | Ciencia que estudia las propiedades de los números.        | ![[Siempre Plural/matematicas.jpg]]     |
-| **los alrededores**     | Zonas cercanas que rodean una población o lugar.           | ![[Siempre Plural/alrededores.jpg]]                    |
-| **las afueras**         | Zonas situadas en el exterior de una población.            | ![[Siempre Plural/afueras.jpg]]                        |
-| **las municiones**      | Carga de fuego o pertrechos para armas.                    | ![[Siempre Plural/municiones.jpg]]                     |
+| **los alrededores**     | Zonas cercanas que rodean una población o lugar.           | ![[Siempre Plural/alrededores.jpg]]     |
+| **las afueras**         | Zonas situadas en el exterior de una población.            | ![[Siempre Plural/afueras.jpg]]         |
+| **las municiones**      | Carga de fuego o pertrechos para armas.                    | ![[Siempre Plural/municiones.jpg]]      |

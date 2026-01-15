@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Vocabulario/Temas/Días de la semana.md",
+                "file": "30-Vocabulario/Temas/Profesiones.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Días de la semana"
+              "title": "Profesiones"
             }
           }
         ]
@@ -206,33 +206,36 @@
   },
   "active": "76a9d3e56f0cc609",
   "lastOpenFiles": [
+    "80-Tools/redownload_profesiones_concepts.csv",
+    "80-Tools/redownload_plural_concepts.csv",
+    "80-Tools/redownload_singular_concepts.csv",
+    "80-Tools/redownload_concepts.csv",
+    "30-Vocabulario/Temas/Que prefieres.md",
+    "30-Vocabulario/Temas/Ropa y Accesorios.md",
+    "30-Vocabulario/Temas/Siempre Plural.md",
+    "30-Vocabulario/Temas/Siempre Singular.md",
+    "30-Vocabulario/Temas/Días de la semana.md",
     "20-Gramática/Artículos.md",
     "30-Vocabulario/palabras.md",
     "30-Vocabulario/Temas/Colores.md",
     "10-Lecciones/20260112 Lección veintiséis.md",
     "10-Lecciones/20260107 Lección veinticinco.md",
-    "30-Vocabulario/Temas/Siempre Singular.md",
     "30-Vocabulario/Verbos/flipar.md",
     "30-Vocabulario/Temas/Descripción Física/Cara.md",
     "30-Vocabulario/Temas/Profesiones/Profesiones.md",
     "60-Cultura/España vs Hispanoamerica/España vs Hispanoamerica.md",
     "30-Vocabulario/Temas/Profesiones.md",
-    "30-Vocabulario/Temas/Que prefieres.md",
     "30-Vocabulario/Temas/Profesiones/abogado.jpg",
     "30-Vocabulario/Temas/Descripción Física/General.md",
     "30-Vocabulario/Temas/Mis cosas preferidas.md",
     "30-Vocabulario/Temas/La Familia/La Familia.md",
-    "30-Vocabulario/Temas/Días de la semana.md",
     "30-Vocabulario/Temas/Carácter/Carácter.md",
     "40-Deberes/20260107 Lección veinticinco.md",
     "40-Deberes/Untitled.md",
     "30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.).md",
     "40-Deberes/20260112 Lección veintiséis.md",
-    "30-Vocabulario/Temas/Ropa y Accesorios.md",
     "30-Vocabulario/Verbos/trabajar.md",
     "10-Lecciones/20250929 Lección uno.md",
-    "40-Deberes/Carta a los Reyes Magos.md",
-    "30-Vocabulario/Temas/Nacionalidades/Nacionalidades.md",
     "30-Vocabulario/Temas/Ropa y Accesorios/gemelos.jpg",
     "30-Vocabulario/Temas/Ropa y Accesorios/broche.jpg",
     "30-Vocabulario/Temas/Ropa y Accesorios/pajarita.jpg",
@@ -248,9 +251,6 @@
     "30-Vocabulario/Temas/Siempre Plural/vacaciones.jpg~",
     "30-Vocabulario/Temas/Siempre Plural/tijeras.jpg~",
     "30-Vocabulario/Temas/Siempre Plural/pantalones.jpg~",
-    "30-Vocabulario/Temas/Siempre Plural/municiones.jpg~",
-    "30-Vocabulario/Temas/Siempre Plural/matematicas.jpg~",
-    "30-Vocabulario/Temas/Siempre Plural/ganas.jpg~",
-    "30-Vocabulario/Temas/Siempre Plural/gafas_de_sol.jpg~"
+    "30-Vocabulario/Temas/Siempre Plural/municiones.jpg~"
   ]
 }
