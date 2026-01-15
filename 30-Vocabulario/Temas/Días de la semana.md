@@ -1,3 +1,10 @@
+---
+tags:
+  - español
+  - tema
+  - vocabulario
+---
+
 # Días de la semana
 
 - **Lunes**

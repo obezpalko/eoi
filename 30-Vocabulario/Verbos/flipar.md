@@ -1,10 +1,11 @@
 ---
 tags:
-  - español
-  - slang
   - españa
-  - vocabulario
+  - español
   - gustar
+  - slang
+  - verbos
+  - vocabulario
 date: 2026-01-14
 ---
 

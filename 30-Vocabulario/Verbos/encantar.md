@@ -2,9 +2,11 @@
 tags:
   - español
   - gramática
-  - verbos
   - presente
+  - verbos
+  - vocabulario
 ---
+
 # El Verbo Encantar y Similares
 
 ¡Sí, absolutamente! Has entendido una de las estructuras gramaticales más importantes del español.

@@ -1,3 +1,10 @@
+---
+tags:
+  - español
+  - tema
+  - vocabulario
+---
+
 # Carácter y Personalidad
 
 ## Adjetivos de Personalidad

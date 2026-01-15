@@ -1,3 +1,10 @@
+---
+date: 2025-12-01
+tags:
+  - español
+  - lección
+---
+
 [[20251126 lección dieciocho|20251126 Lección dieciocho]]
 [[../20-Gramática/Artículos|Artículos]]
 

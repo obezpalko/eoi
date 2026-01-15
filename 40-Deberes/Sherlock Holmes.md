@@ -1,10 +1,11 @@
 ---
 tags:
-  - español
-  - tarea
-  - descripción
-  - sherlock_holmes
   - a2
+  - deberes
+  - descripción
+  - español
+  - sherlock_holmes
+  - tarea
 date: 2026-01-12
 ---
 

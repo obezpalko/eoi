@@ -1,3 +1,10 @@
+---
+date: 2025-12-15
+tags:
+  - español
+  - lección
+---
+
 [[../40-Deberes/20251215 Lección veintidós|Deberes]]
 
 # Lección 22: Carácter y Personalidad

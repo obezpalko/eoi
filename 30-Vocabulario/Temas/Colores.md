@@ -1,3 +1,10 @@
+---
+tags:
+  - español
+  - tema
+  - vocabulario
+---
+
 # Colores
 
 ## Colores Básicos

@@ -1,3 +1,11 @@
+---
+date: 2025-12-15
+tags:
+  - deberes
+  - español
+  - tarea
+---
+
 # Lección veintidós
 
 - LA (rojo)

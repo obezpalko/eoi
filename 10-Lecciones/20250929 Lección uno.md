@@ -1,6 +1,10 @@
 ---
 date: 2025-09-29
+tags:
+  - español
+  - lección
 ---
+
 [[../40-Deberes/20250929|Deberes]]
 
 # Información de la profesora

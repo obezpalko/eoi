@@ -1,10 +1,10 @@
 ---
 tags:
-  - español
   - cultura
+  - español
   - monarquía
-  - vocabulario
   - política
+  - vocabulario
 ---
 
 # La Familia Real Española

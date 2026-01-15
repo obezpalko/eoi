@@ -2,9 +2,10 @@
 tags:
   - español
   - gramática
-  - vocabulario
   - gustar
   - intensidad
+  - verbos
+  - vocabulario
 date: 2026-01-14
 ---
 

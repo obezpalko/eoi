@@ -1,10 +1,10 @@
 ---
 tags:
-  - español
-  - vocabulario
   - compras
-  - vida_diaria
   - cultura
+  - español
+  - vida_diaria
+  - vocabulario
 date: 2026-01-13
 ---
 

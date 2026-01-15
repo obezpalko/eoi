@@ -1,3 +1,9 @@
+---
+tags:
+  - español
+  - vocabulario
+---
+
 # Vocabulario General
 
 ## Verbos básicos

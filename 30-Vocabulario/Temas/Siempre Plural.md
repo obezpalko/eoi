@@ -1,3 +1,10 @@
+---
+tags:
+  - español
+  - tema
+  - vocabulario
+---
+
 # Siempre Plural (Pluralia Tantum)
 
 Palabras que se usan principalmente o exclusivamente en plural.

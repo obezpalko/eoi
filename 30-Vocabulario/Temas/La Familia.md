@@ -1,3 +1,10 @@
+---
+tags:
+  - español
+  - tema
+  - vocabulario
+---
+
 # La Familia
 
 Vocabulario para describir las relaciones familiares y el estado civil.

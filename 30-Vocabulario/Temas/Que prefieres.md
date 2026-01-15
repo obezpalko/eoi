@@ -1,11 +1,13 @@
 ---
 tags:
-  - español
-  - vocabulario
   - antónimos
   - cultura
+  - español
+  - tema
+  - vocabulario
 date: 2026-01-07
 ---
+
 # ?Que prefieres?
 
 ## Lista de Antónimos y Opuestos Culturales

@@ -1,3 +1,10 @@
+---
+tags:
+  - español
+  - tema
+  - vocabulario
+---
+
 # Lugares y Gentilicios
 
 ## España - Comunidades Autónomas

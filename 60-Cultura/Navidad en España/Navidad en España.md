@@ -1,11 +1,11 @@
 ---
 tags:
-  - español
   - cultura
-  - vocabulario
-  - tradiciones
-  - navidad
+  - español
   - fiestas
+  - navidad
+  - tradiciones
+  - vocabulario
 ---
 
 # Navidad en España

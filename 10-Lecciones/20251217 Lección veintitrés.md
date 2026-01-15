@@ -1,3 +1,10 @@
+---
+date: 2025-12-17
+tags:
+  - español
+  - lección
+---
+
 [[../40-Deberes/20251217 Lección veintitrés|Deberes]]
 # información 
 [[../50-Calendario/Vacaciones de Navidad|📅 Ver información de vacaciones de Navidad]] 

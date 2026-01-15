@@ -1,3 +1,10 @@
+---
+date: 2025-12-03
+tags:
+  - español
+  - lección
+---
+
 # Posesivos
 
 | Person      | Antes singular | Antes plural | Después singular | Despues plural |

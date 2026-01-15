@@ -2,9 +2,11 @@
 tags:
   - español
   - gramática
-  - verbos
   - presente
+  - verbos
+  - vocabulario
 ---
+
 # El Verbo Tener (To have)
 
 | Pronombre | Conjugación | Ejemplo |

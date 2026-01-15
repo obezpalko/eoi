@@ -2,9 +2,11 @@
 tags:
   - español
   - gramática
-  - verbos
   - presente
+  - verbos
+  - vocabulario
 ---
+
 # El Verbo Ser (To be)
 
 | Pronombre | Conjugación | Ejemplo |

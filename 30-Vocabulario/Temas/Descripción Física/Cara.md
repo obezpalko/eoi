@@ -1,3 +1,10 @@
+---
+tags:
+  - español
+  - tema
+  - vocabulario
+---
+
 # Cara: Ojos, Nariz, Orejas, Labios y Marcas
 
 ## Descripción de los Ojos

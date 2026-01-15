@@ -1,3 +1,9 @@
+---
+tags:
+  - español
+  - gramática
+---
+
 # El Número: Singular y Plural
 
 En español, los sustantivos tienen número: **singular** (uno) o **plural** (más de uno).

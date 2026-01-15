@@ -1,9 +1,10 @@
 ---
 tags:
+  - amor
   - español
   - gramática
   - verbos
-  - amor
+  - vocabulario
 date: 2026-01-13
 ---
 

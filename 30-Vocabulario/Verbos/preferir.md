@@ -2,8 +2,9 @@
 tags:
   - español
   - gramática
-  - verbos
   - presente
+  - verbos
+  - vocabulario
 ---
 
 # El Verbo Preferir (Presente de Indicativo)

@@ -2,9 +2,11 @@
 tags:
   - español
   - gramática
-  - verbos
   - presente
+  - verbos
+  - vocabulario
 ---
+
 # El Verbo Trabajar (To work)
 
 | Pronombre | Conjugación | Ejemplo |

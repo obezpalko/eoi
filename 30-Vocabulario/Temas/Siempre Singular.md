@@ -1,3 +1,10 @@
+---
+tags:
+  - español
+  - tema
+  - vocabulario
+---
+
 # Siempre Singular (Singularia Tantum)
 
 Palabras que se usan principalmente o exclusivamente en singular.

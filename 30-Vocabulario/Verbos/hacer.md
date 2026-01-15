@@ -2,9 +2,11 @@
 tags:
   - español
   - gramática
-  - verbos
   - presente
+  - verbos
+  - vocabulario
 ---
+
 # El Verbo Hacer (To do / To make)
 
 Verbo irregular en la primera persona (Yo).

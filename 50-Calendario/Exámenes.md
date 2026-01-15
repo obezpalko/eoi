@@ -1,3 +1,9 @@
+---
+tags:
+  - calendario
+  - español
+---
+
 # Exámenes
 
 Recopilación de información sobre exámenes y evaluaciones.

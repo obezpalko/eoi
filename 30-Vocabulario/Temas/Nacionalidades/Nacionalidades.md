@@ -1,3 +1,10 @@
+---
+tags:
+  - español
+  - tema
+  - vocabulario
+---
+
 # Nacionalidades
 
 | País | Nacionalidad (masculino femenino) | Idioma(s) oficial(es) |

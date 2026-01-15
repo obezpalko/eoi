@@ -1,3 +1,10 @@
+---
+date: 2025-12-22
+tags:
+  - español
+  - lección
+---
+
 [[../40-Deberes/20251222 Lección veinticuatro|Deberes]]
 
 # Lección 24: Verbos Irregulares en Presente

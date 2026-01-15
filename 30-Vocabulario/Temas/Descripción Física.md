@@ -1,8 +1,9 @@
 ---
 tags:
-  - español
-  - vocabulario
   - descripción_física
+  - español
+  - tema
+  - vocabulario
 ---
 
 # Descripción Física

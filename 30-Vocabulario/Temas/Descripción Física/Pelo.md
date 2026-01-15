@@ -1,3 +1,10 @@
+---
+tags:
+  - español
+  - tema
+  - vocabulario
+---
+
 # Pelo: Colores, Texturas y Peinados
 
 ## Colores de Cabello

@@ -2,8 +2,9 @@
 tags:
   - español
   - gramática
-  - verbos
   - presente
+  - verbos
+  - vocabulario
 ---
 
 # Verbos como Gustar (Encantar, Doler, etc.)

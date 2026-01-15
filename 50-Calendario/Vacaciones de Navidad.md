@@ -1,3 +1,9 @@
+---
+tags:
+  - calendario
+  - español
+---
+
 # Vacaciones de Navidad 2024-2025
 
 ## Fechas Importantes

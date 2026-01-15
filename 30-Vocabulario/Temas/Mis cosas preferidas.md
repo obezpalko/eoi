@@ -1,9 +1,10 @@
 ---
 tags:
   - español
-  - vocabulario
   - preferencias
   - práctica
+  - tema
+  - vocabulario
 date: 2026-01-07
 ---
 

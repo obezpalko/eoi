@@ -1,3 +1,9 @@
+---
+tags:
+  - calendario
+  - español
+---
+
 # Fiesta de Navidad EOI Dénia
 
 ## Información General

@@ -2,9 +2,11 @@
 tags:
   - español
   - gramática
-  - verbos
   - presente
+  - verbos
+  - vocabulario
 ---
+
 # El Verbo Hablar (To speak)
 
 | Pronombre | Conjugación | Ejemplo |

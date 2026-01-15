@@ -1,3 +1,10 @@
+---
+date: 2026-01-14
+tags:
+  - deberes
+  - español
+  - tarea
+---
 
 # LA
 

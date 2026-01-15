@@ -1,3 +1,10 @@
+---
+date: 2025-11-26
+tags:
+  - español
+  - lección
+---
+
 [[../20-Gramática/Artículos|Artículos]]
 [[../30-Vocabulario/Temas/Colores|Colores]]
 

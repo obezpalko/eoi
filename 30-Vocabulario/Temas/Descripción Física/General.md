@@ -1,3 +1,10 @@
+---
+tags:
+  - español
+  - tema
+  - vocabulario
+---
+
 # General: Estatura, Complexión y Apariencia
 
 ## Opuestos

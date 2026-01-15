@@ -1,3 +1,10 @@
+---
+tags:
+  - deberes
+  - español
+  - tarea
+---
+
 # Carta a los Reyes Magos
 
 Queridos Reyes Magos: Melchor, Gaspar y Baltasar,

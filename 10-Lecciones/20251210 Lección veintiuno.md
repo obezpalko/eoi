@@ -1,3 +1,10 @@
+---
+date: 2025-12-10
+tags:
+  - español
+  - lección
+---
+
 # Lección veintiuno
 
 ## tarjeta estudiante

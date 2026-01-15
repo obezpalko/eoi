@@ -2,9 +2,11 @@
 tags:
   - español
   - gramática
-  - verbos
   - presente
+  - verbos
+  - vocabulario
 ---
+
 # El Verbo Dejar (To leave / To let)
 
 Verbo regular terminado en **-ar**.

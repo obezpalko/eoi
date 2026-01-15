@@ -1,8 +1,8 @@
 ---
 tags:
+  - adjetivos
   - español
   - gramática
-  - adjetivos
   - sintaxis
 date: 2026-01-07
 ---
