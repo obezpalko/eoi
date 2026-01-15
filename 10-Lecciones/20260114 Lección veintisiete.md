@@ -6,7 +6,7 @@ tags:
 ---
 # Lección veintisiete
 
-[[40-Deberes/20260114 Lección veintisiete|Deberes]]
+[[../40-Deberes/20260114 Lección veintisiete|Deberes]]
 ## Practicamos
 
 ### Gustos y aficiones. 48
@@ -63,7 +63,7 @@ Vuelve a escuchar y señala qué les gusta hacer en su tiempo libre.
 7. Marisa
 
 
-[[30-Vocabulario/Verbos/Termómetro de interesas|Termómetro de interesas]]
+[[../30-Vocabulario/Verbos/Termómetro de interesas|Termómetro de interesas]]
 ## Vocabulario
 - coser
 - modista
@@ -77,11 +77,11 @@ Vuelve a escuchar y señala qué les gusta hacer en su tiempo libre.
 - juegos de cartas
 - suspiro/suspirar
 - domótica
-- [[30-Vocabulario/Verbos/flipar]]
+- [[../30-Vocabulario/Verbos/flipar]]
 - diminuto/a
 - ocio (actividades de ocio)
 - quedar (quedar con amigos)
 - pito (pito te coche)
 
 
-[[40-Deberes/20260119 Lección veintiocho|Deberes]]
+[[../40-Deberes/20260119 Lección veintiocho|Deberes]]

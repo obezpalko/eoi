@@ -1,4 +1,4 @@
-[[40-Deberes/20251215 Lección veintidós|Deberes]]
+[[../40-Deberes/20251215 Lección veintidós|Deberes]]
 
 # Lección 22: Carácter y Personalidad
 
@@ -14,8 +14,8 @@ En esta lección trabajamos:
 ## Información
 
 - [eoidenia](https://www.instagram.com/eoidenia?igsh=MWM0ZGEzaHNkd3NudQ==)
-- [[50-Calendario/Vacaciones de Navidad|📅 Ver información de vacaciones de Navidad]]
-- [[50-Calendario/Fiesta de Navidad|📅 Fiesta de Navidad (opcional)]]
+- [[../50-Calendario/Vacaciones de Navidad|📅 Ver información de vacaciones de Navidad]]
+- [[../50-Calendario/Fiesta de Navidad|📅 Fiesta de Navidad (opcional)]]
 
 ---
 
@@ -23,7 +23,7 @@ En esta lección trabajamos:
 
 ## Edad
 
-[[30-Vocabulario/Temas/Descripción Física/General|📖 Ver más sobre descripción física]]
+[[../30-Vocabulario/Temas/Descripción Física/General|📖 Ver más sobre descripción física]]
 
 | **Etapa de Vida** | **Ejemplo Masculino**                | **Ejemplo Femenino**              | **Descripción**                                      |
 | ----------------- | ------------------------------------ | --------------------------------- | ---------------------------------------------------- |
@@ -39,7 +39,7 @@ En esta lección trabajamos:
 
 ## Carácter y Personalidad
 
-[[30-Vocabulario/Temas/Carácter|📖 Ver vocabulario completo de carácter]]
+[[../30-Vocabulario/Temas/Carácter|📖 Ver vocabulario completo de carácter]]
 
 ### Adjetivos de Personalidad (de la lección)
 
@@ -179,7 +179,7 @@ Para expresar que alguien tiene una cualidad en grado **muy alto**, usamos:
 
 ## SER vs. ESTAR con Adjetivos de Carácter
 
-[[20-Gramática/Artículos|📖 Ver más sobre gramática]]
+[[../20-Gramática/Artículos|📖 Ver más sobre gramática]]
 
 ### SER (Característica permanente)
 

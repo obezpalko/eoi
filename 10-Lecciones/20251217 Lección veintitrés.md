@@ -1,6 +1,6 @@
-[[40-Deberes/20251217 Lección veintitrés|Deberes]]
+[[../40-Deberes/20251217 Lección veintitrés|Deberes]]
 # información 
-[[50-Calendario/Vacaciones de Navidad|📅 Ver información de vacaciones de Navidad]] 
+[[../50-Calendario/Vacaciones de Navidad|📅 Ver información de vacaciones de Navidad]] 
 # lección 
 LE: página 19
 ## descripción
@@ -83,4 +83,4 @@ Palabras
 - picar
 # cultura
 
-[[50-Calendario/Vacaciones de Navidad|📅 Ver cultura de Navidad en España]]
+[[../50-Calendario/Vacaciones de Navidad|📅 Ver cultura de Navidad en España]]

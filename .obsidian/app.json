@@ -32,5 +32,5 @@
     "margin": "2",
     "downscalePercent": 100
   },
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "relative"
 }

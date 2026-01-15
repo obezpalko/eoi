@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Vocabulario/Temas/Colores.md",
+                "file": "30-Vocabulario/Temas/Días de la semana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Colores"
+              "title": "Días de la semana"
             }
           }
         ]
@@ -206,7 +206,9 @@
   },
   "active": "76a9d3e56f0cc609",
   "lastOpenFiles": [
+    "20-Gramática/Artículos.md",
     "30-Vocabulario/palabras.md",
+    "30-Vocabulario/Temas/Colores.md",
     "10-Lecciones/20260112 Lección veintiséis.md",
     "10-Lecciones/20260107 Lección veinticinco.md",
     "30-Vocabulario/Temas/Siempre Singular.md",
@@ -231,7 +233,6 @@
     "10-Lecciones/20250929 Lección uno.md",
     "40-Deberes/Carta a los Reyes Magos.md",
     "30-Vocabulario/Temas/Nacionalidades/Nacionalidades.md",
-    "30-Vocabulario/Temas/Siempre Plural.md",
     "30-Vocabulario/Temas/Ropa y Accesorios/gemelos.jpg",
     "30-Vocabulario/Temas/Ropa y Accesorios/broche.jpg",
     "30-Vocabulario/Temas/Ropa y Accesorios/pajarita.jpg",
@@ -242,7 +243,6 @@
     "30-Vocabulario/Temas/Ropa y Accesorios/gafas_sol.jpg",
     "30-Vocabulario/Temas/Ropa y Accesorios/cinturon.jpg",
     "30-Vocabulario/Temas/Ropa y Accesorios",
-    "30-Vocabulario/Temas/Colores/Colores.md",
     "10-Lecciones/20260107",
     "30-Vocabulario/Temas/Siempre Plural/vituallas.jpg~",
     "30-Vocabulario/Temas/Siempre Plural/vacaciones.jpg~",

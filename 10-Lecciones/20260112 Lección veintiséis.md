@@ -5,14 +5,14 @@ tags:
 ---
 # Lección veintiséis
 
-[[40-Deberes/20260107 Lección veinticinco|20260107 Lección veinticinco]]
+[[../40-Deberes/20260107 Lección veinticinco|20260107 Lección veinticinco]]
 
-[[40-Deberes/20260112 Lección veintiséis|Deberes]]
+[[../40-Deberes/20260112 Lección veintiséis|Deberes]]
 
 ## Practicamos
 ### Gustar
 
-[[30-Vocabulario/Verbos/gustar]] [[30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.)]]
+[[../30-Vocabulario/Verbos/gustar]] [[../30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.)]]
 
 - Me gustan los helados, ¿Y a tí?
 - Sí, a mí también.
@@ -108,7 +108,7 @@ Hobby - afición
 7. Tecnología
 ### Interesar
 
-[[30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.)]]
+[[../30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.)]]
 
 - a mí me interesa la tecnología
 - a mí me interesan el deporte y el arte
@@ -154,6 +154,6 @@ Hobby - afición
 - obsesionado
 
 ## tareas
-[[40-Deberes/20260114 Lección veintisiete|Deberes]]
+[[../40-Deberes/20260114 Lección veintisiete|Deberes]]
 
-[[40-Deberes/20260114 Lección veintisiete|20260114 Lección veintisiete]]
+[[../40-Deberes/20260114 Lección veintisiete|20260114 Lección veintisiete]]

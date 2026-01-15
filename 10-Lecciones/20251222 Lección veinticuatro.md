@@ -1,4 +1,4 @@
-[[40-Deberes/20251222 Lección veinticuatro|Deberes]]
+[[../40-Deberes/20251222 Lección veinticuatro|Deberes]]
 
 # Lección 24: Verbos Irregulares en Presente
 

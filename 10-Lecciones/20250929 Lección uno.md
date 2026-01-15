@@ -1,7 +1,7 @@
 ---
 date: 2025-09-29
 ---
-[[40-Deberes/20250929|Deberes]]
+[[../40-Deberes/20250929|Deberes]]
 
 # Información de la profesora
 
@@ -10,7 +10,7 @@ date: 2025-09-29
 
 # Vocabulario básico
 
-- [[30-Vocabulario/Verbos/deletrear|Deletrear]] - decir letras (to spell)
+- [[../30-Vocabulario/Verbos/deletrear|Deletrear]] - decir letras (to spell)
 - **@** - arroba (at symbol)
 
 # Lección: Presentación Personal
@@ -25,7 +25,7 @@ date: 2025-09-29
 - **¿Cuál es tu apellido?** - Mi apellido es...
 - **¿Cuáles son tus apellidos?** - Mis apellidos son...
 
-> **Ver también:** [[30-Vocabulario/Temas/Nacionalidades/Nacionalidades|Nacionalidades]] [[30-Vocabulario/Temas/Nacionalidades/Lugares Españolas|Lugares Españolas]]
+> **Ver también:** [[../30-Vocabulario/Temas/Nacionalidades/Nacionalidades|Nacionalidades]] [[../30-Vocabulario/Temas/Nacionalidades/Lugares Españolas|Lugares Españolas]]
 
 ## Edad
 
@@ -35,7 +35,7 @@ date: 2025-09-29
 
 - **¿De dónde eres?** - Soy de Ucrania e Israel. Soy israelí.
 
-> **Ver también:** [[30-Vocabulario/Temas/Nacionalidades/Nacionalidades|Nacionalidades]] [[30-Vocabulario/Temas/Nacionalidades/Lugares Españolas|Lugares Españolas]]
+> **Ver también:** [[../30-Vocabulario/Temas/Nacionalidades/Nacionalidades|Nacionalidades]] [[../30-Vocabulario/Temas/Nacionalidades/Lugares Españolas|Lugares Españolas]]
 
 ## Trabajo
 
@@ -43,7 +43,7 @@ date: 2025-09-29
 - **¿En qué trabajas?** - Mi profesión es ingeniero informático
 - **¿A qué te dedicas?** - Soy ingeniero informático / Trabajo como ingeniero
 
-> **Ver también:** [[30-Vocabulario/Temas/Profesiones|Profesiones]]
+> **Ver también:** [[../30-Vocabulario/Temas/Profesiones|Profesiones]]
 
 ## Residencia
 
@@ -66,12 +66,12 @@ date: 2025-09-29
 
 ## Verbos principales (Presente simple)
 
-- [[30-Vocabulario/Verbos/ser|Ser]]
-- [[30-Vocabulario/Verbos/tener|Tener]]
-- [[30-Vocabulario/Verbos/vivir|Vivir]]
-- [[30-Vocabulario/Verbos/trabajar|Trabajar]]
-- [[30-Vocabulario/Verbos/hablar|Hablar]]
-- [[30-Vocabulario/Verbos/llamarse|Llamarse]]
+- [[../30-Vocabulario/Verbos/ser|Ser]]
+- [[../30-Vocabulario/Verbos/tener|Tener]]
+- [[../30-Vocabulario/Verbos/vivir|Vivir]]
+- [[../30-Vocabulario/Verbos/trabajar|Trabajar]]
+- [[../30-Vocabulario/Verbos/hablar|Hablar]]
+- [[../30-Vocabulario/Verbos/llamarse|Llamarse]]
 
 ## Palabras interrogativas
 
@@ -303,4 +303,4 @@ Algunas profesiones muy comunes en España:
 - **Camarero/a** - común en zonas turísticas
 - **Comercial** - ventas
 
-> **Ver la lista completa en:** [[30-Vocabulario/Temas/Profesiones|Profesiones]]
+> **Ver la lista completa en:** [[../30-Vocabulario/Temas/Profesiones|Profesiones]]

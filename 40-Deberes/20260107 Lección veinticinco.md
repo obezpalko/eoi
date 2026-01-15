@@ -4,8 +4,8 @@
   - [x] ficha 32
   - [ ] gustos y aficiones 48
 - [ ] árbol genealógico (dibujo y explicación) (después vacaciones )
-- [x] escribir una [[40-Deberes/Carta a los Reyes Magos]] (hoja) (después vacaciones )
-- [x] [[40-Deberes/Mi Pareja Ideal]] (escrito un texto: mi pareja ideal (no esposa). Como sería pareja ideal. Física y carácter )
+- [x] escribir una [[Carta a los Reyes Magos]] (hoja) (después vacaciones )
+- [x] [[Mi Pareja Ideal]] (escrito un texto: mi pareja ideal (no esposa). Como sería pareja ideal. Física y carácter )
 - LE:
   - Tema 4
     - [x] 2
@@ -16,7 +16,7 @@
      5. no me gusta nada tomar café
      6. me encantan los videojuegos de deportes
     - [x] 3
-    - [x] 4 [[30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.)#Preguntas con verbos and respuestas|Verbos como Gustar]]
+    - [x] 4 [[../30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.)#Preguntas con verbos and respuestas|Verbos como Gustar]]
     - [x] 5
      1. Me gusta cocinar, pero prefiero ir a restaurantes.
      2. Me gusta la pasta, pero prefiero el arroz.

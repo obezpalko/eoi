@@ -4,14 +4,14 @@
 
 ## Navidad
 
-[[50-Calendario/Vacaciones de Navidad|📅 Ver información de vacaciones de Navidad]]
-[[50-Calendario/Fiesta de Navidad|📅 Fiesta de Navidad (opcional)]]
+[[../50-Calendario/Vacaciones de Navidad|📅 Ver información de vacaciones de Navidad]]
+[[../50-Calendario/Fiesta de Navidad|📅 Fiesta de Navidad (opcional)]]
 
 ---
 
 ## Descripción físico y carácter
 
-[[30-Vocabulario/Temas/Colores|Colores]]
+[[../30-Vocabulario/Temas/Colores|Colores]]
 
 ## Estatura, Complexión y Apariencia (Opuestos)
 

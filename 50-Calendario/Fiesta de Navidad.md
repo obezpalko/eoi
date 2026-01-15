@@ -39,5 +39,5 @@
 
 Esta información se encuentra en:
 
-- [[10-Lecciones/20251210 Lección veintiuno|Lección veintiuno (10 diciembre)]]
-- [[10-Lecciones/20251215 Lección veintidós|Lección veintidós (15 diciembre)]]
+- [[../10-Lecciones/20251210 Lección veintiuno|Lección veintiuno (10 diciembre)]]
+- [[../10-Lecciones/20251215 Lección veintidós|Lección veintidós (15 diciembre)]]

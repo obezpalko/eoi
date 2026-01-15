@@ -22,8 +22,8 @@
  	* -o
  	* -or
  	* -aje
- 	* [[30-Vocabulario/Temas/Colores]]
- 	* [[30-Vocabulario/Temas/Días de la semana]]
+ 	* [[../30-Vocabulario/Temas/Colores|Colores]]
+ 	* [[../30-Vocabulario/Temas/Días de la semana|Días de la semana]]
 * Excepciones
  	* la moto (la motocicleta)
  	* la foto (la fotografía)

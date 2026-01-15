@@ -1,5 +1,5 @@
-[[10-Lecciones/20251126 lección dieciocho|20251126 Lección dieciocho]]
-[[20-Gramática/Artículos|Artículos]]
+[[20251126 lección dieciocho|20251126 Lección dieciocho]]
+[[../20-Gramática/Artículos|Artículos]]
 
 # Vocabulario
 
@@ -20,7 +20,7 @@
 azules дома
 Termina en vocal...
 
-[[60-Cultura/Familia del rey/Familia del rey|Familia del rey]]
+[[../60-Cultura/Familia del rey/Familia del rey|Familia del rey]]
 
 ## Los posesivos
 
@@ -35,4 +35,4 @@ En aules
 - vosotras vuestra/vuestras
 - ellos/ellas/ustedes
 
-[[40-Deberes/20251203|Deberes]]
+[[../40-Deberes/20251203|Deberes]]

@@ -14,9 +14,9 @@
 
 ## Cultura
 
-[[60-Cultura/Navidad en España/Navidad en España|🎄 Ver información cultural sobre Navidad en España]]
+[[../60-Cultura/Navidad en España/Navidad en España|🎄 Ver información cultural sobre Navidad en España]]
 
 ## Enlaces Relacionados
 
-- [[50-Calendario/Fiesta de Navidad|📅 Fiesta de Navidad (opcional)]]
+- [[Fiesta de Navidad|📅 Fiesta de Navidad (opcional)]]
 

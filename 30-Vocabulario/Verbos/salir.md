@@ -62,7 +62,7 @@ Aquí no significa "movimiento", sino el **resultado** de algo (To turn out).
 ---
 
 ## 3. Diferencia: Ir vs. Salir
-[[30-Vocabulario/Verbos/ir]]
+[[ir]]
 
 Aunque a veces son similares, tienen enfoques distintos:
 

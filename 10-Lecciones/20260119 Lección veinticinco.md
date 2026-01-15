@@ -6,7 +6,7 @@ tags:
 ---
 # Lección veinticinco
 
-[[40-Deberes/20260119 Lección veintiocho|Deberes]]
+[[../40-Deberes/20260119 Lección veintiocho|Deberes]]
 
 ## Prácticas 
 

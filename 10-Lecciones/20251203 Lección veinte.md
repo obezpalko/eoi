@@ -16,7 +16,7 @@ Usa verbos para
 - Hijos - **tener**
 
 # Vocabulario
-- [[30-Vocabulario/Verbos/contaminar]] - загрязнять, заражать
+- [[../30-Vocabulario/Verbos/contaminar]] - загрязнять, заражать
 - despistado - рассеянный
 - parentesco - родство, сходство
 - mellizos - двойняшки
@@ -25,8 +25,8 @@ Usa verbos para
 - padrastro - отчим (negativo). Usa marido de mi madre
 - madrastra - мачеха (negativo). La (nueva) mujer de mi padre
 - verbos irregulares (solo pero yo)
-	- [[30-Vocabulario/Verbos/hacer]] - hago
-	- [[30-Vocabulario/Verbos/poner]] - pongo
+	- [[../30-Vocabulario/Verbos/hacer]] - hago
+	- [[../30-Vocabulario/Verbos/poner]] - pongo
 	- dar doy
 	- saber (sé)
 	- estar estoy
