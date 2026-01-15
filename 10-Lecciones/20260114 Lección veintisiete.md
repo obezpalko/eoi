@@ -77,7 +77,7 @@ Vuelve a escuchar y señala qué les gusta hacer en su tiempo libre.
 - juegos de cartas
 - suspiro/suspirar
 - domótica
-- [[me flipa]]
+- [[flipar]]
 - diminuto/a
 - ocio (actividades de ocio)
 - quedar (quedar con amigos)

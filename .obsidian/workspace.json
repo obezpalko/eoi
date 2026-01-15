@@ -11,10 +11,24 @@
             "id": "76a9d3e56f0cc609",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "30-Vocabulario/Verbos/flipar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "flipar"
             }
           }
         ]
@@ -190,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76a9d3e56f0cc609",
+  "active": "2ee0be711958dbb1",
   "lastOpenFiles": [
     "30-Vocabulario/Temas/Descripción Física/Cara.md",
     "30-Vocabulario/Temas/Profesiones/Profesiones.md",

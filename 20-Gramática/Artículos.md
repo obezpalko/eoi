@@ -56,7 +56,7 @@ El articulo todavía con palabras empiezan *a-*, *ha-*
 
 ### Explicación
 
-![[tabla_articulos.jpeg]]
+![[Artículos/tabla_articulos.jpeg]]
 
 ### USOS
 
@@ -84,10 +84,10 @@ Ej: `Lourdes es _____ novia de Juanjo.`
     • Cuando hablamos de algo en sentido general.
 Ej: `Odio _____ café.`
 
-![[Pasted image 20251126141721.png]]
-![[Pasted image 20251126141732.png]]
+![[Artículos/Pasted image 20251126141721.png]]
+![[Artículos/Pasted image 20251126141732.png]]
 
 ### Actividades
 
-![[articulo-ejercicios.jpeg]]
+![[Artículos/articulo-ejercicios.jpeg]]
 [https://aprenderespanol.org/gramatica/articulos-determinados-indeterminados.html](https://aprenderespanol.org/gramatica/articulos-determinados-indeterminados.html)
