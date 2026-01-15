@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Vocabulario/Temas/Profesiones.md",
+                "file": "60-Cultura/Qué se puede cantar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Profesiones"
+              "title": "Qué se puede cantar"
             }
           }
         ]
@@ -206,6 +206,27 @@
   },
   "active": "76a9d3e56f0cc609",
   "lastOpenFiles": [
+    "60-Cultura/Ir de Compras vs. Hacer la Compra.md",
+    "60-Cultura/Qué se puede cantar.md",
+    "60-Cultura/Navidad en España.md",
+    "60-Cultura/Salir de copas.md",
+    "60-Cultura/Qué se puede cantar/opera.jpg",
+    "60-Cultura/Qué se puede cantar/nana.jpg",
+    "80-Tools/retry_cantar.csv",
+    "60-Cultura/Qué se puede cantar/tararear.jpg",
+    "60-Cultura/Qué se puede cantar/desafinado.jpg",
+    "60-Cultura/Qué se puede cantar/karaoke.jpg",
+    "60-Cultura/Ir de Compras vs. Hacer la Compra/tarjeta_credito.jpg",
+    "60-Cultura/Qué se puede cantar/cantar_ducha.jpg",
+    "60-Cultura/Ir de Compras vs. Hacer la Compra/caja_tienda.jpg",
+    "60-Cultura/Qué se puede cantar/himno.jpg",
+    "60-Cultura/Ir de Compras vs. Hacer la Compra/comprar_comida.jpg",
+    "60-Cultura/España vs Hispanoamerica.md",
+    "80-Tools/cantar_images.csv",
+    "80-Tools/compras_images.csv",
+    "60-Cultura/Qué se puede cantar",
+    "60-Cultura/Ir de Compras vs. Hacer la Compra",
+    "30-Vocabulario/Temas/Profesiones.md",
     "80-Tools/redownload_profesiones_concepts.csv",
     "80-Tools/redownload_plural_concepts.csv",
     "80-Tools/redownload_singular_concepts.csv",
@@ -223,9 +244,6 @@
     "30-Vocabulario/Verbos/flipar.md",
     "30-Vocabulario/Temas/Descripción Física/Cara.md",
     "30-Vocabulario/Temas/Profesiones/Profesiones.md",
-    "60-Cultura/España vs Hispanoamerica/España vs Hispanoamerica.md",
-    "30-Vocabulario/Temas/Profesiones.md",
-    "30-Vocabulario/Temas/Profesiones/abogado.jpg",
     "30-Vocabulario/Temas/Descripción Física/General.md",
     "30-Vocabulario/Temas/Mis cosas preferidas.md",
     "30-Vocabulario/Temas/La Familia/La Familia.md",
@@ -233,24 +251,6 @@
     "40-Deberes/20260107 Lección veinticinco.md",
     "40-Deberes/Untitled.md",
     "30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.).md",
-    "40-Deberes/20260112 Lección veintiséis.md",
-    "30-Vocabulario/Verbos/trabajar.md",
-    "10-Lecciones/20250929 Lección uno.md",
-    "30-Vocabulario/Temas/Ropa y Accesorios/gemelos.jpg",
-    "30-Vocabulario/Temas/Ropa y Accesorios/broche.jpg",
-    "30-Vocabulario/Temas/Ropa y Accesorios/pajarita.jpg",
-    "30-Vocabulario/Temas/Ropa y Accesorios/corbata.jpg",
-    "30-Vocabulario/Temas/Ropa y Accesorios/diadema.jpg",
-    "30-Vocabulario/Temas/Ropa y Accesorios/pañuelo.jpg",
-    "30-Vocabulario/Temas/Ropa y Accesorios/cartera.jpg",
-    "30-Vocabulario/Temas/Ropa y Accesorios/gafas_sol.jpg",
-    "30-Vocabulario/Temas/Ropa y Accesorios/cinturon.jpg",
-    "30-Vocabulario/Temas/Ropa y Accesorios",
-    "10-Lecciones/20260107",
-    "30-Vocabulario/Temas/Siempre Plural/vituallas.jpg~",
-    "30-Vocabulario/Temas/Siempre Plural/vacaciones.jpg~",
-    "30-Vocabulario/Temas/Siempre Plural/tijeras.jpg~",
-    "30-Vocabulario/Temas/Siempre Plural/pantalones.jpg~",
-    "30-Vocabulario/Temas/Siempre Plural/municiones.jpg~"
+    "30-Vocabulario/Temas/Ropa y Accesorios"
   ]
 }

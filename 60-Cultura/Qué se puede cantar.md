@@ -14,25 +14,25 @@ Además de "cantar una canción", usamos este verbo con muchas otras palabras es
 
 ## 1. Tipos de Canciones (Objetos)
 
-| Frase | Significado | Contexto |
-| :--- | :--- | :--- |
-| **Cantar una nana** | To sing a lullaby | Ideal para dormir a **Faina**. |
-| **Cantar el "Cumpleaños Feliz"**| To sing Happy Birthday | En fiestas. |
-| **Cantar villancicos** | To sing Christmas carols | Típico en Navidad (Diciembre). |
-| **Cantar ópera / flamenco** | To sing opera / flamenco | Géneros musicales. |
-| **Cantar el himno** | To sing the anthem | En partidos de fútbol (ej. La selección española). |
+| Frase | Significado | Contexto | Imagen |
+| :--- | :--- | :--- | :--- |
+| **Cantar una nana** | To sing a lullaby | Ideal para dormir a **Faina**. | ![[Qué se puede cantar/nana.jpg]] |
+| **Cantar el "Cumpleaños Feliz"**| To sing Happy Birthday | En fiestas. | ![[Qué se puede cantar/cumpleanos_feliz.jpg]] |
+| **Cantar villancicos** | To sing Christmas carols | Típico en Navidad (Diciembre). | ![[Qué se puede cantar/villancicos.jpg]] |
+| **Cantar ópera** | To sing opera | Género musical clásico. | ![[Qué se puede cantar/opera.jpg]] |
+| **Cantar flamenco** | To sing flamenco | Música tradicional española. | ![[Qué se puede cantar/flamenco.jpg]] |
+| **Cantar el himno** | To sing the anthem | En partidos de fútbol (ej. La selección española). | ![[Qué se puede cantar/himno.jpg]] |
 
 ---
 
 ## 2. ¿Cómo se canta? (Modo y Lugar)
 
-* **Cantar bajo la ducha:** (Singing in the shower).
-    * *Casi todo el mundo **canta bajo la ducha**.*
-* **Cantar a pleno pulmón:** (To sing at the top of your lungs).
-    * *En el concierto cantamos **a pleno pulmón**.*
-* **Cantar en playback:** (Lip-syncing).
-* **Cantar desafinado:** (To sing out of tune / flat).
-    * *Mi amigo **canta desafinado**, ¡es horrible!*
+| Expresión | Significado | Ejemplo | Imagen |
+| :--- | :--- | :--- | :--- |
+| **Cantar bajo la ducha** | Singing in the shower | *Casi todo el mundo **canta bajo la ducha**.* | ![[Qué se puede cantar/cantar_ducha.jpg]] |
+| **Cantar a pleno pulmón** | To sing at the top of your lungs | *En el concierto cantamos **a pleno pulmón**.* | ![[Qué se puede cantar/karaoke.jpg]] |
+| **Cantar en playback** | Lip-syncing | *El cantante no canta en directo, es playback.* | - |
+| **Cantar desafinado** | To sing out of tune / flat | *Mi amigo **canta desafinado**, ¡es horrible!* | ![[Qué se puede cantar/desafinado.jpg]] |
 
 ---
 
@@ -62,4 +62,37 @@ Estas frases no tienen nada que ver con la música real.
 * **Tararear:** Usas la melodía pero sin palabras (Humming).
     * *Mmm, mmm, mmm...*
     * *Deja de **tararear**, ¡es molesto!*
-    * 
+
+![[Qué se puede cantar/tararear.jpg]]
+*Persona tarareando una canción*
+
+---
+
+## 5. Vocabulario Musical Adicional
+
+### Verbos Relacionados
+* **Silbar** - To whistle
+* **Corear** - To chant/chorus (en grupo)
+* **Entonar** - To intone (formal)
+* **Vocalizar** - To vocalize (ejercicios)
+
+### Sustantivos
+* **La letra** - Lyrics
+* **La melodía** - Melody
+* **El ritmo** - Rhythm
+* **El estribillo** - Chorus/refrain
+* **El tono** - Tone/pitch
+* **La voz** - Voice
+
+### Expresiones Adicionales
+* **Tener buena voz** - To have a good voice
+* **Tener oído musical** - To have a good ear for music
+* **Llevar el ritmo** - To keep the beat
+* **Desafinar** - To sing off-key (verb)
+* **Afinar** - To sing in tune
+
+### Contextos Culturales
+* **Karaoke** es muy popular en España, especialmente en bares y fiestas.
+* **Los villancicos** se cantan en familia durante la Navidad.
+* **El flamenco** es Patrimonio Cultural Inmaterial de la Humanidad (UNESCO).
+* En España, es común cantar el **himno nacional** en eventos deportivos, pero no tiene letra oficial.

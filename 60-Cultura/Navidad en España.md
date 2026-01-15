@@ -14,7 +14,7 @@ La Navidad en España tiene tradiciones únicas que la distinguen de otros país
 
 ## Los Reyes Magos
 
-![[reyes_magos.jpg]]
+![[Navidad en España/reyes_magos.jpg]]
 
 En España, los niños reciben regalos de los **3 Reyes Magos** (no de Papá Noel).
 
@@ -27,9 +27,9 @@ Los Reyes Magos visitan al niño Jesús en el pesebre y le llevan regalos.
 
 ## Cartas a los Reyes Magos
 
-![[carta_reyes.jpg]]
+![[Navidad en España/carta_reyes.jpg]]
 
-Los niños escriben **[[../../40-Deberes/Carta a los Reyes Magos]] para pedir regalos. En las cartas, los niños:
+Los niños escriben [[../40-Deberes/Carta a los Reyes Magos|Carta a los Reyes Magos]] para pedir regalos. En las cartas, los niños:
 - Dicen si se han portado bien durante el año
 - Piden los regalos que quieren recibir
 - A veces prometen portarse mejor
@@ -52,7 +52,7 @@ Los niños que se han portado mal durante el año reciben **carbón** (carbón d
 
 ## La Cabalgata de Reyes
 
-![[cabalgata.jpg]]
+![[Navidad en España/cabalgata.jpg]]
 
 El 5 de enero por la tarde hay desfiles en las ciudades llamados **Cabalgata de Reyes**, donde:
 - Los Reyes Magos desfilan en carrozas
@@ -64,7 +64,7 @@ Es uno de los eventos más importantes de la Navidad española.
 
 ## El Belén (Nacimiento)
 
-![[belen.jpg]]
+![[Navidad en España/belen.jpg]]
 
 El **Belén** (también llamado "Nacimiento") es una representación del nacimiento de Jesús.
 
@@ -79,7 +79,7 @@ Muchas familias montan un Belén en casa durante la Navidad. También hay Belene
 
 ## El Roscón de Reyes
 
-![[roscon_de_reyes.jpg]]
+![[Navidad en España/roscon_de_reyes.jpg]]
 
 Es un dulce típico que se come el 6 de enero. Características:
 - Tiene forma de corona (redondo con un agujero en el centro)

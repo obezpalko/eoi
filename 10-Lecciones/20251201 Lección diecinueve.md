@@ -27,7 +27,7 @@ tags:
 azules дома
 Termina en vocal...
 
-[[../60-Cultura/Familia del rey/Familia del rey|Familia del rey]]
+[[../60-Cultura/Familia del rey|Familia del rey]]
 
 ## Los posesivos
 

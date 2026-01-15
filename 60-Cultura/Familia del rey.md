@@ -13,7 +13,7 @@ Información actualizada y contexto cultural sobre la Monarquía en España.
 
 ## Árbol Genealógico Simplificado
 
-![[arbol_genealogico.svg]]
+![[Familia del rey/arbol_genealogico.svg]]
 
 ## Los Reyes Actuales
 

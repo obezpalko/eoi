@@ -26,7 +26,7 @@ tags:
 - Te gusta bailar y correr.
 - Le gustan las uvas
 - Nos gusta la pizza.
-- Me gusta ~~mirar~~ ver las películas. (Mirar es [[../60-Cultura/España vs Hispanoamerica/España vs Hispanoamerica|hispanoamericana]])
+- Me gusta ~~mirar~~ ver las películas. (Mirar es [[../60-Cultura/España vs Hispanoamerica|hispanoamericana]])
 
 
 ## Vocabulario

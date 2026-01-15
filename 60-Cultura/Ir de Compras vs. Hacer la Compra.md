@@ -24,16 +24,23 @@ Aunque en inglés usamos "Go shopping" para todo, en español diferenciamos clar
 > * Se refiere a comprar comida y productos para la casa (Supermercado). Es una tarea doméstica.
 > * *Ejemplo:* "No tenemos leche, tengo que **hacer la compra**."
 
+| Actividad | Imagen |
+|-----------|--------|
+| **Ir de compras** (Ocio) | ![[Ir de Compras vs. Hacer la Compra/comprar_ropa.jpg]] |
+| **Hacer la compra** (Necesidad) | ![[Ir de Compras vs. Hacer la Compra/comprar_comida.jpg]] |
+
 ---
 
 ## 2. Lugares y Vocabulario
 
-* **El Centro Comercial:** (Shopping Mall). El lugar grande con muchas tiendas (ej: El Corte Inglés).
-* **Las Tiendas:** (The shops). Pequeños comercios a pie de calle.
-* **Las Rebajas:** (The Sales).
-    * ¡Muy importante en España! Ocurren principalmente en **Enero** (invierno) y **Julio** (verano).
-* **El Probador:** (Fitting room). Donde te pruebas la ropa.
-* **La Caja:** (The checkout/register). Donde pagas.
+| Lugar/Concepto | Descripción | Imagen |
+|----------------|-------------|--------|
+| **El Centro Comercial** | Shopping Mall. El lugar grande con muchas tiendas (ej: El Corte Inglés). | ![[Ir de Compras vs. Hacer la Compra/centro_comercial.jpg]] |
+| **Las Tiendas** | The shops. Pequeños comercios a pie de calle. | ![[Ir de Compras vs. Hacer la Compra/tiendas_calle.jpg]] |
+| **El Supermercado** | Supermarket. Donde haces la compra semanal. | ![[Ir de Compras vs. Hacer la Compra/supermercado.jpg]] |
+| **Las Rebajas** | The Sales. ¡Muy importante en España! Ocurren principalmente en **Enero** (invierno) y **Julio** (verano). | ![[Ir de Compras vs. Hacer la Compra/rebajas.jpg]] |
+| **El Probador** | Fitting room. Donde te pruebas la ropa. | ![[Ir de Compras vs. Hacer la Compra/probador.jpg]] |
+| **La Caja** | The checkout/register. Donde pagas. | ![[Ir de Compras vs. Hacer la Compra/caja_tienda.jpg]] |
 
 ---
 
@@ -53,6 +60,9 @@ Aunque en inglés usamos "Go shopping" para todo, en español diferenciamos clar
 * *¿Aceptan **tarjeta**?* (Do you take card?)
 * *¿Me puede dar el **ticket** (recibo), por favor?* (Para devoluciones).
 
+![[Ir de Compras vs. Hacer la Compra/tarjeta_credito.jpg]]
+*Pago con tarjeta de crédito*
+
 ---
 
 ## 4. Ejemplos Personales
@@ -60,4 +70,26 @@ Aunque en inglés usamos "Go shopping" para todo, en español diferenciamos clar
 * *A Alena le encanta **ir de compras** en las rebajas.*
 * *Yo odio **ir de compras**, prefiero comprar por internet.*
 * *Los sábados por la mañana **hacemos la compra** en el supermercado para toda la semana.*
-* 
+
+---
+
+## 5. Datos Culturales Adicionales
+
+### Horarios Comerciales en España
+* **Tiendas pequeñas:** Suelen cerrar entre 14:00-17:00 (siesta).
+* **Centros comerciales:** Abiertos sin interrupción de 10:00 a 22:00.
+* **Supermercados:** Muchos abren los domingos por la mañana.
+
+### Formas de Pago
+* **Efectivo** (cash) sigue siendo común en tiendas pequeñas.
+* **Tarjeta** es aceptada en casi todas partes.
+* **Bizum** - sistema de pago móvil muy popular en España.
+
+### Vocabulario Adicional
+* **El escaparate** - Shop window (vitrina)
+* **La cola** - The queue/line
+* **El carrito** - Shopping cart
+* **La cesta** - Shopping basket
+* **El recibo/ticket** - Receipt
+* **Devolver** - To return (an item)
+* **Cambiar** - To exchange
