@@ -7,8 +7,8 @@ date: 2026-01-07
 
 ## Practicamos
 
-- [[gustar]]
-- [[Verbos como Gustar (Encantar, Doler, etc.)]]
+- [[30-Vocabulario/Verbos/gustar]]
+- [[30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.)]]
 
 ### Ejemplos
 
@@ -41,9 +41,9 @@ date: 2026-01-07
 | **el doblaje**                 | Sustituir la voz original de una película por otra en diferente idioma. | ![[20260107/doblaje.jpg]]          |
 | **la versión original (V.O.)** | Película proyectada con el audio original en que fue grabada.           | ![[20260107/version_original.jpg]] |
 
-[[Siempre Singular]]
+[[30-Vocabulario/Temas/Siempre Singular]]
 
-[[El Orden de Sustantivos y Adjetivos]]
+[[20-Gramática/El Orden de Sustantivos y Adjetivos]]
 
 ## Serías
 

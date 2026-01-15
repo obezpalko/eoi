@@ -4,8 +4,8 @@
   - [x] ficha 32
   - [ ] gustos y aficiones 48
 - [ ] árbol genealógico (dibujo y explicación) (después vacaciones )
-- [x] escribir una [[Carta a los Reyes Magos]] (hoja) (después vacaciones )
-- [x] [[Mi Pareja Ideal]] (escrito un texto: mi pareja ideal (no esposa). Como sería pareja ideal. Física y carácter )
+- [x] escribir una [[40-Deberes/Carta a los Reyes Magos]] (hoja) (después vacaciones )
+- [x] [[40-Deberes/Mi Pareja Ideal]] (escrito un texto: mi pareja ideal (no esposa). Como sería pareja ideal. Física y carácter )
 - LE:
   - Tema 4
     - [x] 2

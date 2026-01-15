@@ -1,4 +1,4 @@
 # Deberes
 
 Para lunes preparamos descripción física y personal de algún persona en clase o persona famosa.
-[[Sherlock Holmes]]
+[[40-Deberes/Sherlock Holmes]]

@@ -39,4 +39,4 @@ Ejemplos comunes:
 * **Los pantalones** (trousers)
 * **Las tijeras** (scissors)
 
-Ver lista completa: [[Siempre Plural]]
+Ver lista completa: [[30-Vocabulario/Temas/Siempre Plural]]

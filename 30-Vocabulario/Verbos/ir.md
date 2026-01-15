@@ -79,4 +79,4 @@ No necesitas aprender el tiempo futuro todavía. Puedes usar el verbo *Ir* para 
 2.  *(To Alena)*: ¿**Vamos** de compras?
 3.  *(To Alexander)*: Yo **voy** a trabajar en coche.
 
-[[salir]]
+[[30-Vocabulario/Verbos/salir]]

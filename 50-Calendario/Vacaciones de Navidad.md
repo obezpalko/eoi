@@ -14,7 +14,7 @@
 
 ## Cultura
 
-[[Navidad en España|🎄 Ver información cultural sobre Navidad en España]]
+[[60-Cultura/Navidad en España/Navidad en España|🎄 Ver información cultural sobre Navidad en España]]
 
 ## Enlaces Relacionados
 

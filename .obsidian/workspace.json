@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Vocabulario/Verbos/flipar.md",
+                "file": "10-Lecciones/20260112 Lección veintiséis.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "flipar"
+              "title": "20260112 Lección veintiséis"
             }
           }
         ]
@@ -204,8 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ee0be711958dbb1",
+  "active": "76a9d3e56f0cc609",
   "lastOpenFiles": [
+    "10-Lecciones/20260107 Lección veinticinco.md",
+    "30-Vocabulario/Temas/Siempre Singular.md",
+    "30-Vocabulario/Verbos/flipar.md",
     "30-Vocabulario/Temas/Descripción Física/Cara.md",
     "30-Vocabulario/Temas/Profesiones/Profesiones.md",
     "60-Cultura/España vs Hispanoamerica/España vs Hispanoamerica.md",
@@ -217,7 +220,6 @@
     "30-Vocabulario/Temas/La Familia/La Familia.md",
     "30-Vocabulario/Temas/Días de la semana.md",
     "30-Vocabulario/Temas/Carácter/Carácter.md",
-    "10-Lecciones/20260107 Lección veinticinco.md",
     "40-Deberes/20260107 Lección veinticinco.md",
     "40-Deberes/Untitled.md",
     "30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.).md",
@@ -241,8 +243,6 @@
     "30-Vocabulario/Temas/Colores/Colores.md",
     "30-Vocabulario/Verbos/hablar.md",
     "30-Vocabulario/Verbos/deletrear.md",
-    "30-Vocabulario/Verbos/encantar.md",
-    "30-Vocabulario/Verbos/dejar.md",
     "10-Lecciones/20260107",
     "30-Vocabulario/Temas/Siempre Plural/vituallas.jpg~",
     "30-Vocabulario/Temas/Siempre Plural/vacaciones.jpg~",

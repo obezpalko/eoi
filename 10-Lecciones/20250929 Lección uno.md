@@ -10,7 +10,7 @@ date: 2025-09-29
 
 # Vocabulario básico
 
-- [[deletrear|Deletrear]] - decir letras (to spell)
+- [[30-Vocabulario/Verbos/deletrear|Deletrear]] - decir letras (to spell)
 - **@** - arroba (at symbol)
 
 # Lección: Presentación Personal
@@ -66,12 +66,12 @@ date: 2025-09-29
 
 ## Verbos principales (Presente simple)
 
-- [[ser|Ser]]
-- [[tener|Tener]]
-- [[vivir|Vivir]]
-- [[trabajar|Trabajar]]
-- [[hablar|Hablar]]
-- [[llamarse|Llamarse]]
+- [[30-Vocabulario/Verbos/ser|Ser]]
+- [[30-Vocabulario/Verbos/tener|Tener]]
+- [[30-Vocabulario/Verbos/vivir|Vivir]]
+- [[30-Vocabulario/Verbos/trabajar|Trabajar]]
+- [[30-Vocabulario/Verbos/hablar|Hablar]]
+- [[30-Vocabulario/Verbos/llamarse|Llamarse]]
 
 ## Palabras interrogativas
 

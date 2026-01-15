@@ -3,8 +3,8 @@
 
 # Vocabulario
 
-- [[odiar]]
-- [[dejar]] / [[prestar]]
+- [[30-Vocabulario/Verbos/odiar]]
+- [[30-Vocabulario/Verbos/dejar]] / [[30-Vocabulario/Verbos/prestar]]
 
 ### Siempre plural
 

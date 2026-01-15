@@ -12,7 +12,7 @@ tags:
 ## Practicamos
 ### Gustar
 
-[[gustar]] [[Verbos como Gustar (Encantar, Doler, etc.)]]
+[[30-Vocabulario/Verbos/gustar]] [[30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.)]]
 
 - Me gustan los helados, ¿Y a tí?
 - Sí, a mí también.
@@ -108,7 +108,7 @@ Hobby - afición
 7. Tecnología
 ### Interesar
 
-[[Verbos como Gustar (Encantar, Doler, etc.)]]
+[[30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.)]]
 
 - a mí me interesa la tecnología
 - a mí me interesan el deporte y el arte

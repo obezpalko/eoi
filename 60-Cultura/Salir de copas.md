@@ -50,5 +50,5 @@ El horario español es único. "Salir de copas" ocurre **después de cenar**.
 * *No quiero salir de fiesta (discoteca), prefiero algo tranquilo, solo un par de copas.*
 * *(A Alena)*: *Hoy dejamos a Faina con la niñera (babysitter) y salimos de copas un rato.*
 
-- [[ir]]
-- [[salir]]
+- [[30-Vocabulario/Verbos/ir]]
+- [[30-Vocabulario/Verbos/salir]]

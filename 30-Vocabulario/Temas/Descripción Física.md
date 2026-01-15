@@ -19,5 +19,5 @@ Este tema incluye vocabulario sobre diferentes aspectos de la apariencia física
 
 ## Temas Relacionados
 
-- [[Carácter]] - Descripción de la personalidad
-- [[Ropa y Accesorios]] - Prendas de vestir
+- [[30-Vocabulario/Temas/Carácter]] - Descripción de la personalidad
+- [[30-Vocabulario/Temas/Ropa y Accesorios]] - Prendas de vestir
