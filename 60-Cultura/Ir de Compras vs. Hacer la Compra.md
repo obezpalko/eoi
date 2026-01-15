@@ -33,32 +33,32 @@ Aunque en inglés usamos "Go shopping" para todo, en español diferenciamos clar
 
 ## 2. Lugares y Vocabulario
 
-| Lugar/Concepto | Descripción | Imagen |
-|----------------|-------------|--------|
-| **El Centro Comercial** | Shopping Mall. El lugar grande con muchas tiendas (ej: El Corte Inglés). | ![[Ir de Compras vs. Hacer la Compra/centro_comercial.jpg]] |
-| **Las Tiendas** | The shops. Pequeños comercios a pie de calle. | ![[Ir de Compras vs. Hacer la Compra/tiendas_calle.jpg]] |
-| **El Supermercado** | Supermarket. Donde haces la compra semanal. | ![[Ir de Compras vs. Hacer la Compra/supermercado.jpg]] |
-| **Las Rebajas** | The Sales. ¡Muy importante en España! Ocurren principalmente en **Enero** (invierno) y **Julio** (verano). | ![[Ir de Compras vs. Hacer la Compra/rebajas.jpg]] |
-| **El Probador** | Fitting room. Donde te pruebas la ropa. | ![[Ir de Compras vs. Hacer la Compra/probador.jpg]] |
-| **La Caja** | The checkout/register. Donde pagas. | ![[Ir de Compras vs. Hacer la Compra/caja_tienda.jpg]] |
+| Lugar/Concepto | Descripción | EN / RU | Imagen |
+|----------------|-------------|---------|--------|
+| **El Centro Comercial** | El lugar grande con muchas tiendas (ej: El Corte Inglés). | Shopping Mall / Торговый центр | ![[Ir de Compras vs. Hacer la Compra/centro_comercial.jpg]] |
+| **Las Tiendas** | Pequeños comercios a pie de calle. | The shops / Магазины | ![[Ir de Compras vs. Hacer la Compra/tiendas_calle.jpg]] |
+| **El Supermercado** | Donde haces la compra semanal. | Supermarket / Супермаркет | ![[Ir de Compras vs. Hacer la Compra/supermercado.jpg]] |
+| **Las Rebajas** | ¡Muy importante en España! Ocurren principalmente en **Enero** (invierno) y **Julio** (verano). | The Sales / Распродажа | ![[Ir de Compras vs. Hacer la Compra/rebajas.jpg]] |
+| **El Probador** | Donde te pruebas la ropa. | Fitting room / Примерочная | ![[Ir de Compras vs. Hacer la Compra/probador.jpg]] |
+| **La Caja** | Donde pagas. | The checkout/register / Касса | ![[Ir de Compras vs. Hacer la Compra/caja_tienda.jpg]] |
 
 ---
 
 ## 3. Frases de Supervivencia en la Tienda
 
-### A. Mirando (Browsing)
+### A. Mirando (Browsing / Смотрю)
 * **Dependiente:** *¿Le puedo ayudar?*
-* **Tú:** *No gracias, **solo estoy mirando**.* (Just looking).
+* **Tú:** *No gracias, **solo estoy mirando**.* (Just looking / Просто смотрю).
 
-### B. Probando (Trying on)
-* *¿Dónde están los **probadores**?*
-* *¿Me lo puedo **probar**?* (Can I try it on?)
-* *¿Tienen una **talla** más grande / más pequeña?* (Size).
+### B. Probando (Trying on / Примерка)
+* *¿Dónde están los **probadores**?* (Where are the fitting rooms? / Где примерочные?)
+* *¿Me lo puedo **probar**?* (Can I try it on? / Могу я это примерить?)
+* *¿Tienen una **talla** más grande / más pequeña?* (Size / Размер).
 
-### C. Pagando (Paying)
-* *¿Cuánto cuesta?* / *¿Qué precio tiene?*
-* *¿Aceptan **tarjeta**?* (Do you take card?)
-* *¿Me puede dar el **ticket** (recibo), por favor?* (Para devoluciones).
+### C. Pagando (Paying / Оплата)
+* *¿Cuánto cuesta?* / *¿Qué precio tiene?* (How much is it? / Сколько стоит?)
+* *¿Aceptan **tarjeta**?* (Do you take card? / Принимаете карту?)
+* *¿Me puede dar el **ticket** (recibo), por favor?* (Receipt / Чек).
 
 ![[Ir de Compras vs. Hacer la Compra/tarjeta_credito.jpg]]
 *Pago con tarjeta de crédito*
@@ -86,10 +86,13 @@ Aunque en inglés usamos "Go shopping" para todo, en español diferenciamos clar
 * **Bizum** - sistema de pago móvil muy popular en España.
 
 ### Vocabulario Adicional
-* **El escaparate** - Shop window (vitrina)
-* **La cola** - The queue/line
-* **El carrito** - Shopping cart
-* **La cesta** - Shopping basket
-* **El recibo/ticket** - Receipt
-* **Devolver** - To return (an item)
-* **Cambiar** - To exchange
+* **El escaparate** - Shop window / Витрина
+* **La cola** - The queue/line / Очередь
+* **El carrito** - Shopping cart / Тележка
+* **La cesta** - Shopping basket / Корзина
+* **El recibo/ticket** - Receipt / Чек
+* **Devolver** - To return (an item) / Вернуть
+* **Cambiar** - To exchange / Обменять
+* **La talla** - Size (clothing) / Размер
+* **El número** - Size (shoes) / Размер обуви
+* **Probarse** - To try on / Примерить
