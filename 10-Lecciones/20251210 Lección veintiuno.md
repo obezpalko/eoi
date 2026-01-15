@@ -11,7 +11,7 @@
 
 ## Descripción físico y carácter
 
-[[Colores]]
+[[30-Vocabulario/Temas/Colores|Colores]]
 
 ## Estatura, Complexión y Apariencia (Opuestos)
 

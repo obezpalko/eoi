@@ -63,7 +63,7 @@ Vuelve a escuchar y señala qué les gusta hacer en su tiempo libre.
 7. Marisa
 
 
-[[Termómetro de interesas]]
+[[30-Vocabulario/Verbos/Termómetro de interesas|Termómetro de interesas]]
 ## Vocabulario
 - coser
 - modista
@@ -84,4 +84,4 @@ Vuelve a escuchar y señala qué les gusta hacer en su tiempo libre.
 - pito (pito te coche)
 
 
-[[20260119 Lección veintiocho|Deberes]]
+[[40-Deberes/20260119 Lección veintiocho|Deberes]]

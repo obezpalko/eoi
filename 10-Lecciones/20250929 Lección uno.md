@@ -25,7 +25,7 @@ date: 2025-09-29
 - **¿Cuál es tu apellido?** - Mi apellido es...
 - **¿Cuáles son tus apellidos?** - Mis apellidos son...
 
-> **Ver también:** [[Nacionalidades]] [[Lugares Españolas]]
+> **Ver también:** [[30-Vocabulario/Temas/Nacionalidades/Nacionalidades|Nacionalidades]] [[30-Vocabulario/Temas/Nacionalidades/Lugares Españolas|Lugares Españolas]]
 
 ## Edad
 
@@ -35,7 +35,7 @@ date: 2025-09-29
 
 - **¿De dónde eres?** - Soy de Ucrania e Israel. Soy israelí.
 
-> **Ver también:** [[Nacionalidades]] [[Lugares Españolas]]
+> **Ver también:** [[30-Vocabulario/Temas/Nacionalidades/Nacionalidades|Nacionalidades]] [[30-Vocabulario/Temas/Nacionalidades/Lugares Españolas|Lugares Españolas]]
 
 ## Trabajo
 
@@ -43,7 +43,7 @@ date: 2025-09-29
 - **¿En qué trabajas?** - Mi profesión es ingeniero informático
 - **¿A qué te dedicas?** - Soy ingeniero informático / Trabajo como ingeniero
 
-> **Ver también:** [[Profesiones]]
+> **Ver también:** [[30-Vocabulario/Temas/Profesiones|Profesiones]]
 
 ## Residencia
 
@@ -303,4 +303,4 @@ Algunas profesiones muy comunes en España:
 - **Camarero/a** - común en zonas turísticas
 - **Comercial** - ventas
 
-> **Ver la lista completa en:** [[Profesiones]]
+> **Ver la lista completa en:** [[30-Vocabulario/Temas/Profesiones|Profesiones]]

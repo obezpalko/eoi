@@ -13,9 +13,9 @@ Vocabulario para describir el aspecto físico de las personas.
 
 Este tema incluye vocabulario sobre diferentes aspectos de la apariencia física:
 
-- **[[Descripción Física/General|General]]** - Estatura, complexión y apariencia general
-- **[[Descripción Física/Cara|Cara]]** - Características faciales
-- **[[Descripción Física/Pelo|Pelo]]** - Color, estilo y características del cabello
+- **[[30-Vocabulario/Temas/Descripción Física/General|General]]** - Estatura, complexión y apariencia general
+- **[[30-Vocabulario/Temas/Descripción Física/Cara|Cara]]** - Características faciales
+- **[[30-Vocabulario/Temas/Descripción Física/Pelo|Pelo]]** - Color, estilo y características del cabello
 
 ## Temas Relacionados
 

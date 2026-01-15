@@ -1,5 +1,5 @@
-[[Artículos]]
-[[Colores]]
+[[20-Gramática/Artículos|Artículos]]
+[[30-Vocabulario/Temas/Colores|Colores]]
 
 # Vocabulario
 
@@ -10,5 +10,5 @@
 
 Ver la lista completa y reglas en:
 
-- [[El Número]]
-- [[Siempre Plural]]
+- [[20-Gramática/El Número|El Número]]
+- [[30-Vocabulario/Temas/Siempre Plural|Siempre Plural]]

@@ -23,7 +23,7 @@ En esta lección trabajamos:
 
 ## Edad
 
-[[Descripción Física/General|📖 Ver más sobre descripción física]]
+[[30-Vocabulario/Temas/Descripción Física/General|📖 Ver más sobre descripción física]]
 
 | **Etapa de Vida** | **Ejemplo Masculino**                | **Ejemplo Femenino**              | **Descripción**                                      |
 | ----------------- | ------------------------------------ | --------------------------------- | ---------------------------------------------------- |
@@ -39,7 +39,7 @@ En esta lección trabajamos:
 
 ## Carácter y Personalidad
 
-[[Carácter|📖 Ver vocabulario completo de carácter]]
+[[30-Vocabulario/Temas/Carácter|📖 Ver vocabulario completo de carácter]]
 
 ### Adjetivos de Personalidad (de la lección)
 
@@ -179,7 +179,7 @@ Para expresar que alguien tiene una cualidad en grado **muy alto**, usamos:
 
 ## SER vs. ESTAR con Adjetivos de Carácter
 
-[[Artículos|📖 Ver más sobre gramática]]
+[[20-Gramática/Artículos|📖 Ver más sobre gramática]]
 
 ### SER (Característica permanente)
 
