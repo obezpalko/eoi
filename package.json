@@ -1,0 +1,12 @@
+{
+  "name": "eoi-quartz",
+  "version": "1.0.0",
+  "description": "EOI Spanish course materials - Quartz static site",
+  "scripts": {
+    "build": "npx quartz build",
+    "serve": "npx quartz build --serve",
+    "sync": "npx quartz sync"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

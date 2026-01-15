@@ -19,3 +19,11 @@ ENV/
 # IDE
 .vscode/
 .idea/
+
+# Custom
+.trash/
+
+# Quartz build artifacts
+public/
+.dependencies/
+.cache/
