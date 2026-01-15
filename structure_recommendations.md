@@ -24,21 +24,26 @@ Este documento describe las mejores prácticas para mantener el proyecto EOI org
 
 ### Ubicación
 
-- **Opción A (Actual):** Carpeta centralizada `90-Archivos`. Útil para reutilización.
-- **Opción B (Recomendada para Temas):** Mantener las imágenes específicas de un tema dentro de su subcarpeta (e.g., `30-Vocabulario/Temas/Siempre Plural/`). Esto hace que el material sea "portable".
+- **Regla principal:** Las imágenes deben estar en una carpeta con el mismo nombre que el archivo markdown, en el mismo directorio padre.
+- Si tienes un archivo `Ropa y Accesorios.md` en `30-Vocabulario/Temas/`, todas las imágenes deben estar en `30-Vocabulario/Temas/Ropa y Accesorios/`.
+- Estructura correcta:
+  - `30-Vocabulario/Temas/Ropa y Accesorios.md` (archivo markdown)
+  - `30-Vocabulario/Temas/Ropa y Accesorios/` (carpeta con imágenes)
+  - Referencias en el markdown: `![[Ropa y Accesorios/pantalones.jpg]]`
 
 ### Enlaces
 
 - Usar rutas relativas siempre que sea posible para mantener la portabilidad del repositorio.
-- Obsidian maneja esto automáticamente, pero los scripts deben ser conscientes de dónde se ejecutan.
+- Obsidian con la configuración "Same folder as the current file" maneja esto automáticamente.
+- Las referencias deben incluir el nombre de la carpeta: `![[NombreCarpeta/imagen.jpg]]` cuando el archivo está en el nivel padre de la carpeta.
 
 ## 3. Notas de Carpeta (Folder Notes)
 
 - Si una carpeta representa un tema (e.g., `Siempre Plural`), es buena práctica tener una nota con el mismo nombre EXACTO dentro (o al mismo nivel) que actúe como índice.
   - `30-Vocabulario/Temas/Siempre Plural/` (Carpeta)
-  - `30-Vocabulario/Temas/Siempre Plural/Siempre Plural.md` (Nota índice)
+  - `30-Vocabulario/Temas/Siempre Plural.md` (Nota índice)
 
 ## 4. Herramientas y Scripts
 
-- Almacenar scripts de utilidad en `80-Tools` (o `Herramientas`) para no ensuciar la raíz.
+- Almacenar scripts de utilidad en `80-Tools` para no ensuciar la raíz.
 - Los scripts deben ser **genéricos**: aceptar argumentos para rutas y datos, en lugar de tener información "hardcoded" (escrita directamente en el código).
