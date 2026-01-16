@@ -8,27 +8,55 @@ tags:
 
 ## Verbos básicos
 
+- **aprender** - to learn / учить, учиться
+- **charlar** - to chat, to talk / болтать, разговаривать
 - **deletrear** - spell out letters / произносить по буквам
+- **hablar** - to speak / говорить
 - **llamarse** - to be called / зваться
+- **recordar** - to remember, to remind / помнить, напоминать
 - **ser** - to be (permanent) / быть
 - **tener** - to have / иметь
-- **vivir** - to live / жить
 - **trabajar** - to work / работать
-- **hablar** - to speak / говорить
+- **vivir** - to live / жить
 
 ## Sustantivos
 
+- **abecedario** - alphabet / алфавит
 - **apellido** - surname, last name / фамилия
+- **apretón** - handshake, squeeze / рукопожатие
 - **arroba** (@) - at symbol / символ собака
-- **nombre** - name / имя
+- **brazo** - arm / рука (от плеча до кисти)
+- **consonante** - consonant / согласная
+- **correo electrónico** - email / электронная почта
+- **diminutivo** - diminutive, nickname / уменьшительное имя
+- **dirección** - address / адрес
 - **edad** - age / возраст
+- **geranio** - geranium / герань
+- **gitano** - gypsy, Roma person / цыган
+- **gusano** - worm / червяк
+- **hombro** - shoulder / плечо
+- **idioma** - language / язык
+- **jarrón** - vase / ваза
+- **jirafa** - giraffe / жираф
+- **licenciado/a** - graduate (university degree holder) / дипломированный специалист
+- **mayúscula** - capital letter / заглавная буква
+- **mejilla** - cheek / щека
+- **minúscula** - lowercase letter / строчная буква
 - **nacionalidad** - nationality / национальность
+- **nombre** - name / имя
 - **profesión** - profession / профессия
 - **residencia** - residence / место жительства
+- **retraso** - delay, lateness / опоздание, задержка
+- **rey** - king / король
 - **teléfono** - telephone / телефон
-- **correo electrónico** - email / электронная почта
-- **dirección** - address / адрес
-- **idioma** - language / язык
+- **vocal** - vowel / гласная
+- **xilófono** - xylophone / ксилофон
+- **yate** - yacht / яхта
+
+## Adjetivos
+
+- **ambiguo/a** - ambiguous, unclear / неоднозначный, двусмысленный
+- **grosero/a** - rude, impolite / грубый, невежливый
 
 ## Palabras interrogativas
 

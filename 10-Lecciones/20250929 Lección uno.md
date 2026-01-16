@@ -19,6 +19,17 @@ tags:
 
 # Lección: Presentación Personal
 
+> **📚 Ver tema completo:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]]
+> 
+> Este tema incluye:
+> - Vocabulario completo con traducciones
+> - Gramática detallada (verbos, interrogativos, posesivos)
+> - 10 diálogos de ejemplo (formales e informales)
+> - 15 ejercicios con soluciones
+> - Notas culturales extensas sobre España
+
+## Resumen de la Lección
+
 ## Nombre
 
 - **¿Cómo te llamas?** - Me llamo Alex

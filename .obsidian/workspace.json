@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60-Cultura/Qué se puede cantar.md",
+                "file": "60-Cultura/Profesiones y Trabajo en España.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Qué se puede cantar"
+              "title": "Profesiones y Trabajo en España"
             }
           }
         ]
@@ -185,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,6 +206,29 @@
   },
   "active": "76a9d3e56f0cc609",
   "lastOpenFiles": [
+    "30-Vocabulario/Temas/Presentación Personal/Cultura.md",
+    "30-Vocabulario/Temas/Presentación Personal/Diálogos.md",
+    "30-Vocabulario/Temas/Presentación Personal/Ejercicios.md",
+    "60-Cultura/Preguntas Personales en España.md",
+    "60-Cultura/Puntualidad en España.md",
+    "60-Cultura/Nombres y Diminutivos.md",
+    "60-Cultura/Profesiones y Trabajo en España.md",
+    "60-Cultura/Tú vs Usted.md",
+    "60-Cultura/Saludos y Contacto Físico.md",
+    "60-Cultura/Teléfonos en España.md",
+    "60-Cultura/Apellidos en España.md",
+    "30-Vocabulario/Temas/Presentación Personal/Presentación Personal.md",
+    "10-Lecciones/20250929 Lección uno.md",
+    "30-Vocabulario/Temas/Presentación Personal",
+    "30-Vocabulario/palabras.md",
+    "10-Lecciones/20251001 Lección dos.md",
+    "10-Lecciones/00000000 Lección template.md",
+    "10-Lecciones/00000000 Lección template 1.md",
+    "10-Lecciones/20260119 Lección veinticinco.md",
+    "30-Vocabulario/Temas/Colores.md",
+    "30-Vocabulario/Temas/Ropa y Accesorios.md",
+    "30-Vocabulario/Temas/Que prefieres.md",
+    "30-Vocabulario/Temas/Profesiones.md",
     "60-Cultura/Ir de Compras vs. Hacer la Compra.md",
     "60-Cultura/Qué se puede cantar.md",
     "60-Cultura/Navidad en España.md",
@@ -221,36 +244,13 @@
     "60-Cultura/Ir de Compras vs. Hacer la Compra/caja_tienda.jpg",
     "60-Cultura/Qué se puede cantar/himno.jpg",
     "60-Cultura/Ir de Compras vs. Hacer la Compra/comprar_comida.jpg",
-    "60-Cultura/España vs Hispanoamerica.md",
     "80-Tools/cantar_images.csv",
     "80-Tools/compras_images.csv",
     "60-Cultura/Qué se puede cantar",
     "60-Cultura/Ir de Compras vs. Hacer la Compra",
-    "30-Vocabulario/Temas/Profesiones.md",
     "80-Tools/redownload_profesiones_concepts.csv",
     "80-Tools/redownload_plural_concepts.csv",
     "80-Tools/redownload_singular_concepts.csv",
-    "80-Tools/redownload_concepts.csv",
-    "30-Vocabulario/Temas/Que prefieres.md",
-    "30-Vocabulario/Temas/Ropa y Accesorios.md",
-    "30-Vocabulario/Temas/Siempre Plural.md",
-    "30-Vocabulario/Temas/Siempre Singular.md",
-    "30-Vocabulario/Temas/Días de la semana.md",
-    "20-Gramática/Artículos.md",
-    "30-Vocabulario/palabras.md",
-    "30-Vocabulario/Temas/Colores.md",
-    "10-Lecciones/20260112 Lección veintiséis.md",
-    "10-Lecciones/20260107 Lección veinticinco.md",
-    "30-Vocabulario/Verbos/flipar.md",
-    "30-Vocabulario/Temas/Descripción Física/Cara.md",
-    "30-Vocabulario/Temas/Profesiones/Profesiones.md",
-    "30-Vocabulario/Temas/Descripción Física/General.md",
-    "30-Vocabulario/Temas/Mis cosas preferidas.md",
-    "30-Vocabulario/Temas/La Familia/La Familia.md",
-    "30-Vocabulario/Temas/Carácter/Carácter.md",
-    "40-Deberes/20260107 Lección veinticinco.md",
-    "40-Deberes/Untitled.md",
-    "30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.).md",
-    "30-Vocabulario/Temas/Ropa y Accesorios"
+    "80-Tools/redownload_concepts.csv"
   ]
 }
