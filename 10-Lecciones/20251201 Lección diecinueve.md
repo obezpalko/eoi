@@ -4,11 +4,12 @@ tags:
   - español
   - lección
 ---
+# 20251201 Lección diecinueve
 
 [[20251126 lección dieciocho|20251126 Lección dieciocho]]
 [[../20-Gramática/Artículos|Artículos]]
 
-# Vocabulario
+## Vocabulario
 
 - chispear (chirimiri) - накрапывать (о дожде)
 - perchero - вешалка, крючок
@@ -42,4 +43,4 @@ En aules
 - vosotras vuestra/vuestras
 - ellos/ellas/ustedes
 
-[[../40-Deberes/20251203|Deberes]]
+[[../40-Deberes/20251203 Lección|Deberes]]

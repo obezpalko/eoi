@@ -4,55 +4,55 @@ tags:
   - español
   - lección
 ---
+# Lección uno
 
-[[../40-Deberes/20250929|Deberes]]
-
-# Información de la profesora
+## Información de la profesora
 
 **Profesora:** Lorena  
 **Email:** <lorenaprofeeoi@gmail.com>
 
-# Vocabulario básico
+## Vocabulario básico
 
 - [[../30-Vocabulario/Verbos/deletrear|Deletrear]] - decir letras (to spell)
 - **@** - arroba (at symbol)
 
-# Lección: Presentación Personal
+## Lección: Presentación Personal
 
 > **📚 Ver tema completo:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]]
-> 
+>
 > Este tema incluye:
+>
 > - Vocabulario completo con traducciones
 > - Gramática detallada (verbos, interrogativos, posesivos)
 > - 10 diálogos de ejemplo (formales e informales)
 > - 15 ejercicios con soluciones
 > - Notas culturales extensas sobre España
 
-## Resumen de la Lección
+### Resumen de la Lección
 
-## Nombre
+#### Nombre
 
 - **¿Cómo te llamas?** - Me llamo Alex
 - **¿Cómo se llama usted?** - Me llamo Alex (formal)
 
-## Apellido
+#### Apellido
 
 - **¿Cuál es tu apellido?** - Mi apellido es...
 - **¿Cuáles son tus apellidos?** - Mis apellidos son...
 
 > **Ver también:** [[../30-Vocabulario/Temas/Nacionalidades/Nacionalidades|Nacionalidades]] [[../30-Vocabulario/Temas/Nacionalidades/Lugares Españolas|Lugares Españolas]]
 
-## Edad
+#### Edad
 
 - **¿Cuántos años tienes?** - Tengo cincuenta años.
 
-## Nacionalidad
+#### Nacionalidad
 
 - **¿De dónde eres?** - Soy de Ucrania e Israel. Soy israelí.
 
 > **Ver también:** [[../30-Vocabulario/Temas/Nacionalidades/Nacionalidades|Nacionalidades]] [[../30-Vocabulario/Temas/Nacionalidades/Lugares Españolas|Lugares Españolas]]
 
-## Trabajo
+#### Trabajo
 
 - **¿Cuál es tu profesión?** - Soy ingeniero
 - **¿En qué trabajas?** - Mi profesión es ingeniero informático
@@ -60,26 +60,26 @@ tags:
 
 > **Ver también:** [[../30-Vocabulario/Temas/Profesiones|Profesiones]]
 
-## Residencia
+#### Residencia
 
 - **¿Dónde vives?** - Yo vivo en Dénia.
 
-## Teléfono
+#### Teléfono
 
 - **¿Cuál es tu número de teléfono?** - Mi número de teléfono es...
 
-## Dirección de correo electrónico
+#### Dirección de correo electrónico
 
 - **¿Cuál es tu dirección de correo electrónico?** - Mi dirección de correo electrónico es...
 
-## Idiomas
+#### Idiomas
 
 - **¿Cuántos idiomas hablas?** - Yo hablo tres idiomas: ruso, ucraniano e inglés
 - **¿Qué idiomas hablas?** - Yo hablo inglés y ruso
 
-# Gramática
+### Gramática
 
-## Verbos principales (Presente simple)
+#### Verbos principales (Presente simple)
 
 - [[../30-Vocabulario/Verbos/ser|Ser]]
 - [[../30-Vocabulario/Verbos/tener|Tener]]
@@ -88,7 +88,7 @@ tags:
 - [[../30-Vocabulario/Verbos/hablar|Hablar]]
 - [[../30-Vocabulario/Verbos/llamarse|Llamarse]]
 
-## Palabras interrogativas
+### Palabras interrogativas
 
 | Español | Uso | Ejemplo |
 |---------|-----|---------|
@@ -101,9 +101,9 @@ tags:
 | **¿De dónde?** | Para origen | ¿De dónde eres? |
 | **¿En qué?** | Para especificar trabajo | ¿En qué trabajas? |
 
-## Adjetivos posesivos
+### Adjetivos posesivos
 
-### Antes del sustantivo
+#### Antes del sustantivo
 
 | Pronombre | Singular | Plural |
 |-----------|----------|--------|
@@ -122,9 +122,9 @@ tags:
 - Tus idiomas son inglés y ruso
 - Su teléfono es...
 
-# Ejercicios
+### Ejercicios
 
-## Ejercicio 1: Completar con el verbo correcto
+#### Ejercicio 1: Completar con el verbo correcto
 
 Completa las frases con la forma correcta del verbo **ser**, **tener**, **vivir**, **trabajar** o **hablar**.
 
@@ -139,7 +139,7 @@ Completa las frases con la forma correcta del verbo **ser**, **tener**, **vivir*
 9. ¿Usted ________ (hablar) inglés?
 10. Mi padre ________ (trabajar) en un hospital.
 
-## Ejercicio 2: Relacionar preguntas y respuestas
+#### Ejercicio 2: Relacionar preguntas y respuestas
 
 Relaciona cada pregunta con su respuesta correcta:
 
@@ -161,7 +161,7 @@ Relaciona cada pregunta con su respuesta correcta:
 - e) Soy de Ucrania e Israel.
 - f) Hablo ruso, ucraniano e inglés.
 
-## Ejercicio 3: Formulario de información personal
+#### Ejercicio 3: Formulario de información personal
 
 Completa este formulario con tu información:
 
@@ -177,7 +177,7 @@ Completa este formulario con tu información:
 | Correo electrónico: | |
 | Idiomas: | |
 
-## Ejercicio 4: Escribir los números de teléfono
+#### Ejercicio 4: Escribir los números de teléfono
 
 Escribe estos números de teléfono en español:
 
@@ -185,9 +185,9 @@ Escribe estos números de teléfono en español:
 2. 965 123 456: ________________________________________
 3. 722 987 654: ________________________________________
 
-# Diálogos
+### Diálogos
 
-## Diálogo 1: Conocer a alguien en una fiesta
+#### Diálogo 1: Conocer a alguien en una fiesta
 
 **Ana:** ¡Hola! ¿Cómo te llamas?  
 **Carlos:** Hola, me llamo Carlos. ¿Y tú?  
@@ -199,7 +199,7 @@ Escribe estos números de teléfono en español:
 **Carlos:** Soy ingeniero informático. ¿Y tú?  
 **Ana:** Yo soy profesora de español.
 
-## Diálogo 2: Entrevista de trabajo
+#### Diálogo 2: Entrevista de trabajo
 
 **Entrevistadora:** Buenos días. ¿Cómo se llama usted?  
 **Candidato:** Buenos días. Me llamo Miguel Pérez García.  
@@ -212,7 +212,7 @@ Escribe estos números de teléfono en español:
 **Entrevistadora:** ¿Dónde vive actualmente?  
 **Candidato:** Vivo en Alicante.
 
-## Diálogo 3: Inscripción en una escuela
+#### Diálogo 3: Inscripción en una escuela
 
 **Recepcionista:** Buenas tardes. ¿Cómo te llamas?  
 **Estudiante:** Buenas tardes. Me llamo Olga.  
@@ -226,18 +226,18 @@ Escribe estos números de teléfono en español:
 **Estudiante:** Es <olga.ivanova@email.com>  
 **Recepcionista:** Perfecto. Gracias.
 
-## Actividad de role-play
+### Actividad de role-play
 
 **En parejas, practicad estos roles:**
 
-### Rol A: Eres un nuevo estudiante en la escuela
+#### Rol A: Eres un nuevo estudiante en la escuela
 
 - Presenta tu nombre y apellidos
 - Di tu nacionalidad
 - Di dónde vives
 - Di qué idiomas hablas
 
-### Rol B: Eres el/la recepcionista
+#### Rol B: Eres el/la recepcionista
 
 - Pregunta el nombre
 - Pregunta los apellidos
@@ -247,9 +247,9 @@ Escribe estos números de teléfono en español:
 - Pregunta el número de teléfono
 - Pregunta el correo electrónico
 
-# Cultura
+### Cultura
 
-## Los apellidos en España
+#### Los apellidos en España
 
 En España y muchos países latinoamericanos, las personas tienen **dos apellidos**:
 
@@ -264,9 +264,9 @@ En España y muchos países latinoamericanos, las personas tienen **dos apellido
 
 Cuando te preguntan "¿Cuál es tu apellido?" normalmente das solo el primero, pero en documentos oficiales se usan los dos.
 
-## Tú vs. Usted (Formal e Informal)
+### Tú vs. Usted (Formal e Informal)
 
-### Uso de **TÚ** (informal)
+#### Uso de **TÚ** (informal)
 
 - Con amigos
 - Con familia
@@ -280,7 +280,7 @@ Cuando te preguntan "¿Cuál es tu apellido?" normalmente das solo el primero, p
 - ¿Dónde vives?
 - ¿Cuántos años tienes?
 
-### Uso de **USTED** (formal)
+#### Uso de **USTED** (formal)
 
 - Con personas mayores
 - Con jefes y superiores
@@ -294,7 +294,7 @@ Cuando te preguntan "¿Cuál es tu apellido?" normalmente das solo el primero, p
 - ¿Dónde vive usted?
 - ¿Cuántos años tiene usted?
 
-## Formato de teléfonos en España
+#### Formato de teléfonos en España
 
 Los números de teléfono en España tienen **9 dígitos**:
 
@@ -306,7 +306,7 @@ Los números de teléfono en España tienen **9 dígitos**:
 
 Se suelen agrupar de tres en tres para facilitar la lectura.
 
-## Profesiones comunes en España
+### Profesiones comunes en España
 
 Algunas profesiones muy comunes en España:
 

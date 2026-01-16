@@ -33,7 +33,8 @@ Completa las frases con la forma correcta del verbo **ser**, **tener**, **vivir*
 
 Escribe el número de cada pregunta junto a su respuesta correcta:
 
-**Preguntas:**
+##### Preguntas
+
 1. ¿Cómo te llamas?
 2. ¿Cuántos años tienes?
 3. ¿De dónde eres?
@@ -41,7 +42,8 @@ Escribe el número de cada pregunta junto a su respuesta correcta:
 5. ¿A qué te dedicas?
 6. ¿Qué idiomas hablas?
 
-**Respuestas:**
+##### Respuestas
+
 - ___ Vivo en Dénia.
 - ___ Soy ingeniero informático.
 - ___ Me llamo Alex.
@@ -52,6 +54,7 @@ Escribe el número de cada pregunta junto a su respuesta correcta:
 #### 3. Escribir tu presentación
 
 Escribe un texto de presentación sobre ti (mínimo 8 frases). Incluye:
+
 - Tu nombre y apellidos
 - Tu edad
 - Tu nacionalidad
@@ -61,11 +64,11 @@ Escribe un texto de presentación sobre ti (mínimo 8 frases). Incluye:
 - Tu número de teléfono
 - Tu correo electrónico
 
-**Ejemplo:**
+##### Ejemplo
 
 > Me llamo Alex. Mi apellido es... Tengo cincuenta años. Soy de Ucrania e Israel, soy israelí. Vivo en Dénia. Soy ingeniero informático. Hablo tres idiomas: ruso, ucraniano e inglés. Mi número de teléfono es...
 
-**Tu presentación:**
+##### Tu presentación
 
 _____________________________________________________________________
 
@@ -87,7 +90,8 @@ _____________________________________________________________________
 
 Conjuga estos verbos en presente con todos los pronombres:
 
-**SER**
+##### SER
+
 - Yo ____________
 - Tú ____________
 - Él/Ella/Usted ____________
@@ -95,7 +99,8 @@ Conjuga estos verbos en presente con todos los pronombres:
 - Vosotros/as ____________
 - Ellos/Ellas/Ustedes ____________
 
-**TENER**
+##### TENER
+
 - Yo ____________
 - Tú ____________
 - Él/Ella/Usted ____________
@@ -103,7 +108,8 @@ Conjuga estos verbos en presente con todos los pronombres:
 - Vosotros/as ____________
 - Ellos/Ellas/Ustedes ____________
 
-**VIVIR**
+##### VIVIR
+
 - Yo ____________
 - Tú ____________
 - Él/Ella/Usted ____________
@@ -143,11 +149,10 @@ Traduce estas frases a español:
 - Ver la tabla de [[../20-Gramática/Artículos]]
 - Empezar a estudiar [[../20-Gramática/El Número]] (singular y plural)
 
----
+_____________________________________________________________________
 
 ## Notas de la profesora
 
-- Email: lorenaprofeeoi@gmail.com
+- Email: <lorenaprofeeoi@gmail.com>
 - Traer el libro de texto a la próxima clase
 - Preparar una breve presentación oral (1 minuto) sobre ti mismo
-
