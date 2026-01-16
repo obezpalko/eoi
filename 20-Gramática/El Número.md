@@ -46,3 +46,19 @@ Ejemplos comunes:
 * **Las tijeras** (scissors)
 
 Ver lista completa: [[../30-Vocabulario/Temas/Siempre Plural]]
+
+---
+
+## Singularia Tantum (Siempre Singular)
+
+Existen palabras que **solo se usan en singular**, generalmente sustantivos incontables, puntos cardinales o conceptos abstractos.
+
+Ejemplos comunes:
+
+* **La salud** (health)
+* **La sed** (thirst)
+* **El hambre** (hunger)
+* **El caos** (chaos)
+* **El norte** (north)
+
+Ver lista completa: [[../30-Vocabulario/Temas/Siempre Singular]]
