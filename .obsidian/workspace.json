@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-Lecciones/20251006 Lección tres.md",
+                "file": "30-Vocabulario/Temas/Nacionalidades/Nacionalidades.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251006 Lección tres"
+              "title": "Nacionalidades"
             }
           }
         ]
@@ -206,10 +206,12 @@
   },
   "active": "76a9d3e56f0cc609",
   "lastOpenFiles": [
+    "sort_tables.py",
+    "30-Vocabulario/Temas/Nacionalidades/Lugares Españolas.md",
+    "10-Lecciones/20251006 Lección tres.md",
     "30-Vocabulario/palabras.md",
     "40-Deberes/20251210 Lección.md",
     "40-Deberes/20251203 Lección.md",
-    "10-Lecciones/20251006 Lección tres.md",
     "40-Deberes/20251008 Lección cuatro.md",
     "40-Deberes/20251006 Lección tres.md",
     "40-Deberes/20251001 Lección dos.md",
@@ -231,8 +233,6 @@
     "10-Lecciones/00000000 Lección template.md",
     "10-Lecciones/20260119 Lección veinticinco.md",
     "30-Vocabulario/Temas/Colores.md",
-    "30-Vocabulario/Temas/Ropa y Accesorios.md",
-    "30-Vocabulario/Temas/Que prefieres.md",
     "60-Cultura/Qué se puede cantar/opera.jpg",
     "60-Cultura/Qué se puede cantar/nana.jpg",
     "80-Tools/retry_cantar.csv",
