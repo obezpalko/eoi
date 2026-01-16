@@ -3,59 +3,109 @@ tags:
   - español
   - gramática
 ---
+# Artículos
 
-### Femeninas
+Los artículos son palabras que van delante del sustantivo y nos indican su **género** (masculino o femenino) y su **número** (singular o plural). Siempre concuerdan con el sustantivo.
+
+En español hay dos clases de artículos:
+
+| Tipo                             | Masculino Singular | Femenino Singular | Masculino Plural | Femenino Plural |
+| :------------------------------- | :----------------: | :---------------: | :--------------: | :-------------: |
+| **Determinados** (Definidos)     |       **el**       |      **la**       |     **los**      |     **las**     |
+| **Indeterminados** (Indefinidos) |       **un**       |      **una**      |     **unos**     |    **unas**     |
+
+## Sustantivos femeninos
 
 * General
- 	* -a
- 	* -dad, -tad
- 	* -ción, -sión
- 	* Las letras del alfabeto
+  * -a
+  * -dad, -tad
+  * -ción, -sión
+  * Las letras del alfabeto
 
-- Excepciones
- 	* el problema
- 	* el día
- 	* el aula
- 	* el mapa
- 	* el idioma
- 	* el planeta
- 	* el sofá
-
-### Masculinas
-
-- General
- 	* -o
- 	* -or
- 	* -aje
- 	* [[../30-Vocabulario/Temas/Colores|Colores]]
- 	* [[../30-Vocabulario/Temas/Días de la semana|Días de la semana]]
 * Excepciones
- 	* la moto (la motocicleta)
- 	* la foto (la fotografía)
- 	* la flor
- 	* las tijeras
- 	* la mano
- 	* la radio
- 	* el hambre (see below)
+  * el problema
+  * el día
+  * el aula
+  * el mapa
+  * el idioma
+  * el planeta
+  * el sofá
+  * el clima
+  * el tema
+  * el sistema
+  * el programa
+  * el esquema
+  * el pijama
+  * el fantasma
+  * el diploma
+  * el drama
 
-El articulo todavía con palabras empiezan *a-*, *ha-*
+## Sustantivos masculinos
+
+* General
+  * -o
+  * -or
+  * -aje
+  * [[../30-Vocabulario/Temas/Colores|Colores]]
+  * [[../30-Vocabulario/Temas/Días de la semana|Días de la semana]]
+
+* Excepciones
+  * la moto (la motocicleta)
+  * la foto (la fotografía)
+  * la flor
+  * las tijeras
+  * la mano
+  * la radio
+  * la labor
+  * la piel
+  * la sal
+  * la miel
+  * la cárcel
+  * la libido
+  * la disco
+
+## Sustantivos femeninos que empiezan por a- o ha- tónica
+
+Todavía con palabras empiezan *a-*, *ha-*
+
 * el agua
 * el arma
-* el hacha топор, axe 🪓
-Есть слова, которые не меняются по родам. Род определяется артиклем el/la
+* el hacha 🪓
+* el águila
+* el alma
+* el área
+* el hada
+* el ave
+* el hambre
+
+## Sustantivos comunes en cuanto al género (una sola forma)
+
 * periodista
-Есть слова парные, разные для родов
-* padre/madre
-* toro/vaca
-* macho/hembra
-* caballo/yegua
-* padrino/madrina
-* marido/esposa
-* hombre/mujer
-* chivo/cabra
-* yerno/nuera зять/невестка
-* caballero/dama
-* jinete/amazona наездник, всадник/всадница, амазонка
+* estudiante
+* cantante
+* paciente
+* turista
+* atleta
+* artista
+* policía
+* modelo
+* testigo
+
+## Sustantivos heterónimos (formas distintas para cada género)
+
+| Masculino | Femenino |
+| :-------- | :------- |
+| padre     | madre    |
+| toro      | vaca     |
+| macho     | hembra   |
+| caballo   | yegua    |
+| padrino   | madrina  |
+| marido    | esposa   |
+| hombre    | mujer    |
+| chivo     | cabra    |
+| yerno     | nuera    |
+| caballero | dama     |
+| jinete    | amazona  |
 
 ## Aules
 

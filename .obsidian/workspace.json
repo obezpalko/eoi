@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Vocabulario/Temas/Nacionalidades/Nacionalidades.md",
+                "file": "20-Gramática/Artículos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nacionalidades"
+              "title": "Artículos"
             }
           }
         ]
@@ -206,6 +206,7 @@
   },
   "active": "76a9d3e56f0cc609",
   "lastOpenFiles": [
+    "30-Vocabulario/Temas/Nacionalidades/Nacionalidades.md",
     "sort_tables.py",
     "30-Vocabulario/Temas/Nacionalidades/Lugares Españolas.md",
     "10-Lecciones/20251006 Lección tres.md",
@@ -250,7 +251,6 @@
     "60-Cultura/Ir de Compras vs. Hacer la Compra",
     "80-Tools/redownload_profesiones_concepts.csv",
     "80-Tools/redownload_plural_concepts.csv",
-    "80-Tools/redownload_singular_concepts.csv",
-    "80-Tools/redownload_concepts.csv"
+    "80-Tools/redownload_singular_concepts.csv"
   ]
 }
