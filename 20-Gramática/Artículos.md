@@ -93,19 +93,30 @@ Todavía con palabras empiezan *a-*, *ha-*
 
 ## Sustantivos heterónimos (formas distintas para cada género)
 
-| Masculino | Femenino |
-| :-------- | :------- |
-| padre     | madre    |
-| toro      | vaca     |
-| macho     | hembra   |
-| caballo   | yegua    |
-| padrino   | madrina  |
-| marido    | esposa   |
-| hombre    | mujer    |
-| chivo     | cabra    |
-| yerno     | nuera    |
-| caballero | dama     |
-| jinete    | amazona  |
+| Masculino | Femenino   |
+| :-------- | :--------- |
+| padre     | madre      |
+| toro      | vaca       |
+| macho     | hembra     |
+| caballo   | yegua      |
+| padrino   | madrina    |
+| marido    | esposa     |
+| hombre    | mujer      |
+| chivo     | cabra      |
+| yerno     | nuera      |
+| caballero | dama       |
+| jinete    | amazona    |
+| rey       | reina      |
+| príncipe  | princesa   |
+| actor     | actriz     |
+| gallo     | gallina    |
+| carnero   | oveja      |
+| conde     | condesa    |
+| duque     | duquesa    |
+| emperador | emperatriz |
+| héroe     | heroína    |
+| monje     | monja      |
+| poeta     | poetisa    |
 
 ## Aules
 
