@@ -11,15 +11,19 @@ tags:
 - **aprender** - to learn / учить, учиться
 - **charlar** - to chat, to talk / болтать, разговаривать
 - **deletrear** - spell out letters / произносить по буквам
+- **dividir** - to divide / делить
 - **empujar** - to push / толкать
 - **fascinar** - to fascinate / очаровывать
 - **ganar** - to win / выигрывать
 - **haber (hay)** - to have (there is/are) / иметься (есть)
 - **hablar** - to speak / говорить
 - **llamarse** - to be called / зваться
+- **multiplicar** - to multiply / умножать
 - **perder** - to lose / проигрывать
 - **recordar** - to remember, to remind / помнить, напоминать
+- **restar** - to subtract / вычитать
 - **ser** - to be (permanent) / быть
+- **sumar** - to add / складывать
 - **tener** - to have / иметь
 - **trabajar** - to work / работать
 - **vivir** - to live / жить
@@ -49,24 +53,40 @@ tags:
 - **consonante** - consonant / согласная
 - **correo electrónico** - email / электронная почта
 - **cura** - priest / священник
-- **dátil** - date (fruit) / финик
 - **dedo** - finger / палец
 - **diminutivo** - diminutive, nickname / уменьшительное имя
 - **dirección** - address / адрес
 - **droga** - drug / наркотик
+- **dátil** - date (fruit) / финик
 - **edad** - age / возраст
 - **efectivo** - cash / наличные dinero
 - **erizo** - hedgehog / еж
 - **escoba** - broom / метла
 - **estufa** - stove, heater / печь, обогреватель
+- **falla** - fault, failure / ошибка, неисправность
+- **freno** - brake / тормоз
+- **funda** - cover, case / чехол
+- **ganso** - goose / гусь
 - **geranio** - geranium / герань
 - **gitano** - gypsy, Roma person / цыган
 - **gusano** - worm / червяк
+- **halago** - compliment, flattery / комплимент, лесть
+- **herida** - wound / рана
 - **hombro** - shoulder / плечо
+- **hucha** - piggy bank / копилка
 - **idioma** - language / язык
+- **imán** - magnet / магнит
+- **jarana** - partying, revelry / кутеж, веселье
 - **jarrón** - vase / ваза
+- **jefatura** - headquarters, leadership / руководство, управление
+- **jeta** - snout, cheek (slang) / морда, наглость
 - **jirafa** - giraffe / жираф
+- **joya** - jewel / драгоценность
+- **joyería** - jewelry store / ювелирный магазин
+- **juez** - judge / судья
+- **juzgado** - court / суд
 - **licenciado/a** - graduate (university degree holder) / дипломированный специалист
+- **madrugada** - early morning / рассвет, раннее утро
 - **mayúscula** - capital letter / заглавная буква
 - **mejilla** - cheek / щека
 - **minúscula** - lowercase letter / строчная буква
@@ -95,17 +115,20 @@ tags:
 - **difícil** - difficult / трудный
 - **dulce** - sweet / сладкий
 - **duro/a** - hard / твердый
-- **fácil** - easy / легкий
 - **feo/a** - ugly / некрасивый
 - **fino/a** - thin, fine / тонкий
 - **flaco/a** - thin / худой
-- **frío** - cold / холодный
+- **frío/a** - cold / холодный
+- **fácil** - easy / легкий
+- **goloso/a** - sweet-toothed / сладкоежка
 - **gordo/a** - fat / толстый
 - **grande** - big / большой
 - **gratuito/a** - free (no cost) / бесплатный
 - **grosero/a** - rude, impolite / грубый, невежливый
 - **guapo/a** - handsome, beautiful / красивый
+- **infinito/a** - infinite / бесконечный
 - **inteligente** - intelligent / умный
+- **jaranero/a** - party animal / гуляка
 - **joven** - young / молодой
 - **malo/a** - bad / плохой
 - **pequeño/a** - small / маленький
@@ -117,9 +140,9 @@ tags:
 ## Palabras interrogativas
 
 - **¿A qué?** - To what? (for activity) / Чем? (о деятельности)
-- **¿Cómo?** - How? / Как?
 - **¿Cuál?** / **¿Cuáles?** - Which? (singular/plural) / Какой? Какие?
 - **¿Cuántos?** / **¿Cuántas?** - How many? / Сколько?
+- **¿Cómo?** - How? / Как?
 - **¿De dónde?** - From where? / Откуда?
 - **¿Dónde?** - Where? / Где?
 - **¿En qué?** - In what? / В чём?
@@ -135,9 +158,9 @@ tags:
 
 ## Números (50-59)
 
-- **cincuenta** - fifty / пятьдесят
 - **cincuenta y dos** - fifty-two / пятьдесят два
 - **cincuenta y uno** - fifty-one / пятьдесят один
+- **cincuenta** - fifty / пятьдесят
 
 ## Adverbios y Preposiciones
 
@@ -164,9 +187,9 @@ tags:
 
 ## Expresiones útiles
 
-- **¿A qué te dedicas?** - What do you do (for work)? / Чем ты занимаешься?
-- **¿En qué trabajas?** - What do you work in? / Где ты работаешь?
 - **Encantado/a** - Nice to meet you / Приятно познакомиться
 - **Me llamo...** - My name is... / Меня зовут...
 - **Soy de...** - I am from... / Я из...
 - **Vivo en...** - I live in... / Я живу в...
+- **¿A qué te dedicas?** - What do you do (for work)? / Чем ты занимаешься?
+- **¿En qué trabajas?** - What do you work in? / Где ты работаешь?

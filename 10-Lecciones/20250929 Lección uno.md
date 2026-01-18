@@ -90,29 +90,29 @@ tags:
 
 ### Palabras interrogativas
 
-| Español | Uso | Ejemplo |
-|---------|-----|---------|
-| **¿Cómo?** | Para nombre, descripción | ¿Cómo te llamas? |
-| **¿Cuál?** / **¿Cuáles?** | Para seleccionar (singular/plural) | ¿Cuál es tu apellido? |
-| **¿Cuántos?** / **¿Cuántas?** | Para cantidad | ¿Cuántos años tienes? |
-| **¿Dónde?** | Para lugar | ¿Dónde vives? |
-| **¿Qué?** | Para identificar, profesión | ¿Qué idiomas hablas? |
-| **¿A qué?** | Para actividad, dedicación | ¿A qué te dedicas? |
-| **¿De dónde?** | Para origen | ¿De dónde eres? |
-| **¿En qué?** | Para especificar trabajo | ¿En qué trabajas? |
+| Español                       | Uso                                | Ejemplo               |
+| ----------------------------- | ---------------------------------- | --------------------- |
+| **¿Cómo?**                    | Para nombre, descripción           | ¿Cómo te llamas?      |
+| **¿Cuál?** / **¿Cuáles?**     | Para seleccionar (singular/plural) | ¿Cuál es tu apellido? |
+| **¿Cuántos?** / **¿Cuántas?** | Para cantidad                      | ¿Cuántos años tienes? |
+| **¿Dónde?**                   | Para lugar                         | ¿Dónde vives?         |
+| **¿Qué?**                     | Para identificar, profesión        | ¿Qué idiomas hablas?  |
+| **¿A qué?**                   | Para actividad, dedicación         | ¿A qué te dedicas?    |
+| **¿De dónde?**                | Para origen                        | ¿De dónde eres?       |
+| **¿En qué?**                  | Para especificar trabajo           | ¿En qué trabajas?     |
 
 ### Adjetivos posesivos
 
 #### Antes del sustantivo
 
-| Pronombre | Singular | Plural |
-|-----------|----------|--------|
-| Yo | mi | mis |
-| Tú | tu | tus |
-| Él/Ella/Usted | su | sus |
-| Nosotros/as | nuestro/nuestra | nuestros/nuestras |
-| Vosotros/as | vuestro/vuestra | vuestros/vuestras |
-| Ellos/Ellas/Ustedes | su | sus |
+| Pronombre           | Singular        | Plural            |
+| ------------------- | --------------- | ----------------- |
+| Yo                  | mi              | mis               |
+| Tú                  | tu              | tus               |
+| Él/Ella/Usted       | su              | sus               |
+| Nosotros/as         | nuestro/nuestra | nuestros/nuestras |
+| Vosotros/as         | vuestro/vuestra | vuestros/vuestras |
+| Ellos/Ellas/Ustedes | su              | sus               |
 
 **Ejemplos:**
 
@@ -165,17 +165,17 @@ Relaciona cada pregunta con su respuesta correcta:
 
 Completa este formulario con tu información:
 
-| Campo | Tu información |
-|-------|----------------|
-| Nombre: | |
-| Apellidos: | |
-| Edad: | |
-| Nacionalidad: | |
-| Ciudad de residencia: | |
-| Profesión: | |
-| Teléfono: | |
-| Correo electrónico: | |
-| Idiomas: | |
+| Campo                 | Tu información |
+| --------------------- | -------------- |
+| Nombre:               |                |
+| Apellidos:            |                |
+| Edad:                 |                |
+| Nacionalidad:         |                |
+| Ciudad de residencia: |                |
+| Profesión:            |                |
+| Teléfono:             |                |
+| Correo electrónico:   |                |
+| Idiomas:              |                |
 
 #### Ejercicio 4: Escribir los números de teléfono
 

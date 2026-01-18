@@ -4,9 +4,10 @@
 
 ## count 0-100
 
-## Aulas
+## Auless
 
-get access
+Usuario: NIA (numero de estudiante)
+Contraseña: first 3 letters of surname plus birthday date in format DDMMYY
 
 ## Libro Estudiante
 
