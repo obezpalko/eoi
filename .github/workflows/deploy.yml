@@ -22,18 +22,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetch all history for git info
+          fetch-depth: 0
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Dependencies
+        run: npm install
 
       - name: Build Quartz Site
-        uses: konstfish/quartz-build-action@v6
-        with:
-          source: .
-          destination: public
-          page_title: "EOI - Español A1"
-          quartz_config: quartz.config.ts
+        run: npx quartz build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

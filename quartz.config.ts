@@ -79,7 +79,6 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.CrawlLinks({ markdownLinkResolution: "relative" }),
       Plugin.Description(),
-      Plugin.ContentMeta(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
