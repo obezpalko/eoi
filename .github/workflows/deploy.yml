@@ -33,7 +33,7 @@ jobs:
         run: npm install
 
       - name: Build Quartz Site
-        run: npx quartz build -s .
+        run: npx quartz build -d .
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
