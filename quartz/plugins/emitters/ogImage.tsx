@@ -62,7 +62,7 @@ async function generateSocialImage(
     },
   })
 
-  return sharp(Buffer.from(svg)).webp({ quality: 40 })
+  return await sharp(Buffer.from(svg)).png().toBuffer()
 }
 
 async function processOgImage(
@@ -96,7 +96,7 @@ async function processOgImage(
     ctx,
     content: stream,
     slug: `${slug}-og-image` as FullSlug,
-    ext: ".webp",
+    ext: ".png",
   })
 }
 
@@ -154,11 +154,11 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
             }
 
             const generatedOgImagePath = isRealFile
-              ? `https://${baseUrl}/${pageData.slug!}-og-image.webp`
+              ? `https://${baseUrl}/${pageData.slug!}-og-image.png`
               : undefined
             const defaultOgImagePath = `https://${baseUrl}/static/og-image.png`
             const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath ?? defaultOgImagePath
-            const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`
+            const ogImageMimeType = `image/${getFileExtension(ogImagePath)?.replace(".", "") ?? "png"}`
             return (
               <>
                 {!userDefinedOgImagePath && (
