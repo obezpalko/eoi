@@ -7,7 +7,6 @@ tags:
   - vocabulario
 date: 2026-01-13
 ---
-
 # Ir de Compras vs. Hacer la Compra
 
 Aunque en inglés usamos "Go shopping" para todo, en español diferenciamos claramente el **ocio** de la **necesidad**.

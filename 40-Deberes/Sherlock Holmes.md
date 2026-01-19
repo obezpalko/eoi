@@ -8,7 +8,6 @@ tags:
   - tarea
 date: 2026-01-12
 ---
-
 # Mi Personaje: Sherlock Holmes
 
 Voy a describir al detective más famoso del mundo (y probablemente el más insoportable).

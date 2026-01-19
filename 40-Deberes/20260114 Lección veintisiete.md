@@ -5,10 +5,9 @@ tags:
   - español
   - tarea
 ---
-
 # LA
 
-[[../30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.)]]
+[[../20-Gramática/Verbos como Gustar (Encantar, Doler, etc.)]]
 ## 37:3b
 
 Completa estas frases con tus ejemplos 

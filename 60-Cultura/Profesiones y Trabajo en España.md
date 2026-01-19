@@ -4,7 +4,6 @@ tags:
   - cultura
   - trabajo
 ---
-
 # Profesiones y Trabajo en España
 
 > **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]] · [[../30-Vocabulario/Temas/Profesiones|Profesiones]]

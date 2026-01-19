@@ -4,7 +4,6 @@ tags:
   - cultura
   - saludos
 ---
-
 # Saludos y Contacto Físico en España
 
 > **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]]

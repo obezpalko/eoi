@@ -6,7 +6,6 @@ tags:
   - verbos
   - vocabulario
 ---
-
 # Verbos como Gustar (Encantar, Doler, etc.)
 
 El verbo **Encantar** y otros similares funcionan exactamente igual que *Gustar*. Siguen una lógica "inversa" donde el objeto gramatical es quien realiza la acción.
@@ -34,28 +33,28 @@ Es mucho más fuerte que *gustar*.
 
 ### Estado Mental y Emocional
 
-| Verbo | Significado | Ejemplo |
-| :--- | :--- | :--- |
-| **Interesar** | To interest | A mí me **interesa** la historia. |
-| **Fascinar** | To fascinate | A mí me **fascinan** los idiomas. |
-| **Importar** | To matter / care | No me **importa** el precio. |
-| **Preocupar** | To worry | Me **preocupa** el tráfico. |
+| Verbo         | Significado      | Ejemplo                           |
+| :------------ | :--------------- | :-------------------------------- |
+| **Interesar** | To interest      | A mí me **interesa** la historia. |
+| **Fascinar**  | To fascinate     | A mí me **fascinan** los idiomas. |
+| **Importar**  | To matter / care | No me **importa** el precio.      |
+| **Preocupar** | To worry         | Me **preocupa** el tráfico.       |
 
 ### Sensaciones Físicas
 
-| Verbo | Significado | Ejemplo |
-| :--- | :--- | :--- |
-| **Doler** | To hurt | Me **duele** la cabeza. |
-| **Molestar** | To bother | Me **molesta** el ruido. |
+| Verbo        | Significado | Ejemplo                  |
+| :----------- | :---------- | :----------------------- |
+| **Doler**    | To hurt     | Me **duele** la cabeza.  |
+| **Molestar** | To bother   | Me **molesta** el ruido. |
 
 ### Opiniones y Pertenencias
 
-| Verbo | Significado | Ejemplo |
-| :--- | :--- | :--- |
-| **Parecer** | To seem | Me **parece** bien. |
-| **Caer bien** | To like (person) | Me **cae bien** tu amigo. |
-| **Faltar** | To lack / need | Me **falta** dinero. |
-| **Quedar** | To fit / have left | Me **quedan** bien los zapatos. |
+| Verbo         | Significado        | Ejemplo                         |
+| :------------ | :----------------- | :------------------------------ |
+| **Parecer**   | To seem            | Me **parece** bien.             |
+| **Caer bien** | To like (person)   | Me **cae bien** tu amigo.       |
+| **Faltar**    | To lack / need     | Me **falta** dinero.            |
+| **Quedar**    | To fit / have left | Me **quedan** bien los zapatos. |
 
 ---
 
@@ -89,11 +88,13 @@ Aquí tienes ejemplos útiles para tu contexto personal:
 | A ellos/ellas **les**  | encanta                  | encantan                 |
 
 ## Preguntas con verbos and respuestas
-- Me encanta hacer deporte, ¿y a ti?
-- A mí también
+
+* Me encanta hacer deporte, ¿y a ti?
+* A mí también
+
 > [!TIP] La Regla de Oro del "Yo también / Yo tampoco"
 >
 > | La otra persona dice... | Tú opinas **igual** (=) | Tú opinas **diferente** (≠) |
 > | :--- | :--- | :--- |
-> | **Frase Afirmativa**<br>*(Me gusta...)* | **A mí también**<br>*(Me too)* | **A mí no**<br>*(I don't)* |
-> | **Frase Negativa**<br>*(No me gusta...)* | **A mí tampoco**<br>*(Me neither)* | **A mí sí**<br>*(I do)* |
+> | **Frase Afirmativa** (*Me gusta...*) | **A mí también** (*Me too*) | **A mí no** (*I don't*) |
+> | **Frase Negativa** (*No me gusta...*) | **A mí tampoco** (*Me neither*) | **A mí sí** (*I do*) |

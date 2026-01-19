@@ -4,15 +4,14 @@ tags:
   - español
   - lección
 ---
-
 # Lección veinticinco
 
 [[../40-Deberes/20260107 Lección veinticinco|Deberes]]
 
 ## Practicamos
 
-- [[../30-Vocabulario/Verbos/gustar]]
-- [[../30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.)]]
+- [[../30-Vocabulario/Verbos/gustar|gustar]]
+- [[../20-Gramática/Verbos como Gustar (Encantar, Doler, etc.)|verbos como gustar]]
 
 ### Ejemplos
 
@@ -27,7 +26,6 @@ tags:
 - Le gustan las uvas
 - Nos gusta la pizza.
 - Me gusta ~~mirar~~ ver las películas. (Mirar es [[../60-Cultura/España vs Hispanoamerica|hispanoamericana]])
-
 
 ## Vocabulario
 
@@ -45,9 +43,9 @@ tags:
 | **el doblaje**                 | Sustituir la voz original de una película por otra en diferente idioma. | ![[20260107/doblaje.jpg]]          |
 | **la versión original (V.O.)** | Película proyectada con el audio original en que fue grabada.           | ![[20260107/version_original.jpg]] |
 
-[[../30-Vocabulario/Temas/Siempre Singular]]
+[[../30-Vocabulario/Temas/Siempre Singular|Siempre singular]]
 
-[[../20-Gramática/El Orden de Sustantivos y Adjetivos]]
+[[../20-Gramática/El Orden de Sustantivos y Adjetivos|El Orden de Sustantivos y Adjetivos]]
 
 ## Serías
 

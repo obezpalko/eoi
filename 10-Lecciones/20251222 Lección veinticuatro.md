@@ -4,10 +4,9 @@ tags:
   - español
   - lección
 ---
+# Lección 24: Verbos Irregulares en Presente
 
 [[../40-Deberes/20251222 Lección veinticuatro|Deberes]]
-
-# Lección 24: Verbos Irregulares en Presente
 
 ## Introducción
 
@@ -30,6 +29,7 @@ Estos verbos son **regulares en todas las personas excepto en YO**.
 | **caer**   | caigo  | caes  | cae           | caemos      | caéis       | caen                |
 
 **Ejemplos:**
+
 - Yo **hago** la tarea todos los días.
 - Yo **pongo** la mesa para cenar.
 - Yo **salgo** con mis amigos los viernes.
@@ -44,6 +44,7 @@ Estos verbos son **regulares en todas las personas excepto en YO**.
 | **conducir** | conduzco | conduces | conduce       | conducimos  | conducís    | conducen            |
 
 **Ejemplos:**
+
 - Yo **conozco** a tu hermano.
 - Yo **traduzco** del inglés al español.
 - Yo **conduzco** un coche pequeño.
@@ -59,6 +60,7 @@ Estos verbos son **regulares en todas las personas excepto en YO**.
 | **caber**  | quepo | cabes | cabe          | cabemos     | cabéis      | caben               |
 
 **Ejemplos:**
+
 - Yo **sé** hablar tres idiomas.
 - Yo **veo** la televisión por la noche.
 - Yo **doy** clases de español.
@@ -94,6 +96,7 @@ La **E** de la raíz cambia a **IE** en todas las personas excepto nosotros y vo
 | **entender**   | entiendo   | entiendes   | entiende      | entendemos   | entendéis   | entienden           |
 
 **Ejemplos:**
+
 - Yo **quiero** café, por favor.
 - Ella **prefiere** el té.
 - ¿Tú **entiendes** español?
@@ -118,10 +121,12 @@ La **O** de la raíz cambia a **UE** en todas las personas excepto nosotros y vo
 | **morir**     | muero     | mueres     | muere         | morimos     | morís       | mueren              |
 
 **Verbos especiales (impersonales):**
+
 - **doler** (to hurt): me duele, te duele, le duele, nos duele, os duele, les duele
 - **llover** (to rain): llueve (solo 3ª persona)
 
 **Ejemplos:**
+
 - Yo no **puedo** ir a la fiesta.
 - ¿Cuánto **cuesta** este libro?
 - Ellos **vuelven** a casa a las 6.
@@ -144,6 +149,7 @@ La **E** de la raíz cambia a **I** en todas las personas excepto nosotros y vos
 | **impedir**  | impido  | impides  | impide        | impedimos   | impedís     | impiden             |
 
 **Ejemplos:**
+
 - Yo **pido** una pizza.
 - El camarero **sirve** la comida.
 - ¿Puedes **repetir**, por favor?
@@ -153,11 +159,12 @@ La **E** de la raíz cambia a **I** en todas las personas excepto nosotros y vos
 
 Solo hay **UN** verbo con este cambio:
 
-| Infinitivo | Yo | Tú | Él/Ella/Usted | Nosotros/as | Vosotros/as | Ellos/Ellas/Ustedes |
-|------------|----|----|---------------|-------------|-------------|---------------------|
-| **jugar** (to play) | juego | juegas | juega | jugamos | jugáis | juegan |
+| Infinitivo          | Yo    | Tú     | Él/Ella/Usted | Nosotros/as | Vosotros/as | Ellos/Ellas/Ustedes |
+| ------------------- | ----- | ------ | ------------- | ----------- | ----------- | ------------------- |
+| **jugar** (to play) | juego | juegas | juega         | jugamos     | jugáis      | juegan              |
 
 **Ejemplos:**
+
 - Yo **juego** al fútbol los domingos.
 - Ellos **juegan** videojuegos.
 - Nosotros **jugamos** al tenis.
@@ -170,11 +177,12 @@ Estos verbos son irregulares en **muchas o todas las personas**. Hay que memoriz
 
 ### SER (to be - permanent)
 
-| Yo | Tú | Él/Ella/Usted | Nosotros/as | Vosotros/as | Ellos/Ellas/Ustedes |
-|----|----|---------------|-------------|-------------|---------------------|
-| soy | eres | es | somos | sois | son |
+| Yo  | Tú   | Él/Ella/Usted | Nosotros/as | Vosotros/as | Ellos/Ellas/Ustedes |
+| --- | ---- | ------------- | ----------- | ----------- | ------------------- |
+| soy | eres | es            | somos       | sois        | son                 |
 
 **Ejemplos:**
+
 - Yo **soy** español.
 - Ella **es** profesora.
 
@@ -185,46 +193,51 @@ Estos verbos son irregulares en **muchas o todas las personas**. Hay que memoriz
 | estoy | estás | está | estamos | estáis | están |
 
 **Ejemplos:**
+
 - Yo **estoy** cansado.
 - ¿Dónde **estás**?
 
 ### IR (to go)
 
-| Yo | Tú | Él/Ella/Usted | Nosotros/as | Vosotros/as | Ellos/Ellas/Ustedes |
-|----|----|---------------|-------------|-------------|---------------------|
-| voy | vas | va | vamos | vais | van |
+| Yo  | Tú  | Él/Ella/Usted | Nosotros/as | Vosotros/as | Ellos/Ellas/Ustedes |
+| --- | --- | ------------- | ----------- | ----------- | ------------------- |
+| voy | vas | va            | vamos       | vais        | van                 |
 
 **Ejemplos:**
+
 - Yo **voy** al cine.
 - Nosotros **vamos** a la playa.
 
 ### TENER (to have)
 
-| Yo | Tú | Él/Ella/Usted | Nosotros/as | Vosotros/as | Ellos/Ellas/Ustedes |
-|----|----|---------------|-------------|-------------|---------------------|
-| tengo | tienes | tiene | tenemos | tenéis | tienen |
+| Yo    | Tú     | Él/Ella/Usted | Nosotros/as | Vosotros/as | Ellos/Ellas/Ustedes |
+| ----- | ------ | ------------- | ----------- | ----------- | ------------------- |
+| tengo | tienes | tiene         | tenemos     | tenéis      | tienen              |
 
 **Ejemplos:**
+
 - Yo **tengo** 30 años.
 - Ella **tiene** dos hermanos.
 
 ### VENIR (to come)
 
-| Yo | Tú | Él/Ella/Usted | Nosotros/as | Vosotros/as | Ellos/Ellas/Ustedes |
-|----|----|---------------|-------------|-------------|---------------------|
-| vengo | vienes | viene | venimos | venís | vienen |
+| Yo    | Tú     | Él/Ella/Usted | Nosotros/as | Vosotros/as | Ellos/Ellas/Ustedes |
+| ----- | ------ | ------------- | ----------- | ----------- | ------------------- |
+| vengo | vienes | viene         | venimos     | venís       | vienen              |
 
 **Ejemplos:**
+
 - Yo **vengo** de Rusia.
 - ¿**Vienes** a la fiesta?
 
 ### DECIR (to say/tell)
 
-| Yo | Tú | Él/Ella/Usted | Nosotros/as | Vosotros/as | Ellos/Ellas/Ustedes |
-|----|----|---------------|-------------|-------------|---------------------|
-| digo | dices | dice | decimos | decís | dicen |
+| Yo   | Tú    | Él/Ella/Usted | Nosotros/as | Vosotros/as | Ellos/Ellas/Ustedes |
+| ---- | ----- | ------------- | ----------- | ----------- | ------------------- |
+| digo | dices | dice          | decimos     | decís       | dicen               |
 
 **Ejemplos:**
+
 - Yo **digo** la verdad.
 - Él **dice** que sí.
 
@@ -232,26 +245,23 @@ Estos verbos son irregulares en **muchas o todas las personas**. Hay que memoriz
 
 ## Resumen de patrones
 
-| Tipo de irregularidad | Cambio | Personas afectadas | Ejemplo |
-|----------------------|--------|-------------------|---------|
-| **Solo YO** | -go, -zco, etc. | Solo yo | hacer → hago |
-| **Bota E→IE** | e→ie | Todas menos nosotros/vosotros | querer → quiero |
-| **Bota O→UE** | o→ue | Todas menos nosotros/vosotros | poder → puedo |
-| **Bota E→I** | e→i | Todas menos nosotros/vosotros | pedir → pido |
-| **Bota U→UE** | u→ue | Todas menos nosotros/vosotros | jugar → juego |
-| **Muy irregular** | Varios cambios | Varias o todas las personas | ser → soy, eres, es... |
+| Tipo de irregularidad | Cambio          | Personas afectadas            | Ejemplo                |
+| --------------------- | --------------- | ----------------------------- | ---------------------- |
+| **Solo YO**           | -go, -zco, etc. | Solo yo                       | hacer → hago           |
+| **Bota E→IE**         | e→ie            | Todas menos nosotros/vosotros | querer → quiero        |
+| **Bota O→UE**         | o→ue            | Todas menos nosotros/vosotros | poder → puedo          |
+| **Bota E→I**          | e→i             | Todas menos nosotros/vosotros | pedir → pido           |
+| **Bota U→UE**         | u→ue            | Todas menos nosotros/vosotros | jugar → juego          |
+| **Muy irregular**     | Varios cambios  | Varias o todas las personas   | ser → soy, eres, es... |
 
 ---
 
 ## Consejos para memorizar
 
 1. **Agrupa los verbos por patrón**: Todos los verbos en -CER/-CIR (menos hacer) son parecidos: conozco, traduzco, conduzco.
-
-2. **Practica las "botas"**: Recuerda que nosotros y vosotros son siempre regulares en los verbos de bota.
-
-3. **Los muy irregulares**: Hay que memorizarlos porque son muy frecuentes (ser, estar, ir, tener, venir, decir).
-
-4. **Haz frases**: Practica con frases completas, no solo las conjugaciones.
+1. **Practica las "botas"**: Recuerda que nosotros y vosotros son siempre regulares en los verbos de bota.
+1. **Los muy irregulares**: Hay que memorizarlos porque son muy frecuentes (ser, estar, ir, tener, venir, decir).
+1. **Haz frases**: Practica con frases completas, no solo las conjugaciones.
 
 ---
 

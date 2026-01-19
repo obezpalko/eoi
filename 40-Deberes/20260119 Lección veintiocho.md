@@ -5,5 +5,4 @@ tags:
   - español
   - tarea
 ---
-
-Describir físicamente, ropa y carácter por persona en la clase 
+# Describir físicamente, ropa y carácter por persona en la clase 

@@ -6,7 +6,6 @@ tags:
   - sintaxis
 date: 2026-01-07
 ---
-
 # El Orden de Sustantivos y Adjetivos
 
 En español, el orden de las palabras es más flexible que en inglés, pero la regla general para los adjetivos descriptivos es muy estricta.

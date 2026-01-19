@@ -6,7 +6,6 @@ tags:
   - política
   - vocabulario
 ---
-
 # La Familia Real Española
 
 Información actualizada y contexto cultural sobre la Monarquía en España.

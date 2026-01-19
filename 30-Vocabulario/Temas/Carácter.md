@@ -4,7 +4,6 @@ tags:
   - tema
   - vocabulario
 ---
-
 # Carácter y Personalidad
 
 ## Adjetivos de Personalidad

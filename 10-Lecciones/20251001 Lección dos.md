@@ -4,7 +4,6 @@ tags:
   - lección
 date: 2025-10-01
 ---
-
 # Lección dos
 
 [[../40-Deberes/20251001 Lección dos|Deberes]]
@@ -111,4 +110,4 @@ mayúsculas y minúsculas
 
 ## Deberes
 
-[[../40-Deberes/20251006 Lección tres]]
+[[../40-Deberes/20251006 Lección tres|← Lección tres]]

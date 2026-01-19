@@ -12,60 +12,67 @@ tags:
 [[../40-Deberes/20260112 Lección veintiséis|Deberes]]
 
 ## Practicamos
+
 ### Gustar
 
-[[../30-Vocabulario/Verbos/gustar]] [[../30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.)]]
+[[../30-Vocabulario/Verbos/gustar|gustar]], [[../20-Gramática/Verbos como Gustar (Encantar, Doler, etc.)|verbos como gustar]]
 
-- Me gustan los helados, ¿Y a tí?
-- Sí, a mí también.
-	
-- Me gusta mucho jugar a baloncesto 
-- Nome gustan los perros 
+- Me gustan los helados, ¿Y a ti?
+  - Sí, a mí también.
+- Me gusta mucho jugar a baloncesto
+  - No gustan los perros
 - ¿Te gusta café solo?
-- A nosotros no nos gustan las películas románticas.
+  - A nosotros no nos gustan las películas románticas.
 - ¿Os gusta la fiesta?
-- No me gusta echar la siesta.
+  - No me gusta echar la siesta.
 - A mis padres les gusta tomar el sol.
-- ?Te gustan los cacahuetes?
+  - ?Te gustan los cacahuetes?
 - Me gustan los días soleados.
-- Nos gusta Madrid.
+  - Nos gusta Madrid.
+
+---
 
 - A Verónica le gusta
-	- viajar
-	- el cine
-	- ir en bici
-	- la lluvia
+  - viajar
+  - el cine
+  - ir en bici
+  - la lluvia
 - A Verónica le gustan
-	- los gatos negros
-	- las tartas de chocolate
+  - los gatos negros
+  - las tartas de chocolate
 - A Verónica no le gusta
-	- hacer regalos
-	- el fuego
-	- Halloween
-- A Verónica no le gustan 
-	- las motos
-	- las flores
-	- los mosquitos
+  - hacer regalos
+  - el fuego
+  - Halloween
+- A Verónica no le gustan
+  - las motos
+  - las flores
+  - los mosquitos
 - A Verónica no le gustan las motos **ni** las mosquitos **ni** las flores
 - A Verónica no le gusta el fuego **ni** Halloween
 
+---
 
 Me gusta…
-- muchísimo 
+
+- muchísimo
 - mucho
-- bastante 
-- 
+- bastante
+
 #### Niveles
 
-- Odio … 
+- Odio …
 - No me gusta nada
-- Noo me gusta
+- No me gusta
 - No he gusta mucho / Me gusta poco
 - Me gusta
 - Me gusta bastante
 - Me gusta mucho
-- Me gusta muchísimo 
-- Me encanta 
+- Me gusta muchísimo
+- Me encanta
+
+[[../20-Gramática/Termómetro de intereses|Termómetro de intereses]]
+
 ##### ejercicios
 
 - No me gustan nada las arañas.
@@ -76,7 +83,7 @@ Me gusta…
 - No me gusta nada el frío.
 - No me gusta conducir.
 - Me gusta la nieve.
-- No me gusta el viento con arena 
+- No me gusta el viento con arena
 - Me encantan los helados.
 - Me gusta muchísimo quedarse en casa.
 - Me gusta quedar con amigos.
@@ -91,7 +98,8 @@ Me gusta…
 ### Ficha 32
 
 ### Libro. Página 36
-####  7 hobbies para ser una persona productiva 
+
+#### 7 hobbies para ser una persona productiva
 
 Hobby - afición
 
@@ -108,9 +116,10 @@ Hobby - afición
 5. Salud
 6. ?
 7. Tecnología
+
 ### Interesar
 
-[[../30-Vocabulario/Verbos/Verbos como Gustar (Encantar, Doler, etc.)]]
+[[../20-Gramática/Verbos como Gustar (Encantar, Doler, etc.)|Verbos como Gustar (Encantar, Doler, etc.)]]
 
 - a mí me interesa la tecnología
 - a mí me interesan el deporte y el arte
@@ -120,6 +129,7 @@ Hobby - afición
 - a mí no me interesan la música ni la gastronomía
 
 #### temas
+
 - el deporte
 - el arte
 - la tecnología
@@ -136,7 +146,7 @@ Hobby - afición
 ## Vocabulario
 
 - odio
-- igualmente 
+- igualmente
 - echar (dormir?)
 - tomar el sol
 - cacahuetes
@@ -155,7 +165,7 @@ Hobby - afición
 - patinar
 - obsesionado
 
-## tareas
-[[../40-Deberes/20260114 Lección veintisiete|Deberes]]
+---
 
-[[../40-Deberes/20260114 Lección veintisiete|20260114 Lección veintisiete]]
+**Navegación:**
+[[20260107 Lección veinticinco|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260114 Lección veintisiete|Deberes →]]

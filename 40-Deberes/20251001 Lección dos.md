@@ -5,7 +5,6 @@ tags:
   - español
   - tarea
 ---
-
 # Deberes - Lección uno (20250929)
 
 [[../10-Lecciones/20250929 Lección uno|← Volver a la lección]]

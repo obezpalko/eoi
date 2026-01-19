@@ -8,6 +8,13 @@ tags:
 
 [[../40-Deberes/20260000 Lección template|Deberes]]
 
-## Prácticas 
+## Información
 
-## Vocabulario 
+## Prácticas
+
+## Vocabulario
+
+---
+
+**Navegación:**
+[[20260000 Lección anterior|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260000 Lección siguiente|Deberes →]]

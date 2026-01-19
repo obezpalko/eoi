@@ -5,14 +5,6 @@ tags:
   - winter
 date: 2026-01-19
 ---
----
-tags:
-  - cultura/españa
-  - invierno
-  - nivel/a2
-date: 2026-01-19
----
-
 # ⛄ Hacer Muñecos de Nieve en España
 
 En gran parte de España no nieva mucho, especialmente en la costa como en **Dénia**. Por eso, cuando nieva, es un evento muy especial y la gente está muy feliz.

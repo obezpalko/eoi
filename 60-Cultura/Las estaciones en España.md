@@ -3,7 +3,6 @@ tags:
   - español
   - cultura
 ---
-
 # Las Estaciones en España
 
 España es un país con una gran diversidad climática, pero las estaciones del año marcan no solo el tiempo, sino también la vida social, la gastronomía y las festividades.

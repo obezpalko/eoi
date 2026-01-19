@@ -4,7 +4,6 @@ tags:
   - tema
   - vocabulario
 ---
-
 # Profesiones y Ocupaciones
 
 ## Profesiones Comunes

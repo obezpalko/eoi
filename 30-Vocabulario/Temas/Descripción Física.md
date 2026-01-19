@@ -5,7 +5,6 @@ tags:
   - tema
   - vocabulario
 ---
-
 # Descripción Física
 
 Vocabulario para describir el aspecto físico de las personas.

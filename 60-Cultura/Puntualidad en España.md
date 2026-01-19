@@ -4,7 +4,6 @@ tags:
   - cultura
   - costumbres
 ---
-
 # Puntualidad y Concepto del Tiempo en España
 
 > **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]]

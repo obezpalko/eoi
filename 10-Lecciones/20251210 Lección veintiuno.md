@@ -4,7 +4,6 @@ tags:
   - español
   - lección
 ---
-
 # Lección veintiuno
 
 ## tarjeta estudiante

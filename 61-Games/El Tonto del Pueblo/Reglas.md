@@ -3,7 +3,6 @@ tags:
   - a2
 date: 2026-01-17
 ---
-
 # 🎮 El Tonto del Pueblo: Repite la ESO
 
 > [!ABSTRACT] Concepto

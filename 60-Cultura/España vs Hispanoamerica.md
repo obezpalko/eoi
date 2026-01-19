@@ -6,7 +6,6 @@ tags:
   - variantes
   - vocabulario
 ---
-
 # España vs. Hispanoamericana (Diferencias de Vocabulario)
 
 Diferencias comunes en el uso de verbos y sustantivos entre el español de España y el de Hispanoamericana.

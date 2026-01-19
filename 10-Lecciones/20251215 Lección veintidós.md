@@ -4,10 +4,9 @@ tags:
   - español
   - lección
 ---
+# Leccion veintidos: Carácter y Personalidad
 
 [[../40-Deberes/20251215 Lección veintidós|Deberes]]
-
-# Lección 22: Carácter y Personalidad
 
 ## Resumen de la Lección
 
@@ -26,9 +25,9 @@ En esta lección trabajamos:
 
 ---
 
-# Vocabulario
+## Vocabulario
 
-## Edad
+### Edad
 
 [[../30-Vocabulario/Temas/Descripción Física/General|📖 Ver más sobre descripción física]]
 
@@ -124,9 +123,9 @@ Muchas palabras de personalidad forman familias relacionadas:
 
 ---
 
-# Gramática
+## Gramática
 
-## Concordancia de Adjetivos de Personalidad
+### Concordancia de Adjetivos de Personalidad
 
 Los adjetivos de personalidad siguen las mismas reglas de concordancia que otros adjetivos:
 
@@ -202,9 +201,9 @@ Usamos **ESTAR** para describir un estado temporal o un cambio:
 
 ---
 
-# Ejercicios
+## Ejercicios
 
-## Actividad: Tres Características
+### Actividad: Tres Características
 
 **Instrucciones**: Describe a dos personas con tres cualidades y tres defectos.
 

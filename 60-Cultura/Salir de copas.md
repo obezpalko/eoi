@@ -6,7 +6,6 @@ tags:
   - vocabulario
 date: 2026-01-13
 ---
-
 # Salir de copas
 
 **"Salir de copas"** significa salir por la noche a beber combinados (alcohol mezclado con refresco) en bares o pubs.

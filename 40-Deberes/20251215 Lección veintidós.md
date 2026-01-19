@@ -5,7 +5,6 @@ tags:
   - español
   - tarea
 ---
-
 # Lección veintidós
 
 - LA (rojo)

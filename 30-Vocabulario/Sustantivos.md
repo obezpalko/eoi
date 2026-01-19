@@ -1,0 +1,106 @@
+---
+tags: [vocabulario, sustantivos]
+---
+# Sustantivos
+
+- **el abecedario** - alphabet / алфавит
+- **el/la abogado/a** - lawyer / адвокат
+- **el aguacate** - avocado / авокадо
+- **la almohada** - pillow / подушка
+- **el apellido** - surname, last name / фамилия
+- **el apretón** - handshake, squeeze / рукопожатие
+- **el armario** - wardrobe, closet / шкаф
+- **la arroba** (@) - at symbol / символ собака
+- **la azafata** - flight attendant / стюардесса
+- **la barca** - small boat / лодка
+- **el barco** - boat / корабль
+- **el barrio** - neighborhood / район
+- **la berenjena** - eggplant / баклажан
+- **la boda** - wedding / свадьба
+- **la bolera** - bowling alley / боулинг
+- **la bolsa** - bag (plastic/paper) / пакет
+- **el bolso** - handbag / сумка
+- **el borrador** - eraser / ластик
+- **el brazo** - arm / рука (от плеча до кисти)
+- **la broma** - joke / шутка
+- **la bruja** - witch / ведьма
+- **el burro** - donkey / осел
+- **el caballo** - horse / лошадь
+- **la cebra** - zebra / зебра
+- **el centro comercial** - shopping mall / торговый центр
+- **la cola** - line, queue / очередь
+- **la comilona** - big meal, feast / пиршество
+- **la consonante** - consonant / согласная
+- **el correo electrónico** - email / электронная почта
+- **el cura** - priest / священник
+- **el dedo** - finger / палец
+- **el diminutivo** - diminutive, nickname / уменьшительное имя
+- **la dirección** - address / адрес
+- **la droga** - drug / наркотик
+- **el dátil** - date (fruit) / финик
+- **la edad** - age / возраст
+- **el efectivo** - cash / наличные dinero
+- **el erizo** - hedgehog / еж
+- **la escoba** - broom / метла
+- **la estufa** - stove, heater / печь, обогреватель
+- **la falla** - fault, failure / ошибка, неисправность
+- **el freno** - brake / тормоз
+- **la funda** - cover, case / чехол
+- **la galleta** - cookie / печенье
+- **el ganso** - goose / гусь
+- **el geranio** - geranium / герань
+- **el gitano** - gypsy, Roma person / цыган
+- **el gusano** - worm / червяк
+- **el halago** - compliment, flattery / комплимент, лесть
+- **la herida** - wound / рана
+- **el hombro** - shoulder / плечо
+- **la hucha** - piggy bank / копилка
+- **el idioma** - language / язык
+- **el imán** - magnet / магнит
+- **la jarana** - partying, revelry / кутеж, веселье
+- **el jarrón** - vase / ваза
+- **la jefatura** - headquarters, leadership / руководство, управление
+- **la jeta** - snout, cheek (slang) / морда, наглость
+- **la jirafa** - giraffe / жираф
+- **la joya** - jewel / драгоценность
+- **la joyería** - jewelry store / ювелирный магазин
+- **el juez** - judge / судья
+- **el juzgado** - court / суд
+- **la leche condensada** - condensed milk / сгущенное молоко
+- **el lago** - lake / озеро
+- **la lágrima** - tear / слеза
+- **la lechuga** - lettuce / салат
+- **la lengua de señas** - sign language / язык жестов
+- **el limpiaparabrisas** - windshield wiper / стеклоочиститель
+- **la lista** - list / список
+- **el/la licenciado/a** - graduate (university degree holder) / дипломированный специалист
+- **la madrugada** - early morning / рассвет, раннее утро
+- **la madre** - mother / мать
+- **la mamá** - mom / мама
+- **la mancha** - stain / пятно
+- **la mantita** - small blanket / одеяльце
+- **el marisco** - seafood / морепродукты
+- **la mayúscula** - capital letter / заглавная буква
+- **la mejilla** - cheek / щека
+- **la minúscula** - lowercase letter / строчная буква
+- **la nacionalidad** - nationality / национальность
+- **la navaja** - pocket knife / складной нож
+- **el nombre** - name / имя
+- **la nube** - cloud / облако
+- **la palomita / palomitas de maíz** - popcorn / попкорн
+- **el padre** - father / отец
+- **el papá** - dad / папа
+- **el patito** - duckling / утенок
+- **el perrito caliente** - hot dog / хот-дог
+- **la pierna** - leg / нога
+- **el plato** - plate / тарелка
+- **la profesión** - profession / профессия
+- **la residencia** - residence / место жительства
+- **el retraso** - delay, lateness / опоздание, задержка
+- **la raíz** - root / корень
+- **el rey** - king / король
+- **la tela** - fabric / ткань
+- **el teléfono** - telephone / телефон
+- **la vocal** - vowel / гласная
+- **el xilófono** - xylophone / ксилофон
+- **el yate** - yacht / яхта

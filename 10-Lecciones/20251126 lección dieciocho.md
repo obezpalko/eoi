@@ -4,16 +4,21 @@ tags:
   - español
   - lección
 ---
+# Lección dieciocho
+
+[[../40-Deberes/20251126 Lección dieciocho|Deberes]]
+
+## Información
 
 [[../20-Gramática/Artículos|Artículos]]
 [[../30-Vocabulario/Temas/Colores|Colores]]
 
-# Vocabulario
+## Vocabulario
 
-- [[../30-Vocabulario/Verbos/odiar]]
-- [[../30-Vocabulario/Verbos/dejar]] / [[../30-Vocabulario/Verbos/prestar]]
+- [[../30-Vocabulario/Verbos/odiar|odiar]]
+- [[../30-Vocabulario/Verbos/dejar|dejar]] / [[../30-Vocabulario/Verbos/prestar|prestar]]
 
-### Siempre plural
+## Siempre plural
 
 Ver la lista completa y reglas en:
 

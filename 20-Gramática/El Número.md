@@ -3,7 +3,6 @@ tags:
   - español
   - gramática
 ---
-
 # El Número: Singular y Plural
 
 En español, los sustantivos tienen número: **singular** (uno) o **plural** (más de uno).
@@ -45,7 +44,7 @@ Ejemplos comunes:
 * **Los pantalones** (trousers)
 * **Las tijeras** (scissors)
 
-Ver lista completa: [[../30-Vocabulario/Temas/Siempre Plural]]
+Ver lista completa: [[../30-Vocabulario/Temas/Siempre Plura|Siempre Plural]]
 
 ---
 
@@ -61,4 +60,4 @@ Ejemplos comunes:
 * **El caos** (chaos)
 * **El norte** (north)
 
-Ver lista completa: [[../30-Vocabulario/Temas/Siempre Singular]]
+Ver lista completa: [[../30-Vocabulario/Temas/Siempre Singular|Siempre Singular]]

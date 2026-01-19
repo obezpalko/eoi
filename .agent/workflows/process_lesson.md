@@ -17,10 +17,11 @@ description: Standardize a lesson file, extracting vocabulary, translating notes
 
 3. **Process Vocabulary**
 
-   - Read `30-Vocabulario/palabras.md`.
+   - Read the relevant files in `30-Vocabulario/` (e.g., `Sustantivos.md`, `Verbos básicos.md`, `Adjetivos.md`).
    - Extract new vocabulary definitions from the lesson.
-   - **Action**: Add missing words to `30-Vocabulario/palabras.md`, ensuring they are placed in the correct category/section.
-   - **Sorting**: Ensure EVERY section in `30-Vocabulario/palabras.md` is sorted alphabetically after adding new words.
+   - **Action**: Add missing words to the correct file and section.
+   - **Articles**: For nouns, ensure you add the definite article (**el** or **la**).
+   - **Sorting**: Ensure EVERY section in the updated vocabulary files is sorted alphabetically.
    - **Images**: If new vocabulary is significant, suggest or run `80-Tools/download_images_universal.py` for those terms.
 
 4. **Content Refinement**

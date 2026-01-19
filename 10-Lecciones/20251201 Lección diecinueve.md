@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# 20251201 Lección diecinueve
+# Lección diecinueve
 
 [[20251126 lección dieciocho|20251126 Lección dieciocho]]
 [[../20-Gramática/Artículos|Artículos]]
@@ -42,5 +42,7 @@ En aules
 - vosotros vuestro/vuestras
 - vosotras vuestra/vuestras
 - ellos/ellas/ustedes
+
+[[../30-Vocabulario/Adjetivos posesivos|→ Adjetivos posesivos]]
 
 [[../40-Deberes/20251203 Lección|Deberes]]

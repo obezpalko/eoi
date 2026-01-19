@@ -7,7 +7,6 @@ tags:
   - vocabulario
 date: 2026-01-14
 ---
-
 # El Verbo CANTAR: ¿Qué se puede cantar?
 
 Además de "cantar una canción", usamos este verbo con muchas otras palabras específicas.

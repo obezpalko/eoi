@@ -4,7 +4,6 @@ tags:
   - cultura
   - nombres
 ---
-
 # Nombres y Diminutivos en España
 
 > **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]] · [[Apellidos en España|Apellidos en España]]

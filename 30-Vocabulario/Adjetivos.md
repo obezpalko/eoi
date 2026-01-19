@@ -1,0 +1,37 @@
+---
+tags: [vocabulario, adjetivos]
+---
+# Adjetivos
+
+- **aburrido/a** - boring, bored / скучный, скучающий
+- **ambiguo/a** - ambiguous, unclear / неоднозначный, двусмысленный
+- **blando/a** - soft / мягкий
+- **bueno/a** - good / хороший
+- **caliente** - hot / горячий
+- **delgado/a** - slim / стройный
+- **difícil** - difficult / трудный
+- **dulce** - sweet / сладкий
+- **duro/a** - hard / твердый
+- **feo/a** - ugly / некрасивый
+- **fino/a** - thin, fine / тонкий
+- **flaco/a** - thin / худой
+- **frío/a** - cold / холодный
+- **fácil** - easy / легкий
+- **goloso/a** - sweet-toothed / сладкоежка
+- **gordo/a** - fat / толстый
+- **grande** - big / большой
+- **gratuito/a** - free (no cost) / бесплатный
+- **grosero/a** - rude, impolite / грубый, невежливый
+- **guapo/a** - handsome, beautiful / красивый
+- **infinito/a** - infinite / бесконечный
+- **inteligente** - intelligent / умный
+- **jaranero/a** - party animal / гуляка
+- **joven** - young / молодой
+- **lindo/a** - cute, pretty / красивый
+- **malo/a** - bad / плохой
+- **manchego/a** - from La Mancha / манчего
+- **pequeño/a** - small / маленький
+- **rápido/a** - fast / быстрый
+- **salado/a** - salty / соленый
+- **tonto/a** - silly, stupid / глупый
+- **viejo/a** - old / старый

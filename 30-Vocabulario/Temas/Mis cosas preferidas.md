@@ -7,7 +7,6 @@ tags:
   - vocabulario
 date: 2026-01-07
 ---
-
 # Mis Preferencias: Lista de Categorías
 
 ## Fruta

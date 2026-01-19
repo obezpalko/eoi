@@ -4,7 +4,6 @@ tags:
   - tema
   - vocabulario
 ---
-
 # Colores
 
 ## Colores Básicos

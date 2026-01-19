@@ -5,13 +5,6 @@ tags:
   - vocabulario
 date: 2026-01-17
 ---
----
-tags:
-  - spanish/vocabulary
-  - a2-level
-date: 2026-01-17
----
-
 # 🇪🇸 Vocabulario Organizado
 
 | Spanish (Infinitive/Base) | English | Russian (Русский) | Ejemplo (A2) |

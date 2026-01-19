@@ -5,5 +5,4 @@ tags:
   - español
   - tarea
 ---
-
 # Lección veintitrés

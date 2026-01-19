@@ -1,0 +1,31 @@
+---
+tags: [vocabulario, verbos]
+---
+# Verbos básicos
+
+- **aprender** - to learn / учить, учиться
+- **charlar** - to chat, to talk / болтать, разговаривать
+- **[[Verbos/deletrear|deletrear]]** - spell out letters / произносить по буквам
+- **dividir** - to divide / делить
+- **empujar** - to push / толкать
+- **fascinar** - to fascinate / очаровывать
+- **ganar** - to win / выигрывать
+- **haber (hay)** - to have (there is/are) / иметься (есть)
+- **[[Verbos/hablar|hablar]]** - to speak / говорить
+- **limar** - to file / подпиливать
+- **[[Verbos/llamarse|llamarse]]** - to be called / зваться
+- **luchar** - to fight / бороться
+- **mezclar** - to mix / смешивать
+- **multiplicar** - to multiply / умножать
+- **oler** - to smell / пахнуть
+- **pasear** - to stroll, to walk / прогуливаться
+- **perder** - to lose / проигрывать
+- **quedar** - to stay, to meet / оставаться, встречаться
+- **recordar** - to remember, to remind / помнить, напоминать
+- **reír** - to laugh / смеяться
+- **restar** - to subtract / вычитать
+- **[[Verbos/ser|ser]]** - to be (permanent) / быть
+- **sumar** - to add / складывать
+- **[[Verbos/tener|tener]]** - to have / иметь
+- **[[Verbos/trabajar|trabajar]]** - to work / работать
+- **[[Verbos/vivir|vivir]]** - to live / жить
