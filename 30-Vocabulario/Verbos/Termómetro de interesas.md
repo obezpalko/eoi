@@ -26,6 +26,8 @@ No es lo mismo que te guste un café a que te guste tu hija. Aquí tienes la esc
 | **Indiferencia**| **Me da igual** | I don't care / Whatever | 🤷 0% |
 | **Nada** | **No me gusta nada** | I don't like it at all | ❌ -50% |
 | **Odio** | **Odio / Detesto** | I hate it | 😡 -100% |
+additional:
+- ni fu ni fa
 
 ---
 

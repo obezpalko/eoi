@@ -34,6 +34,8 @@ NE
 - **Duración:** 5 minutos por persona.
 - **Participantes:** Todos.
 
+
+
 ## Calendario Futuro
 
 - **Mayo:** 2º Examen. (60%)
