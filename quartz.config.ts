@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES",
-    baseUrl: "obezpalko.github.io/eoi",
+    baseUrl: "https://obezpalko.github.io/eoi",
     ignorePatterns: [
       ".git",
       ".obsidian",
