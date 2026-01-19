@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "es-ES",
-    baseUrl: "https://obezpalko.github.io/eoi",
+    baseUrl: "obezpalko.github.io/eoi",
     ignorePatterns: [
       ".git",
       ".obsidian",
@@ -79,6 +79,7 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.CrawlLinks({ markdownLinkResolution: "relative" }),
       Plugin.Description(),
+      Plugin.ContentMeta(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
@@ -94,6 +95,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
+      Plugin.CustomOgImages(),
     ],
   },
 }
