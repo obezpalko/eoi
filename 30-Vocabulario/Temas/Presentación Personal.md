@@ -1,9 +1,8 @@
 ---
 tags:
   - español
-  - tema
   - vocabulario
-  - A1
+  - presentacñion
 ---
 
 # Presentación Personal
@@ -105,7 +104,7 @@ La presentación personal es una de las habilidades más importantes al aprender
 - **¿Dónde naciste?** - Where were you born?
   - _Nací en Valencia._
 
-> **Ver más:** [[../Nacionalidades/Nacionalidades|Nacionalidades]] · [[../Nacionalidades/Lugares Españolas|Lugares Españolas]]
+> **Ver más:** [[Nacionalidades|Nacionalidades]] · [[Lugares Españolas|Lugares Españolas]]
 
 ### 5. Residencia
 
@@ -152,7 +151,7 @@ La presentación personal es una de las habilidades más importantes al aprender
 - _Estoy en paro / Estoy desempleado/a._ - I'm unemployed.
 - _Soy ama de casa._ - I'm a homemaker.
 
-> **Ver más:** [[../Profesiones|Profesiones]]
+> **Ver más:** [[Profesiones|Profesiones]]
 
 ### 7. Idiomas
 
@@ -289,7 +288,7 @@ La presentación personal es una de las habilidades más importantes al aprender
 
 ## Diálogos de Ejemplo
 
-> **Ver diálogos completos y adicionales:** [[Diálogos|Diálogos de Presentación]]
+> **Ver diálogos completos y adicionales:** [[Presentación Personal - Diálogos|Diálogos de Presentación]]
 
 ### Diálogo 1: Conocer a alguien en una fiesta (Informal)
 
@@ -327,7 +326,7 @@ La presentación personal es una de las habilidades más importantes al aprender
 
 ## Ejercicios Prácticos
 
-> **Ver ejercicios completos con soluciones:** [[Ejercicios|Ejercicios de Presentación Personal]]
+> **Ver ejercicios completos con soluciones:** [[Presentación Personal - Ejercicios|Ejercicios de Presentación Personal]]
 
 ### Ejercicio Rápido: Completa tu perfil
 
@@ -362,7 +361,7 @@ La presentación personal es una de las habilidades más importantes al aprender
 
 ## Notas Culturales
 
-> **Ver información cultural extendida:** [[Cultura|Cultura de Presentación Personal]]
+> **Ver información cultural extendida:** [[Presentación Personal - Cultura|Cultura de Presentación Personal]]
 
 ### Los apellidos en España
 
@@ -447,8 +446,8 @@ En España es aceptable preguntar la edad, pero en contextos formales o con pers
 ## Recursos Adicionales
 
 - [[../Abecedario|Abecedario]] - Para deletrear nombres y apellidos
-- [[../Nacionalidades/Nacionalidades|Nacionalidades]] - Lista completa de nacionalidades
-- [[../Profesiones|Profesiones]] - Vocabulario de profesiones
+- [[Nacionalidades|Nacionalidades]] - Lista completa de nacionalidades
+- [[Profesiones|Profesiones]] - Vocabulario de profesiones
 - [[../../Verbos/ser|Verbo SER]] - Conjugación completa
 - [[../../Verbos/tener|Verbo TENER]] - Conjugación completa
 - [[../../Verbos/llamarse|Verbo LLAMARSE]] - Conjugación completa

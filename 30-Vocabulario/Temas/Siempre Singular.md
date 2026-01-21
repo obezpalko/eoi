@@ -1,7 +1,6 @@
 ---
 tags:
   - español
-  - tema
   - vocabulario
 ---
 # Siempre Singular (Singularia Tantum)

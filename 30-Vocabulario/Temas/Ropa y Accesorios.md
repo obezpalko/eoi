@@ -1,7 +1,6 @@
 ---
 tags:
   - español
-  - tema
   - vocabulario
 ---
 # Ropa, Calzado y Accesorios

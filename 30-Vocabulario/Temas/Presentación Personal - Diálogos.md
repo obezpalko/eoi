@@ -1,10 +1,8 @@
 ---
 tags:
   - español
-  - tema
   - vocabulario
   - diálogos
-  - A1
 ---
 
 # Diálogos de Presentación Personal

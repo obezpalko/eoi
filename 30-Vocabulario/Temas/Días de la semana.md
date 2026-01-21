@@ -1,8 +1,8 @@
 ---
 tags:
   - español
-  - tema
   - vocabulario
+  - time
 ---
 # Días de la semana
 

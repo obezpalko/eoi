@@ -3,7 +3,6 @@ tags:
   - antónimos
   - cultura
   - español
-  - tema
   - vocabulario
 date: 2026-01-07
 ---

@@ -6,7 +6,7 @@ tags:
 ---
 # Puntualidad y Concepto del Tiempo en España
 
-> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]]
+> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]]
 
 ## Concepto de Tiempo en España
 
@@ -221,4 +221,4 @@ El concepto de puntualidad en España es **diferente** según el contexto. No es
 
 - [[Saludos y Contacto Físico|Saludos y Contacto Físico]] - Costumbres sociales
 - [[Tú vs Usted|Tú vs. Usted]] - Formalidad en diferentes contextos
-- [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]] - Cómo disculparse por llegar tarde
+- [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]] - Cómo disculparse por llegar tarde

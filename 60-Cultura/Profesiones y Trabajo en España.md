@@ -6,7 +6,7 @@ tags:
 ---
 # Profesiones y Trabajo en España
 
-> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]] · [[../30-Vocabulario/Temas/Profesiones|Profesiones]]
+> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]] · [[../30-Vocabulario/Temas/Profesiones|Profesiones]]
 
 ## Profesiones Valoradas en España
 
@@ -205,4 +205,4 @@ tags:
 
 - [[../30-Vocabulario/Temas/Profesiones|Profesiones]] - Lista completa de profesiones
 - [[Tú vs Usted|Tú vs. Usted]] - Formalidad en el trabajo
-- [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]] - Cómo hablar de tu trabajo
+- [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]] - Cómo hablar de tu trabajo

@@ -18,7 +18,7 @@ tags:
 
 ## Lección: Presentación Personal
 
-> **📚 Ver tema completo:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]]
+> **📚 Ver tema completo:** [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]]
 >
 > Este tema incluye:
 >
@@ -40,7 +40,7 @@ tags:
 - **¿Cuál es tu apellido?** - Mi apellido es...
 - **¿Cuáles son tus apellidos?** - Mis apellidos son...
 
-> **Ver también:** [[../30-Vocabulario/Temas/Nacionalidades/Nacionalidades|Nacionalidades]] [[../30-Vocabulario/Temas/Nacionalidades/Lugares Españolas|Lugares Españolas]]
+> **Ver también:** [[../30-Vocabulario/Temas/Nacionalidades|Nacionalidades]] [[../30-Vocabulario/Temas/Lugares Españolas|Lugares Españolas]]
 
 #### Edad
 
@@ -50,7 +50,7 @@ tags:
 
 - **¿De dónde eres?** - Soy de Ucrania e Israel. Soy israelí.
 
-> **Ver también:** [[../30-Vocabulario/Temas/Nacionalidades/Nacionalidades|Nacionalidades]] [[../30-Vocabulario/Temas/Nacionalidades/Lugares Españolas|Lugares Españolas]]
+> **Ver también:** [[../30-Vocabulario/Temas/Nacionalidades|Nacionalidades]] [[../30-Vocabulario/Temas/Lugares Españolas|Lugares Españolas]]
 
 #### Trabajo
 

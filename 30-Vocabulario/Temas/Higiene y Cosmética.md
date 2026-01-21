@@ -1,5 +1,7 @@
 ---
-tags: [vocabulario, español, tema]
+tags:
+  - vocabulario
+  - español
 date: 2026-01-21
 ---
 # Higiene y Cosmética

@@ -6,7 +6,7 @@ tags:
 ---
 # Nombres y Diminutivos en España
 
-> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]] · [[Apellidos en España|Apellidos en España]]
+> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]] · [[Apellidos en España|Apellidos en España]]
 
 ## Nombres Comunes en España
 
@@ -205,5 +205,5 @@ En España, además del cumpleaños, se celebra el **día del santo**:
 ## Recursos Adicionales
 
 - [[Apellidos en España|Apellidos en España]] - Sistema de apellidos
-- [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]] - Cómo presentarte
+- [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]] - Cómo presentarte
 - [[../30-Vocabulario/Verbos/llamarse|Verbo Llamarse]] - Conjugación completa

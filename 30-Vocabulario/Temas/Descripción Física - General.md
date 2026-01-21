@@ -1,8 +1,8 @@
 ---
 tags:
   - español
-  - tema
   - vocabulario
+  - descripción_física
 ---
 
 # General: Estatura, Complexión y Apariencia

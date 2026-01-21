@@ -23,7 +23,7 @@ Preguntas a tus compañeros/as
 
 - Se llama Li. Su nombre es Li.
   - Me llamo Li. Soy Li.
-- Ella es de China. Es [[../30-Vocabulario/Temas/Nacionalidades/Nacionalidades|china]].
+- Ella es de China. Es [[../30-Vocabulario/Temas/Nacionalidades|china]].
   - Yo soy de China. Soy china.
 - Ella tiene diecisiete años.
   - Yo tengo diecisiete años.
@@ -42,7 +42,7 @@ Preguntas a tus compañeros/as
 
 - Se llama Marcio.
   - Me llamo Marcio.
-- Es [[../30-Vocabulario/Temas/Nacionalidades/Nacionalidades|brasileño]].
+- Es [[../30-Vocabulario/Temas/Nacionalidades|brasileño]].
   - Yo soy brasileño.
 - Él tiene cuarenta y un años.
   - Yo tengo cuarenta y un años.
@@ -57,7 +57,7 @@ Preguntas a tus compañeros/as
 
 #### Barbara
 
-- Es [[../30-Vocabulario/Temas/Nacionalidades/Nacionalidades|mexicana]].
+- Es [[../30-Vocabulario/Temas/Nacionalidades|mexicana]].
   - Yo soy mexicana.
 - Tiene veintiocho años.
   - Yo tengo veintiocho años.

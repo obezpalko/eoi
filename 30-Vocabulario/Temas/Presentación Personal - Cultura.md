@@ -1,9 +1,8 @@
 ---
 tags:
   - español
-  - tema
   - cultura
-  - A1
+  - presentacñion
 ---
 
 # Cultura de Presentación Personal en España

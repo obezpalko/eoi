@@ -29,7 +29,7 @@ En esta lección trabajamos:
 
 ### Edad
 
-[[../30-Vocabulario/Temas/Descripción Física/General|📖 Ver más sobre descripción física]]
+[[../30-Vocabulario/Temas/Descripción Física - General|📖 Ver más sobre descripción física]]
 
 | **Etapa de Vida** | **Ejemplo Masculino**                | **Ejemplo Femenino**              | **Descripción**                                      |
 | ----------------- | ------------------------------------ | --------------------------------- | ---------------------------------------------------- |

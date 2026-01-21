@@ -1,8 +1,8 @@
 ---
 tags:
   - español
-  - tema
   - vocabulario
+  - descripción_física
 ---
 
 # Cara: Ojos, Nariz, Orejas, Labios y Marcas

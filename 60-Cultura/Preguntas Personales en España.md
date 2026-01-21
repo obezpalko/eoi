@@ -6,7 +6,7 @@ tags:
 ---
 # Preguntas Personales en España
 
-> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]] · [[Tú vs Usted|Tú vs. Usted]]
+> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]] · [[Tú vs Usted|Tú vs. Usted]]
 
 ## Contexto Cultural
 
@@ -276,6 +276,6 @@ En lugar de preguntar directamente:
 
 ## Recursos Adicionales
 
-- [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]] - Preguntas estándar
+- [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]] - Preguntas estándar
 - [[Tú vs Usted|Tú vs. Usted]] - Nivel de formalidad
 - [[Saludos y Contacto Físico|Saludos y Contacto Físico]] - Otras costumbres sociales

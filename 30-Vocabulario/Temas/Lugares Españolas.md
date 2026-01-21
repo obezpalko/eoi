@@ -1,8 +1,8 @@
 ---
 tags:
   - español
-  - tema
   - vocabulario
+  - españa
 ---
 # Lugares y Gentilicios
 

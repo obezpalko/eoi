@@ -139,7 +139,7 @@ Traduce estas frases a español:
 ### Preparación para la próxima lección
 
 - Repasar el vocabulario de [[../30-Vocabulario/Temas/Profesiones]]
-- Repasar [[../30-Vocabulario/Temas/Nacionalidades/Nacionalidades]] y [[../30-Vocabulario/Temas/Nacionalidades/Lugares Españolas|Lugares Españolas]]
+- Repasar [[../30-Vocabulario/Temas/Nacionalidades]] y [[../30-Vocabulario/Temas/Lugares Españolas|Lugares Españolas]]
 - Estudiar el abecedario español: [[../30-Vocabulario/Temas/Abecedario]]
 - Practicar deletrear tu nombre, apellidos y correo electrónico
 

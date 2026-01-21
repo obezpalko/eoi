@@ -6,7 +6,7 @@ tags:
 ---
 # Tú vs. Usted: Contexto Cultural
 
-> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]]
+> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]]
 
 ## Tendencias Generales
 
@@ -151,4 +151,4 @@ En España, el uso de "tú" es cada vez más común, especialmente entre persona
 ## Recursos Adicionales
 
 - [[Saludos y Contacto Físico|Saludos y Contacto Físico]] - Cómo saludar apropiadamente
-- [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]] - Preguntas formales e informales
+- [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]] - Preguntas formales e informales

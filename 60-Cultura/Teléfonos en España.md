@@ -6,7 +6,7 @@ tags:
 ---
 # Formato de Teléfonos en España
 
-> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]]
+> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]]
 
 ## Estructura de Números
 

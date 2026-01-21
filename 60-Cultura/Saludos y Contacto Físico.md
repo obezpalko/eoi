@@ -6,7 +6,7 @@ tags:
 ---
 # Saludos y Contacto Físico en España
 
-> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]]
+> **Relacionado con:** [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]]
 
 ## Los Dos Besos
 
@@ -114,4 +114,4 @@ tags:
 ## Recursos Adicionales
 
 - [[Tú vs Usted|Tú vs. Usted]] - Formalidad en el trato
-- [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]] - Cómo presentarse
+- [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]] - Cómo presentarse

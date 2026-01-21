@@ -18,7 +18,7 @@ date: 2025-10-01
 
 ### ¡A presentarnos
 
-> **📚 Ver tema completo:** [[../30-Vocabulario/Temas/Presentación Personal/Presentación Personal|Presentación Personal]]
+> **📚 Ver tema completo:** [[../30-Vocabulario/Temas/Presentación Personal|Presentación Personal]]
 
 Práctica en clase:
 

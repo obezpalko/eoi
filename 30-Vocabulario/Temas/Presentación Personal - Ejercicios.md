@@ -1,10 +1,8 @@
 ---
 tags:
   - español
-  - tema
   - vocabulario
   - ejercicios
-  - A1
 ---
 
 # Ejercicios de Presentación Personal

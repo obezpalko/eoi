@@ -1,7 +1,6 @@
 ---
 tags:
   - español
-  - tema
   - vocabulario
 ---
 # Profesiones y Ocupaciones
