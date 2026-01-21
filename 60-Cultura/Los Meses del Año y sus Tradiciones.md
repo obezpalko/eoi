@@ -48,6 +48,7 @@ En España, cada mes tiene una celebración especial. Aquí tienes los meses con
 ## 🔗 Ver también
 - [[Vocabulario de Comida Típica]]
 - [[Geografía de España]]
+- [[Estaciones del año]]
 
 Add:
 - fallas

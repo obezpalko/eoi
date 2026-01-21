@@ -103,14 +103,13 @@ Preguntas a tus compañeros/as
 - ¿Cuál es la capital de [Colombia](https://es.wikipedia.org/wiki/Colombia)?
 - ¿Quién es [Fernando Botero](https://es.wikipedia.org/wiki/Fernando_Botero)?
 - ¿Quién es [Gabriel García Márquez](https://es.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez)?
-- ¿En qué [[../30-Vocabulario/Estaciones del año|estación]] del año estamos hoy?
+- ¿En qué [[../60-Cultura/Estaciones del año|estación]] del año estamos hoy?
 
 ---
 
 - [[../30-Vocabulario/Temas/Días de la semana|Días de la semana]]
 - [[../60-Cultura/Los Meses del Año y sus Tradiciones|Los Meses del Año y sus Tradiciones]]
-- [[../30-Vocabulario/Estaciones del año|Estaciones del año]]
-- [[../60-Cultura/Las estaciones en España|Las estaciones en España]] (todo: join)
+- [[../60-Cultura/Estaciones del año|Las estaciones en España]]
 
 ### LA:118 Actividades
 
@@ -120,7 +119,7 @@ Preguntas a tus compañeros/as
 
 ### Errores comunes
 
-- No ordenador. Solo escribir a mano.
+- Uso ordenador. Solo escribir a mano.
 - Yo soy deportista. Pero ropa deportiva
 - ==Mi== casa es bonita. Mi madre compra un regalo para ==mí==. (Tilda es importante )
 - Te VS té

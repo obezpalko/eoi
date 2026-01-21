@@ -109,7 +109,7 @@ Se usa para expresar existencia.
 
 - **El Barrio**: En España, el barrio es fundamental. La gente suele comprar en las tiendas locales (*comercio de proximidad*) y socializar en las plazas del barrio.
 - **Gentilicios**: Son los nombres que reciben las personas según su lugar de origen (pe. *español*, *valenciano*, *madrileño*).
-- **Las Estaciones**: En España, cada estación tiene sus propias tradiciones y fiestas. [[../60-Cultura/Las estaciones en España|Ver más sobre las estaciones en España]].
+- **Las Estaciones**: En España, cada estación tiene sus propias tradiciones y fiestas. [[../60-Cultura/Estaciones del año|Ver más sobre las estaciones en España]].
 
 ## Deberes
 
