@@ -12,7 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-9GWVNXB2PG",
     },
     locale: "es-ES",
     baseUrl: "https://obezpalko.github.io/eoi",
