@@ -7,7 +7,6 @@ tags:
   - vocabulario
 date: 2026-01-14
 ---
-
 # El Verbo TOCAR: Mucho más que "To Touch"
 
 En inglés usas "Play" para todo (Play piano, Play tennis). En español, **NO**.

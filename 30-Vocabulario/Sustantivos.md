@@ -18,26 +18,29 @@ tags: [vocabulario, sustantivos]
 - **la berenjena** - eggplant / баклажан
 - **la boda** - wedding / свадьба
 - **la bolera** - bowling alley / боулинг
+- **el bolígrafo borrable** - erasable pen / стираемая ручка
 - **la bolsa** - bag (plastic/paper) / пакет
 - **el bolso** - handbag / сумка
 - **el borrador** - eraser / ластик
 - **el brazo** - arm / рука (от плеча до кисти)
 - **la broma** - joke / шутка
 - **la bruja** - witch / ведьма
-- **el burro** - donkey / осел
+- **el burro** - donkey / oсел
 - **el caballo** - horse / лошадь
+- **el castillo de arena** - sandcastle / замок из песка
 - **la cebra** - zebra / зебра
 - **el centro comercial** - shopping mall / торговый центр
+- **la chancla** - flip-flop / шлепанец
 - **la cola** - line, queue / очередь
 - **la comilona** - big meal, feast / пиршество
 - **la consonante** - consonant / согласная
 - **el correo electrónico** - email / электронная почта
 - **el cura** - priest / священник
+- **el dátil** - date (fruit) / финик
 - **el dedo** - finger / палец
 - **el diminutivo** - diminutive, nickname / уменьшительное имя
 - **la dirección** - address / адрес
 - **la droga** - drug / наркотик
-- **el dátil** - date (fruit) / финик
 - **la edad** - age / возраст
 - **el efectivo** - cash / наличные dinero
 - **el erizo** - hedgehog / еж
@@ -66,14 +69,15 @@ tags: [vocabulario, sustantivos]
 - **la joyería** - jewelry store / ювелирный магазин
 - **el juez** - judge / судья
 - **el juzgado** - court / суд
-- **la leche condensada** - condensed milk / сгущенное молоко
 - **el lago** - lake / озеро
 - **la lágrima** - tear / слеза
+- **la leche condensada** - condensed milk / сгущенное молоко
 - **la lechuga** - lettuce / салат
 - **la lengua de señas** - sign language / язык жестов
+- **la lengua materna** - mother tongue / родной язык
+- **el/la licenciado/a** - graduate (university degree holder) / дипломированный специалист
 - **el limpiaparabrisas** - windshield wiper / стеклоочиститель
 - **la lista** - list / список
-- **el/la licenciado/a** - graduate (university degree holder) / дипломированный специалист
 - **la madrugada** - early morning / рассвет, раннее утро
 - **la madre** - mother / мать
 - **la mamá** - mom / мама
@@ -83,22 +87,25 @@ tags: [vocabulario, sustantivos]
 - **la mayúscula** - capital letter / заглавная буква
 - **la mejilla** - cheek / щека
 - **la minúscula** - lowercase letter / строчная буква
+- **la muela del juicio** - wisdom tooth / зуб мудрости
 - **la nacionalidad** - nationality / национальность
 - **la navaja** - pocket knife / складной нож
 - **el nombre** - name / имя
 - **la nube** - cloud / облако
-- **la palomita / palomitas de maíz** - popcorn / попкорн
 - **el padre** - father / отец
+- **la palomita / palomitas de maíz** - popcorn / попкорн
 - **el papá** - dad / папа
 - **el patito** - duckling / утенок
 - **el perrito caliente** - hot dog / хот-дог
 - **la pierna** - leg / нога
 - **el plato** - plate / тарелка
 - **la profesión** - profession / профессия
+- **la raíz** - root / корень
 - **la residencia** - residence / место жительства
 - **el retraso** - delay, lateness / опоздание, задержка
-- **la raíz** - root / корень
 - **el rey** - king / король
+- **el signo de exclamación** - exclamation mark / восклицательный знак
+- **el signo de interrogación** - question mark / вопросительный знак
 - **la tela** - fabric / ткань
 - **el teléfono** - telephone / телефон
 - **la vocal** - vowel / гласная

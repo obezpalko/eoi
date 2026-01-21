@@ -101,7 +101,7 @@ Ver más en el [[../20-Gramática/Termómetro de intereses|termómetro de intere
 
 Cuando la preposición **a** va seguida del artículo masculino **el**, se produce una contracción obligatoria:
 
-**a + el = al**
+#### **a + el = al**
 
 Ejemplos:
 
@@ -110,6 +110,8 @@ Ejemplos:
 - Mañana voy **al** centro comercial.
 
 *Nota: No se contrae si "El" es parte de un nombre propio (ej. Voy a El Escorial).*
+
+[[../20-Gramática/Artículos|Artículos]]
 
 ### Escuchar
 

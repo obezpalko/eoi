@@ -6,7 +6,6 @@ tags:
   - verbos
   - vocabulario
 ---
-
 # El Verbo Deletrear (To spell)
 
 Verbo regular terminado en **-ar**.
