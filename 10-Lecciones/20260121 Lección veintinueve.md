@@ -104,7 +104,9 @@ Preguntas a tus compañeros/as
 - ¿Quién es [Fernando Botero](https://es.wikipedia.org/wiki/Fernando_Botero)?
 - ¿Quién es [Gabriel García Márquez](https://es.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez)?
 - ¿En qué [[../30-Vocabulario/Estaciones del año|estación]] del año estamos hoy?
-- 
+
+---
+
 - [[../30-Vocabulario/Temas/Días de la semana|Días de la semana]]
 - [[../60-Cultura/Los Meses del Año y sus Tradiciones|Los Meses del Año y sus Tradiciones]]
 - [[../30-Vocabulario/Estaciones del año|Estaciones del año]]
