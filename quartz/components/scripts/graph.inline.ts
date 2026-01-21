@@ -350,6 +350,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   tweens.clear()
 
   const app = new Application()
+  const gpu = typeof navigator !== "undefined" && (navigator as any).gpu
+  const preferredFormat = gpu ? gpu.getPreferredCanvasFormat() : undefined
+
   await app.init({
     width,
     height,
@@ -360,6 +363,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     preference: "webgpu",
     resolution: window.devicePixelRatio,
     eventMode: "static",
+    // @ts-ignore
+    format: preferredFormat,
   })
   graph.appendChild(app.canvas)
 
