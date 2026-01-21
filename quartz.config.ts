@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       tagId: "G-9GWVNXB2PG",
     },
     locale: "es-ES",
-    baseUrl: "https://obezpalko.github.io/eoi",
+    baseUrl: "obezpalko.github.io/eoi",
     ignorePatterns: [
       ".git",
       ".obsidian",
