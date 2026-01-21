@@ -14,6 +14,9 @@ tags:
 - **Sábado**
 - **Domingo**
 
+Update needed 
+- Fin de semana. Finde.
+
 ## Reglas de uso
 
 1. **Género**

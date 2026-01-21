@@ -1,6 +1,6 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [
     "editor:undo",

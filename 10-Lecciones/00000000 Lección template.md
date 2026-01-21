@@ -3,8 +3,7 @@ tags:
   - español
   - lección
 ---
-
-# Lección veinticinco
+# Lección template
 
 [[../40-Deberes/20260000 Lección template|Deberes]]
 
