@@ -122,7 +122,7 @@ Todavía con palabras empiezan *a-*, *ha-*
 
 ### Explicación
 
-![[Artículos/tabla_articulos.jpeg]]
+![[attachments/tabla_articulos.jpeg]]
 
 ### USOS
 
@@ -150,10 +150,10 @@ Ej: `Lourdes es _____ novia de Juanjo.`
     • Cuando hablamos de algo en sentido general.
 Ej: `Odio _____ café.`
 
-![[Artículos/Pasted image 20251126141721.png]]
-![[Artículos/Pasted image 20251126141732.png]]
+![[attachments/Pasted image 20251126141721.png]]
+![[attachments/Pasted image 20251126141732.png]]
 
 ### Actividades
 
-![[Artículos/articulo-ejercicios.jpeg]]
+![[attachments/articulo-ejercicios.jpeg]]
 [https://aprenderespanol.org/gramatica/articulos-determinados-indeterminados.html](https://aprenderespanol.org/gramatica/articulos-determinados-indeterminados.html)

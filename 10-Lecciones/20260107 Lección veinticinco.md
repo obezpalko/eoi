@@ -29,19 +29,19 @@ tags:
 
 ## Vocabulario
 
-| Palabra                        | Descripción                                                             | Imagen                             |
-| :----------------------------- | :---------------------------------------------------------------------- | :--------------------------------- |
-| **las patatas / las papas**    | Tubérculo comestible muy común en la cocina.                            | ![[20260107/patatas.jpg]]          |
-| **el racimo de uvas**          | Conjunto de uvas sostenidas por un mismo tallo.                         | ![[20260107/racimo_uvas.jpg]]      |
-| **las películas de miedo**     | Género cinematográfico que busca causar terror o susto.                 | ![[20260107/cine_terror.jpg]]      |
-| **las rebajas**                | Periodo en el que los comercios venden sus productos a menor precio.    | ![[20260107/rebajas.jpg]]          |
-| **los descuentos**             | Reducción del precio habitual de un artículo.                           | ![[20260107/descuentos.jpg]]       |
-| **arisco / arisca**            | Persona o animal que es áspero, poco sociable o huraño.                 | ![[20260107/arisco.jpg]]           |
-| **peludo / peluda**            | Que tiene mucho pelo.                                                   | ![[20260107/peludo.jpg]]           |
-| **madrugar**                   | Levantarse muy temprano por la mañana.                                  | ![[20260107/madrugar.jpg]]         |
-| **trasnochar**                 | Pasar la noche sin dormir o acostarse muy tarde.                        | ![[20260107/trasnochar.jpg]]       |
-| **el doblaje**                 | Sustituir la voz original de una película por otra en diferente idioma. | ![[20260107/doblaje.jpg]]          |
-| **la versión original (V.O.)** | Película proyectada con el audio original en que fue grabada.           | ![[20260107/version_original.jpg]] |
+| Palabra                        | Descripción                                                             | Imagen                                |
+| :----------------------------- | :---------------------------------------------------------------------- | :------------------------------------ |
+| **las patatas / las papas**    | Tubérculo comestible muy común en la cocina.                            | ![[attachments/patatas.jpg]]          |
+| **el racimo de uvas**          | Conjunto de uvas sostenidas por un mismo tallo.                         | ![[attachments/racimo_uvas.jpg]]      |
+| **las películas de miedo**     | Género cinematográfico que busca causar terror o susto.                 | ![[attachments/cine_terror.jpg]]      |
+| **las rebajas**                | Periodo en el que los comercios venden sus productos a menor precio.    | ![[attachments/rebajas.jpg]]          |
+| **los descuentos**             | Reducción del precio habitual de un artículo.                           | ![[attachments/descuentos.jpg]]       |
+| **arisco / arisca**            | Persona o animal que es áspero, poco sociable o huraño.                 | ![[attachments/arisco.jpg]]           |
+| **peludo / peluda**            | Que tiene mucho pelo.                                                   | ![[attachments/peludo.jpg]]           |
+| **madrugar**                   | Levantarse muy temprano por la mañana.                                  | ![[attachments/madrugar.jpg]]         |
+| **trasnochar**                 | Pasar la noche sin dormir o acostarse muy tarde.                        | ![[attachments/trasnochar.jpg]]       |
+| **el doblaje**                 | Sustituir la voz original de una película por otra en diferente idioma. | ![[attachments/doblaje.jpg]]          |
+| **la versión original (V.O.)** | Película proyectada con el audio original en que fue grabada.           | ![[attachments/version_original.jpg]] |
 
 [[../30-Vocabulario/Temas/Siempre Singular|Siempre singular]]
 
