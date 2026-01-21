@@ -1,0 +1,23 @@
+# General Rules for Antigravity Assistant
+
+## Image Guidelines
+
+- **No Text in Images**: Never use or download images that contain text, watermarks, or overlays.
+- **Visual Style**: Prefer high-quality, premium photography that captures the essence of the subject without distracting elements.
+- **Specifications**:
+  - Max size: 256x256px (for vocabulary/icons) or horizontal landscapes for cultural articles.
+  - Format: JPG for photos, SVG for graphics.
+  - Quality: 85% for JPG.
+- **Naming**: Use `snake_case` for filenames (e.g., `gafas_de_sol.jpg`).
+
+## Content Guidelines
+
+- **Spanish Level**: Keep content suitable for A1-A2 Spanish learners.
+- **Formatting**: Use tables for vocabulary and ensure contextual examples are provided.
+- **Organization**: Follow the project's folder structure and naming conventions (e.g., folder notes).
+- **Links**: Always use relative paths for internal links.
+
+## Translation & Accuracy
+
+- Always verify Spanish translations for accuracy and appropriate usage (e.g., ser vs estar).
+- Ensure gender and number agreement in all examples.

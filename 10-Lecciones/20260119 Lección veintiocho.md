@@ -53,7 +53,7 @@ Ver más en el [[../20-Gramática/Termómetro de intereses|termómetro de intere
 - A los niños **les flipa** ir al colegio para ver a sus amigos.
 - A nosotros **nos encanta** nadar en la piscina cuando hace calor.
 - A los niños **les apasiona** jugar en la nieve.
-- A mi hija **le encanta** [[../60-Cultura/hacer muñecos de nieve|hacer muñecos de nieve]].
+- A mi hija **le encanta** [[../60-Cultura/Hacer muñecos de nieve|hacer muñecos de nieve]].
 - A mucha gente **le da miedo** subir muy alto.
 - A Sara **le gusta mucho** patinar los domingos.
 - A muchos españoles **les apasiona** el fútbol.

@@ -132,7 +132,7 @@ Preguntas a tus compañeros/as
 - los idiomas son minúsculos y masculino
 - y → e if next words starting with I o H
 - No escribir solo mayúsculas. Solo que necesitan.
-- neces==~~s~~==ito - single s
+- neces~~s~~ito - single s
 - perfume VS colonia
 - el padre de mi madre/==padre== es mi abuelo materno/==paterno==
 - la madre de mi madre/==padre== es mi abuela materna/==paterna==
