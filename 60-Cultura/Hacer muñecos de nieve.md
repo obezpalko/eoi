@@ -56,4 +56,14 @@ En enero de 2021, una tormenta muy grande llamada **Filomena** cubrió de blanco
 Si no hay nieve en la playa de Dénia, a veces los niños usan la **arena** para practicar y hacen "muñecos de arena" con la misma forma que los muñecos de nieve.
 
 ---
-**¿Quieres que añada una lista de frases útiles para usar cuando vas a la nieve con amigos?**
+
+## 🗣️ Frases útiles para la nieve
+
+Aquí tienes algunas frases para practicar con tus amigos, incluyendo algunos [[../20-Gramática/Sufijos ista e ivo|sufijos (-ista, -ivo/a)]]:
+
+* **"¡Vamos a hacer un muñeco de nieve!"** (Let's make a snowman!)
+* **"Necesito ropa deportiva para jugar en la nieve."** (I need sportswear to play in the snow.)
+* **"Él es muy deportista, le encanta esquiar."** (He is very athletic, he loves to ski.)
+* **"¡Qué día tan festivo y divertido!"** (What a festive and fun day!)
+* **"¡Cuidado! ¡Voy a lanzar una bola de nieve!"** (Watch out! I'm going to throw a snowball!)
+* **"¿Tienes una zanahoria para la nariz del muñeco?"** (Do you have a carrot for the snowman's nose?)

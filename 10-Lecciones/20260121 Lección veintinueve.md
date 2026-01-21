@@ -76,34 +76,54 @@ Preguntas a tus compañeros/as
 
 ![[attachments/PXL_20260121_082354832~3.jpg]]
 
-- ¿Cómo te llamas?
-- ¿Es usted de [Londres](https://es.wikipedia.org/wiki/Londres)?
-- ¿Cuál es to correo electrónico?
-- ¿Cuál es tu número de teléfono?
-- ¿Cómo se escribe tu nombre?
-- ¿Cuáles son tus aficiones?
-- ¿De dónde eres?
-- ¿Puedes [[deletrear]] tu correo?
-- ¿Cómo te apellidas?
-- Eres Brigitte, ¿verdad?
-- ¿[[../30-Vocabulario/Verbos/tocar|Tocas un instrumento]]?
-- ¿Qué idiomas hablas?
-- ¿Por qué estudias español?
-- ¿Tienes una goma?
-- ¿Qué aficiones tienes?
-- ¿Qué aficiones tienes?
-- ¿De dónde es [Brad Pitt](https://es.wikipedia.org/wiki/Brad_Pitt)?
-- ¿Qué es esto?
-- ¿Quién es alemán?
-- ¿Cómo se pronuncia «siguiente»?
-- ¿Qué día es hoy?
+- **¿Cómo te llamas?**
+  - Me llamo Alex.
+- **¿Es usted de [Londres](https://es.wikipedia.org/wiki/Londres)?**
+  - No, soy de Ucrania.
+- **¿Cuál es tu correo electrónico?**
+  - Mi correo es <ejemplo@correo.com>.
+- **¿Cuál es tu número de teléfono?**
+  - Mi número es el 600 000 000.
+- **¿Cómo se escribe tu nombre?**
+  - Se escribe A-L-E-X.
+- **¿De dónde eres?**
+  - Soy de Ucrania.
+- **¿Puedes [[deletrear]] tu correo?**
+  - Sí, es E-JOTA-E-EME-PE-ELE-O...
+- **¿Cómo te apellidas?**
+  - Mi apellido es Bezpalko.
+- **Eres Brigitte, ¿verdad?**
+  - No, soy Alex.
+- **¿[[../30-Vocabulario/Verbos/tocar|Tocas un instrumento]]?**
+  - No, no toco ningún instrumento.
+- **¿Qué idiomas hablas?**
+  - Hablo ruso, ucraniano, inglés y un poco de español.
+- **¿Por qué estudias español?**
+  - Porque vivo en España y quiero hablar con la gente.
+- **¿Tienes una goma?**
+  - Sí, toma una.
+- **¿Qué aficiones tienes?**
+  - Me gusta el deporte, viajar y la tecnología.
+- **¿De dónde es [Brad Pitt](https://es.wikipedia.org/wiki/Brad_Pitt)?**
+  - Es de Estados Unidos (es estadounidense).
+- **¿Qué es esto?**
+  - Es un bolígrafo borrable.
+- **¿Quién es alemán?**
+  - Mi amigo de clase es alemán.
+- **¿Cómo se pronuncia «siguiente»?**
+  - Se pronuncia /si.ˈɡjen.te/.
+- **¿Qué día es hoy?**
   - Hoy es [[../30-Vocabulario/Temas/Días de la semana|miércoles]] veintiuno de [[../60-Cultura/Los Meses del Año y sus Tradiciones|enero]] de dos mil veintiséis.
-- ¿De dónde es tu profesora de español?
+- **¿De dónde es tu profesora de español?**
   - Mi profesora de español es de [Orihuela](https://share.google/ojkvV4IJh1f8GFnMB).
-- ¿Cuál es la capital de [Colombia](https://es.wikipedia.org/wiki/Colombia)?
-- ¿Quién es [Fernando Botero](https://es.wikipedia.org/wiki/Fernando_Botero)?
-- ¿Quién es [Gabriel García Márquez](https://es.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez)?
-- ¿En qué [[../60-Cultura/Estaciones del año|estación]] del año estamos hoy?
+- **¿Cuál es la capital de [Colombia](https://es.wikipedia.org/wiki/Colombia)?**
+  - La capital es [Bogotá](https://es.wikipedia.org/wiki/Bogot%C3%A1).
+- **¿Quién es [Fernando Botero](https://es.wikipedia.org/wiki/Fernando_Botero)?**
+  - Es un pintor y escultor colombiano muy famoso por sus figuras "gordas".
+- **¿Quién es [Gabriel García Márquez](https://es.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez)?**
+  - Es un escritor colombiano, autor de *«Cien años de soledad»* y Premio Nobel.
+- **¿En qué [[../60-Cultura/Estaciones del año|estación]] del año estamos hoy?**
+  - Estamos en invierno.
 
 ---
 
@@ -119,26 +139,24 @@ Preguntas a tus compañeros/as
 
 ### Errores comunes
 
-- Uso ordenador. Solo escribir a mano.
-- Yo soy deportista. Pero ropa deportiva
-- ==Mi== casa es bonita. Mi madre compra un regalo para ==mí==. (Tilda es importante )
-- Te VS té
-- ingles VS inglés
+- Uso el ordenador. ¡Solo escribo a mano!
+- Yo soy deportista. Pero ropa deportiva (Ver: [[../20-Gramática/Sufijos ista e ivo|Sufijos -ista y -ivo/a]])
+- ==Mi== casa es bonita. Mi madre compra un regalo para ==mí==. (Ver: [[../20-Gramática/La Tilde Diacrítica|La Tilde Diacrítica]])
+- Te VS té (Bebida)
+- ingles VS inglés (Idioma)
 - dos preguntas. ¿? Y exclamación ¡!
 - yo hablo ~~es~~ ruso
-- yo compro verdura, fruta y pescado (comas y Y last)
-- años Vs anos
+- yo compro verdura, fruta y pescado (Ver: [[../20-Gramática/Listas y Enumeraciones|Listas y Enumeraciones]])
+- años Vs anos (Ver: [[../20-Gramática/La letra Ñ (N vs Ñ)|La importancia de la letra Ñ]])
 - [[../20-Gramática/Los Números|un vs uno]]: cuarenta y un años.
 - los idiomas son minúsculos y masculino
-- y → e if next words starting with I o H
-- No escribir solo mayúsculas. Solo que necesitan.
+- y → e si la siguiente palabra empieza por I o HI (ej. madre e hija) (Ver: [[../20-Gramática/Listas y Enumeraciones|Listas y Enumeraciones]])
+- No escribir todo en mayúsculas. ¡Solo cuando sea necesario!
 - neces~~s~~ito - single s
-- perfume VS colonia
+- el perfume frente a la colonia (Ver: [[../30-Vocabulario/Temas/Higiene y Cosmética|Perfume vs Colonia]])
 - el padre de mi madre/==padre== es mi abuelo materno/==paterno==
 - la madre de mi madre/==padre== es mi abuela materna/==paterna==
-- mi idioma materno es el ucraniano
-- mi idioma nativo es el ruso
-- use léxica from higher levels of Spanish
+- Usa léxico de niveles más avanzados de español.
 
 ## Vocabulario
 
@@ -147,7 +165,7 @@ Preguntas a tus compañeros/as
 - bolígrafo borrable
 - ingles VS inglés
 - signo de interrogación y signo de exclamación
-- lengua materna VS idioma materno VS idioma nativo
+- lengua materna VS idioma materno VS idioma nativo (Ver: [[../30-Vocabulario/Temas/Lengua e Idioma|Lengua vs Idioma]])
 
 ---
 
