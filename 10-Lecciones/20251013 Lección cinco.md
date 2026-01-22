@@ -80,4 +80,4 @@ Los verbos reflexivos indican que la acción recae sobre el mismo sujeto. Se rec
 ---
 
 **Navegación:**
-[[20251008 Lección cuatro|← Lección anterior]] | [[../index|Inicio]] | Deberes →
+[[20251008 Lección cuatro|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | [[20251015 Lección siete|Lección siguiente ➡️]]

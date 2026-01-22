@@ -118,4 +118,4 @@ Estos verbos funcionan de forma "inversa": la conjugación del verbo depende de 
 ---
 
 **Navegación:**
-[[20251215 Lección veintidós|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20251222 Lección veinticuatro|Deberes →]]
+[[20251215 Lección veintidós|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20251222 Lección veinticuatro|📝 Deberes]] | [[20251222 Lección veinticuatro|Lección siguiente ➡️]]

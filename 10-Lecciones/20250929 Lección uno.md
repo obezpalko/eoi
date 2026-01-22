@@ -322,4 +322,4 @@ Algunas profesiones muy comunes en España:
 ---
 
 **Navegación:**
-← Lección anterior | [[../index|Inicio]] | [[../40-Deberes/20251001 Lección dos|Deberes →]]
+⬅️ Lección anterior | [[../index|🏠 Inicio]] | [[../40-Deberes/20251001 Lección dos|📝 Deberes]] | [[20251001 Lección dos|Lección siguiente ➡️]]

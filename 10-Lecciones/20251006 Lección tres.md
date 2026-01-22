@@ -114,4 +114,4 @@ Se usa para expresar existencia.
 ---
 
 **Navegación:**
-[[20251001 Lección dos|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20251008 Lección cuatro|Deberes →]]
+[[20251001 Lección dos|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20251008 Lección cuatro|📝 Deberes]] | [[20251008 Lección cuatro|Lección siguiente ➡️]]

@@ -59,4 +59,4 @@ Usa verbos para
 ---
 
 **Navegación:**
-[[20251201 Lección diecinueve|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20251210 Lección|Deberes →]]
+[[20251201 Lección diecinueve|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20251210 Lección|📝 Deberes]] | [[20251210 Lección veintiuno|Lección siguiente ➡️]]

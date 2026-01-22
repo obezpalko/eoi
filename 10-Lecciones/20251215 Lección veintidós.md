@@ -271,4 +271,4 @@ No deberes esta semana.
 ---
 
 **Navegación:**
-[[20251210 Lección veintiuno|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20251217 Lección veintitrés|Deberes →]]
+[[20251210 Lección veintiuno|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20251217 Lección veintitrés|📝 Deberes]] | [[20251217 Lección veintitrés|Lección siguiente ➡️]]

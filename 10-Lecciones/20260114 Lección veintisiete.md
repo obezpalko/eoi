@@ -98,4 +98,4 @@ Vuelve a escuchar y señala qué les gusta hacer en su tiempo libre.
 ---
 
 **Navegación:**
-[[20260112 Lección veintiséis|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260119 Lección veintiocho|Deberes →]]
+[[20260112 Lección veintiséis|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260119 Lección veintiocho|📝 Deberes]] | [[20260119 Lección veintiocho|Lección siguiente ➡️]]

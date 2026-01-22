@@ -101,4 +101,4 @@ Palabras con sonidos específicos (*g/j*, *h* muda):
 ---
 
 **Navegación:**
-[[20251006 Lección tres|← Lección anterior]] | [[../index|Inicio]] | Deberes →
+[[20251006 Lección tres|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | [[20251013 Lección cinco|Lección siguiente ➡️]]

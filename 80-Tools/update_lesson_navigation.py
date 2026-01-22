@@ -141,18 +141,24 @@ def build_navigation_section(prev_lesson: Optional[LessonFile],
     
     # Previous lesson link
     if prev_lesson:
-        parts.append(f"[[{prev_lesson.filename[:-3]}|← Lección anterior]]")
+        parts.append(f"[[{prev_lesson.filename[:-3]}|⬅️ Lección anterior]]")
     else:
-        parts.append("← Lección anterior")
+        parts.append("⬅️ Lección anterior")
     
     # Home link
-    parts.append("[[../index|Inicio]]")
+    parts.append("[[../index|🏠 Inicio]]")
     
-    # Homework/Next lesson link
+    # Homework link
     if homework_link:
-        parts.append(f"[[{homework_link[:-3]}|Deberes →]]")
+        parts.append(f"[[{homework_link[:-3]}|📝 Deberes]]")
     else:
-        parts.append("Deberes →")
+        parts.append("📝 Deberes")
+    
+    # Next lesson link
+    if next_lesson:
+        parts.append(f"[[{next_lesson.filename[:-3]}|Lección siguiente ➡️]]")
+    else:
+        parts.append("Lección siguiente ➡️")
     
     navigation = " | ".join(parts)
     

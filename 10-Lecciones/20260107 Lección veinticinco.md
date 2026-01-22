@@ -54,4 +54,4 @@ tags:
 ---
 
 **Navegación:**
-[[20251222 Lección veinticuatro|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260112 Lección veintiséis|Deberes →]]
+[[20251222 Lección veinticuatro|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260112 Lección veintiséis|📝 Deberes]] | [[20260112 Lección veintiséis|Lección siguiente ➡️]]

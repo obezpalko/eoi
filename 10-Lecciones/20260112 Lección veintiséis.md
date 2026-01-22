@@ -167,4 +167,4 @@ Hobby - afición
 ---
 
 **Navegación:**
-[[20260107 Lección veinticinco|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260114 Lección veintisiete|Deberes →]]
+[[20260107 Lección veinticinco|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260114 Lección veintisiete|📝 Deberes]] | [[20260114 Lección veintisiete|Lección siguiente ➡️]]

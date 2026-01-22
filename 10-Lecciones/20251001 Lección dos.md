@@ -111,4 +111,4 @@ mayúsculas y minúsculas
 ---
 
 **Navegación:**
-[[20250929 Lección uno|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20251006 Lección tres|Deberes →]]
+[[20250929 Lección uno|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20251006 Lección tres|📝 Deberes]] | [[20251006 Lección tres|Lección siguiente ➡️]]

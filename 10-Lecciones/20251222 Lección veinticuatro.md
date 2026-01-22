@@ -301,4 +301,4 @@ Estos verbos son irregulares en **muchas o todas las personas**. Hay que memoriz
 ---
 
 **Navegación:**
-[[20251217 Lección veintitrés|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260107 Lección veinticinco|Deberes →]]
+[[20251217 Lección veintitrés|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260107 Lección veinticinco|📝 Deberes]] | [[20260107 Lección veinticinco|Lección siguiente ➡️]]
