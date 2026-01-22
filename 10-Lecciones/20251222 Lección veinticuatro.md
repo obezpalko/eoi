@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# Lección 24: Verbos Irregulares en Presente
+# Lección veinticuatro: Verbos Irregulares en Presente
 
 [[../40-Deberes/20251222 Lección veinticuatro|Deberes]]
 
@@ -298,3 +298,7 @@ Estos verbos son irregulares en **muchas o todas las personas**. Hay que memoriz
 - **irregular** - irregular
 - **memorizar** - to memorize
 - **practicar** - to practice
+---
+
+**Navegación:**
+[[20251217 Lección veintitrés|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260107 Lección veinticinco|Deberes →]]

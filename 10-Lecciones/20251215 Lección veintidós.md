@@ -268,3 +268,7 @@ Se usan para indicar una pausa, algo incompleto, o crear suspense en la escritur
 ## Deberes
 
 No deberes esta semana.
+---
+
+**Navegación:**
+[[20251210 Lección veintiuno|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20251217 Lección veintitrés|Deberes →]]

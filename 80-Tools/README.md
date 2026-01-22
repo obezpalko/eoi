@@ -7,6 +7,7 @@ This directory contains various Python scripts and utilities for managing the EO
 - [Installation](#installation)
 - [Image Download Tools](#image-download-tools)
 - [Image Management Tools](#image-management-tools)
+- [Lesson Management Tools](#lesson-management-tools)
 - [Generation Tools](#generation-tools)
 - [Legacy Tools](#legacy-tools)
 - [Quick Reference](#quick-reference)
@@ -49,6 +50,7 @@ python3 download_images_universal.py --output ./images \
 ```
 
 **Options:**
+
 - `--output, -o` - Output directory (required)
 - `--size` - Max image size, e.g., `512x512` (default: `512x512`)
 - `--quality` - JPEG quality 1-100 (default: `85`)
@@ -72,6 +74,7 @@ python3 download_missing_images.py
 ```
 
 The script will:
+
 1. Scan all markdown files for broken image links
 2. Group missing images by directory
 3. Prompt you to download them using `download_images_universal.py`
@@ -91,12 +94,14 @@ python3 check_image_links.py
 ```
 
 **What it does:**
+
 - Scans all `.md` files for image references (`![[image.jpg]]`)
 - Checks if referenced images exist
 - Attempts to fix broken links automatically
 - Generates `unused_images.txt` with list of unused images
 
 **Output:**
+
 - Reports broken links with file locations
 - Automatically fixes links where possible
 - Creates `unused_images.txt` with unused images list
@@ -114,13 +119,62 @@ python3 fix_image_paths.py
 ```
 
 **What it does:**
+
 - Finds image references using absolute paths (starting with directory names like `60-Cultura/`)
 - Converts them to relative paths based on the markdown file's location
 - Only modifies files if images can be found at the relative location
 
 **Example:**
+
 - Before: `![[60-Cultura/España vs Hispanoamerica/gafas.jpg]]`
 - After: `![[gafas.jpg]]` (when file is in `60-Cultura/España vs Hispanoamerica/`)
+
+---
+
+## 📝 Lesson Management Tools
+
+### 4. `update_lesson_navigation.py`
+
+**Update navigation links** in lesson files - Automatically verifies and updates the navigation section at the bottom of each lesson file to ensure correct links to previous/next lessons and homework.
+
+**Usage:**
+
+```bash
+# Preview changes without modifying files
+python3 update_lesson_navigation.py --dry-run --verbose
+
+# Update all lesson files
+python3 update_lesson_navigation.py
+
+# Update with detailed output
+python3 update_lesson_navigation.py --verbose
+```
+
+**What it does:**
+
+- Scans all lesson files in `10-Lecciones/`
+- Sorts lessons chronologically by date
+- For each lesson:
+  - Links to the previous lesson
+  - Links to the home page (`../index`)
+  - Links to homework dated with the next lesson's date
+- Adds or updates the navigation section at the bottom of each file
+
+**Navigation Format:**
+
+```markdown
+---
+
+**Navegación:**
+[[20260114 Lección veintisiete|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260119 Lección veintiocho|Deberes →]]
+```
+
+**Options:**
+
+- `--dry-run` - Show what would be changed without modifying files
+- `--verbose, -v` - Show detailed information about processing
+
+**See also:** `README_navigation_updater.md` for detailed documentation.
 
 ---
 
@@ -159,26 +213,32 @@ python3 generate_family_tree_svg.py
 The following tools are **deprecated** and should be replaced with `download_images_universal.py`. See `MIGRATION_GUIDE.md` for migration instructions.
 
 ### `download_color_images.py`
+
 - **Replaced by:** `download_images_universal.py --md Colores.md`
 - Downloads color example images from markdown file
 
 ### `download_profesiones_ddg.py`
+
 - **Replaced by:** `download_images_universal.py --md Profesiones.md`
 - Downloads profession images using DuckDuckGo
 
 ### `download_missing_profesiones.py`
+
 - **Replaced by:** `download_images_universal.py` with CSV/JSON input
 - Downloads missing profession images
 
 ### `download_navidad_images.py`
+
 - **Replaced by:** `download_images_universal.py` with JSON input
 - Downloads Christmas-related images
 
 ### `download_royal_family.py`
+
 - Downloads images of Spanish royal family from Wikipedia
 - Still functional but could be replaced with universal downloader
 
 ### `download_images.py`
+
 - Mixed Wikimedia/Flickr downloader
 - **Replaced by:** `download_images_universal.py`
 
@@ -188,9 +248,10 @@ The following tools are **deprecated** and should be replaced with `download_ima
 
 ### Common Workflows
 
-#### Download images for a new vocabulary topic:
+#### Download images for a new vocabulary topic
 
 1. Create a CSV file with words and search queries:
+
    ```csv
    filename,query
    gato,gato negro
@@ -198,29 +259,33 @@ The following tools are **deprecated** and should be replaced with `download_ima
    ```
 
 2. Run the downloader:
+
    ```bash
    python3 download_images_universal.py --csv words.csv \
      --output "30-Vocabulario/Temas/MiTema"
    ```
 
-#### Fix image links after reorganizing files:
+#### Fix image links after reorganizing files
 
 1. Check for broken links:
+
    ```bash
    python3 check_image_links.py
    ```
 
 2. Fix non-relative paths:
+
    ```bash
    python3 fix_image_paths.py
    ```
 
 3. Download any missing images:
+
    ```bash
    python3 download_missing_images.py
    ```
 
-#### Extract and download images from existing markdown:
+#### Extract and download images from existing markdown
 
 ```bash
 python3 download_images_universal.py \
@@ -236,6 +301,7 @@ python3 download_images_universal.py \
 80-Tools/
 ├── README.md                          # This file
 ├── README_universal_downloader.md     # Detailed universal downloader docs
+├── README_navigation_updater.md       # Lesson navigation updater docs
 ├── QUICK_REFERENCE.md                 # Quick reference guide
 ├── MIGRATION_GUIDE.md                 # Guide for migrating from old tools
 ├── unused_images.txt                  # Generated list of unused images
@@ -244,6 +310,7 @@ python3 download_images_universal.py \
 ├── check_image_links.py               # Check/fix image links
 ├── fix_image_paths.py                 # Fix non-relative paths
 ├── download_missing_images.py         # Download missing images
+├── update_lesson_navigation.py        # Update lesson navigation links
 │
 ├── generate_color_swatches.py        # Generate color SVGs
 ├── generate_family_tree_svg.py        # Generate family tree SVG
@@ -260,17 +327,20 @@ python3 download_images_universal.py \
 ## 🆘 Troubleshooting
 
 ### Images not downloading
+
 - Check your internet connection
 - Increase `--delay` to avoid rate limiting
 - Try more specific search queries
 - Check that DuckDuckGo returns results for your query
 
 ### Broken image links
+
 - Run `check_image_links.py` to identify broken links
 - Run `fix_image_paths.py` to fix non-relative paths
 - Ensure images exist in the expected locations
 
 ### Import errors
+
 ```bash
 pip install duckduckgo-search pillow requests
 ```
@@ -289,10 +359,11 @@ pip install duckduckgo-search pillow requests
 ## 🔗 Related Documentation
 
 - `README_universal_downloader.md` - Detailed universal downloader guide
+- `README_navigation_updater.md` - Lesson navigation updater guide
 - `QUICK_REFERENCE.md` - Quick command reference
 - `MIGRATION_GUIDE.md` - Guide for migrating from legacy tools
 - `../structure_recommendations.md` - Repository structure guidelines
 
 ---
 
-**Last Updated:** 2025-01-19
+**Last Updated:** 2026-01-22

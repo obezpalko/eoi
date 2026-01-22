@@ -148,4 +148,4 @@ Ejemplos:
 ---
 
 **Navegación:**
-[[20260114 Lección veintisiete|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260121 Lección veintiocho|Deberes →]]
+[[20260114 Lección veintisiete|← Lección anterior]] | [[../index|Inicio]] | Deberes →

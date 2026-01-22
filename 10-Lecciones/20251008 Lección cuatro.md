@@ -98,6 +98,7 @@ Palabras con sonidos específicos (*g/j*, *h* muda):
 - **Besos**: Es común saludarse con dos besos en la mejilla en situaciones informales.
 - **Madrugada**: Es un concepto cultural importante; la vida nocturna en España suele extenderse hasta la *madrugada*.
 
-## Deberes
+---
 
-[[../40-Deberes/20251008 Lección cuatro|Deberes]]
+**Navegación:**
+[[20251006 Lección tres|← Lección anterior]] | [[../index|Inicio]] | Deberes →

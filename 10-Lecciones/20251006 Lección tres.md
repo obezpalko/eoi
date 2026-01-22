@@ -111,6 +111,7 @@ Se usa para expresar existencia.
 - **Gentilicios**: Son los nombres que reciben las personas según su lugar de origen (pe. *español*, *valenciano*, *madrileño*).
 - **Las Estaciones**: En España, cada estación tiene sus propias tradiciones y fiestas. [[../60-Cultura/Estaciones del año|Ver más sobre las estaciones en España]].
 
-## Deberes
+---
 
-[[../40-Deberes/20251008 Lección cuatro|Deberes]]
+**Navegación:**
+[[20251001 Lección dos|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20251008 Lección cuatro|Deberes →]]

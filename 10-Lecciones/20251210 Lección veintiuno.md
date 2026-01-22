@@ -430,3 +430,7 @@ Para describir la mirada completa, a veces necesitamos mencionar lo que rodea al
     - Ambos significan **Lazy**.
     - **Vago** es la palabra estándar.
     - **Gandul** se usa mucho, pero es un poco más informal.
+---
+
+**Navegación:**
+[[20251203 Lección veinte|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20251215 Lección veintidós|Deberes →]]

@@ -34,7 +34,9 @@ tags: [vocabulario, sustantivos]
 - **la cola** - line, queue / очередь
 - **la comilona** - big meal, feast / пиршество
 - **la consonante** - consonant / согласная
+- **el contenedor** - container, dumpster / контейнер
 - **el correo electrónico** - email / электронная почта
+- **el cuaderno** - notebook / тетрадь
 - **el cura** - priest / священник
 - **el dátil** - date (fruit) / финик
 - **el dedo** - finger / палец
@@ -43,6 +45,7 @@ tags: [vocabulario, sustantivos]
 - **la droga** - drug / наркотик
 - **la edad** - age / возраст
 - **el efectivo** - cash / наличные dinero
+- **el equipaje** - luggage / багаж
 - **el erizo** - hedgehog / еж
 - **la escoba** - broom / метла
 - **la estufa** - stove, heater / печь, обогреватель
@@ -83,6 +86,7 @@ tags: [vocabulario, sustantivos]
 - **la mamá** - mom / мама
 - **la mancha** - stain / пятно
 - **la mantita** - small blanket / одеяльце
+- **la margarita** - daisy / ромашка
 - **el marisco** - seafood / морепродукты
 - **la mayúscula** - capital letter / заглавная буква
 - **la mejilla** - cheek / щека
@@ -95,15 +99,19 @@ tags: [vocabulario, sustantivos]
 - **el padre** - father / отец
 - **la palomita / palomitas de maíz** - popcorn / попкорн
 - **el papá** - dad / папа
+- **la papelera** - wastebasket / мусорная корзина
 - **el patito** - duckling / утенок
+- **el perchero** - coat rack / вешалка
 - **el perrito caliente** - hot dog / хот-дог
 - **la pierna** - leg / нога
+- **la pizarra** - blackboard / доска
 - **el plato** - plate / тарелка
 - **la profesión** - profession / профессия
 - **la raíz** - root / корень
 - **la residencia** - residence / место жительства
 - **el retraso** - delay, lateness / опоздание, задержка
 - **el rey** - king / король
+- **el sacapuntas** - pencil sharpener / точилка
 - **el signo de exclamación** - exclamation mark / восклицательный знак
 - **el signo de interrogación** - question mark / вопросительный знак
 - **la tela** - fabric / ткань

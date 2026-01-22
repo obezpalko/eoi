@@ -56,3 +56,7 @@ Usa verbos para
   - coger - cojo
   - ver - veo
   - caber - quepo
+---
+
+**Navegación:**
+[[20251201 Lección diecinueve|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20251210 Lección|Deberes →]]

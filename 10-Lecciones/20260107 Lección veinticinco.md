@@ -51,3 +51,7 @@ tags:
 
 - [Casa de papel](https://www.imdb.com/title/tt6468322)
 - [Cuéntame](https://www.imdb.com/title/tt0302447/)
+---
+
+**Navegación:**
+[[20251222 Lección veinticuatro|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260112 Lección veintiséis|Deberes →]]

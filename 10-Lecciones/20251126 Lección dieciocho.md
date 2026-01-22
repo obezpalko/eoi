@@ -10,8 +10,10 @@ tags:
 
 ## Información
 
-[[../20-Gramática/Artículos|Artículos]]
-[[../30-Vocabulario/Temas/Colores|Colores]]
+## Prácticas
+
+- Masculino y femenino. ver: [[../20-Gramática/Artículos|Artículos]]
+- [[../30-Vocabulario/Temas/Colores|Colores]]
 
 ## Vocabulario
 
@@ -24,3 +26,9 @@ Ver la lista completa y reglas en:
 
 - [[../20-Gramática/El Número|El Número]]
 - [[../30-Vocabulario/Temas/Siempre Plural|Siempre Plural]]
+- [[../30-Vocabulario/Temas/Siempre Singular|Siempre Singular]]
+
+---
+
+**Navegación:**
+[[20251124 Lección diecisiete|← Lección anterior]] | [[../index|Inicio]] | Deberes →

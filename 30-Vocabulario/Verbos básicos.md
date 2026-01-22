@@ -5,6 +5,7 @@ tags: [vocabulario, verbos]
 
 - **aprender** - to learn / учить, учиться
 - **charlar** - to chat, to talk / болтать, разговаривать
+- **chispear** - to drizzle / моросить
 - **[[Verbos/deletrear|deletrear]]** - spell out letters / произносить по буквам
 - **dividir** - to divide / делить
 - **empujar** - to push / толкать
@@ -21,6 +22,7 @@ tags: [vocabulario, verbos]
 - **pasear** - to stroll, to walk / прогуливаться
 - **perder** - to lose / проигрывать
 - **quedar** - to stay, to meet / оставаться, встречаться
+- **reciclar** - to recycle / перерабатывать
 - **recordar** - to remember, to remind / помнить, напоминать
 - **reír** - to laugh / смеяться
 - **restar** - to subtract / вычитать

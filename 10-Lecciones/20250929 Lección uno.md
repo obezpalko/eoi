@@ -319,3 +319,7 @@ Algunas profesiones muy comunes en España:
 - **Comercial** - ventas
 
 > **Ver la lista completa en:** [[../30-Vocabulario/Temas/Profesiones|Profesiones]]
+---
+
+**Navegación:**
+← Lección anterior | [[../index|Inicio]] | [[../40-Deberes/20251001 Lección dos|Deberes →]]

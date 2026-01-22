@@ -1,5 +1,7 @@
 ---
-tags: [lección, español, vocabulario]
+tags:
+  - lección
+  - español
 date: 2026-01-21
 ---
 # Lección veintinueve
@@ -170,4 +172,4 @@ Preguntas a tus compañeros/as
 ---
 
 **Navegación:**
-[[../10-Lecciones/20260119 Lección veintiocho|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260126 Lección treinta|Deberes →]]
+[[20260119 Lección veintiocho|← Lección anterior]] | [[../index|Inicio]] | Deberes →
