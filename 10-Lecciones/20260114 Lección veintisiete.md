@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# Lección veintisiete
+# 027: Gustos, Aficiones y Tiempo Libre
 
 [[../40-Deberes/20260114 Lección veintisiete|Deberes]]
 

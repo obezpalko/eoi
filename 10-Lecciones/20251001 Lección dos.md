@@ -2,17 +2,18 @@
 tags:
   - español
   - lección
+  - vocabulario
 date: 2025-10-01
 ---
-# 002: Lección dos
+# 002: El Abecedario y la Presentación Personal
 
 [[../40-Deberes/20251001 Lección dos|Deberes]]
 
 ## Información
 
-**EOI** Escuela Oficial de Idiomas (nuestra escuela)
-**EPA** Escuela de Personas Adultas (no aquí)
-**[Aules](https://aules.edu.gva.es/especials/)** site with materiales. ¿codigo?
+- **EOI** Escuela Oficial de Idiomas (nuestra escuela)
+- **EPA** Escuela de Personas Adultas (no aquí)
+- **[Aules](https://aules.edu.gva.es/especials/)** sitio con materiales. ¿código?
 
 ## Prácticas
 
@@ -28,9 +29,9 @@ Práctica en clase:
 
 ### Letras
 
-5 vocales
-consonantes
-mayúsculas y minúsculas
+- Cinco vocales
+- Consonantes
+- Mayúsculas y minúsculas
 [[../30-Vocabulario/Verbos/deletrear|deletrear]]
 
 #### Pronunciación
@@ -105,7 +106,7 @@ mayúsculas y minúsculas
 - jirafa
 - xilófono
 - rey
-- mexico
+- México
 - yate
 
 ---

@@ -4,7 +4,7 @@ tags:
   - lección
 date: 2025-10-06
 ---
-# 003: Lección tres
+# 003: Números, Ser/Estar y Antónimos
 
 [[../40-Deberes/20251006 Lección tres|Deberes]]
 

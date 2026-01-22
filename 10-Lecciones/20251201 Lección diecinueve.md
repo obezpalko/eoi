@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# 019: Lección diecinueve
+# 019: Artículos, Plurales y Adjetivos Posesivos
 
 [[../40-Deberes/20251203 Lección|Deberes]]
 

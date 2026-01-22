@@ -4,7 +4,7 @@ tags:
   - lección
 date: 2025-10-13
 ---
-# 005: Lección cinco
+# 005: Verbos Reflexivos, Antónimos y Sinónimos
 
 [[../40-Deberes/20251013 Lección cinco|Deberes]]
 

@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# Lección veintiocho
+# 028: Repaso de Verbos, "al" y Vocabulario (Ocio/Comida)
 
 [[../40-Deberes/20260119 Lección veintiocho|Deberes]]
 

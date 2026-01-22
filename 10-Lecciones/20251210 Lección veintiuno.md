@@ -38,6 +38,7 @@ tags:
 - **Fuerte** ↔ **Débil**: _El bombero es fuerte._ / _El paciente está débil._
 
 **Notas importantes:**
+
 - Usar "**mayor**" para personas (más respetuoso que "viejo")
 - **Ser** vs. **Estar**: _Es guapo_ (permanente) vs. _Está guapo_ (temporal)
 
@@ -53,6 +54,7 @@ tags:
 - **Calvo/a**: _El señor es calvo._
 
 **Notas:**
+
 - Usar **Ser** (ser rubio) o **Tener** (tener el pelo rubio)
 - Con **Tener**, el adjetivo concuerda con "pelo" (masculino): _Ella tiene el pelo largo_
 
@@ -69,25 +71,30 @@ tags:
 - **Flequillo**: _María tiene flequillo._
 
 **Notas:**
+
 - **Tener**: Características naturales (rizado, liso, fino)
 - **Llevar**: Estilos y peinados (coleta, trenzas, rapado, suelto)
 
 #### Descripción de la Cara
 
 **Ojos:**
+
 - **Colores**: azules, verdes, marrones, negros, grises, color miel, pardos
 - **Tamaño**: grandes, pequeños
 - **Forma**: rasgados, redondos, saltones, hundidos
 
 **Nariz:**
+
 - **Tamaño**: grande, pequeña, larga
 - **Forma**: chata, aguileña, recta, ancha, fina, puntiaguda, torcida
 
 **Orejas:**
+
 - **Tamaño**: grandes, pequeñas
 - **Posición**: de soplillo (separadas), pegadas
 
 **Labios:**
+
 - **Tamaño**: gruesos, finos, carnosos
 - **Estado**: secos, cortados, pálidos, rosados, pintados
 
@@ -96,12 +103,14 @@ tags:
 #### Accesorios y Marcas
 
 **LLEVAR** (se puede quitar):
+
 - Gafas, gafas de sol, lentillas
 - Barba, bigote, perilla, patillas
 - Pendientes, piercing
 - Maquillaje, gorra, sombrero
 
 **TENER** (no se puede quitar):
+
 - Pecas, lunares, verruga
 - Cicatriz, arrugas
 - Granos/acné
@@ -109,6 +118,7 @@ tags:
 #### Ropa y Calzado
 
 **Ropa básica:**
+
 - Pantalones, vaqueros, pantalones cortos
 - Vestido, falda
 - Camiseta, camisa, blusa, polo
@@ -116,12 +126,14 @@ tags:
 - Chaqueta, abrigo, anorak
 
 **Calzado:**
+
 - Zapatos, zapatos de tacón
 - Zapatillas de deporte
 - Sandalias, botas
 - Chanclas
 
 **Accesorios:**
+
 - Bufanda, gorro, gorra, sombrero
 - Cinturón, corbata, pajarita
 - Guantes
@@ -147,6 +159,7 @@ tags:
 - **Sincero** ↔ **Mentiroso**: _Carlos siempre es sincero._ / _Pinocho era mentiroso._
 
 **Notas importantes:**
+
 - **SER** vs. **PARECER**: _Carlos es bueno_ (es un hecho) vs. _Parece malo_ (impresión)
 - Adjetivos invariables (iguales para masculino y femenino):
   - Terminan en **-ista**: optimista, pesimista, egoísta
@@ -157,11 +170,13 @@ tags:
 #### Ser vs. Estar
 
 **SER** (características permanentes):
+
 - _Carlos es alto._
 - _María es guapa._
 - _Él es moreno._
 
 **ESTAR** (estados temporales):
+
 - _Carlos está gordo._ (ha ganado peso)
 - _María está guapa hoy._ (se ha arreglado)
 - _Estoy enfermo._ (temporalmente)
@@ -169,11 +184,13 @@ tags:
 #### Tener vs. Llevar
 
 **TENER** (características del cuerpo):
+
 - _Tengo los ojos azules._
 - _Tiene el pelo rizado._
 - _Tengo pecas._
 
 **LLEVAR** (ropa, accesorios, estilos):
+
 - _Llevo gafas._
 - _Lleva barba._
 - _Llevo una camiseta roja._
@@ -181,14 +198,17 @@ tags:
 #### Concordancia
 
 **Con "pelo" (masculino singular):**
+
 - ✅ _María tiene el pelo largo._
 - ❌ _María tiene el pelo larga._
 
 **Con "nariz" (siempre femenino):**
+
 - ✅ _Carlos tiene la nariz chata._
 - ❌ _Carlos tiene la nariz chato._
 
 **Con "ojos" (plural):**
+
 - ✅ _Tiene los ojos azules._
 - ❌ _Tiene los ojos azul._
 

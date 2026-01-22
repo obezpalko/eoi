@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# Lección veintiséis
+# 026: Gustar (Niveles), Interesar y Aficiones
 
 [[../40-Deberes/20260107 Lección veinticinco|20260107 Lección veinticinco]]
 

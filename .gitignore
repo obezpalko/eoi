@@ -22,6 +22,7 @@ ENV/
 
 # Custom
 .trash/
+*~
 
 # Quartz build artifacts
 public/

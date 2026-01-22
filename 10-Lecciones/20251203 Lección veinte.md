@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# 020: Lección veinte
+# 020: Posesivos, Familia y Verbos Irregulares (Yo)
 
 [[../40-Deberes/20251203 Lección veinte|Deberes]]
 
@@ -20,6 +20,7 @@ tags:
 | Vosotros    | Vuestro/a      | Vuestros/as  | Vuestro/as       | Vuestros/as    |
 
 [[../30-Vocabulario/Adjetivos posesivos|→ Adjetivos posesivos]]
+
 ## Familia
 
 (Aules)
@@ -56,6 +57,7 @@ Usa verbos para
   - coger - cojo
   - ver - veo
   - caber - quepo
+
 ---
 
 **Navegación:**

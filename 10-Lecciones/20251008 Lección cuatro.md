@@ -4,7 +4,7 @@ tags:
   - lección
 date: 2025-10-08
 ---
-# 004: Lección cuatro
+# 004: Aritmética, Saludos y Despedidas
 
 [[../40-Deberes/20251008 Lección cuatro|Deberes]]
 

@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# 018: Lección dieciocho
+# 018: Género, Colores y Sustantivos Plurales
 
 [[../40-Deberes/20251126 Lección dieciocho|Deberes]]
 

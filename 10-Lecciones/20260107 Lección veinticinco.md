@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# 025: Lección veinticinco
+# 025: Práctica de "Gustar", Vocabulario y Series
 
 [[../40-Deberes/20260107 Lección veinticinco|Deberes]]
 
@@ -51,6 +51,7 @@ tags:
 
 - [Casa de papel](https://www.imdb.com/title/tt6468322)
 - [Cuéntame](https://www.imdb.com/title/tt0302447/)
+
 ---
 
 **Navegación:**

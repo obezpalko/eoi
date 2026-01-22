@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# Lección veintitres
+# 023: Descripción Física y Verbos tipo "Gustar"
 
 [[../40-Deberes/20251217 Lección veintitrés|Deberes]]
 

@@ -4,7 +4,7 @@ tags:
   - español
 date: 2026-01-21
 ---
-# Lección veintinueve
+# 029: Repaso General y Errores Comunes
 
 [[../40-Deberes/20260121 Lección veintinueve|Deberes]]
 
