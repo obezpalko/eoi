@@ -4,7 +4,7 @@ tags:
   - lección
 date: 2025-10-01
 ---
-# Lección dos
+# 002: Lección dos
 
 [[../40-Deberes/20251001 Lección dos|Deberes]]
 

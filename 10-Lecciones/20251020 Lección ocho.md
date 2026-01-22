@@ -4,7 +4,7 @@ tags:
   - lección
 date: 2025-10-22
 ---
-# Lección ocho
+# 008: Lección ocho
 
 [[../40-Deberes/20260000 Lección template|Deberes]]
 

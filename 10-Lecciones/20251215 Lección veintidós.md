@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# Leccion veintidos: Carácter y Personalidad
+# 022: Carácter y Personalidad
 
 [[../40-Deberes/20251215 Lección veintidós|Deberes]]
 

@@ -4,7 +4,7 @@ tags:
   - lección
 date: 2025-11-05
 ---
-# Lección doce
+# 012: Lección doce
 
 [[../40-Deberes/20260000 Lección template|Deberes]]
 

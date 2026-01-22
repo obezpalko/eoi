@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# Lección dieciocho
+# 018: Lección dieciocho
 
 [[../40-Deberes/20251126 Lección dieciocho|Deberes]]
 

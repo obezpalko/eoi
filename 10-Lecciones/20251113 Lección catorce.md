@@ -4,7 +4,7 @@ tags:
   - lección
 date: 2025-11-12
 ---
-# Lección catorce
+# 014: Lección catorce
 
 [[../40-Deberes/20260000 Lección template|Deberes]]
 

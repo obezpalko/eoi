@@ -4,7 +4,7 @@ tags:
   - lección
 date: 2025-11-24
 ---
-# Lección diecisiete
+# 017: Lección diecisiete
 
 [[../40-Deberes/20260000 Lección template|Deberes]]
 

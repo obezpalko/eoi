@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# Lección veinticuatro: Verbos Irregulares en Presente
+# 024: Verbos Irregulares en Presente
 
 [[../40-Deberes/20251222 Lección veinticuatro|Deberes]]
 

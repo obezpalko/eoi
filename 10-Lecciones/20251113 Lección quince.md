@@ -4,7 +4,7 @@ tags:
   - lección
 date: 2025-11-17
 ---
-# Lección quince
+# 015: Lección quince
 
 [[../40-Deberes/20260000 Lección template|Deberes]]
 

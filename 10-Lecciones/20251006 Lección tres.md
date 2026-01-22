@@ -4,7 +4,7 @@ tags:
   - lección
 date: 2025-10-06
 ---
-# Lección tres
+# 003: Lección tres
 
 [[../40-Deberes/20251006 Lección tres|Deberes]]
 

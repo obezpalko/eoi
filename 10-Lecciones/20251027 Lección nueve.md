@@ -4,7 +4,7 @@ tags:
   - lección
 date: 2025-10-27
 ---
-# Lección nueve
+# 009: Lección nueve
 
 [[../40-Deberes/20260000 Lección template|Deberes]]
 

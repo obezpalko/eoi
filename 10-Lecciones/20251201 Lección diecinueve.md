@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# Lección diecinueve
+# 019: Lección diecinueve
 
 [[../40-Deberes/20251203 Lección|Deberes]]
 

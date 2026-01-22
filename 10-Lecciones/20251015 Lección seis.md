@@ -4,7 +4,7 @@ tags:
   - lección
 date: 2025-10-15
 ---
-# Lección seis
+# 006: Lección seis
 
 [[../40-Deberes/20260000 Lección template|Deberes]]
 

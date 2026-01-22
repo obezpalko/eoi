@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# Lección veinte
+# 020: Lección veinte
 
 [[../40-Deberes/20251203 Lección veinte|Deberes]]
 
