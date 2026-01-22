@@ -13,6 +13,7 @@ description: Standardize a lesson file, extracting vocabulary, translating notes
      - `date`: YYYY-MM-DD (extracted from filename).
      - `tags`: `[lección]` (plus others if relevant).
    - **Headings**: Ensure the file uses a single H1 `# Title` and H2 `## Section` hierarchy.
+   - **Title Format**: The H1 title should follow the format `# Lección [number]: [Topic Name]` (e.g., `# Lección uno: Presentación Personal`). Analyze the lesson content to determine the main topic and update the title accordingly.
    - **Links**: Verify that the file ends with navigation links (Previous/Next lesson, Homework).
 
 3. **Process Vocabulary**

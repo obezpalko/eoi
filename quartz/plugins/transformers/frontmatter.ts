@@ -6,6 +6,8 @@ import toml from "toml"
 import { FilePath, FullSlug, getFileExtension, slugifyFilePath, slugTag } from "../../util/path"
 import { QuartzPluginData } from "../vfile"
 import { i18n } from "../../i18n"
+import { visit } from "unist-util-visit"
+import { Root } from "mdast"
 
 export interface Options {
   delimiters: string | [string, string]
@@ -61,7 +63,7 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
       return [
         [remarkFrontmatter, ["yaml", "toml"]],
         () => {
-          return (_, file) => {
+          return (tree, file) => {
             const fileData = Buffer.from(file.value as Uint8Array)
             const { data } = matter(fileData, {
               ...opts,
@@ -71,10 +73,23 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
               },
             })
 
+            // Extract title from frontmatter or H1 heading
             if (data.title != null && data.title.toString() !== "") {
               data.title = data.title.toString()
             } else {
-              data.title = file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title
+              // Try to extract title from first H1 heading
+              let h1Title: string | undefined
+              visit(tree as Root, "heading", (node: any) => {
+                if (!h1Title && node.depth === 1 && node.children && node.children.length > 0) {
+                  // Extract text from heading children
+                  h1Title = node.children
+                    .filter((child: any) => child.type === "text")
+                    .map((child: any) => child.value)
+                    .join("")
+                }
+              })
+              
+              data.title = h1Title || file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title
             }
 
             const tags = coerceToArray(coalesceAliases(data, ["tags", "tag"]))
