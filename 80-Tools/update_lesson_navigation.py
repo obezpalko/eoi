@@ -180,7 +180,7 @@ def update_lesson_navigation(lesson: LessonFile,
     content = read_file_content(lesson.filepath)
     
     # Find homework file - homework is dated with the NEXT lesson's date
-    if next_lesson:
+    if next_lesson and next_lesson.date_str and next_lesson.lesson_name:
         homework_link = find_homework_file(homework_dir, next_lesson.date_str, next_lesson.lesson_name)
     else:
         # For the last lesson, there's no next lesson, so no homework link
