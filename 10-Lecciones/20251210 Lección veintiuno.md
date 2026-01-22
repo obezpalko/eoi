@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# Lección 021: Descripción Física y Carácter
+# 021: Descripción Física y Carácter
 
 ## Practicamos
 

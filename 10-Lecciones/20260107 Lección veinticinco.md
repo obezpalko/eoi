@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# Lección veinticinco
+# 025: Lección veinticinco
 
 [[../40-Deberes/20260107 Lección veinticinco|Deberes]]
 

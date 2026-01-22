@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# Lección 001: Presentación Personal
+# 001: Presentación Personal
 
 ## Información de la profesora
 
