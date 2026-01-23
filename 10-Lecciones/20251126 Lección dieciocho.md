@@ -31,4 +31,4 @@ Ver la lista completa y reglas en:
 ---
 
 **Navegación:**
-[[20251124 Lección diecisiete|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | [[20251201 Lección diecinueve|Lección siguiente ➡️]]
+[[20251124 Lección diecisiete|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20251201 Lección diecinueve|📝 Deberes]] | [[20251201 Lección diecinueve|Lección siguiente ➡️]]

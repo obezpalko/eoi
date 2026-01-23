@@ -58,7 +58,7 @@ class LessonFile:
     
     def __lt__(self, other):
         """Compare lessons by date for sorting."""
-        if self.date and other.date:
+        if self.date and other.date and self.date != other.date:
             return self.date < other.date
         return self.filename < other.filename
 
@@ -78,18 +78,6 @@ def find_lesson_files(lessons_dir: Path) -> List[LessonFile]:
     return lesson_files
 
 
-def find_homework_file(homework_dir: Path, lesson_date: str, lesson_name: str) -> Optional[str]:
-    """Find the homework file corresponding to a lesson."""
-    # Try exact match first
-    exact_match = homework_dir / f"{lesson_date} Lección {lesson_name}.md"
-    if exact_match.exists():
-        return f"../40-Deberes/{exact_match.name}"
-    
-    # Try to find by date
-    for hw_file in homework_dir.glob(f"{lesson_date}*.md"):
-        return f"../40-Deberes/{hw_file.name}"
-    
-    return None
 
 
 def read_file_content(filepath: Path) -> str:
@@ -179,11 +167,11 @@ def update_lesson_navigation(lesson: LessonFile,
     """
     content = read_file_content(lesson.filepath)
     
-    # Find homework file - homework is dated with the NEXT lesson's date
-    if next_lesson and next_lesson.date_str and next_lesson.lesson_name:
-        homework_link = find_homework_file(homework_dir, next_lesson.date_str, next_lesson.lesson_name)
+    # The homework for the current lesson is expected to be in a file
+    # with the same name as the NEXT lesson, but in the 40-Deberes folder.
+    if next_lesson:
+        homework_link = f"../40-Deberes/{next_lesson.filename}"
     else:
-        # For the last lesson, there's no next lesson, so no homework link
         homework_link = None
     
     # Build the expected navigation section

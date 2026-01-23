@@ -13,6 +13,7 @@ tags: [vocabulario, sustantivos]
 - **la arroba** (@) - at symbol / символ собака
 - **la azafata** - flight attendant / стюардесса
 - **la barca** - small boat / лодка
+- **la bañera** - bathtub / ванна
 - **el barco** - boat / корабль
 - **el barrio** - neighborhood / район
 - **la berenjena** - eggplant / баклажан
@@ -35,6 +36,7 @@ tags: [vocabulario, sustantivos]
 - **la comilona** - big meal, feast / пиршество
 - **la consonante** - consonant / согласная
 - **el contenedor** - container, dumpster / контейнер
+- **el diseñador / la diseñadora** - designer / дизайнер
 - **el correo electrónico** - email / электронная почта
 - **el cuaderno** - notebook / тетрадь
 - **el cura** - priest / священник
@@ -95,18 +97,28 @@ tags: [vocabulario, sustantivos]
 - **la nacionalidad** - nationality / национальность
 - **la navaja** - pocket knife / складной нож
 - **el nombre** - name / имя
-- **la nube** - cloud / облако
+- **la obra** - work (of art, construction) / произведение, стройка
+- **el océano** - ocean / океан
+- **la ojera** - bag under eyes / мешок под глазом
+- **el olor** - smell / запах
+- **el oso / la osa** - bear / медведь
 - **el padre** - father / отец
 - **la palomita / palomitas de maíz** - popcorn / попкорн
 - **el papá** - dad / папа
 - **la papelera** - wastebasket / мусорная корзина
 - **el patito** - duckling / утенок
+- **el patinete** - scooter / самокат
 - **el perchero** - coat rack / вешалка
 - **el perrito caliente** - hot dog / хот-дог
+- **el pez** - fish (living) / живая рыба
+- **el pescado** - fish (caught/food) / рыба (еда)
+- **la piedra** - stone / камень
 - **la pierna** - leg / нога
 - **la pizarra** - blackboard / доска
 - **el plato** - plate / тарелка
+- **el plátano** - banana / банан
 - **la profesión** - profession / профессия
+- **el pulpo** - octopus / осьминог
 - **la raíz** - root / корень
 - **la residencia** - residence / место жительства
 - **el retraso** - delay, lateness / опоздание, задержка
@@ -116,6 +128,7 @@ tags: [vocabulario, sustantivos]
 - **el signo de interrogación** - question mark / вопросительный знак
 - **la tela** - fabric / ткань
 - **el teléfono** - telephone / телефон
+- **la uña** - nail / ноготь
 - **la vocal** - vowel / гласная
 - **el xilófono** - xylophone / ксилофон
 - **el yate** - yacht / яхта

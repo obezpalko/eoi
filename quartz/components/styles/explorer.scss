@@ -1,12 +1,14 @@
 @use "../../styles/variables.scss" as *;
 
 @media all and ($mobile) {
-  .page > #quartz-body {
+  .page>#quartz-body {
+
     // Shift page position when toggling Explorer on mobile.
-    & > :not(.sidebar.left:has(.explorer)) {
+    &> :not(.sidebar.left:has(.explorer)) {
       transition: transform 300ms ease-in-out;
     }
-    &.lock-scroll > :not(.sidebar.left:has(.explorer)) {
+
+    &.lock-scroll> :not(.sidebar.left:has(.explorer)) {
       transform: translateX(100dvw);
       transition: transform 300ms ease-in-out;
     }
@@ -20,7 +22,7 @@
       margin: 0;
     }
 
-    .hide-until-loaded ~ .explorer-content {
+    .hide-until-loaded~.explorer-content {
       display: none;
     }
   }
@@ -32,9 +34,11 @@
   overflow-y: hidden;
 
   min-height: 1.2rem;
-  flex: 0 1 auto;
+  flex: 1;
+
   &.collapsed {
     flex: 0 1 1.2rem;
+
     & .fold {
       transform: rotateZ(-90deg);
     }
@@ -84,7 +88,7 @@
     pointer-events: all;
     transition: transform 0.35s ease;
 
-    & > polyline {
+    &>polyline {
       pointer-events: none;
     }
   }
@@ -110,8 +114,8 @@ button.desktop-explorer {
 
 .explorer-content {
   list-style: none;
-  overflow: hidden;
   overflow-y: auto;
+  flex: 1;
   margin-top: 0.5rem;
 
   & ul {
@@ -120,7 +124,7 @@ button.desktop-explorer {
     padding: 0;
     overscroll-behavior: contain;
 
-    & li > a {
+    & li>a {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
@@ -146,7 +150,7 @@ button.desktop-explorer {
     grid-template-rows: 1fr;
   }
 
-  .folder-outer > ul {
+  .folder-outer>ul {
     overflow: hidden;
     margin-left: 6px;
     padding-left: 0.8rem;
@@ -160,7 +164,7 @@ button.desktop-explorer {
   align-items: center;
   user-select: none;
 
-  & div > a {
+  & div>a {
     color: var(--secondary);
     font-family: var(--headerFont);
     font-size: 0.95rem;
@@ -169,11 +173,11 @@ button.desktop-explorer {
     display: inline-block;
   }
 
-  & div > a:hover {
+  & div>a:hover {
     color: var(--tertiary);
   }
 
-  & div > button {
+  & div>button {
     color: var(--dark);
     background-color: transparent;
     border: none;
@@ -206,7 +210,7 @@ button.desktop-explorer {
   flex-shrink: 0;
 }
 
-li:has(> .folder-outer:not(.open)) > .folder-container > svg {
+li:has(> .folder-outer:not(.open))>.folder-container>svg {
   transform: rotate(-90deg);
 }
 
@@ -219,7 +223,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
     &.collapsed {
       flex: 0 0 34px;
 
-      & > .explorer-content {
+      &>.explorer-content {
         transform: translateX(-100vw);
         visibility: hidden;
       }
@@ -228,7 +232,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
     &:not(.collapsed) {
       flex: 0 0 34px;
 
-      & > .explorer-content {
+      &>.explorer-content {
         transform: translateX(0);
         visibility: visible;
       }
@@ -248,7 +252,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       transition:
         transform 200ms ease,
         visibility 200ms ease;
-      overflow: hidden;
+      overflow-y: auto;
       padding: 4rem 0 2rem 0;
       height: 100dvh;
       max-height: 100dvh;

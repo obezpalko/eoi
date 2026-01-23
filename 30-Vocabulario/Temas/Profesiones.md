@@ -35,6 +35,7 @@ tags:
 | **farmacéutico farmacéutica**            | Persona que prepara y vende medicamentos.                 | La farmacéutica me dio el medicamento.         | ![[Profesiones/farmaceutico.jpg]]      |
 | **contador contadora**                   | Persona que lleva las cuentas de una empresa.             | El contador hace la declaración de impuestos.  | ![[Profesiones/contador.jpg]]          |
 | **secretario secretaria**                | Persona que organiza documentos y citas en una oficina.   | Mi secretaria organiza todas mis reuniones.    | ![[Profesiones/secretario.jpg]]        |
+| **oficinista**                           | Persona que trabaja en una oficina.                       | Muchos oficinistas trabajan en el centro.      | ![[Profesiones/oficinista.jpg]]        |
 | **recepcionista**                        | Persona que recibe visitantes en una empresa u hotel.     | El recepcionista del hotel es muy amable.      | ![[Profesiones/recepcionista.jpg]]     |
 | **dependiente dependienta**              | Persona que atiende a clientes en una tienda.             | La dependienta me ayudó a elegir.              | ![[Profesiones/dependiente.jpg]]       |
 | **vendedor vendedora**                   | Persona que vende productos o servicios.                  | El vendedor me mostró varios modelos.          | ![[Profesiones/vendedor.jpg]]          |
@@ -124,17 +125,20 @@ tags:
 ## Notas gramaticales
 
 ### Género
+
 - La mayoría terminan en **-o/-a**: médico/médica, ingeniero/ingeniera
 - Terminan en **-or/-ora**: profesor/profesora, director/directora
-- **Invariables** (igual para ambos): estudiante, periodista, dentista, artista
+- **Invariables** (igual para ambos): estudiante, periodista, dentista, artista, oficinista
 - **Excepciones**: actor/actriz, juez/jueza
 
 ### Uso con artículos
+
 - **Con SER:** Soy médico (sin artículo)
 - **Con artículo:** El médico trabaja en el hospital
 - **Modificado:** Soy un buen médico (con adjetivo, necesita artículo)
 
 ### Ejemplos de uso
+
 - **Soy ingeniero informático.** - I am a computer engineer.
 - **Trabajo de camarera.** - I work as a waitress.
 - **Mi madre es profesora.** - My mother is a teacher.

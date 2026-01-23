@@ -19,12 +19,16 @@ tags: [vocabulario, verbos]
 - **mezclar** - to mix / смешивать
 - **multiplicar** - to multiply / умножать
 - **oler** - to smell / пахнуть
+- **olvidar** - to forget / забывать
+- **parar** - to stop / остановиться
+- **parecer** - to seem / казаться
 - **pasear** - to stroll, to walk / прогуливаться
 - **perder** - to lose / проигрывать
 - **quedar** - to stay, to meet / оставаться, встречаться
 - **reciclar** - to recycle / перерабатывать
 - **recordar** - to remember, to remind / помнить, напоминать
 - **reír** - to laugh / смеяться
+- **reñir** - to scold / ругать
 - **restar** - to subtract / вычитать
 - **[[Verbos/ser|ser]]** - to be (permanent) / быть
 - **sumar** - to add / складывать

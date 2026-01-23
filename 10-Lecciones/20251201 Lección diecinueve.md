@@ -79,4 +79,4 @@ Los adjetivos posesivos indican posesión o pertenencia:
 ---
 
 **Navegación:**
-[[20251126 Lección dieciocho|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20251203 Lección|📝 Deberes]] | [[20251203 Lección veinte|Lección siguiente ➡️]]
+[[20251126 Lección dieciocho|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20251203 Lección veinte|📝 Deberes]] | [[20251203 Lección veinte|Lección siguiente ➡️]]

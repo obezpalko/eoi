@@ -17,4 +17,4 @@ date: 2025-11-03
 ---
 
 **Navegación:**
-[[20251029 Lección diez|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | [[20251105 Lección doce|Lección siguiente ➡️]]
+[[20251029 Lección diez|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20251105 Lección doce|📝 Deberes]] | [[20251105 Lección doce|Lección siguiente ➡️]]

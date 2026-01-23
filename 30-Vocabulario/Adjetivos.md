@@ -17,6 +17,7 @@ tags: [vocabulario, adjetivos]
 - **flaco/a** - thin / худой
 - **frío/a** - cold / холодный
 - **fácil** - easy / легкий
+- **encantado/a** - pleased / рад
 - **goloso/a** - sweet-toothed / сладкоежка
 - **gordo/a** - fat / толстый
 - **grande** - big / большой
@@ -30,7 +31,9 @@ tags: [vocabulario, adjetivos]
 - **lindo/a** - cute, pretty / красивый
 - **malo/a** - bad / плохой
 - **manchego/a** - from La Mancha / манчего
+- **mejor** - better / лучший
 - **pequeño/a** - small / маленький
+- **peor** - worse / худший
 - **rápido/a** - fast / быстрый
 - **salado/a** - salty / соленый
 - **tonto/a** - silly, stupid / глупый
