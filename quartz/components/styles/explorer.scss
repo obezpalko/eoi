@@ -254,6 +254,7 @@ li:has(> .folder-outer:not(.open))>.folder-container>svg {
         transform 200ms ease,
         visibility 200ms ease;
       overflow-y: auto;
+      overscroll-behavior: contain;
       -webkit-overflow-scrolling: touch;
       padding: 4rem 0 2rem 0;
       height: 100dvh;
