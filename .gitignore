@@ -27,6 +27,7 @@ ENV/
 # Quartz build artifacts
 public/
 .dependencies/
+quartz/.quartz-cache/
 .cache/
 
 # Node
