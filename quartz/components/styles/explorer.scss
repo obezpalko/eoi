@@ -123,6 +123,7 @@ button.desktop-explorer {
     margin: 0;
     padding: 0;
     overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
 
     & li>a {
       color: var(--dark);
@@ -253,6 +254,7 @@ li:has(> .folder-outer:not(.open))>.folder-container>svg {
         transform 200ms ease,
         visibility 200ms ease;
       overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
       padding: 4rem 0 2rem 0;
       height: 100dvh;
       max-height: 100dvh;
