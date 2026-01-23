@@ -30,6 +30,8 @@ tags: [vocabulario, sustantivos]
 - **el caballo** - horse / лошадь
 - **el castillo de arena** - sandcastle / замок из песка
 - **la cebra** - zebra / зебра
+- **el charco** - puddle / лужа
+- **la chuchería / las chuches** - sweets, candy / сладости, конфеты
 - **el centro comercial** - shopping mall / торговый центр
 - **la chancla** - flip-flop / шлепанец
 - **la cola** - line, queue / очередь
@@ -53,7 +55,9 @@ tags: [vocabulario, sustantivos]
 - **la estufa** - stove, heater / печь, обогреватель
 - **la falla** - fault, failure / ошибка, неисправность
 - **el freno** - brake / тормоз
+- **la fregona** - mop / швабра
 - **la funda** - cover, case / чехол
+- **el futbolín** - foosball / настольный футбол
 - **la galleta** - cookie / печенье
 - **el ganso** - goose / гусь
 - **el geranio** - geranium / герань
@@ -92,7 +96,9 @@ tags: [vocabulario, sustantivos]
 - **el marisco** - seafood / морепродукты
 - **la mayúscula** - capital letter / заглавная буква
 - **la mejilla** - cheek / щека
+- **el melón** - melon / дыня
 - **la minúscula** - lowercase letter / строчная буква
+- **la montaña rusa** - roller coaster / американские горки
 - **la muela del juicio** - wisdom tooth / зуб мудрости
 - **la nacionalidad** - nationality / национальность
 - **la navaja** - pocket knife / складной нож
@@ -118,12 +124,23 @@ tags: [vocabulario, sustantivos]
 - **el plato** - plate / тарелка
 - **el plátano** - banana / банан
 - **la profesión** - profession / профессия
+- **la queja** - complaint / жалоба
 - **el pulpo** - octopus / осьминог
 - **la raíz** - root / корень
+- **la rata** - rat / крыса
+- **el ratón** - mouse / мышь
+- **el rayo** - beam, lightning / луч, молния
 - **la residencia** - residence / место жительства
+- **la resaca** - hangover / похмелье
 - **el retraso** - delay, lateness / опоздание, задержка
+- **el retrato** - portrait / портрет
+- **la risa** - laughter / смех
+- **la rodilla** - knee / колено
+- **la rueda** - wheel / колесо
 - **el rey** - king / король
 - **el sacapuntas** - pencil sharpener / точилка
+- **la salchicha** - sausage / сосиска
+- **la sandía** - watermelon / арбуз
 - **el signo de exclamación** - exclamation mark / восклицательный знак
 - **el signo de interrogación** - question mark / вопросительный знак
 - **la tela** - fabric / ткань

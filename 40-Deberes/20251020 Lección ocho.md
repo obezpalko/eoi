@@ -3,7 +3,9 @@ date: 2025-10-20
 tags:
   - deberes
 ---
-# 008: Lección siete
+# 008: Deberes (Lección ocho)
+
+[[../10-Lecciones/20251015 Lección siete|← Volver a la lección]]
 
 ## Libro de ejercicios. Tema 1
 

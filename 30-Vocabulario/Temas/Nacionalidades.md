@@ -19,10 +19,12 @@ tags:
 | [Chile](https://es.wikipedia.org/wiki/Chile)                                    | chileno chilena                      | español                             |
 | [China](https://es.wikipedia.org/wiki/China)                                    | chino china                          | chino mandarín                      |
 | [Colombia](https://es.wikipedia.org/wiki/Colombia)                              | colombiano colombiana                | español                             |
-| [Corea](https://es.wikipedia.org/wiki/Corea)                                    | coreano coreana                      | coreano                             |
+| [Corea del Sur](https://es.wikipedia.org/wiki/Corea_del_Sur)                    | surcoreano surcoreana                | coreano                             |
+| [Croacia](https://es.wikipedia.org/wiki/Croacia)                                | croata                               | croata                              |
 | [Cuba](https://es.wikipedia.org/wiki/Cuba)                                      | cubano cubana                        | español                             |
 | [Dinamarca](https://es.wikipedia.org/wiki/Dinamarca)                            | danés danesa                         | danés                               |
 | [Ecuador](https://es.wikipedia.org/wiki/Ecuador)                                | ecuatoriano ecuatoriana              | español                             |
+| [Egipto](https://es.wikipedia.org/wiki/Egipto)                                  | egipcio egipcia                      | árabe                               |
 | [Escocia](https://es.wikipedia.org/wiki/Escocia)                                | escocés escocesa                     | inglés, gaélico escocés             |
 | [España](https://es.wikipedia.org/wiki/Espa%C3%B1a)                             | español española                     | español, catalán, gallego, euskera  |
 | [Estados Unidos](https://es.wikipedia.org/wiki/Estados_Unidos)                  | estadounidense / americano americana | inglés                              |
@@ -45,6 +47,7 @@ tags:
 | [Moldavia](https://es.wikipedia.org/wiki/Moldavia)                              | moldavo moldava                      | rumano, ruso                        |
 | [México](https://es.wikipedia.org/wiki/M%C3%A9xico)                             | mexicano mexicana                    | español                             |
 | [Noruega](https://es.wikipedia.org/wiki/Noruega)                                | noruego noruega                      | noruego                             |
+| [Países Bajos](https://es.wikipedia.org/wiki/Pa%C3%ADses_Bajos)                | neerlandés neerlandesa               | neerlandés                          |
 | [Pakistán](https://es.wikipedia.org/wiki/Pakist%C3%A1n)                         | paquistaní                           | urdu, inglés                        |
 | [Perú](https://es.wikipedia.org/wiki/Per%C3%BA)                                 | peruano peruana                      | español, quechua, aimara            |
 | [Polonia](https://es.wikipedia.org/wiki/Polonia)                                | polaco polaca                        | polaco                              |
@@ -53,11 +56,14 @@ tags:
 | [República Dominicana](https://es.wikipedia.org/wiki/Rep%C3%BAblica_Dominicana) | dominicano dominicana                | español                             |
 | [Rumanía](https://es.wikipedia.org/wiki/Ruman%C3%ADa)                           | rumano rumana                        | rumano                              |
 | [Rusia](https://es.wikipedia.org/wiki/Rusia)                                    | ruso rusa                            | ruso                                |
+| [Singapur](https://es.wikipedia.org/wiki/Singapur)                              | singapurense                         | inglés, malayo, mandarín, tamil     |
+| [Sudáfrica](https://es.wikipedia.org/wiki/Sud%C3%A1frica)                       | sudafricano sudafricana              | inglés, afrikáans (+9 más)          |
 | [Suecia](https://es.wikipedia.org/wiki/Suecia)                                  | sueco sueca                          | sueco                               |
 | [Suiza](https://es.wikipedia.org/wiki/Suiza)                                    | suizo suiza                          | alemán, francés, italiano, romanche |
 | [Turquía](https://es.wikipedia.org/wiki/Turqu%C3%ADa)                           | turco turca                          | turco                               |
 | [Ucrania](https://es.wikipedia.org/wiki/Ucrania)                                | ucraniano ucraniana                  | ucraniano                           |
 | [Venezuela](https://es.wikipedia.org/wiki/Venezuela)                            | venezolano venezolana                | español                             |
+| [Vietnam](https://es.wikipedia.org/wiki/Vietnam)                                | vietnamita                           | vietnamita                          |
 
 ## Notas
 

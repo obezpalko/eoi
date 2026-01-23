@@ -8,6 +8,7 @@ tags: [vocabulario, adjetivos]
 - **blando/a** - soft / мягкий
 - **bueno/a** - good / хороший
 - **caliente** - hot / горячий
+- **casado/a** - married / женатый, замужняя
 - **delgado/a** - slim / стройный
 - **difícil** - difficult / трудный
 - **dulce** - sweet / сладкий
@@ -29,6 +30,7 @@ tags: [vocabulario, adjetivos]
 - **jaranero/a** - party animal / гуляка
 - **joven** - young / молодой
 - **lindo/a** - cute, pretty / красивый
+- **lento/a** - slow / медленный
 - **malo/a** - bad / плохой
 - **manchego/a** - from La Mancha / манчего
 - **mejor** - better / лучший
@@ -36,5 +38,6 @@ tags: [vocabulario, adjetivos]
 - **peor** - worse / худший
 - **rápido/a** - fast / быстрый
 - **salado/a** - salty / соленый
+- **soltero/a** - single / холостой, незамужняя
 - **tonto/a** - silly, stupid / глупый
 - **viejo/a** - old / старый

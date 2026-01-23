@@ -6,17 +6,21 @@ tags: [vocabulario, verbos]
 - **aprender** - to learn / учить, учиться
 - **charlar** - to chat, to talk / болтать, разговаривать
 - **chispear** - to drizzle / моросить
+- **dar** - to give / давать
 - **[[Verbos/deletrear|deletrear]]** - spell out letters / произносить по буквам
 - **dividir** - to divide / делить
 - **empujar** - to push / толкать
+- **entrar** - to enter / входить
 - **fascinar** - to fascinate / очаровывать
 - **ganar** - to win / выигрывать
 - **haber (hay)** - to have (there is/are) / иметься (есть)
 - **[[Verbos/hablar|hablar]]** - to speak / говорить
+- **juntar** - to put together / соединять, собирать вместе
 - **limar** - to file / подпиливать
 - **[[Verbos/llamarse|llamarse]]** - to be called / зваться
 - **luchar** - to fight / бороться
 - **mezclar** - to mix / смешивать
+- **meter** - to put in / вставлять, класть внутрь
 - **multiplicar** - to multiply / умножать
 - **oler** - to smell / пахнуть
 - **olvidar** - to forget / забывать
@@ -24,14 +28,21 @@ tags: [vocabulario, verbos]
 - **parecer** - to seem / казаться
 - **pasear** - to stroll, to walk / прогуливаться
 - **perder** - to lose / проигрывать
+- **quebrar** - to break / ломать, разбивать
 - **quedar** - to stay, to meet / оставаться, встречаться
+- **quejarse** - to complain / жаловаться
+- **recibir** - to receive / получать
 - **reciclar** - to recycle / перерабатывать
 - **recordar** - to remember, to remind / помнить, напоминать
 - **reír** - to laugh / смеяться
 - **reñir** - to scold / ругать
 - **restar** - to subtract / вычитать
+- **sacar** - to take out / вынимать, доставать
+- **salir** - to go out, to leave / выходить
+- **separar** - to separate / разделять
 - **[[Verbos/ser|ser]]** - to be (permanent) / быть
 - **sumar** - to add / складывать
 - **[[Verbos/tener|tener]]** - to have / иметь
 - **[[Verbos/trabajar|trabajar]]** - to work / работать
+- **unir** - to unite, to join / объединять
 - **[[Verbos/vivir|vivir]]** - to live / жить

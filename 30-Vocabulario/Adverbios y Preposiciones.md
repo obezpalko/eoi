@@ -18,3 +18,4 @@ tags: [vocabulario, general]
 - **lejos** - far / далеко
 - **mal** - badly / плохо
 - **nunca** - never / никогда
+- **siempre** - always / siempre
