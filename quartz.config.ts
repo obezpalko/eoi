@@ -25,6 +25,7 @@ const config: QuartzConfig = {
       "80-Tools",
       "90-Archivos",
       "99-Exports",
+      "LOCAL_DEVELOPMENT.md",
       "node_modules",
       "quartz",
       "static",

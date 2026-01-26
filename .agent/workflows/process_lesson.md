@@ -23,6 +23,7 @@ description: Standardize a lesson file, extracting vocabulary, translating notes
    - **Action**: Add missing words to the correct file and section.
    - **Articles**: For nouns, ensure you add the definite article (**el** or **la**).
    - **Sorting**: Ensure EVERY section in the updated vocabulary files is sorted alphabetically.
+   - **Antonyms/Synonyms**: If the lesson introduces new oppositions (e.g., `≠`, `!=`, `opuesto`) or similarities (e.g., `==`, `sinónimo`), update `30-Vocabulario/Temas/Antónimos y Sinónimos.md`.
    - **Images**: If new vocabulary is significant, suggest or run `80-Tools/download_images_universal.py` for those terms.
 
 4. **Content Refinement**

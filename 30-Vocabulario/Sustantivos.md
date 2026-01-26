@@ -34,6 +34,7 @@ tags: [vocabulario, sustantivos]
 - **la chuchería / las chuches** - sweets, candy / сладости, конфеты
 - **el centro comercial** - shopping mall / торговый центр
 - **la chancla** - flip-flop / шлепанец
+- **la clara** - egg white / яичный белок
 - **la cola** - line, queue / очередь
 - **la comilona** - big meal, feast / пиршество
 - **la consonante** - consonant / согласная
@@ -67,6 +68,7 @@ tags: [vocabulario, sustantivos]
 - **la herida** - wound / рана
 - **el hombro** - shoulder / плечо
 - **la hucha** - piggy bank / копилка
+- **el huevo** - egg / яйцо
 - **el idioma** - language / язык
 - **el imán** - magnet / магнит
 - **la jarana** - partying, revelry / кутеж, веселье
@@ -143,9 +145,22 @@ tags: [vocabulario, sustantivos]
 - **la sandía** - watermelon / арбуз
 - **el signo de exclamación** - exclamation mark / восклицательный знак
 - **el signo de interrogación** - question mark / вопросительный знак
+- **el taller** - workshop / мастерская
+- **la tapa** - lid, cover, tapa / крышка, тапа
 - **la tela** - fabric / ткань
 - **el teléfono** - telephone / телефон
+- **la tilde** - accent mark / тильда, ударение
+- **la ubicación** - location / местоположение
+- **la unidad** - unit / единица
 - **la uña** - nail / ноготь
+- **el usuario** - user / пользователь
+- **el valor** - value, courage / ценность, смелость
+- **la vergüenza** - shame / стыд
+- **el viento** - wind / ветер
+- **el vino** - wine / вино
 - **la vocal** - vowel / гласная
+- **el volante** - steering wheel / руль
+- **la voz** - voice / голос
 - **el xilófono** - xylophone / ксилофон
 - **el yate** - yacht / яхта
+- **la yema** - yolk / желток

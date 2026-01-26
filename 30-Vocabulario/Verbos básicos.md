@@ -9,6 +9,7 @@ tags: [vocabulario, verbos]
 - **dar** - to give / давать
 - **[[Verbos/deletrear|deletrear]]** - spell out letters / произносить по буквам
 - **dividir** - to divide / делить
+- **echarse** - to lie down, to throw oneself / ложиться, бросаться
 - **empujar** - to push / толкать
 - **entrar** - to enter / входить
 - **fascinar** - to fascinate / очаровывать
@@ -45,4 +46,5 @@ tags: [vocabulario, verbos]
 - **[[Verbos/tener|tener]]** - to have / иметь
 - **[[Verbos/trabajar|trabajar]]** - to work / работать
 - **unir** - to unite, to join / объединять
+- **vestir** - to dress / одевать
 - **[[Verbos/vivir|vivir]]** - to live / жить

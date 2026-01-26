@@ -1,6 +1,7 @@
 ---
 description: Rules for processing lesson files in 10-Lecciones/
 ---
+
 1. **Scope**: Apply this workflow only to files in `10-Lecciones/`.
 2. **Metadata**:
    - Filename MUST be `YYYYMMDD Lección [Nombre].md`.
@@ -13,5 +14,7 @@ description: Rules for processing lesson files in 10-Lecciones/
 5. **Content**:
    - Spanish level A1-A2.
    - Extract new vocabulary to `30-Vocabulario/` files.
-6. // turbo
+6. **Project**:
+   - Use: Use `@[.agent/workflows/process_lesson.md]` as additional rules.
+7. // turbo
    - Run `python3 80-Tools/fix_links.py` if needed.

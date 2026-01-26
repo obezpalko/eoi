@@ -32,7 +32,9 @@ tags:
 | [Finlandia](https://es.wikipedia.org/wiki/Finlandia)                            | finlandés finlandesa                 | finlandés, sueco                    |
 | [Francia](https://es.wikipedia.org/wiki/Francia)                                | francés francesa                     | francés                             |
 | [Grecia](https://es.wikipedia.org/wiki/Grecia)                                  | griego griega                        | griego                              |
+| [Guatemala](https://es.wikipedia.org/wiki/Guatemala)                            | guatemalteco guatemalteca            | español                             |
 | [Holanda](https://es.wikipedia.org/wiki/Holanda)                                | holandés holandesa                   | neerlandés                          |
+| [Honduras](https://es.wikipedia.org/wiki/Honduras)                              | hondureño hondureña                  | español                             |
 | [Hungría](https://es.wikipedia.org/wiki/Hungr%C3%ADa)                           | húngaro húngara                      | húngaro                             |
 | [India](https://es.wikipedia.org/wiki/India)                                    | indio india                          | hindi, inglés (+ 22 regionales)     |
 | [Inglaterra](https://es.wikipedia.org/wiki/Inglaterra)                          | inglés inglesa                       | inglés                              |
