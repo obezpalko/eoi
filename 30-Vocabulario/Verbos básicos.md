@@ -4,18 +4,27 @@ tags: [vocabulario, verbos]
 # Verbos básicos
 
 - **aprender** - to learn / учить, учиться
+- **beber** - to drink / пить
 - **charlar** - to chat, to talk / болтать, разговаривать
+- **comer** - to eat / есть
 - **chispear** - to drizzle / моросить
 - **dar** - to give / давать
 - **[[Verbos/deletrear|deletrear]]** - spell out letters / произносить по буквам
+- **desordenar** - to mess up / приводить в беспорядок
+- **disfrutar** - to enjoy / наслаждаться
 - **dividir** - to divide / делить
 - **echarse** - to lie down, to throw oneself / ложиться, бросаться
 - **empujar** - to push / толкать
 - **entrar** - to enter / входить
+- **escribir** - to write / писать
+- **escuchar** - to listen / слушать
 - **fascinar** - to fascinate / очаровывать
+- **fijarse** - to notice, to pay attention / обращать внимание
 - **ganar** - to win / выигрывать
+- **gozar** - to enjoy / наслаждаться
 - **haber (hay)** - to have (there is/are) / иметься (есть)
 - **[[Verbos/hablar|hablar]]** - to speak / говорить
+- **jugar** - to play / играть
 - **juntar** - to put together / соединять, собирать вместе
 - **limar** - to file / подпиливать
 - **[[Verbos/llamarse|llamarse]]** - to be called / зваться
@@ -25,6 +34,7 @@ tags: [vocabulario, verbos]
 - **multiplicar** - to multiply / умножать
 - **oler** - to smell / пахнуть
 - **olvidar** - to forget / забывать
+- **ordenar** - to order, to tidy / заказывать, приводить в порядок
 - **parar** - to stop / остановиться
 - **parecer** - to seem / казаться
 - **pasear** - to stroll, to walk / прогуливаться
@@ -48,3 +58,5 @@ tags: [vocabulario, verbos]
 - **unir** - to unite, to join / объединять
 - **vestir** - to dress / одевать
 - **[[Verbos/vivir|vivir]]** - to live / жить
+- **yacer** - to lie, to rest / лежать, покоиться
+- **zumbar** - to buzz / жужжать

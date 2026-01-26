@@ -11,6 +11,8 @@ date: 2025-10-20
 
 ## Información
 
+[RAE](https://www.rae.es/): [Real Academia Española](https://es.wikipedia.org/wiki/Real_Academia_Espa%C3%B1ola)
+
 ## Prácticas
 
 ### Sonidos de animales

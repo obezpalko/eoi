@@ -11,9 +11,11 @@ tags: [vocabulario, sustantivos]
 - **el apretón** - handshake, squeeze / рукопожатие
 - **el armario** - wardrobe, closet / шкаф
 - **la arroba** (@) - at symbol / символ собака
+- **el aseo** - toilet, restroom / туалет
 - **la azafata** - flight attendant / стюардесса
 - **la barca** - small boat / лодка
 - **la bañera** - bathtub / ванна
+- **el baño** - bathroom / ванная комната
 - **el barco** - boat / корабль
 - **el barrio** - neighborhood / район
 - **la berenjena** - eggplant / баклажан
@@ -42,9 +44,11 @@ tags: [vocabulario, sustantivos]
 - **el diseñador / la diseñadora** - designer / дизайнер
 - **el correo electrónico** - email / электронная почта
 - **el cuaderno** - notebook / тетрадь
+- **el cumpleaños** - birthday / день рождения
 - **el cura** - priest / священник
 - **el dátil** - date (fruit) / финик
 - **el dedo** - finger / палец
+- **la destreza** - skill, dexterity / мастерство, ловкость
 - **el diminutivo** - diminutive, nickname / уменьшительное имя
 - **la dirección** - address / адрес
 - **la droga** - drug / наркотик
@@ -53,7 +57,9 @@ tags: [vocabulario, sustantivos]
 - **el equipaje** - luggage / багаж
 - **el erizo** - hedgehog / еж
 - **la escoba** - broom / метла
+- **el estribillo** - chorus, refrain / припев
 - **la estufa** - stove, heater / печь, обогреватель
+- **el éxito** - success / успех
 - **la falla** - fault, failure / ошибка, неисправность
 - **el freno** - brake / тормоз
 - **la fregona** - mop / швабра
@@ -63,6 +69,7 @@ tags: [vocabulario, sustantivos]
 - **el ganso** - goose / гусь
 - **el geranio** - geranium / герань
 - **el gitano** - gypsy, Roma person / цыган
+- **el gofre** - waffle / вафля
 - **el gusano** - worm / червяк
 - **el halago** - compliment, flattery / комплимент, лесть
 - **la herida** - wound / рана
@@ -143,6 +150,7 @@ tags: [vocabulario, sustantivos]
 - **el sacapuntas** - pencil sharpener / точилка
 - **la salchicha** - sausage / сосиска
 - **la sandía** - watermelon / арбуз
+- **el servicio** - service, restroom / служебное помещение, туалет
 - **el signo de exclamación** - exclamation mark / восклицательный знак
 - **el signo de interrogación** - question mark / вопросительный знак
 - **el taller** - workshop / мастерская
@@ -164,3 +172,14 @@ tags: [vocabulario, sustantivos]
 - **el xilófono** - xylophone / ксилофон
 - **el yate** - yacht / яхта
 - **la yema** - yolk / желток
+- **el yen** - yen / йена
+- **el yodo** - iodine / йод
+- **la yaya** - grandma (colloquial) / бабуля
+- **el yunque** - anvil / наковальня
+- **la zambomba** - friction drum / самбомба (музыкальный инструмент)
+- **la zamburiña** - scallop / гребешок (моллюск)
+- **la zanahoria** - carrot / морковь
+- **el zar** - tsar / царь
+- **el zócalo** - baseboard, plinth / плинтус
+- **el zorro** - fox / лиса
+- **la zumba** - zumba / зумба

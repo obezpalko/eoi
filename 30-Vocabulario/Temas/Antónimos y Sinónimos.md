@@ -73,6 +73,7 @@ Este documento recopila parejas de palabras con significados opuestos (antónimo
 | **Llevar**        | **Traer**       | To take / Нести (туда)  | To bring / Нести (сюда) |
 | **Meter**         | **Sacar**       | To put in / Вставлять   | To take out / Доставать |
 | **Olvidar**       | **Recordar**    | To forget / Забывать    | To remember / Помнить   |
+| **Ordenar**       | **Desordenar**  | To tidy / Приводить в порядок | To mess up / Делать беспорядок |
 | **Preguntar**     | **Responder**   | To ask / Спрашивать     | To answer / Отвечать    |
 | **Recoger**       | **Tirar**       | To pick up / Подбирать  | To throw / Бросать      |
 | **Reír**          | **Llorar**      | To laugh / Смеяться     | To cry / Плакать        |
@@ -129,6 +130,8 @@ Este documento recopila parejas de palabras con significados opuestos (antónimo
 | **Marido**   | **Esposo**        | Husband / Муж               |
 | **Mujer**    | **Esposa**        | Wife / Жена                 |
 | **Perezoso** | **Vago / Gandul** | Lazy / Ленивый              |
+| **Servicio** | **Aseo / Baño**   | Restroom / Туалет           |
 | **Terminar** | **Acabar**        | To finish / Заканчивать     |
 | **Usar**     | **Utilizar**      | To use / Использовать       |
 | **Triste**   | **Apenado**       | Sad / Грустный              |
+| **Disfrutar**| **Gozar**         | To enjoy / Наслаждаться     |
