@@ -66,6 +66,7 @@ Este documento recopila parejas de palabras con significados opuestos (antónimo
 | **Dar**           | **Recibir**     | To give / Давать        | To receive / Получать   |
 | **Dividir**       | **Multiplicar** | To divide / Делить      | To multiply / Умножать  |
 | **Empezar**       | **Terminar**    | To start / Начинать     | To finish / Заканчивать |
+| **Encender**     | **Apagar**      | To turn on / Включать   | To turn off / Выключать  |
 | **Entrar**        | **Salir**       | To enter / Входить      | To go out / Выходить    |
 | **Ganar**         | **Perder**      | To win / Выигрывать     | To lose / Проигрывать   |
 | **Ir**            | **Venir**       | To go / Идти            | To come / Приходить     |
@@ -94,6 +95,7 @@ Este documento recopila parejas de palabras con significados opuestos (antónimo
 | **Nada**     | **Todo**    | Nothing / Ничего        | Everything / Всё        |
 | **Siempre**  | **Nunca**   | Always / Всегда         | Never / Никогда         |
 | **También**  | **Tampoco** | Also / Тоже             | Neither / Тоже нет      |
+| **Tarde**    | **Temprano**| Late / Поздно           | Early / Рано            |
 
 ## 4. Antónimos (Sustantivos)
 
@@ -128,8 +130,10 @@ Este documento recopila parejas de palabras con significados opuestos (antónimo
 | **Jamás**    | **Nunca**         | Never / Никогда             |
 | **Maestro**  | **Profesor**      | Teacher / Учитель           |
 | **Marido**   | **Esposo**        | Husband / Муж               |
+| **Mirar**    | **Observar**      | To look / To observe        |
 | **Mujer**    | **Esposa**        | Wife / Жена                 |
 | **Perezoso** | **Vago / Gandul** | Lazy / Ленивый              |
+| **Sacar**    | **Coger**         | To take / To grab           |
 | **Servicio** | **Aseo / Baño**   | Restroom / Туалет           |
 | **Terminar** | **Acabar**        | To finish / Заканчивать     |
 | **Usar**     | **Utilizar**      | To use / Использовать       |

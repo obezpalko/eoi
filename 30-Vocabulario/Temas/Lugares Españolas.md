@@ -8,28 +8,28 @@ tags:
 
 ## España - Comunidades Autónomas
 
-| Comunidad Autónoma                                                         | Gentilicio                                |
-| -------------------------------------------------------------------------- | ----------------------------------------- |
-| [Andalucía](https://es.wikipedia.org/wiki/Andaluc%C3%ADa)                  | andaluz andaluza                          |
-| [Aragón](https://es.wikipedia.org/wiki/Arag%C3%B3n)                        | aragonés aragonesa                        |
-| [Asturias](https://es.wikipedia.org/wiki/Asturias)                         | asturiano asturiana                       |
-| [Canarias](https://es.wikipedia.org/wiki/Canarias)                         | canario canaria                           |
-| [Cantabria](https://es.wikipedia.org/wiki/Cantabria)                       | cántabro cántabra                         |
-| [Castilla y León](https://es.wikipedia.org/wiki/Castilla_y_Le%C3%B3n)      | castellano-leonés / castellano-leonesa    |
-| [Castilla-La Mancha](https://es.wikipedia.org/wiki/Castilla-La_Mancha)     | castellano-manchego / castellano-manchega |
-| [Cataluña](https://es.wikipedia.org/wiki/Catalu%C3%B1a)                    | catalán catalana                          |
-| [Ceuta](https://es.wikipedia.org/wiki/Ceuta)                               | ceutí                                     |
-| [Comunidad Valenciana](https://es.wikipedia.org/wiki/Comunidad_Valenciana) | valenciano valenciana                     |
-| [España](https://es.wikipedia.org/wiki/Espa%C3%B1a)                        | español española                          |
-| [Extremadura](https://es.wikipedia.org/wiki/Extremadura)                   | extremeño extremeña                       |
-| [Galicia](https://es.wikipedia.org/wiki/Galicia)                           | gallego gallega                           |
-| [Islas Baleares](https://es.wikipedia.org/wiki/Islas_Baleares)             | balear                                    |
-| [La Rioja](https://es.wikipedia.org/wiki/La_Rioja)                         | riojano riojana                           |
-| [Madrid](https://es.wikipedia.org/wiki/Madrid)                             | madrileño madrileña                       |
-| [Melilla](https://es.wikipedia.org/wiki/Melilla)                           | melillense                                |
-| [Murcia](https://es.wikipedia.org/wiki/Murcia)                             | murciano murciana                         |
-| [Navarra](https://es.wikipedia.org/wiki/Navarra)                           | navarro navarra                           |
-| [País Vasco / Euskadi](https://es.wikipedia.org/wiki/Pa%C3%ADs_Vasco)      | vasco vasca                               |
+| Comunidad Autónoma                                                         | Gentilicio                                | Productos típicos                                                                                                                                      |
+| -------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Andalucía](https://es.wikipedia.org/wiki/Andaluc%C3%ADa)                  | andaluz andaluza                          | [gazpacho](https://es.wikipedia.org/wiki/Gazpacho), [aceite de oliva](https://es.wikipedia.org/wiki/Aceite_de_oliva)                                   |
+| [Aragón](https://es.wikipedia.org/wiki/Arag%C3%B3n)                        | aragonés aragonesa                        | [ternasco](https://es.wikipedia.org/wiki/Ternasco), [jamón de Teruel](https://es.wikipedia.org/wiki/Jam%C3%B3n_de_Teruel)                               |
+| [Asturias](https://es.wikipedia.org/wiki/Asturias)                         | asturiano asturiana                       | [sidra](https://es.wikipedia.org/wiki/Sidra_de_Asturias), [fabada](https://es.wikipedia.org/wiki/Fabada_asturiana)                                     |
+| [Canarias](https://es.wikipedia.org/wiki/Canarias)                         | canario canaria                           | [plátanos](https://es.wikipedia.org/wiki/Pl%C3%A1tano_de_Canarias), [papas arrugadas](https://es.wikipedia.org/wiki/Papas_arrugadas)                   |
+| [Cantabria](https://es.wikipedia.org/wiki/Cantabria)                       | cántabro cántabra                         | [sobaos](https://es.wikipedia.org/wiki/Sobao_pasiego), [anchoas](https://es.wikipedia.org/wiki/Anchoas_de_Santo%C3%B1a)                               |
+| [Castilla y León](https://es.wikipedia.org/wiki/Castilla_y_Le%C3%B3n)      | castellano-leonés / castellano-leonesa    | [cochinillo](https://es.wikipedia.org/wiki/Cochinillo_de_Segovia), [cecina](https://es.wikipedia.org/wiki/Cecina_de_Le%C3%B3n)                          |
+| [Castilla-La Mancha](https://es.wikipedia.org/wiki/Castilla-La_Mancha)     | castellano-manchego / castellano-manchega | [queso manchego](https://es.wikipedia.org/wiki/Queso_manchego), [azafrán](https://es.wikipedia.org/wiki/Azafr%C3%A1n)                                  |
+| [Cataluña](https://es.wikipedia.org/wiki/Catalu%C3%B1a)                    | catalán catalana                          | [cava](https://es.wikipedia.org/wiki/Cava), [crema catalana](https://es.wikipedia.org/wiki/Crema_catalana)                                             |
+| [Ceuta](https://es.wikipedia.org/wiki/Ceuta)                               | ceutí                                     | [salazones](https://es.wikipedia.org/wiki/Salaz%C3%B3n)                                                                                                |
+| [Comunidad Valenciana](https://es.wikipedia.org/wiki/Comunidad_Valenciana) | valenciano valenciana                     | [paella](https://es.wikipedia.org/wiki/Paella), [horchata](https://es.wikipedia.org/wiki/Horchata_de_chufa)                                             |
+| [España](https://es.wikipedia.org/wiki/Espa%C3%B1a)                        | español española                          | [tortilla de patatas](https://es.wikipedia.org/wiki/Tortilla_de_patatas), [jamón ibérico](https://es.wikipedia.org/wiki/Jam%C3%B3n_ib%C3%A9rico)        |
+| [Extremadura](https://es.wikipedia.org/wiki/Extremadura)                   | extremeño extremeña                       | [pimentón de la Vera](https://es.wikipedia.org/wiki/Piment%C3%B3n_de_la_Vera), [jamón](https://es.wikipedia.org/wiki/Jam%C3%B3n_de_Extremadura)         |
+| [Galicia](https://es.wikipedia.org/wiki/Galicia)                           | gallego gallega                           | [mariscos](https://es.wikipedia.org/wiki/Marisco), [pulpo a la feira](https://es.wikipedia.org/wiki/Pulpo_a_la_gallega)                                |
+| [Islas Baleares](https://es.wikipedia.org/wiki/Islas_Baleares)             | balear                                    | [ensaimada](https://es.wikipedia.org/wiki/Ensaimada_de_Mallorca), [sobrasada](https://es.wikipedia.org/wiki/Sobrasada)                                 |
+| [La Rioja](https://es.wikipedia.org/wiki/La_Rioja)                         | riojano riojana                           | [vino](https://es.wikipedia.org/wiki/Rioja_(vino))                                                                                                     |
+| [Madrid](https://es.wikipedia.org/wiki/Madrid)                             | madrileño madrileña                       | [cocido madrileño](https://es.wikipedia.org/wiki/Cocido_madrile%C3%B1o)                                                                               |
+| [Melilla](https://es.wikipedia.org/wiki/Melilla)                           | melillense                                | [té moruno](https://es.wikipedia.org/wiki/T%C3%A9_con_hierbabuena)                                                                                     |
+| [Murcia](https://es.wikipedia.org/wiki/Murcia)                             | murciano murciana                         | [zarangollo](https://es.wikipedia.org/wiki/Zarangollo), [paparajotes](https://es.wikipedia.org/wiki/Paparajote)                                       |
+| [Navarra](https://es.wikipedia.org/wiki/Navarra)                           | navarro navarra                           | [espárragos](https://es.wikipedia.org/wiki/Esp%C3%A1rrago_de_Navarra), [pimientos del piquillo](https://es.wikipedia.org/wiki/Pimiento_del_piquillo)   |
+| [País Vasco / Euskadi](https://es.wikipedia.org/wiki/Pa%C3%ADs_Vasco)      | vasco vasca                               | [bacalao al pil pil](https://es.wikipedia.org/wiki/Bacalao_al_pil_pil), [txakoli](https://es.wikipedia.org/wiki/Txakoli)                                |
 
 ## España - Ciudades Principales
 

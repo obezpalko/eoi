@@ -3,42 +3,80 @@ tags: [vocabulario, verbos]
 ---
 # Verbos básicos
 
+- **abrir** - to open / открывать
+- **almorzar** - to have lunch / обедать
+- **andar** - to walk / ходить
+- **apagar** - to turn off / выключать
+- **aparcar** - to park / парковаться
 - **aprender** - to learn / учить, учиться
+- **bailar** - to dance / танцевать
+- **bajar** - to go down / спускаться
 - **beber** - to drink / пить
+- **besar** - to kiss / целовать
+- **caminar** - to walk / идти, шагать
+- **cantar** - to sing / петь
+- **cenar** - to have dinner / ужинать
+- **cerrar** - to close / закрывать
 - **charlar** - to chat, to talk / болтать, разговаривать
-- **comer** - to eat / есть
 - **chispear** - to drizzle / моросить
+- **cocinar** - to cook / готовить
+- **comer** - to eat / есть
+- **comprar** - to buy / покупать
+- **conducir** - to drive / водить
+- **correr** - to run / бегать
 - **dar** - to give / давать
 - **[[Verbos/deletrear|deletrear]]** - spell out letters / произносить по буквам
+- **desayunar** - to have breakfast / завтракать
 - **desordenar** - to mess up / приводить в беспорядок
 - **disfrutar** - to enjoy / наслаждаться
 - **dividir** - to divide / делить
+- **dormir** - to sleep / спать
 - **echarse** - to lie down, to throw oneself / ложиться, бросаться
 - **empujar** - to push / толкать
+- **encender** - to turn on / включать
 - **entrar** - to enter / входить
+- **enviar** - to send / посылать
+- **eructar** - to burp / рыгать
 - **escribir** - to write / писать
 - **escuchar** - to listen / слушать
+- **esperar** - to wait / ждать
+- **exclamar** - to exclaim / восклицать
 - **fascinar** - to fascinate / очаровывать
 - **fijarse** - to notice, to pay attention / обращать внимание
+- **fotografiar** - to photograph / фотографировать
 - **ganar** - to win / выигрывать
 - **gozar** - to enjoy / наслаждаться
+- **gritar** - to shout / кричать
 - **haber (hay)** - to have (there is/are) / иметься (есть)
 - **[[Verbos/hablar|hablar]]** - to speak / говорить
+- **[[Verbos/hacer|hacer]]** - to do, make / делать
 - **jugar** - to play / играть
 - **juntar** - to put together / соединять, собирать вместе
 - **limar** - to file / подпиливать
+- **limpiar** - to clean / чистить, убирать
+- **llamar** - to call / звать, звонить
 - **[[Verbos/llamarse|llamarse]]** - to be called / зваться
+- **llorar** - to cry / плакать
 - **luchar** - to fight / бороться
-- **mezclar** - to mix / смешивать
+- **merendar** - to have a snack / полдничать
 - **meter** - to put in / вставлять, класть внутрь
+- **mezclar** - to mix / смешивать
+- **mirar** - to look at / смотреть
+- **morir** - to die / умирать
 - **multiplicar** - to multiply / умножать
+- **oír** - to hear / слышать
 - **oler** - to smell / пахнуть
 - **olvidar** - to forget / забывать
 - **ordenar** - to order, to tidy / заказывать, приводить в порядок
+- **pagar** - to pay / платить
 - **parar** - to stop / остановиться
 - **parecer** - to seem / казаться
 - **pasear** - to stroll, to walk / прогуливаться
+- **pensar** - to think / думать
 - **perder** - to lose / проигрывать
+- **[[Verbos/poner|poner]]** - to put, place / класть, ставить
+- **preparar** - to prepare / готовить, подготавливать
+- **preguntar** - to ask / спрашивать
 - **quebrar** - to break / ломать, разбивать
 - **quedar** - to stay, to meet / оставаться, встречаться
 - **quejarse** - to complain / жаловаться
@@ -48,14 +86,22 @@ tags: [vocabulario, verbos]
 - **reír** - to laugh / смеяться
 - **reñir** - to scold / ругать
 - **restar** - to subtract / вычитать
+- **romper** - to break / ломать
 - **sacar** - to take out / вынимать, доставать
-- **salir** - to go out, to leave / выходить
+- **[[Verbos/salir|salir]]** - to go out, to leave / выходить
 - **separar** - to separate / разделять
 - **[[Verbos/ser|ser]]** - to be (permanent) / быть
+- **soñar** - to dream / мечтать
+- **subir** - to go up / подниматься
 - **sumar** - to add / складывать
 - **[[Verbos/tener|tener]]** - to have / иметь
+- **[[Verbos/tocar|tocar]]** - to touch, play / трогать, играть
+- **toser** - to cough / кашлять
 - **[[Verbos/trabajar|trabajar]]** - to work / работать
 - **unir** - to unite, to join / объединять
+- **usar** - to use / использовать
+- **vender** - to sell / продавать
+- **ver** - to see / видеть
 - **vestir** - to dress / одевать
 - **[[Verbos/vivir|vivir]]** - to live / жить
 - **yacer** - to lie, to rest / лежать, покоиться

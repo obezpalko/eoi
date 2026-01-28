@@ -123,6 +123,7 @@ tags: [vocabulario, sustantivos]
 - **la papelera** - wastebasket / мусорная корзина
 - **el patito** - duckling / утенок
 - **el patinete** - scooter / самокат
+- **el pedo** - fart / пук
 - **el perchero** - coat rack / вешалка
 - **el perrito caliente** - hot dog / хот-дог
 - **el pez** - fish (living) / живая рыба
@@ -151,6 +152,7 @@ tags: [vocabulario, sustantivos]
 - **la salchicha** - sausage / сосиска
 - **la sandía** - watermelon / арбуз
 - **el servicio** - service, restroom / служебное помещение, туалет
+- **el seno** - breast, bosom / грудь, пазуха
 - **el signo de exclamación** - exclamation mark / восклицательный знак
 - **el signo de interrogación** - question mark / вопросительный знак
 - **el taller** - workshop / мастерская
@@ -168,6 +170,7 @@ tags: [vocabulario, sustantivos]
 - **el vino** - wine / вино
 - **la vocal** - vowel / гласная
 - **el volante** - steering wheel / руль
+- **la voluntad** - will, willpower / воля
 - **la voz** - voice / голос
 - **el xilófono** - xylophone / ксилофон
 - **el yate** - yacht / яхта
