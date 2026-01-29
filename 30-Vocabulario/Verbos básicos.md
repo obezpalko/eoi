@@ -20,6 +20,7 @@ tags: [vocabulario, verbos]
 - **charlar** - to chat, to talk / болтать, разговаривать
 - **chispear** - to drizzle / моросить
 - **cocinar** - to cook / готовить
+- **coger** - to take / брать (в Испании)
 - **comer** - to eat / есть
 - **comprar** - to buy / покупать
 - **conducir** - to drive / водить
@@ -50,6 +51,7 @@ tags: [vocabulario, verbos]
 - **haber (hay)** - to have (there is/are) / иметься (есть)
 - **[[Verbos/hablar|hablar]]** - to speak / говорить
 - **[[Verbos/hacer|hacer]]** - to do, make / делать
+- **ir** - to go / идти, ехать
 - **jugar** - to play / играть
 - **juntar** - to put together / соединять, собирать вместе
 - **limar** - to file / подпиливать
@@ -62,6 +64,7 @@ tags: [vocabulario, verbos]
 - **meter** - to put in / вставлять, класть внутрь
 - **mezclar** - to mix / смешивать
 - **mirar** - to look at / смотреть
+- **montar** - to ride, to mount / кататься, ездить верхом
 - **morir** - to die / умирать
 - **multiplicar** - to multiply / умножать
 - **oír** - to hear / слышать
@@ -96,6 +99,7 @@ tags: [vocabulario, verbos]
 - **sumar** - to add / складывать
 - **[[Verbos/tener|tener]]** - to have / иметь
 - **[[Verbos/tocar|tocar]]** - to touch, play / трогать, играть
+- **tomar** - to take, to drink / брать, пить
 - **toser** - to cough / кашлять
 - **[[Verbos/trabajar|trabajar]]** - to work / работать
 - **unir** - to unite, to join / объединять
@@ -103,6 +107,7 @@ tags: [vocabulario, verbos]
 - **vender** - to sell / продавать
 - **ver** - to see / видеть
 - **vestir** - to dress / одевать
+- **viajar** - to travel / путешествовать
 - **[[Verbos/vivir|vivir]]** - to live / жить
 - **yacer** - to lie, to rest / лежать, покоиться
 - **zumbar** - to buzz / жужжать

@@ -29,16 +29,15 @@ Yo aprendo español…
 
 ### El Estado Civil
 
-En España usamos el verbo **estar**. (*Ser* se usa más en Hispanoamérica).
+Para una explicación completa sobre los diferentes estados, el uso de **Ser** vs. **Estar** y la cultura matrimonial en España, consulta:
 
-- **soltero/a**
-- **casado/a**
-- **separado/a**
-- **comprometido/a**
-- **divorciado/a**
-- **viudo/a**
-- **pareja de hecho**
-- **unión de hecho**
+👉 **[[../30-Vocabulario/Temas/Estado Civil|Guía sobre el Estado Civil]]**
+
+#### Notas rápidas:
+- **En España usamos el verbo estar** para casi todos los estados (*estoy soltero*, *está casada*).
+- **Ser** se usa en contextos muy formales o administrativos.
+- **Pareja de hecho**: Una unión legal muy común en España que no es un matrimonio.
+
 
 ## Prácticas y Notas
 
@@ -84,12 +83,17 @@ Para más información, consulta la lista completa de [[../30-Vocabulario/Temas/
 
 ### Medios de transporte
 
-- **montar en bicicleta**
-- **montar a caballo**
-- **viajar en coche**
-- **viajar en elefante**
-- **viajar en avión**
-- **ir en autobús / autocar**
+Para una guía detallada sobre cómo moverse por España, el vocabulario de los vehículos y las reglas gramaticales de los verbos de movimiento, consulta:
+
+👉 **[[../30-Vocabulario/Temas/Transporte|Guía Completa de Medios de Transporte]]**
+
+#### Reglas rápidas de uso:
+- **Ir en** + transporte motorizado (*ir en coche, en tren, en avión*).
+- **Ir a pie** (*caminando*).
+- **Montar en** bicicleta, moto o patinete.
+- **Montar a** caballo.
+- **Viajar en** avión, barco o tren.
+
 
 ## Vocabulario
 
