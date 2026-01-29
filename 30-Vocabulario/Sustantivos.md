@@ -13,6 +13,7 @@ tags: [vocabulario, sustantivos]
 - **la arroba** (@) - at symbol / символ собака
 - **el aseo** - toilet, restroom / туалет
 - **la azafata** - flight attendant / стюардесса
+- **el autocar** - coach, bus / междугородний автобус
 - **la barca** - small boat / лодка
 - **la bañera** - bathtub / ванна
 - **el baño** - bathroom / ванная комната
@@ -21,6 +22,7 @@ tags: [vocabulario, sustantivos]
 - **la berenjena** - eggplant / баклажан
 - **la boda** - wedding / свадьба
 - **la bolera** - bowling alley / боулинг
+- **la bicicleta** - bicycle / велосипед
 - **el bolígrafo borrable** - erasable pen / стираемая ручка
 - **la bolsa** - bag (plastic/paper) / пакет
 - **el bolso** - handbag / сумка
@@ -56,6 +58,7 @@ tags: [vocabulario, sustantivos]
 - **el efectivo** - cash / наличные dinero
 - **el equipaje** - luggage / багаж
 - **el erizo** - hedgehog / еж
+- **el elefante** - elephant / слон
 - **la escoba** - broom / метла
 - **el estribillo** - chorus, refrain / припев
 - **la estufa** - stove, heater / печь, обогреватель
@@ -79,6 +82,7 @@ tags: [vocabulario, sustantivos]
 - **el idioma** - language / язык
 - **el imán** - magnet / магнит
 - **la jarana** - partying, revelry / кутеж, веселье
+- **la historia** - story, history / история
 - **el jarrón** - vase / ваза
 - **la jefatura** - headquarters, leadership / руководство, управление
 - **la jeta** - snout, cheek (slang) / морда, наглость
@@ -91,6 +95,7 @@ tags: [vocabulario, sustantivos]
 - **la lágrima** - tear / слеза
 - **la leche condensada** - condensed milk / сгущенное молоко
 - **la lechuga** - lettuce / салат
+- **la lengua** - language, tongue / язык
 - **la lengua de señas** - sign language / язык жестов
 - **la lengua materna** - mother tongue / родной язык
 - **el/la licenciado/a** - graduate (university degree holder) / дипломированный специалист
@@ -108,6 +113,7 @@ tags: [vocabulario, sustantivos]
 - **el melón** - melon / дыня
 - **la minúscula** - lowercase letter / строчная буква
 - **la montaña rusa** - roller coaster / американские горки
+- **el móvil** - mobile phone / мобильный телефон (móvil)
 - **la muela del juicio** - wisdom tooth / зуб мудрости
 - **la nacionalidad** - nationality / национальность
 - **la navaja** - pocket knife / складной нож
@@ -151,8 +157,9 @@ tags: [vocabulario, sustantivos]
 - **el sacapuntas** - pencil sharpener / точилка
 - **la salchicha** - sausage / сосиска
 - **la sandía** - watermelon / арбуз
-- **el servicio** - service, restroom / служебное помещение, туалет
+- **el seguidor** - follower / последователь, подписчик
 - **el seno** - breast, bosom / грудь, пазуха
+- **el servicio** - service, restroom / служебное помещение, туалет
 - **el signo de exclamación** - exclamation mark / восклицательный знак
 - **el signo de interrogación** - question mark / вопросительный знак
 - **el taller** - workshop / мастерская

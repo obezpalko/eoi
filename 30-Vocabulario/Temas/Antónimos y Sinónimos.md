@@ -105,6 +105,7 @@ Este documento recopila parejas de palabras con significados opuestos (antónimo
 | **Entrada**   | **Salida**    | Entrance / Вход            | Exit / Выход                |
 | **Hombre**    | **Mujer**     | Man / Мужчина              | Woman / Женщина             |
 | **Madre**     | **Padre**     | Mother / Мать              | Father / Отец               |
+- **Gente** | **Personas** | People / Люди | People / Люди |
 | **Mayúscula** | **Minúscula** | Capital letter / Заглавная | Lowercase letter / Строчная |
 | **Pregunta**  | **Respuesta** | Question / Вопрос          | Answer / Ответ              |
 | **Verdad**    | **Mentira**   | Truth / Правда             | Lie / Ложь                  |
@@ -138,4 +139,7 @@ Este documento recopila parejas de palabras con significados opuestos (antónimo
 | **Terminar** | **Acabar**        | To finish / Заканчивать     |
 | **Usar**     | **Utilizar**      | To use / Использовать       |
 | **Triste**   | **Apenado**       | Sad / Грустный              |
+| **Gente**    | **Las personas**  | People / Люди               |
 | **Disfrutar**| **Gozar**         | To enjoy / Наслаждаться     |
+| **Autocar**  | **Autobús**       | Coach / Bus / Автобус       |
+| **Unión de hecho** | **Pareja de hecho** | Domestic partnership / Гражданский брак |

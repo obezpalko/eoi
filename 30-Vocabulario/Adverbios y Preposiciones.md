@@ -10,6 +10,7 @@ tags: [vocabulario, general]
 - **antes** - before / раньше, перед
 - **aquí** - here / здесь
 - **arriba** - up, above / вверху, наверху
+- **bastante** - quite, enough / довольно, достаточно
 - **bien** - well / хорошо
 - **cerca** - near / близко
 - **despacio** - slowly / медленно

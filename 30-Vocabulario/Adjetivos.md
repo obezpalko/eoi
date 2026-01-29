@@ -5,10 +5,12 @@ tags: [vocabulario, adjetivos]
 
 - **aburrido/a** - boring, bored / скучный, скучающий
 - **ambiguo/a** - ambiguous, unclear / неоднозначный, двусмысленный
+- **bajo/a** - short (stature) / низкий
 - **blando/a** - soft / мягкий
 - **bueno/a** - good / хороший
 - **caliente** - hot / горячий
 - **casado/a** - married / женатый, замужняя
+- **comprometido/a** - engaged / обрученный, обрученная
 - **delgado/a** - slim / стройный
 - **difícil** - difficult / трудный
 - **dulce** - sweet / сладкий
@@ -19,6 +21,7 @@ tags: [vocabulario, adjetivos]
 - **frío/a** - cold / холодный
 - **fácil** - easy / легкий
 - **encantado/a** - pleased / рад
+- **extranjero/a** - foreign, foreigner / иностранный, иностранец
 - **goloso/a** - sweet-toothed / сладкоежка
 - **gordo/a** - fat / толстый
 - **grande** - big / большой
@@ -38,6 +41,8 @@ tags: [vocabulario, adjetivos]
 - **peor** - worse / худший
 - **rápido/a** - fast / быстрый
 - **salado/a** - salty / соленый
+- **separado/a** - separated / разошедшийся, разошедшаяся
 - **soltero/a** - single / холостой, незамужняя
 - **tonto/a** - silly, stupid / глупый
+- **viudo/a** - widowed / вдовец, вдова
 - **viejo/a** - old / старый
