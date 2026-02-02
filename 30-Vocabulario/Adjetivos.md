@@ -5,28 +5,35 @@ tags: [vocabulario, adjetivos]
 
 - **aburrido/a** - boring, bored / скучный, скучающий
 - **ambiguo/a** - ambiguous, unclear / неоднозначный, двусмысленный
+- **asustado/a** - scared / испуганный
+- **avergonzado/a** - embarrassed, ashamed / пристыженный, смущенный
 - **bajo/a** - short (stature) / низкий
 - **blando/a** - soft / мягкий
 - **bueno/a** - good / хороший
 - **caliente** - hot / горячий
 - **caluroso/a** - hot (person/weather) / жаркий
+- **cansado/a** - tired / уставший
 - **casado/a** - married / женатый, замужняя
 - **comprometido/a** - engaged / обрученный, обрученная
 - **delgado/a** - slim / стройный
 - **difícil** - difficult / трудный
 - **dulce** - sweet / сладкий
 - **duro/a** - hard / твердый
+- **enamorado/a** - in love / влюбленный
+- **encantado/a** - pleased / рад
+- **enfadado/a** - angry / сердитый
+- **enfermo/a** - sick / больной
+- **extranjero/a** - foreign, foreigner / иностранный, иностранец
+- **fácil** - easy / легкий
+- **feliz** - happy / счастливый
 - **feo/a** - ugly / некрасивый
 - **fino/a** - thin, fine / тонкий
 - **flaco/a** - thin / худой
 - **frío/a** - cold / холодный
 - **friolero/a** - sensitive to cold / мерзляк
-- **fácil** - easy / легкий
-- **encantado/a** - pleased / рад
-- **enfadado/a** - angry / сердитый
-- **extranjero/a** - foreign, foreigner / иностранный, иностранец
 - **goloso/a** - sweet-toothed / сладкоежка
 - **gordo/a** - fat / толстый
+- **gracioso/a** - funny / смешной
 - **grande** - big / большой
 - **gratuito/a** - free (no cost) / бесплатный
 - **grosero/a** - rude, impolite / грубый, невежливый
@@ -35,19 +42,25 @@ tags: [vocabulario, adjetivos]
 - **inteligente** - intelligent / умный
 - **jaranero/a** - party animal / гуляка
 - **joven** - young / молодой
-- **lindo/a** - cute, pretty / красивый
 - **lento/a** - slow / медленный
+- **lindo/a** - cute, pretty / красивый
 - **malo/a** - bad / плохой
 - **manchego/a** - from La Mancha / манчего
 - **mejor** - better / лучший
+- **nervioso/a** - nervous / нервный
+- **orgulloso/a** - proud / гордый
 - **pequeño/a** - small / маленький
 - **peor** - worse / худший
 - **perjudicial** - harmful / вредный
+- **preocupado/a** - worried / обеспокоенный
 - **rápido/a** - fast / быстрый
 - **resfriado/a** - having a cold / простуженный
 - **salado/a** - salty / соленый
 - **separado/a** - separated / разошедшийся, разошедшаяся
+- **serio/a** - serious / серьезный
 - **soltero/a** - single / холостой, незамужняя
+- **sorprendido/a** - surprised / удивленный
 - **tonto/a** - silly, stupid / глупый
-- **viudo/a** - widowed / вдовец, вдова
+- **triste** - sad / грустный
 - **viejo/a** - old / старый
+- **viudo/a** - widowed / вдовец, вдова

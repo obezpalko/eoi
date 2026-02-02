@@ -83,4 +83,4 @@ Se utilizan para coincidir con alguien en una opinión o acción.
 ---
 
 **Navegación:**
-[[20251105 Lección doce|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20251113 Lección catorce|📝 Deberes]] | [[20251113 Lección catorce|Lección siguiente ➡️]]
+[[20251105 Lección doce|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20251112 Lección catorce|📝 Deberes]] | [[20251112 Lección catorce|Lección siguiente ➡️]]

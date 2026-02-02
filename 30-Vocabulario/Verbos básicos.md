@@ -37,6 +37,7 @@ tags: [vocabulario, verbos]
 - **echarse** - to lie down, to throw oneself / ложиться, бросаться
 - **empujar** - to push / толкать
 - **encender** - to turn on / включать
+- **enseñar** - to teach, to show / учить, показывать
 - **entrar** - to enter / входить
 - **enviar** - to send / посылать
 - **eructar** - to burp / рыгать
@@ -90,8 +91,10 @@ tags: [vocabulario, verbos]
 - **recibir** - to receive / получать
 - **reciclar** - to recycle / перерабатывать
 - **recordar** - to remember, to remind / помнить, напоминать
+- **regresar** - to return / возвращаться
 - **reír** - to laugh / смеяться
 - **reñir** - to scold / ругать
+- **repartir** - to distribute, to hand out / распределять, раздавать
 - **restar** - to subtract / вычитать
 - **romper** - to break / ломать
 - **sacar** - to take out / вынимать, доставать
@@ -114,5 +117,6 @@ tags: [vocabulario, verbos]
 - **vestir** - to dress / одевать
 - **viajar** - to travel / путешествовать
 - **[[Verbos/vivir|vivir]]** - to live / жить
+- **volver** - to return / возвращаться
 - **yacer** - to lie, to rest / лежать, покоиться
 - **zumbar** - to buzz / жужжать

@@ -93,6 +93,7 @@ tags: [vocabulario, sustantivos]
 - **el huevo** - egg / яйцо
 - **el idioma** - language / язык
 - **el imán** - magnet / магнит
+- **el inglés** - English / английский язык
 - **la jarana** - partying, revelry / кутеж, веселье
 - **la historia** - story, history / история
 - **el jarrón** - vase / ваза
@@ -154,6 +155,7 @@ tags: [vocabulario, sustantivos]
 - **el patito** - duckling / утенок
 - **el patinete** - scooter / самокат
 - **el pedo** - fart / пук
+- **la percha** - hanger / вешалка-плечики
 - **el perchero** - coat rack / вешалка
 - **el perrito caliente** - hot dog / хот-дог
 - **el pez** - fish (living) / живая рыба
