@@ -24,6 +24,7 @@ description: Standardize a lesson file, extracting vocabulary, translating notes
    - **Articles**: For nouns, ensure you add the definite article (**el** or **la**).
    - **Sorting**: Ensure EVERY section in the updated vocabulary files is sorted alphabetically.
    - **Antonyms/Synonyms**: If the lesson introduces new oppositions (e.g., `≠`, `!=`, `opuesto`) or similarities (e.g., `==`, `sinónimo`), update `30-Vocabulario/Temas/Antónimos y Sinónimos.md`.
+   - **Slang and Vulgarisms**: If the lesson contains colloquial, informal, or vulgar terms (e.g., `cojones`, `jeta`, `joder`), update `30-Vocabulario/Temas/Jerga y Expresiones Vulgares.md`. Ensure to include phonetic comparisons if the word is easily confused with a standard one (e.g., `cojín` vs `cojones`).
    - **Images**: If new vocabulary is significant, suggest or run `80-Tools/download_images_universal.py` for those terms.
 
 4. **Content Refinement**

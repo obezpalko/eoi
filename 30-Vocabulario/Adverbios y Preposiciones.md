@@ -4,6 +4,7 @@ tags: [vocabulario, general]
 # Adverbios y Preposiciones
 
 - **abajo** - down, below / внизу
+- **además** - also, besides / кроме того
 - **adelante** - forward, ahead / вперед
 - **ahí** - there (near) / там (рядом)
 - **allí** - there (far) / там (далеко)

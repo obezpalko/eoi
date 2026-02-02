@@ -172,4 +172,4 @@ Preguntas a tus compañeros/as
 ---
 
 **Navegación:**
-[[20260119 Lección veintiocho|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️
+[[20260119 Lección veintiocho|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260202 Lección treinta|📝 Deberes]] | [[20260202 Lección treinta|Lección siguiente ➡️]]

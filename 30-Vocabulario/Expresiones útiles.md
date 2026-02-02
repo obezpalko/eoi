@@ -12,3 +12,4 @@ tags: [vocabulario, general]
 - **Vivo en...** - I live in... / Я живу в...
 - **¿A qué te dedicas?** - What do you do (for work)? / Чем ты занимаешься?
 - **¿En qué trabajas?** - What do you work in? / Где ты работаешь?
+- **A fuego / Afuego** - Cool, great / Круто, огонь

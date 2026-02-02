@@ -44,12 +44,17 @@ tags: [vocabulario, sustantivos]
 - **la chuchería / las chuches** - sweets, candy / сладости, конфеты
 - **el centro comercial** - shopping mall / торговый центр
 - **la chancla** - flip-flop / шлепанец
+- **el cajón** - drawer / ящик
 - **las carcajadas** - laughter / хохот
 - **el césped** - lawn, grass / газон, трава
+- **el casco antiguo** - old town / исторический центр
 - **la clara** - egg white / яичный белок
+- **el clima** - climate / климат
 - **la cola** - line, queue / очередь
 - **la comilona** - big meal, feast / пиршество
 - **el cristal** - glass (or crystal) / хрусталь, стекло
+- **el cojón (vulgar)** - testicle / яйцо (вульг.)
+- **el cojín** - cushion / подушка (декоративная)
 - **la consonante** - consonant / согласная
 - **el contenedor** - container, dumpster / контейнер
 - **el diseñador / la diseñadora** - designer / дизайнер
@@ -145,6 +150,7 @@ tags: [vocabulario, sustantivos]
 - **el océano** - ocean / океан
 - **la ojera** - bag under eyes / мешок под глазом
 - **el olor** - smell / запах
+- **el orgullo** - pride / гордость
 - **el oro** - gold / золото
 - **el oso / la osa** - bear / медведь
 - **el padre** - father / отец
@@ -178,6 +184,7 @@ tags: [vocabulario, sustantivos]
 - **la residencia** - residence / место жительства
 - **la resaca** - hangover / похмелье
 - **el retraso** - delay, lateness / опоздание, задержка
+- **el/la turista** - tourist / турист
 - **el retrato** - portrait / портрет
 - **la risa** - laughter / смех
 - **la rodilla** - knee / колено

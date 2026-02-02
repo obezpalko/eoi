@@ -14,5 +14,8 @@ description: Rules for vocabulary files in 30-Vocabulario/
    - Use `![[Subfolder/image.jpg]]` syntax.
    - // turbo
      Run `python3 80-Tools/download_images_universal.py --output "30-Vocabulario/Temas/Topic" --items "word:query"` for new entries.
-7. **Folder Notes**:
+7. **Slang and Vulgarisms**:
+   - Colloquial, informal, or vulgar terms MUST be added to `30-Vocabulario/Temas/Jerga y Expresiones Vulgares.md` in addition to general lists.
+   - For easily confused words (e.g., `cojín` vs `cojones`), highlight the phonetic comparison in the table.
+8. **Folder Notes**:
    - If a topic file exists (e.g., `Profesiones.md`), related images go in `Profesiones/`.

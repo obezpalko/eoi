@@ -15,10 +15,12 @@ tags: [vocabulario, adjetivos]
 - **cansado/a** - tired / уставший
 - **casado/a** - married / женатый, замужняя
 - **comprometido/a** - engaged / обрученный, обрученная
+- **cosmopolita** - cosmopolitan / космополитичный
 - **delgado/a** - slim / стройный
 - **difícil** - difficult / трудный
 - **dulce** - sweet / сладкий
 - **duro/a** - hard / твердый
+- **diurno/a** - daytime / дневной
 - **enamorado/a** - in love / влюбленный
 - **encantado/a** - pleased / рад
 - **enfadado/a** - angry / сердитый
@@ -47,6 +49,7 @@ tags: [vocabulario, adjetivos]
 - **malo/a** - bad / плохой
 - **manchego/a** - from La Mancha / манчего
 - **mejor** - better / лучший
+- **nocturno/a** - nocturnal, night / ночной
 - **nervioso/a** - nervous / нервный
 - **orgulloso/a** - proud / гордый
 - **pequeño/a** - small / маленький
@@ -61,6 +64,7 @@ tags: [vocabulario, adjetivos]
 - **soltero/a** - single / холостой, незамужняя
 - **sorprendido/a** - surprised / удивленный
 - **tonto/a** - silly, stupid / глупый
+- **templado/a** - temperate, mild / умеренный
 - **triste** - sad / грустный
 - **viejo/a** - old / старый
 - **viudo/a** - widowed / вдовец, вдова
