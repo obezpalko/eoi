@@ -38,8 +38,10 @@ Sustantivos que tienen un significado informal o que se usan comúnmente en la c
 | **La jeta**           | Face / Snout / Cheek (impudence)                  | Морда / Наглость   | *¡Qué jeta tienes!* (You have some nerve!)         |
 | **La jarana**         | Partying / Revelry                                | Кутеж / Веселье    | *Nos fuimos de jarana toda la noche.*              |
 | **El pedo**           | Fart / Being drunk (slang)                        | Пук / Пьянка       | *Lleva un pedo impresionante.* (He is very drunk). |
+| **Harto/a**         | Fed up / Sick of something                        | Сыт по горло       | *Estoy harto de tus mentiras.*                    |
 | **La resaca**         | Hangover                                          | Похмелье           | *Tengo una resaca horrible.*                       |
 | **La yaya / El yayo** | Grandma / Grandpa                                 | Бабуля / Дедуля    | *Voy a ver a mi yaya este domingo.*                |
+| **Gordo/a**           | Fat (can be very offensive)                       | Толстый            | *Use "gordito/a" or "rellenito/a" to be polite.*   |
 | **Guiri**             | Foreign tourist (usually North European/American) | Иностранный турист | *Esa playa está llena de guiris.*                  |
 
 ## 4. Otras expresiones comunes

@@ -68,4 +68,4 @@ El verbo **Ir** se utiliza con diferentes preposiciones según el contexto:
 ---
 
 **Navegación:**
-[[20251110 Lección trece|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20251113 Lección quince|📝 Deberes]] | [[20251113 Lección quince|Lección siguiente ➡️]]
+[[20251110 Lección trece|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20251117 Lección quince|📝 Deberes]] | [[20251117 Lección quince|Lección siguiente ➡️]]

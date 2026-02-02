@@ -4,6 +4,7 @@ tags: [vocabulario, sustantivos]
 # Sustantivos
 
 - **el abecedario** - alphabet / алфавит
+- **el abrigo** - coat / пальто
 - **el/la abogado/a** - lawyer / адвокат
 - **el aguacate** - avocado / авокадо
 - **el algodón** - cotton / хлопок
@@ -85,6 +86,7 @@ tags: [vocabulario, sustantivos]
 - **la fregona** - mop / швабра
 - **la funda** - cover, case / чехол
 - **el futbolín** - foosball / настольный футбол
+- **el frigorífico** - refrigerator / холодильник
 - **la galleta** - cookie / печенье
 - **el ganso** - goose / гусь
 - **el geranio** - geranium / герань
@@ -113,6 +115,7 @@ tags: [vocabulario, sustantivos]
 - **el lago** - lake / озеро
 - **la lágrima** - tear / слеза
 - **la lana** - wool / шерсть
+- **el llavero** - keychain / брелок
 - **la leche condensada** - condensed milk / сгущенное молоко
 - **la lechuga** - lettuce / салат
 - **la lengua** - language, tongue / язык
@@ -144,6 +147,7 @@ tags: [vocabulario, sustantivos]
 - **la natación** - swimming / плавание
 - **la nana** - lullaby / колыбельная (нана)
 - **la navaja** - pocket knife / складной нож
+- **la nevera** - fridge / холодильник
 - **el nailon** - nylon / нейлон
 - **el nombre** - name / имя
 - **la obra** - work (of art, construction) / произведение, стройка
