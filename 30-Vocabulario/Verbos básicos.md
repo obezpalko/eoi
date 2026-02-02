@@ -3,16 +3,18 @@ tags: [vocabulario, verbos]
 ---
 # Verbos básicos
 
+- **abrazar(se)** - to hug / обнимать(ся)
 - **abrir** - to open / открывать
 - **almorzar** - to have lunch / обедать
 - **andar** - to walk / ходить
 - **apagar** - to turn off / выключать
 - **aparcar** - to park / парковаться
 - **aprender** - to learn / учить, учиться
+- **ayunar** - to fast / поститься, голодать
 - **bailar** - to dance / танцевать
 - **bajar** - to go down / спускаться
 - **beber** - to drink / пить
-- **besar** - to kiss / целовать
+- **besar(se)** - to kiss / целовать(ся)
 - **caminar** - to walk / идти, шагать
 - **cantar** - to sing / петь
 - **cenar** - to have dinner / ужинать
@@ -60,6 +62,7 @@ tags: [vocabulario, verbos]
 - **[[Verbos/llamarse|llamarse]]** - to be called / зваться
 - **llorar** - to cry / плакать
 - **luchar** - to fight / бороться
+- **mandar** - to send, to command / посылать, командовать
 - **merendar** - to have a snack / полдничать
 - **meter** - to put in / вставлять, класть внутрь
 - **mezclar** - to mix / смешивать
@@ -67,6 +70,7 @@ tags: [vocabulario, verbos]
 - **montar** - to ride, to mount / кататься, ездить верхом
 - **morir** - to die / умирать
 - **multiplicar** - to multiply / умножать
+- **odiar** - to hate / ненавидеть
 - **oír** - to hear / слышать
 - **oler** - to smell / пахнуть
 - **olvidar** - to forget / забывать
@@ -102,6 +106,7 @@ tags: [vocabulario, verbos]
 - **tomar** - to take, to drink / брать, пить
 - **toser** - to cough / кашлять
 - **[[Verbos/trabajar|trabajar]]** - to work / работать
+- **trepar** - to climb / лазать, карабкаться
 - **unir** - to unite, to join / объединять
 - **usar** - to use / использовать
 - **vender** - to sell / продавать

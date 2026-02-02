@@ -16,13 +16,16 @@ tags:
 | Falda                 | una          | La chica lleva una falda larga.        | Prenda femenina que cubre de la cintura para abajo.         | ![[Ropa y Accesorios/falda.jpg]]              |
 | Camiseta              | una          | Él lleva una camiseta de manga corta.  | Ropa informal de algodón (T-shirt).                         | ![[Ropa y Accesorios/camiseta.jpg]]           |
 | Camiseta de tirantes  | una          | Ella lleva una camiseta de tirantes.   | Camiseta sin mangas, para el calor.                         | ![[Ropa y Accesorios/camiseta_tirantes.jpg]]  |
+| Camiseta interior     | una          | Llevo una camiseta interior clara.     | Prenda que se lleva debajo de la camisa.                    | ![[Ropa y Accesorios/camiseta_interior.jpg]]  |
 | Blusa                 | una          | María lleva una blusa de seda.         | Camisa elegante para mujer.                                 | ![[Ropa y Accesorios/blusa.jpg]]              |
 | Camisa                | una          | Carlos lleva una camisa blanca.        | Prenda con botones y cuello.                                | ![[Ropa y Accesorios/camisa.jpg]]             |
 | Polo                  | un           | El deportista lleva un polo.           | Camiseta con cuello y botones.                              | ![[Ropa y Accesorios/polo.jpg]]               |
 | Sudadera              | una          | Ana lleva una sudadera con capucha.    | Ropa deportiva de algodón para el frío (Hoodie).            | ![[Ropa y Accesorios/sudadera.jpg]]           |
 | Chaleco               | un           | El camarero lleva un chaleco.          | Chaqueta sin mangas.                                        | ![[Ropa y Accesorios/chaleco.jpg]]            |
 | Jersey                | un           | En invierno llevo un jersey de lana.   | Prenda de punto para el frío (Sweater).                     | ![[Ropa y Accesorios/jersey.jpg]]             |
+| Jersey de cuello alto | un           | Llevo un jersey de cuello alto negro.  | Jersey que cubre todo el cuello (Turtleneck).               | ![[Ropa y Accesorios/jersey_cuello_alto.jpg]] |
 | Rebeca                | una          | La abuela lleva una rebeca.            | Chaqueta de punto fina con botones (Cardigan).              | ![[Ropa y Accesorios/rebeca.jpg]]             |
+| Cazadora              | una          | Él lleva una cazadora negra.           | Chaqueta corta, generalmente informal o deportiva (Bomber). | ![[Ropa y Accesorios/cazadora.jpg]]           |
 | Chaqueta              | una          | Él lleva una chaqueta de cuero.        | Prenda exterior básica.                                     | ![[Ropa y Accesorios/chaqueta.jpg]]           |
 | Traje                 | un           | Carlos lleva un traje elegante.        | Conjunto formal de chaqueta y pantalón iguales.             | ![[Ropa y Accesorios/traje.jpg]]              |
 | Abrigo                | un           | Ella lleva un abrigo largo.            | Prenda gruesa para mucho frío.                              | ![[Ropa y Accesorios/abrigo.jpg]]             |
@@ -84,18 +87,17 @@ tags:
 | Pajarita             | una          | El camarero lleva una pajarita.           | Lazo elegante para el cuello (Bow tie).                                    | ![[Ropa y Accesorios/pajarita.jpg]]   |
 | Broche               | un           | La señora lleva un broche en la chaqueta. | Joya con alfiler para decorar la ropa (Brooch).                            | ![[Ropa y Accesorios/broche.jpg]]     |
 | Gemelos              | unos         | Carlos lleva unos gemelos en la camisa.   | Joyas pequeñas para cerrar los puños de las camisas elegantes (Cufflinks). | ![[Ropa y Accesorios/gemelos.jpg]]    |
+| Manga                | una          | Esta camisa tiene la manga rota.          | Parte de la ropa que cubre el brazo (Sleeve).                              | ![[Ropa y Accesorios/manga.jpg]]      |
 
 ### Notas de Vocabulario y Materiales
 
-1. **Materiales Comunes:**
-    - **De oro:** Gold. (_Un anillo de oro_).
-    - **De plata:** Silver. (_Una pulsera de plata_).
-    - **De cuero / De piel:** Leather. (_Un bolso de cuero_).
-    - **De lana:** Wool. (_Un gorro de lana_).
-    - **De seda:** Silk. (_Un pañuelo de seda_).
-2. **Alianza vs. Anillo:**
+Para una lista completa de los materiales utilizados en la ropa y las joyas, consulta:
+
+👉 **[[Materiales|Guía Completa de Materiales]]**
+
+1. **Alianza vs. Anillo:**
     - **Anillo:** Es la palabra general.
     - **Alianza:** Es específicamente el anillo de matrimonio (_Wedding ring_).
-3. **Monedero vs. Cartera:**
+2. **Monedero vs. Cartera:**
     - **Cartera:** Suele ser para billetes y tarjetas (generalmente usada por hombres o mujeres en el bolso).
     - **Monedero:** Es pequeño y sirve solo para guardar monedas (coins).

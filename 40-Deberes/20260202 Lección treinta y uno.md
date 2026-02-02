@@ -20,173 +20,89 @@ tags:
 | a la derecha de      | a la izquierda de |
 ### adjetivos
 
-1. Lleno : vacío 
-2. Guapo : feo
-3. Lento : rápido 
-4. Interesante : aburrido
-5. Libre : ocupado 
-6. Tacaño : generoso
-7. Fuerte : débil 
-8. Listo : torpe
-9. Gordo : delgado
-10. Mejor : peor
-11. Bueno : malo
-12. Abierto : cerrado
-13. ==Amable== :
-14. Corto : largo
-15. Pequeño : grande
-16. Rubio : moreno
-17. Trabajador : vago
-18. Duro : blando
-19. Oscuro : claro
-20. Frío : caliente 
-21. Sucio : limpio
-22. Fácil : difícil 
-23. Viejo : nuevo
-24. Antiguo : moderno
-25. Agradable : desagradable 
-26. Puntual : impuntual 
-27. Simpático : antipático 
-28. Ruidosos : tranquilo 
-29. Ancho : estrecho 
-30. Salado : soso
-31. Mojado : seco
-32. Blanco : negro
-33. Fijo : móvil 
-34. Liso : rizado
-35. Alto : bajo
-36. Ordenado : desordenado 
-37. Alegre : triste
-38. Despejado : nublado
-39. Caro : barato
-
-| # | Español (Antónimos) | English | Русский |
-| :--- | :--- | :--- | :--- |
-| 1 | Lleno : Vacío | Full : Empty | Полный : Пустой |
-| 2 | Guapo : Feo | Handsome : Ugly | Красивый : Некрасивый |
-| 3 | Lento : Rápido | Slow : Fast | Медленный : Быстрый |
-| 4 | Interesante : Aburrido | Interesting : Boring | Интересный : Скучный |
-| 5 | Libre : Ocupado | Free : Busy | Свободный : Занятый |
-| 6 | Tacaño : Generoso | Stingy : Generous | Жадный : Щедрый |
-| 7 | Fuerte : Débil | Strong : Weak | Сильный : Слабый |
-| 8 | **Listo : Torpe** | Smart : Clumsy | Умный : Неуклюжий |
-| 9 | Gordo : Delgado | Fat : Thin | Толстый : Худой |
-| 10 | Mejor : Peor | Better : Worse | Лучший : Худший |
-| 11 | Bueno : Malo | Good : Bad | Хороший : Плохой |
-| 12 | Abierto : Cerrado | Open : Closed | Открытый : Закрытый |
-| 13 | **Amable : Grosero** | Kind : Rude | Любезный : Грубый |
-| 14 | Corto : Largo | Short : Long | Короткий : Длинный |
-| 15 | Pequeño : Grande | Small : Big | Маленький : Большой |
-| 16 | Rubio : Moreno | Blonde : Dark-haired | Блондин : Брюнет |
-| 17 | Trabajador : Vago | Hardworking : Lazy | Трудолюбивый : Ленивый |
-| 18 | Duro : Blando | Hard : Soft | Твердый : Мягкий |
-| 19 | Oscuro : Claro | Dark : Light | Темный : Светлый |
-| 20 | Frío : Caliente | Cold : Hot | Холодный : Горячий |
-| 21 | Sucio : Limpio | Dirty : Clean | Грязный : Чистый |
-| 22 | Fácil : Difícil | Easy : Difficult | Легкий : Трудный |
-| 23 | Viejo : Nuevo | Old : New | Старый : Новый |
-| 24 | Antiguo : Moderno | Ancient : Modern | Древний : Современный |
-| 25 | Agradable : Desagradable | Pleasant : Unpleasant | Приятный : Неприятный |
-| 26 | Puntual : Impuntual | Punctual : Unpunctual | Пунктуальный : Непунктуальный |
-| 27 | Simpático : Antipático | Nice : Unpleasant | Симпатичный : Неприятный |
-| 28 | **Ruidoso : Tranquilo** | Noisy : Quiet | Шумный : Тихий |
-| 29 | Ancho : Estrecho | Wide : Narrow | Широкий : Узкий |
-| 30 | Salado : Soso | Salty : Bland | Соленый : Пресный |
-| 31 | Mojado : Seco | Wet : Dry | Мокрый : Сухой |
-| 32 | Blanco : Negro | White : Black | Белый : Черный |
-| 33 | Fijo : Móvil | Fixed : Mobile | Фиксированный : Мобильный |
-| 34 | Liso : Rizado | Straight : Curly | Гладкий : Кудрявый |
-| 35 | Alto : Bajo | Tall : Short | Высокий : Низкий |
-| 36 | Ordenado : Desordenado | Tidy : Messy | Упорядоченный : Беспорядочный |
-| 37 | Alegre : Triste | Happy : Sad | Веселый : Грустный |
-| 38 | Despejado : Nublado | Clear : Cloudy | Ясный : Облачный |
-| 39 | Caro : Barato | Expensive : Cheap | Дорогой : Дешевый |
-| 40 | **Tarde : Temprano** | Late : Early | Поздно : Рано |
+| #   | Español (Antónimos)      | English               | Русский                       |
+| :-- | :----------------------- | :-------------------- | :---------------------------- |
+| 1   | Lleno : Vacío            | Full : Empty          | Полный : Пустой               |
+| 2   | Guapo : Feo              | Handsome : Ugly       | Красивый : Некрасивый         |
+| 3   | Lento : Rápido           | Slow : Fast           | Медленный : Быстрый           |
+| 4   | Interesante : Aburrido   | Interesting : Boring  | Интересный : Скучный          |
+| 5   | Libre : Ocupado          | Free : Busy           | Свободный : Занятый           |
+| 6   | Tacaño : Generoso        | Stingy : Generous     | Жадный : Щедрый               |
+| 7   | Fuerte : Débil           | Strong : Weak         | Сильный : Слабый              |
+| 8   | **Listo : Torpe**        | Smart : Clumsy        | Умный : Неуклюжий             |
+| 9   | Gordo : Delgado          | Fat : Thin            | Толстый : Худой               |
+| 10  | Mejor : Peor             | Better : Worse        | Лучший : Худший               |
+| 11  | Bueno : Malo             | Good : Bad            | Хороший : Плохой              |
+| 12  | Abierto : Cerrado        | Open : Closed         | Открытый : Закрытый           |
+| 13  | **Amable : Grosero**     | Kind : Rude           | Любезный : Грубый             |
+| 14  | Corto : Largo            | Short : Long          | Короткий : Длинный            |
+| 15  | Pequeño : Grande         | Small : Big           | Маленький : Большой           |
+| 16  | Rubio : Moreno           | Blonde : Dark-haired  | Блондин : Брюнет              |
+| 17  | Trabajador : Vago        | Hardworking : Lazy    | Трудолюбивый : Ленивый        |
+| 18  | Duro : Blando            | Hard : Soft           | Твердый : Мягкий              |
+| 19  | Oscuro : Claro           | Dark : Light          | Темный : Светлый              |
+| 20  | Frío : Caliente          | Cold : Hot            | Холодный : Горячий            |
+| 21  | Sucio : Limpio           | Dirty : Clean         | Грязный : Чистый              |
+| 22  | Fácil : Difícil          | Easy : Difficult      | Легкий : Трудный              |
+| 23  | Viejo : Nuevo            | Old : New             | Старый : Новый                |
+| 24  | Antiguo : Moderno        | Ancient : Modern      | Древний : Современный         |
+| 25  | Agradable : Desagradable | Pleasant : Unpleasant | Приятный : Неприятный         |
+| 26  | Puntual : Impuntual      | Punctual : Unpunctual | Пунктуальный : Непунктуальный |
+| 27  | Simpático : Antipático   | Nice : Unpleasant     | Симпатичный : Неприятный      |
+| 28  | **Ruidoso : Tranquilo**  | Noisy : Quiet         | Шумный : Тихий                |
+| 29  | Ancho : Estrecho         | Wide : Narrow         | Широкий : Узкий               |
+| 30  | Salado : Soso            | Salty : Bland         | Соленый : Пресный             |
+| 31  | Mojado : Seco            | Wet : Dry             | Мокрый : Сухой                |
+| 32  | Blanco : Negro           | White : Black         | Белый : Черный                |
+| 33  | Fijo : Móvil             | Fixed : Mobile        | Фиксированный : Мобильный     |
+| 34  | Liso : Rizado            | Straight : Curly      | Гладкий : Кудрявый            |
+| 35  | Alto : Bajo              | Tall : Short          | Высокий : Низкий              |
+| 36  | Ordenado : Desordenado   | Tidy : Messy          | Упорядоченный : Беспорядочный |
+| 37  | Alegre : Triste          | Happy : Sad           | Веселый : Грустный            |
+| 38  | Despejado : Nublado      | Clear : Cloudy        | Ясный : Облачный              |
+| 39  | Caro : Barato            | Expensive : Cheap     | Дорогой : Дешевый             |
+| 40  | **Tarde : Temprano**     | Late : Early          | Поздно : Рано                 |
 
 ## Contrarios 2 (47) verbos
 
-1. Callar
-2. Desnudarse : vestirse 
-3. Venir
-4. Entrar : salir
-5. Reír : llorar
-6. Meter
-7. Quitar
-8. Aprobar 
-9. Apagar
-10. Levantarse
-11. Abrir : cerrar
-12. Estar tranquilo : estar nervioso 
-13. Traer
-14. Vender : comprar
-15. Descansar
-16. Perder : ganar 
-17. Aburrirse : divertirse
-18. Contestar : 
-19. Llegar temprano : llegar tarde
-20. Prohibir : permitir
-21. Estar sentado : estar de pie
-22. Tener frío : tener calor
-23. Despertarse
-24. Pagar : 
-25. Limpiar : ensuciar 
-26. Dar
-27. Encontrar
-28. Recordar
-29. Vaciar
-30. Terminar : empezar
-31. Adelgazar
-32. Morir : nacer
-33. Odiar
-
-| # | Español (Verbos) | English | Русский |
-| :--- | :--- | :--- | :--- |
-| 1 | Callar : Hablar | To be silent : To talk | Молчать : Говорить |
-| 2 | Desnudarse : Vestirse | To undress : To dress | Раздеваться : Одеваться |
-| 3 | Venir : Ir | To come : To go | Приходить : Идти |
-| 4 | Entrar : Salir | To enter : To leave | Входить : Выходить |
-| 5 | Reír : Llorar | To laugh : To cry | Смеяться : Плакать |
-| 6 | Meter : Sacar | To put in : To take out | Вставлять : Вынимать |
-| 7 | Quitar : Poner | To take off : To put on | Снимать : Надевать |
-| 8 | Aprobar : Suspender | To pass : To fail | Сдать : Провалить (экзамен) |
-| 9 | Apagar : Encender | To turn off : To turn on | Выключать : Включать |
-| 10 | Levantarse : Acostarse | To get up : To go to bed | Вставать : Ложиться спать |
-| 11 | Abrir : Cerrar | To open : To close | Открывать : Закрывать |
-| 12 | Estar tranquilo : Estar nervioso | To be calm : To be nervous | Быть спокойным : Нервничать |
-| 13 | Traer : Llevar | To bring : To take | Приносить : Уносить |
-| 14 | Vender : Comprar | To sell : To buy | Продавать : Покупать |
-| 15 | Descansar : Trabajar | To rest : To work | Отдыхать : Работать |
-| 16 | Perder : Ganar | To lose : To win | Терять : Выигрывать |
-| 17 | Aburrirse : Divertirse | To get bored : To have fun | Скучать : Развлекаться |
-| 18 | Contestar : Preguntar | To answer : To ask | Отвечать : Спрашивать |
-| 19 | Llegar temprano : Llegar tarde | To arrive early : To arrive late | Приходить рано : Приходить поздно |
-| 20 | Prohibir : Permitir | To forbid : To allow | Запрещать : Разрешать |
-| 21 | Estar sentado : Estar de pie | To be seated : To be standing | Сидеть : Стоять |
-| 22 | Tener frío : Tener calor | To be cold : To be hot | Мерзнуть : Ощущать жару |
-| 23 | Despertarse : Dormirse | To wake up : To fall asleep | Просыпаться : Засыпать |
-| 24 | Pagar : Cobrar | To pay : To charge/collect money | Платить : Брать оплату |
-| 25 | Limpiar : Ensuciar | To clean : To dirty | Чистить : Пачкать |
-| 26 | Dar : Recibir | To give : To receive | Давать : Получать |
-| 27 | Encontrar : Buscar | To find : To look for | Находить : Искать |
-| 28 | Recordar : Olvidar | To remember : To forget | Помнить : Забывать |
-| 29 | Vaciar : Llamar | To empty : To call | Опустошать : Звать (пара по ост. принципу) |
-| 30 | Terminar : Empezar | To finish : To start | Заканчивать : Начинать |
-| 31 | Adelgazar : Engordar | To lose weight : To gain weight | Худеть : Толстеть |
-| 32 | Morir : Nacer | To die : To be born | Умирать : Рождаться |
-| 33 | Odiar : Amar | To hate : To love | Ненавидеть : Любить |
+| #   | Español (Verbos)                 | English                          | Русский                                    |
+| :-- | :------------------------------- | :------------------------------- | :----------------------------------------- |
+| 1   | Callar : Hablar                  | To be silent : To talk           | Молчать : Говорить                         |
+| 2   | Desnudarse : Vestirse            | To undress : To dress            | Раздеваться : Одеваться                    |
+| 3   | Venir : Ir                       | To come : To go                  | Приходить : Идти                           |
+| 4   | Entrar : Salir                   | To enter : To leave              | Входить : Выходить                         |
+| 5   | Reír : Llorar                    | To laugh : To cry                | Смеяться : Плакать                         |
+| 6   | Meter : Sacar                    | To put in : To take out          | Вставлять : Вынимать                       |
+| 7   | Quitar : Poner                   | To take off : To put on          | Снимать : Надевать                         |
+| 8   | Aprobar : Suspender              | To pass : To fail                | Сдать : Провалить (экзамен)                |
+| 9   | Apagar : Encender                | To turn off : To turn on         | Выключать : Включать                       |
+| 10  | Levantarse : Acostarse           | To get up : To go to bed         | Вставать : Ложиться спать                  |
+| 11  | Abrir : Cerrar                   | To open : To close               | Открывать : Закрывать                      |
+| 12  | Estar tranquilo : Estar nervioso | To be calm : To be nervous       | Быть спокойным : Нервничать                |
+| 13  | Traer : Llevar                   | To bring : To take               | Приносить : Уносить                        |
+| 14  | Vender : Comprar                 | To sell : To buy                 | Продавать : Покупать                       |
+| 15  | Descansar : Trabajar             | To rest : To work                | Отдыхать : Работать                        |
+| 16  | Perder : Ganar                   | To lose : To win                 | Терять : Выигрывать                        |
+| 17  | Aburrirse : Divertirse           | To get bored : To have fun       | Скучать : Развлекаться                     |
+| 18  | Contestar : Preguntar            | To answer : To ask               | Отвечать : Спрашивать                      |
+| 19  | Llegar temprano : Llegar tarde   | To arrive early : To arrive late | Приходить рано : Приходить поздно          |
+| 20  | Prohibir : Permitir              | To forbid : To allow             | Запрещать : Разрешать                      |
+| 21  | Estar sentado : Estar de pie     | To be seated : To be standing    | Сидеть : Стоять                            |
+| 22  | Tener frío : Tener calor         | To be cold : To be hot           | Мерзнуть : Ощущать жару                    |
+| 23  | Despertarse : Dormirse           | To wake up : To fall asleep      | Просыпаться : Засыпать                     |
+| 24  | Pagar : Cobrar                   | To pay : To charge/collect money | Платить : Брать оплату                     |
+| 25  | Limpiar : Ensuciar               | To clean : To dirty              | Чистить : Пачкать                          |
+| 26  | Dar : Recibir                    | To give : To receive             | Давать : Получать                          |
+| 27  | Encontrar : Buscar               | To find : To look for            | Находить : Искать                          |
+| 28  | Recordar : Olvidar               | To remember : To forget          | Помнить : Забывать                         |
+| 29  | Vaciar : Llamar                  | To empty : To call               | Опустошать : Звать (пара по ост. принципу) |
+| 30  | Terminar : Empezar               | To finish : To start             | Заканчивать : Начинать                     |
+| 31  | Adelgazar : Engordar             | To lose weight : To gain weight  | Худеть : Толстеть                          |
+| 32  | Morir : Nacer                    | To die : To be born              | Умирать : Рождаться                        |
+| 33  | Odiar : Amar                     | To hate : To love                | Ненавидеть : Любить                        |
 ## la ropa 2 (31)
+👉 **[[../30-Vocabulario/Temas/Ropa y Accesorios|Guía de Ropa y Accesorios]]**
 
-### material 
-
-- de lana
-- de algodón 
-- de nailon 
-- de piel
-- de licra 
-- de seda
-
-### color
-### tipo
 ## Vocabulario 
 
 - chándal
@@ -216,7 +132,6 @@ tags:
 - césped 
 - cántaros 
 - botón de arranque 
-- 
 
 
 # Описание одежды (Descripción de la ropa)

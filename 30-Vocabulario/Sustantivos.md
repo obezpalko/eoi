@@ -6,6 +6,7 @@ tags: [vocabulario, sustantivos]
 - **el abecedario** - alphabet / алфавит
 - **el/la abogado/a** - lawyer / адвокат
 - **el aguacate** - avocado / авокадо
+- **el algodón** - cotton / хлопок
 - **la almohada** - pillow / подушка
 - **el apellido** - surname, last name / фамилия
 - **el apretón** - handshake, squeeze / рукопожатие
@@ -26,21 +27,29 @@ tags: [vocabulario, sustantivos]
 - **el bolígrafo borrable** - erasable pen / стираемая ручка
 - **la bolsa** - bag (plastic/paper) / пакет
 - **el bolso** - handbag / сумка
+- **el botón de arranque** - start button / кнопка запуска
 - **el borrador** - eraser / ластик
 - **el brazo** - arm / рука (от плеча до кисти)
 - **la broma** - joke / шутка
 - **la bruja** - witch / ведьма
 - **el burro** - donkey / oсел
 - **el caballo** - horse / лошадь
+- **la canción de cuna** - lullaby / колыбельная песня
+- **la canasta** - basket / корзина
+- **el cartón** - cardboard / картон
 - **el castillo de arena** - sandcastle / замок из песка
 - **la cebra** - zebra / зебра
 - **el charco** - puddle / лужа
+- **la chuleta** - cheat sheet / шпаргалка
 - **la chuchería / las chuches** - sweets, candy / сладости, конфеты
 - **el centro comercial** - shopping mall / торговый центр
 - **la chancla** - flip-flop / шлепанец
+- **las carcajadas** - laughter / хохот
+- **el césped** - lawn, grass / газон, трава
 - **la clara** - egg white / яичный белок
 - **la cola** - line, queue / очередь
 - **la comilona** - big meal, feast / пиршество
+- **el cristal** - glass (or crystal) / хрусталь, стекло
 - **la consonante** - consonant / согласная
 - **el contenedor** - container, dumpster / контейнер
 - **el diseñador / la diseñadora** - designer / дизайнер
@@ -50,11 +59,14 @@ tags: [vocabulario, sustantivos]
 - **el cura** - priest / священник
 - **el dátil** - date (fruit) / финик
 - **el dedo** - finger / палец
+- **los cuernos** - horns / рога
 - **la destreza** - skill, dexterity / мастерство, ловкость
+- **el diamante** - diamond / алмаз
 - **el diminutivo** - diminutive, nickname / уменьшительное имя
 - **la dirección** - address / адрес
 - **la droga** - drug / наркотик
 - **la edad** - age / возраст
+- **el encaje** - lace / кружево
 - **el efectivo** - cash / наличные dinero
 - **el equipaje** - luggage / багаж
 - **el erizo** - hedgehog / еж
@@ -89,44 +101,56 @@ tags: [vocabulario, sustantivos]
 - **la jirafa** - giraffe / жираф
 - **la joya** - jewel / драгоценность
 - **la joyería** - jewelry store / ювелирный магазин
+- **la jornada** - working day / рабочий день
 - **el juez** - judge / судья
 - **el juzgado** - court / суд
 - **el lago** - lake / озеро
 - **la lágrima** - tear / слеза
+- **la lana** - wool / шерсть
 - **la leche condensada** - condensed milk / сгущенное молоко
 - **la lechuga** - lettuce / салат
 - **la lengua** - language, tongue / язык
 - **la lengua de señas** - sign language / язык жестов
 - **la lengua materna** - mother tongue / родной язык
+- **la licra** - lycra / ликра
+- **el lino** - linen / лён
 - **el/la licenciado/a** - graduate (university degree holder) / дипломированный специалист
 - **el limpiaparabrisas** - windshield wiper / стеклоочиститель
 - **la lista** - list / список
 - **la madrugada** - early morning / рассвет, раннее утро
 - **la madre** - mother / мать
+- **la madera** - wood / дерево
 - **la mamá** - mom / мама
 - **la mancha** - stain / пятно
 - **la mantita** - small blanket / одеяльце
 - **la margarita** - daisy / ромашка
 - **el marisco** - seafood / морепродукты
+- **el mariachi** - mariachi / мариачи
 - **la mayúscula** - capital letter / заглавная буква
 - **la mejilla** - cheek / щека
 - **el melón** - melon / дыня
+- **el metal** - metal / металл
 - **la minúscula** - lowercase letter / строчная буква
 - **la montaña rusa** - roller coaster / американские горки
 - **el móvil** - mobile phone / мобильный телефон (móvil)
 - **la muela del juicio** - wisdom tooth / зуб мудрости
 - **la nacionalidad** - nationality / национальность
+- **la natación** - swimming / плавание
+- **la nana** - lullaby / колыбельная (нана)
 - **la navaja** - pocket knife / складной нож
+- **el nailon** - nylon / нейлон
 - **el nombre** - name / имя
 - **la obra** - work (of art, construction) / произведение, стройка
 - **el océano** - ocean / океан
 - **la ojera** - bag under eyes / мешок под глазом
 - **el olor** - smell / запах
+- **el oro** - gold / золото
 - **el oso / la osa** - bear / медведь
 - **el padre** - father / отец
 - **la palomita / palomitas de maíz** - popcorn / попкорн
 - **el papá** - dad / папа
 - **la papelera** - wastebasket / мусорная корзина
+- **el papel** - paper / бумага
 - **el patito** - duckling / утенок
 - **el patinete** - scooter / самокат
 - **el pedo** - fart / пук
@@ -136,8 +160,11 @@ tags: [vocabulario, sustantivos]
 - **el pescado** - fish (caught/food) / рыба (еда)
 - **la piedra** - stone / камень
 - **la pierna** - leg / нога
+- **la piel** - leather, skin / кожа
 - **la pizarra** - blackboard / доска
 - **el plato** - plate / тарелка
+- **la plata** - silver / серебро
+- **el plástico** - plastic / пластик
 - **el plátano** - banana / банан
 - **la profesión** - profession / профессия
 - **la queja** - complaint / жалоба
@@ -157,6 +184,7 @@ tags: [vocabulario, sustantivos]
 - **el sacapuntas** - pencil sharpener / точилка
 - **la salchicha** - sausage / сосиска
 - **la sandía** - watermelon / арбуз
+- **la seda** - silk / шёлк
 - **el seguidor** - follower / последователь, подписчик
 - **el seno** - breast, bosom / грудь, пазуха
 - **el servicio** - service, restroom / служебное помещение, туалет
@@ -166,6 +194,7 @@ tags: [vocabulario, sustantivos]
 - **la tapa** - lid, cover, tapa / крышка, тапа
 - **la tela** - fabric / ткань
 - **el teléfono** - telephone / телефон
+- **el terciopelo** - velvet / бархат
 - **la tilde** - accent mark / тильда, ударение
 - **la ubicación** - location / местоположение
 - **la unidad** - unit / единица
@@ -174,6 +203,8 @@ tags: [vocabulario, sustantivos]
 - **el valor** - value, courage / ценность, смелость
 - **la vergüenza** - shame / стыд
 - **el viento** - wind / ветер
+- **el vidrio** - glass / стекло
+- **la vela** - candle, sail, sailing / свеча, парус, парусный спорт
 - **el vino** - wine / вино
 - **la vocal** - vowel / гласная
 - **el volante** - steering wheel / руль

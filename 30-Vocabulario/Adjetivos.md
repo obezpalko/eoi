@@ -9,6 +9,7 @@ tags: [vocabulario, adjetivos]
 - **blando/a** - soft / мягкий
 - **bueno/a** - good / хороший
 - **caliente** - hot / горячий
+- **caluroso/a** - hot (person/weather) / жаркий
 - **casado/a** - married / женатый, замужняя
 - **comprometido/a** - engaged / обрученный, обрученная
 - **delgado/a** - slim / стройный
@@ -19,8 +20,10 @@ tags: [vocabulario, adjetivos]
 - **fino/a** - thin, fine / тонкий
 - **flaco/a** - thin / худой
 - **frío/a** - cold / холодный
+- **friolero/a** - sensitive to cold / мерзляк
 - **fácil** - easy / легкий
 - **encantado/a** - pleased / рад
+- **enfadado/a** - angry / сердитый
 - **extranjero/a** - foreign, foreigner / иностранный, иностранец
 - **goloso/a** - sweet-toothed / сладкоежка
 - **gordo/a** - fat / толстый
@@ -39,7 +42,9 @@ tags: [vocabulario, adjetivos]
 - **mejor** - better / лучший
 - **pequeño/a** - small / маленький
 - **peor** - worse / худший
+- **perjudicial** - harmful / вредный
 - **rápido/a** - fast / быстрый
+- **resfriado/a** - having a cold / простуженный
 - **salado/a** - salty / соленый
 - **separado/a** - separated / разошедшийся, разошедшаяся
 - **soltero/a** - single / холостой, незамужняя
