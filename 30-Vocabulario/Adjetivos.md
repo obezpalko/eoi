@@ -4,23 +4,38 @@ tags: [vocabulario, adjetivos]
 # Adjetivos
 
 - **aburrido/a** - boring, bored / скучный, скучающий
+- **agitado/a** - agitated / взволнованный, возбужденный
+- **agotado/a** - exhausted / истощенный, изнуренный
+- **alegre** - happy, cheerful / веселый, радостный
 - **ambiguo/a** - ambiguous, unclear / неоднозначный, двусмысленный
+- **angustiado/a** - distressed, anxious / встревоженный, страдающий
+- **ansioso/a** - anxious / тревожный, жаждущий
+- **apático/a** - apathetic / апатичный
 - **asustado/a** - scared / испуганный
 - **avergonzado/a** - embarrassed, ashamed / пристыженный, смущенный
 - **bajo/a** - short (stature) / низкий
 - **blando/a** - soft / мягкий
 - **bueno/a** - good / хороший
 - **caliente** - hot / горячий
+- **calmado/a** - calm / спокойный
 - **caluroso/a** - hot (person/weather) / жаркий
 - **cansado/a** - tired / уставший
+- **cariñoso/a** - affectionate / ласковый
 - **casado/a** - married / женатый, замужняя
 - **comprometido/a** - engaged / обрученный, обрученная
+- **contento/a** - happy, content / довольный
 - **cosmopolita** - cosmopolitan / космополитичный
+- **curioso/a** - curious / любопытный
+- **débil** - weak / слабый
 - **delgado/a** - slim / стройный
+- **desamorado/a** - indifferent, unloving / нелюбящий, равнодушный
 - **difícil** - difficult / трудный
+- **disgustado/a** - upset, annoyed / расстроенный, недовольный
+- **divertido/a** - fun / веселый, забавный
 - **dulce** - sweet / сладкий
 - **duro/a** - hard / твердый
 - **diurno/a** - daytime / дневной
+- **emocionado/a** - excited, emotional / взволнованный, эмоциональный
 - **enamorado/a** - in love / влюбленный
 - **encantado/a** - pleased / рад
 - **enfadado/a** - angry / сердитый
@@ -33,38 +48,56 @@ tags: [vocabulario, adjetivos]
 - **flaco/a** - thin / худой
 - **frío/a** - cold / холодный
 - **friolero/a** - sensitive to cold / мерзляк
+- **fuerte** - strong / сильный
 - **goloso/a** - sweet-toothed / сладкоежка
+- **gordito/a** - chubby / пухленький
 - **gordo/a** - fat / толстый
 - **gracioso/a** - funny / смешной
 - **grande** - big / большой
 - **gratuito/a** - free (no cost) / бесплатный
 - **grosero/a** - rude, impolite / грубый, невежливый
 - **guapo/a** - handsome, beautiful / красивый
+- **harto/a** - fed up / сытый по горло
+- **indiferente** - indifferent / безразличный
 - **infinito/a** - infinite / бесконечный
+- **insatisfecho/a** - dissatisfied / неудовлетворенный
+- **inseguro/a** - insecure / небезопасный, неуверенный
+- **inspirado/a** - inspired / вдохновленный
 - **inteligente** - intelligent / умный
 - **jaranero/a** - party animal / гуляка
 - **joven** - young / молодой
 - **lento/a** - slow / медленный
 - **lindo/a** - cute, pretty / красивый
+- **lleno/a** - full / полный
 - **malo/a** - bad / плохой
 - **manchego/a** - from La Mancha / манчего
 - **mejor** - better / лучший
+- **melancólico/a** - melancholy / меланхоличный
 - **nocturno/a** - nocturnal, night / ночной
 - **nervioso/a** - nervous / нервный
+- **optimista** - optimistic / оптимистичный
 - **orgulloso/a** - proud / гордый
 - **pequeño/a** - small / маленький
 - **peor** - worse / худший
 - **perjudicial** - harmful / вредный
+- **pesimista** - pessimistic / пессимистичный
 - **preocupado/a** - worried / обеспокоенный
 - **rápido/a** - fast / быстрый
+- **relajado/a** - relaxed / расслабленный
 - **resfriado/a** - having a cold / простуженный
 - **salado/a** - salty / соленый
+- **seguro/a** - safe, sure / безопасный, уверенный
 - **separado/a** - separated / разошедшийся, разошедшаяся
 - **serio/a** - serious / серьезный
 - **soltero/a** - single / холостой, незамужняя
 - **sorprendido/a** - surprised / удивленный
-- **tonto/a** - silly, stupid / глупый
+- **temeroso/a** - fearful / боязливый
 - **templado/a** - temperate, mild / умеренный
+- **tenso/a** - tense / напряженный
+- **tonto/a** - silly, stupid / глупый
+- **tranquilo/a** - calm, quiet / спокойный, тихий
 - **triste** - sad / грустный
+- **vacío/a** - empty / пустой
 - **viejo/a** - old / старый
 - **viudo/a** - widowed / вдовец, вдова
+- **vivo/a** - alive, lively / живой

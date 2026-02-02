@@ -141,3 +141,4 @@ Etiquetas por carpeta: `lección`, `gramática`, `vocabulario`, `tema`, `verbo`,
 - Frontmatter con fecha y tags en todos los archivos
 - Folder notes para temas principales
 - **REGLA DE ORO:** Nunca usar imágenes con texto, marcas de agua o overlays.
+- **Ejemplos con Nombres:** Si se requieren nombres propios en los ejemplos, utilizar preferiblemente los nombres de la lista en `90-Archivos/Estudiantes.md`. Asegurar que la frase concuerde en género con el nombre elegido (consultar la columna *Género* en dicho archivo).

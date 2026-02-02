@@ -7,31 +7,46 @@ date: 2026-02-02
 
 # 030: Existencia (Hay) vs. Ubicación (Estar)
 
-[[../40-Deberes/20260000 Lección template|Deberes]]
-
 ## Gramática
 
 ### El Verbo Haber (HAY)
-Se utiliza para expresar la **existencia** de algo o alguien cuando es información nueva o indeterminada.
-- **Reglas de uso**: Se usa con:
-	1. **Artículos indeterminados**: *Hay un cine cerca.*
-	2. **Números**: *Hay tres museos.*
-	3. **Indefinidos**: *Hay muchas montañas.*
-	4. **Sustantivos en plural (sin artículo)**: *Hay barcos en el puerto.*
+Se utiliza para expresar la **existencia** de algo o alguien cuando es información nueva o indeterminada. (There is / There are).
+
+- **Artículos indeterminados** (Indefinite articles):
+    - *Hay un cine cerca.*
+    - *En la mochila hay una manzana.*
+- **Números** (Numbers):
+    - *Hay tres museos en esta zona.*
+    - *En la clase hay quince estudiantes.*
+- **Indefinidos** (Indefinites):
+    - *Hay muchas montañas en el norte.*
+    - *Hay poca gente en el parque.*
+- **Sustantivos en plural (sin artículo)** (Plural nouns without article):
+    - *Hay barcos en el puerto.*
+    - *Hay flores en el jardín.*
 
 ### El Verbo Estar
-Se utiliza para la **ubicación** de algo o alguien conocido o específico.
-- **Reglas de uso**: Se usa con:
-	1. **Artículos determinados**: *Las tartas están aquí.*
-	2. **Posesivos**: *Ahí está mi libro.*
-	3. **Nombres propios**: *¿Está Juan?*
-	4. **Lugar específico**: *Cusco está en Perú.*
+Se utiliza para la **ubicación** de algo o alguien conocido o específico. (To be located).
+
+- **Artículos determinados** (Definite articles):
+    - *Las tartas están aquí.*
+    - *El diccionario está sobre la mesa.*
+- **Posesivos** (Possessives):
+    - *Ahí está mi libro.*
+    - *Nuestra casa está cerca del centro.*
+- **Nombres propios** (Proper names):
+    - *Diana está en la biblioteca.*
+    - *Nader está en su oficina.*
+    - *¿Está Victoria en casa?*
+- **Lugar específico** (Specific location):
+    - *[Cuzco](https://en.wikipedia.org/wiki/Cusco) está en Perú.*
+    - *Valencia está en la costa este de España.*
 
 ### Concordancia de Nacionalidad
 Recuerda que los adjetivos de nacionalidad deben concordar con el sujeto:
 - **Él** es un turist**a** francé**s**.
 - **Ella** es una turist**a** frances**a**.
-*(Nota: "Turista" es común para ambos géneros, solo cambia el artículo o el adjetivo).*
+*(Nota: "Turista" es un [[../20-Gramática/El Género de los Sustantivos#Sustantivos comunes en cuanto al género (una sola forma)|sustantivo común]] para ambos géneros, solo cambia el artículo o el adjetivo).*
 
 ---
 

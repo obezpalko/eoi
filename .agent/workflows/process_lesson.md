@@ -30,6 +30,7 @@ description: Standardize a lesson file, extracting vocabulary, translating notes
 4. **Content Refinement**
 
    - **Translation**: Translate any remaining comments or notes (e.g., Russian, English) into simple Spanish (A1-A2).
+   - **Names in Examples**: Use names from `90-Archivos/Estudiantes.md` when a proper name is needed. Check the *Género* column to ensure adjectives and verbs agree (e.g., *Svitlana está cansada* vs *Sergei está cansado*).
    - **Correction**: Fix any "improper" words or typos.
    - **Style**: Ensure images are embedded utilizing standard markdown syntax `![[image.jpg]]` or relative paths vs absolute.
 

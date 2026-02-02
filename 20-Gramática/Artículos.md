@@ -14,146 +14,43 @@ En español hay dos clases de artículos:
 | **Determinados** (Definidos)     |       **el**       |      **la**       |     **los**      |     **las**     |
 | **Indeterminados** (Indefinidos) |       **un**       |      **una**      |     **unos**     |    **unas**     |
 
-## Sustantivos femeninos
+## Determinación del Género
+El género del sustantivo (masculino o femenino) determina qué artículo debemos usar. Para una explicación detallada de las reglas de género, excepciones y casos especiales, consulta nuestra guía dedicada:
 
-* General
-  * -a
-  * -dad, -tad
-  * -ción, -sión
-  * Las letras del alfabeto
+👉 **[[El Género de los Sustantivos]]**
 
-* Excepciones
-  * el problema
-  * el día
-  * el aula
-  * el mapa
-  * el idioma
-  * el planeta
-  * el sofá
-  * el clima
-  * el tema
-  * el sistema
-  * el programa
-  * el esquema
-  * el pijama
-  * el fantasma
-  * el diploma
-  * el drama
-
-## Sustantivos masculinos
-
-* General
-  * -o
-  * -or
-  * -aje
-  * [[../30-Vocabulario/Temas/Colores|Colores]]
-  * [[../30-Vocabulario/Temas/Días de la semana|Días de la semana]]
-
-* Excepciones
-  * la moto (la motocicleta)
-  * la foto (la fotografía)
-  * la flor
-  * las tijeras
-  * la mano
-  * la radio
-  * la labor
-  * la piel
-  * la sal
-  * la miel
-  * la cárcel
-  * la libido
-  * la disco
-
-## Sustantivos femeninos que empiezan por a- o ha- tónica
-
-Todavía con palabras empiezan *a-*, *ha-*
-
-* el agua
-* el arma
-* el hacha 🪓
-* el águila
-* el alma
-* el área
-* el hada
-* el ave
-* el hambre
-
-## Sustantivos comunes en cuanto al género (una sola forma)
-
-* periodista
-* estudiante
-* cantante
-* paciente
-* turista
-* atleta
-* artista
-* policía
-* modelo
-* testigo
-
-## Sustantivos heterónimos (formas distintas para cada género)
-
-| Masculino | Femenino   |
-| :-------- | :--------- |
-| padre     | madre      |
-| toro      | vaca       |
-| macho     | hembra     |
-| caballo   | yegua      |
-| padrino   | madrina    |
-| marido    | esposa     |
-| hombre    | mujer      |
-| chivo     | cabra      |
-| yerno     | nuera      |
-| caballero | dama       |
-| jinete    | amazona    |
-| rey       | reina      |
-| príncipe  | princesa   |
-| actor     | actriz     |
-| gallo     | gallina    |
-| carnero   | oveja      |
-| conde     | condesa    |
-| duque     | duquesa    |
-| emperador | emperatriz |
-| héroe     | heroína    |
-| monje     | monja      |
-| poeta     | poetisa    |
-
-## Aules
-
-### Explicación
+## Usos de los Artículos
 
 ![[attachments/tabla_articulos.jpeg]]
 
-### USOS
+### El Artículo Indeterminado (un, una, unos, unas)
 
-#### UN, UNA, UNOS, UNAS  (indeterminado o indefinido)
+- **Para información nueva**: Cuando hablamos por primera vez de algo.
+  - *Tengo un perro y un gato.*
+- **Identificación de grupo**: Para hablar de alguien como parte de un colectivo.
+  - *Lourdes es una amiga de Juanjo.*
+- **Cantidad**: Para referirse a una cantidad aproximada o unitaria.
+  - *Quiero un café, por favor.*
+- **Desconocimiento**: Con cosas desconocidas o no especificadas.
 
-    • Cuando hablamos por primera vez de algo nuevo.
-Ejercicio: `Tengo _____ perro y _____ gato.`
+### El Artículo Determinado (el, la, los, las)
 
-    • Cuando hablamos de una persona, animal o cosa como parte de un grupo.
-Ej: `Lourdes es _____ amiga de Juanjo.`
-
-    • Cuando hablamos de la cantidad.
-Ej: `Quiero _____ café, por favor.`
-
-    • Usamos el artículo indeterminado con una cosa desconocida.
-
-#### EL, LA, LOS, LAS  (determinado o definido)
-
-    • Cuando hablamos de algo conocido
-Ej: `_____ perro se llama Toby.`
-
-    • Cuando hablamos de una persona, animal o cosa único/a.
-Ej: `Lourdes es _____ novia de Juanjo.`
-
-    • Cuando hablamos de algo en sentido general.
-Ej: `Odio _____ café.`
+- **Para algo conocido**: Una entidad específica ya mencionada o sobreentendida.
+  - *El perro se llama Toby.*
+- **Unicidad**: Para personas, animales o cosas únicas en su contexto.
+  - *Lourdes es la novia de Juanjo.*
+- **Sentido general**: Para hablar de categorías completas o gustos generales.
+  - *Odio el café.*
 
 ![[attachments/Pasted image 20251126141721.png]]
 ![[attachments/Pasted image 20251126141732.png]]
 
-### Actividades
+---
+
+## Actividades y Práctica
 
 ![[attachments/articulo-ejercicios.jpeg]]
-[https://aprenderespanol.org/gramatica/articulos-determinados-indeterminados.html](https://aprenderespanol.org/gramatica/articulos-determinados-indeterminados.html)
+[Práctica online: Artículos determinados e indeterminados](https://aprenderespanol.org/gramatica/articulos-determinados-indeterminados.html)
+
+**Navegación:**
+[[index|🏠 Inicio]] | [[El Género de los Sustantivos|El Género de los Sustantivos]] | [[El Número|El Número]]
