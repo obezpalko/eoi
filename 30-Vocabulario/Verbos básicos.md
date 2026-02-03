@@ -3,6 +3,17 @@ tags: [vocabulario, verbos]
 ---
 # Verbos básicos
 
+- **[[Verbos/deletrear|deletrear]]** - spell out letters / произносить по буквам
+- **[[Verbos/hablar|hablar]]** - to speak / говорить
+- **[[Verbos/hacer|hacer]]** - to do, make / делать
+- **[[Verbos/llamarse|llamarse]]** - to be called / зваться
+- **[[Verbos/poner|poner]]** - to put, place / класть, ставить
+- **[[Verbos/salir|salir]]** - to go out, to leave / выходить
+- **[[Verbos/ser|ser]]** - to be (permanent) / быть
+- **[[Verbos/tener|tener]]** - to have / иметь
+- **[[Verbos/tocar|tocar]]** - to touch, play / трогать, играть
+- **[[Verbos/trabajar|trabajar]]** - to work / работать
+- **[[Verbos/vivir|vivir]]** - to live / жить
 - **abrazar(se)** - to hug / обнимать(ся)
 - **abrir** - to open / открывать
 - **almorzar** - to have lunch / обедать
@@ -28,7 +39,6 @@ tags: [vocabulario, verbos]
 - **conducir** - to drive / водить
 - **correr** - to run / бегать
 - **dar** - to give / давать
-- **[[Verbos/deletrear|deletrear]]** - spell out letters / произносить по буквам
 - **desayunar** - to have breakfast / завтракать
 - **desordenar** - to mess up / приводить в беспорядок
 - **disfrutar** - to enjoy / наслаждаться
@@ -38,6 +48,7 @@ tags: [vocabulario, verbos]
 - **empujar** - to push / толкать
 - **encender** - to turn on / включать
 - **enseñar** - to teach, to show / учить, показывать
+- **entender** - to understand / понимать
 - **entrar** - to enter / входить
 - **enviar** - to send / посылать
 - **eructar** - to burp / рыгать
@@ -52,15 +63,12 @@ tags: [vocabulario, verbos]
 - **gozar** - to enjoy / наслаждаться
 - **gritar** - to shout / кричать
 - **haber (hay)** - to have (there is/are) / иметься (есть)
-- **[[Verbos/hablar|hablar]]** - to speak / говорить
-- **[[Verbos/hacer|hacer]]** - to do, make / делать
 - **ir** - to go / идти, ехать
 - **jugar** - to play / играть
 - **juntar** - to put together / соединять, собирать вместе
 - **limar** - to file / подпиливать
 - **limpiar** - to clean / чистить, убирать
 - **llamar** - to call / звать, звонить
-- **[[Verbos/llamarse|llamarse]]** - to be called / зваться
 - **llorar** - to cry / плакать
 - **luchar** - to fight / бороться
 - **mandar** - to send, to command / посылать, командовать
@@ -82,12 +90,12 @@ tags: [vocabulario, verbos]
 - **pasear** - to stroll, to walk / прогуливаться
 - **pensar** - to think / думать
 - **perder** - to lose / проигрывать
-- **[[Verbos/poner|poner]]** - to put, place / класть, ставить
-- **preparar** - to prepare / готовить, подготавливать
 - **preguntar** - to ask / спрашивать
+- **preparar** - to prepare / готовить, подготавливать
 - **quebrar** - to break / ломать, разбивать
 - **quedar** - to stay, to meet / оставаться, встречаться
 - **quejarse** - to complain / жаловаться
+- **querer** - to want, to love / хотеть, любить
 - **recibir** - to receive / получать
 - **reciclar** - to recycle / перерабатывать
 - **recordar** - to remember, to remind / помнить, напоминать
@@ -98,17 +106,12 @@ tags: [vocabulario, verbos]
 - **restar** - to subtract / вычитать
 - **romper** - to break / ломать
 - **sacar** - to take out / вынимать, доставать
-- **[[Verbos/salir|salir]]** - to go out, to leave / выходить
 - **separar** - to separate / разделять
-- **[[Verbos/ser|ser]]** - to be (permanent) / быть
 - **soñar** - to dream / мечтать
 - **subir** - to go up / подниматься
 - **sumar** - to add / складывать
-- **[[Verbos/tener|tener]]** - to have / иметь
-- **[[Verbos/tocar|tocar]]** - to touch, play / трогать, играть
 - **tomar** - to take, to drink / брать, пить
 - **toser** - to cough / кашлять
-- **[[Verbos/trabajar|trabajar]]** - to work / работать
 - **trepar** - to climb / лазать, карабкаться
 - **unir** - to unite, to join / объединять
 - **usar** - to use / использовать
@@ -116,7 +119,6 @@ tags: [vocabulario, verbos]
 - **ver** - to see / видеть
 - **vestir** - to dress / одевать
 - **viajar** - to travel / путешествовать
-- **[[Verbos/vivir|vivir]]** - to live / жить
 - **volver** - to return / возвращаться
 - **yacer** - to lie, to rest / лежать, покоиться
 - **zumbar** - to buzz / жужжать
