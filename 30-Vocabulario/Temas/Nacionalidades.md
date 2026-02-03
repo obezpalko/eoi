@@ -12,9 +12,10 @@ tags:
 | [Alemania](https://es.wikipedia.org/wiki/Alemania)                              | alemán alemana                       | alemán                              |
 | [Argentina](https://es.wikipedia.org/wiki/Argentina)                            | argentino argentina                  | español                             |
 | [Austria](https://es.wikipedia.org/wiki/Austria)                                | austriaco austriaca                  | alemán                              |
+| [Bangladesh](https://es.wikipedia.org/wiki/Banglad%C3%A9s)                      | bengalí                              | bengalí                             |
+| [Bélgica](https://es.wikipedia.org/wiki/B%C3%A9lgica)                           | belga                                | neerlandés, francés, alemán         |
 | [Brasil](https://es.wikipedia.org/wiki/Brasil)                                  | brasileño brasileña                  | portugués                           |
 | [Bulgaria](https://es.wikipedia.org/wiki/Bulgaria)                              | búlgaro búlgara                      | búlgaro                             |
-| [Bélgica](https://es.wikipedia.org/wiki/B%C3%A9lgica)                           | belga                                | neerlandés, francés, alemán         |
 | [Canadá](https://es.wikipedia.org/wiki/Canad%C3%A1)                             | canadiense                           | inglés, francés                     |
 | [Chile](https://es.wikipedia.org/wiki/Chile)                                    | chileno chilena                      | español                             |
 | [China](https://es.wikipedia.org/wiki/China)                                    | chino china                          | chino mandarín                      |

@@ -92,3 +92,30 @@ El número **uno** y los compuestos acabados en uno (21, 31...) pierden la "o" a
 - Tengo **veintiún** años (No *veintiuno años*).
 - Tengo **treinta y un** euros.
 - **Excepción**: Si el sustantivo es femenino, cambia a "una": *treinta y una personas*.
+
+## 6. Números Ordinales
+
+Los números ordinales indican orden o posición. Concuerdan en **género** y **número** con el sustantivo al que acompañan.
+
+| Número | Masculino | Femenino |
+| :----- | :-------- | :------- |
+| 1º     | primero   | primera  |
+| 2º     | segundo   | segunda  |
+| 3º     | tercero   | tercera  |
+| 4º     | cuarto    | cuarta   |
+| 5º     | quinto    | quinta   |
+| 6º     | sexto     | sexta    |
+| 7º     | séptimo   | séptima  |
+| 8º     | octavo    | octava   |
+| 9º     | noveno    | novena   |
+| 10º    | décimo    | décima   |
+
+### Regla de Apócope (1º y 3º)
+Cuando **primero** y **tercero** van inmediatamente **delante** de un sustantivo **masculino singular**, pierden la "o" final.
+
+- El **primer** día del mes.
+- El **tercer** estudiante de la fila.
+
+**Nota:** Si van después del sustantivo o son femeninos, no cambian.
+- El piso **primero**.
+- La **primera** vez.

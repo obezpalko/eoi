@@ -4,8 +4,8 @@ tags: [vocabulario, sustantivos]
 # Sustantivos
 
 - **el abecedario** - alphabet / алфавит
-- **el abrigo** - coat / пальто
 - **el/la abogado/a** - lawyer / адвокат
+- **el abrigo** - coat / пальто
 - **el aguacate** - avocado / авокадо
 - **el algodón** - cotton / хлопок
 - **la almohada** - pillow / подушка
@@ -14,79 +14,81 @@ tags: [vocabulario, sustantivos]
 - **el armario** - wardrobe, closet / шкаф
 - **la arroba** (@) - at symbol / символ собака
 - **el aseo** - toilet, restroom / туалет
-- **la azafata** - flight attendant / стюардесса
 - **el autocar** - coach, bus / междугородний автобус
-- **la barca** - small boat / лодка
+- **la azafata** - flight attendant / стюардесса
 - **la bañera** - bathtub / ванна
 - **el baño** - bathroom / ванная комната
+- **la barca** - small boat / лодка
 - **el barco** - boat / корабль
 - **el barrio** - neighborhood / район
 - **la berenjena** - eggplant / баклажан
+- **la bicicleta** - bicycle / велосипед
 - **la boda** - wedding / свадьба
 - **la bolera** - bowling alley / боулинг
-- **la bicicleta** - bicycle / велосипед
 - **el bolígrafo borrable** - erasable pen / стираемая ручка
 - **la bolsa** - bag (plastic/paper) / пакет
 - **el bolso** - handbag / сумка
-- **el botón de arranque** - start button / кнопка запуска
 - **el borrador** - eraser / ластик
+- **el botón de arranque** - start button / кнопка запуска
 - **el brazo** - arm / рука (от плеча до кисти)
 - **la broma** - joke / шутка
 - **la bruja** - witch / ведьма
 - **el burro** - donkey / oсел
 - **el caballo** - horse / лошадь
-- **la canción de cuna** - lullaby / колыбельная песня
-- **la canasta** - basket / корзина
-- **el cartón** - cardboard / картон
-- **el castillo de arena** - sandcastle / замок из песка
-- **la cebra** - zebra / зебра
-- **el charco** - puddle / лужа
-- **la chuleta** - cheat sheet / шпаргалка
-- **la chuchería / las chuches** - sweets, candy / сладости, конфеты
-- **el centro comercial** - shopping mall / торговый центр
-- **la chancla** - flip-flop / шлепанец
 - **el cajón** - drawer / ящик
+- **la canasta** - basket / корзина
+- **la canción de cuna** - lullaby / колыбельная песня
 - **las carcajadas** - laughter / хохот
-- **el césped** - lawn, grass / газон, трава
+- **el cartón** - cardboard / картон
 - **el casco antiguo** - old town / исторический центр
+- **el castillo de arena** - sandcastle / замок из песка
+- **el cebiche** - ceviche / севиче
+- **la cebra** - zebra / зебра
+- **el centro comercial** - shopping mall / торговый центр
+- **el césped** - lawn, grass / газон, трава
+- **la chancla** - flip-flop / шлепанец
+- **el charco** - puddle / лужа
+- **el chef** - chef / шеф-повар
+- **la chuchería / las chuches** - sweets, candy / сладости, конфеты
+- **la chuleta** - cheat sheet / шпаргалка
 - **la clara** - egg white / яичный белок
 - **el clima** - climate / климат
+- **el cojín** - cushion / подушка (декоративная)
+- **el cojón (vulgar)** - testicle / яйцо (вульг.)
 - **la cola** - line, queue / очередь
 - **la comilona** - big meal, feast / пиршество
-- **el cristal** - glass (or crystal) / хрусталь, стекло
-- **el cojón (vulgar)** - testicle / яйцо (вульг.)
-- **el cojín** - cushion / подушка (декоративная)
 - **la consonante** - consonant / согласная
 - **el contenedor** - container, dumpster / контейнер
-- **el diseñador / la diseñadora** - designer / дизайнер
 - **el correo electrónico** - email / электронная почта
+- **el cristal** - glass (or crystal) / хрусталь, стекло
 - **el cuaderno** - notebook / тетрадь
+- **los cuernos** - horns / рога
 - **el cumpleaños** - birthday / день рождения
 - **el cura** - priest / священник
 - **el dátil** - date (fruit) / финик
 - **el dedo** - finger / палец
-- **los cuernos** - horns / рога
 - **la destreza** - skill, dexterity / мастерство, ловкость
 - **el diamante** - diamond / алмаз
 - **el diminutivo** - diminutive, nickname / уменьшительное имя
 - **la dirección** - address / адрес
+- **el diseñador / la diseñadora** - designer / дизайнер
 - **la droga** - drug / наркотик
 - **la edad** - age / возраст
-- **el encaje** - lace / кружево
 - **el efectivo** - cash / наличные dinero
+- **el elefante** - elephant / слон
+- **el encaje** - lace / кружево
 - **el equipaje** - luggage / багаж
 - **el erizo** - hedgehog / еж
-- **el elefante** - elephant / слон
 - **la escoba** - broom / метла
 - **el estribillo** - chorus, refrain / припев
 - **la estufa** - stove, heater / печь, обогреватель
 - **el éxito** - success / успех
 - **la falla** - fault, failure / ошибка, неисправность
-- **el freno** - brake / тормоз
 - **la fregona** - mop / швабра
+- **el freno** - brake / тормоз
+- **el frigorífico** - refrigerator / холодильник
 - **la funda** - cover, case / чехол
 - **el futbolín** - foosball / настольный футбол
-- **el frigorífico** - refrigerator / холодильник
 - **la galleta** - cookie / печенье
 - **el ganso** - goose / гусь
 - **el geranio** - geranium / герань
@@ -95,6 +97,7 @@ tags: [vocabulario, sustantivos]
 - **el gusano** - worm / червяк
 - **el halago** - compliment, flattery / комплимент, лесть
 - **la herida** - wound / рана
+- **la historia** - story, history / история
 - **el hombro** - shoulder / плечо
 - **la hucha** - piggy bank / копилка
 - **el huevo** - egg / яйцо
@@ -102,53 +105,55 @@ tags: [vocabulario, sustantivos]
 - **el imán** - magnet / магнит
 - **el inglés** - English / английский язык
 - **la jarana** - partying, revelry / кутеж, веселье
-- **la historia** - story, history / история
 - **el jarrón** - vase / ваза
 - **la jefatura** - headquarters, leadership / руководство, управление
+- **el/la jefe/a** - boss / начальник, босс
 - **la jeta** - snout, cheek (slang) / морда, наглость
 - **la jirafa** - giraffe / жираф
+- **la jornada** - working day / рабочий день
 - **la joya** - jewel / драгоценность
 - **la joyería** - jewelry store / ювелирный магазин
-- **la jornada** - working day / рабочий день
 - **el juez** - judge / судья
 - **el juzgado** - court / суд
 - **el lago** - lake / озеро
 - **la lágrima** - tear / слеза
 - **la lana** - wool / шерсть
-- **el llavero** - keychain / брелок
 - **la leche condensada** - condensed milk / сгущенное молоко
 - **la lechuga** - lettuce / салат
 - **la lengua** - language, tongue / язык
 - **la lengua de señas** - sign language / язык жестов
 - **la lengua materna** - mother tongue / родной язык
-- **la licra** - lycra / ликра
-- **el lino** - linen / лён
 - **el/la licenciado/a** - graduate (university degree holder) / дипломированный специалист
+- **la licra** - lycra / ликра
 - **el limpiaparabrisas** - windshield wiper / стеклоочиститель
+- **el lino** - linen / лён
 - **la lista** - list / список
-- **la madrugada** - early morning / рассвет, раннее утро
-- **la madre** - mother / мать
+- **el llavero** - keychain / брелок
 - **la madera** - wood / дерево
+- **la madre** - mother / мать
+- **la madrugada** - early morning / рассвет, раннее утро
 - **la mamá** - mom / мама
 - **la mancha** - stain / пятно
 - **la mantita** - small blanket / одеяльце
 - **la margarita** - daisy / ромашка
-- **el marisco** - seafood / морепродукты
 - **el mariachi** - mariachi / мариачи
+- **el marisco** - seafood / морепродукты
 - **la mayúscula** - capital letter / заглавная буква
 - **la mejilla** - cheek / щека
 - **el melón** - melon / дыня
 - **el metal** - metal / металл
 - **la minúscula** - lowercase letter / строчная буква
+- **la moneda** - coin, currency / монета, валюта
 - **la montaña rusa** - roller coaster / американские горки
+- **el motivo** - motive, reason / мотив, повод
 - **el móvil** - mobile phone / мобильный телефон (móvil)
 - **la muela del juicio** - wisdom tooth / зуб мудрости
 - **la nacionalidad** - nationality / национальность
-- **la natación** - swimming / плавание
+- **el nailon** - nylon / нейлон
 - **la nana** - lullaby / колыбельная (нана)
+- **la natación** - swimming / плавание
 - **la navaja** - pocket knife / складной нож
 - **la nevera** - fridge / холодильник
-- **el nailon** - nylon / нейлон
 - **el nombre** - name / имя
 - **la obra** - work (of art, construction) / произведение, стройка
 - **el océano** - ocean / океан
@@ -160,40 +165,41 @@ tags: [vocabulario, sustantivos]
 - **el padre** - father / отец
 - **la palomita / palomitas de maíz** - popcorn / попкорн
 - **el papá** - dad / папа
-- **la papelera** - wastebasket / мусорная корзина
 - **el papel** - paper / бумага
-- **el patito** - duckling / утенок
+- **la papelera** - wastebasket / мусорная корзина
 - **el patinete** - scooter / самокат
+- **el patito** - duckling / утенок
 - **el pedo** - fart / пук
 - **la percha** - hanger / вешалка-плечики
 - **el perchero** - coat rack / вешалка
 - **el perrito caliente** - hot dog / хот-дог
-- **el pez** - fish (living) / живая рыба
 - **el pescado** - fish (caught/food) / рыба (еда)
+- **el pez** - fish (living) / живая рыба
 - **la piedra** - stone / камень
-- **la pierna** - leg / нога
 - **la piel** - leather, skin / кожа
+- **la pierna** - leg / нога
 - **la pizarra** - blackboard / доска
-- **el plato** - plate / тарелка
-- **la plata** - silver / серебро
+- **el placer** - pleasure / удовольствие
 - **el plástico** - plastic / пластик
+- **la plata** - silver / серебро
 - **el plátano** - banana / банан
+- **el plato** - plate / тарелка
 - **la profesión** - profession / профессия
-- **la queja** - complaint / жалоба
 - **el pulpo** - octopus / осьминог
+- **la queja** - complaint / жалоба
 - **la raíz** - root / корень
 - **la rata** - rat / крыса
 - **el ratón** - mouse / мышь
 - **el rayo** - beam, lightning / луч, молния
-- **la residencia** - residence / место жительства
+- **la razón** - reason / причина
 - **la resaca** - hangover / похмелье
+- **la residencia** - residence / место жительства
 - **el retraso** - delay, lateness / опоздание, задержка
-- **el/la turista** - tourist / турист
 - **el retrato** - portrait / портрет
+- **el rey** - king / король
 - **la risa** - laughter / смех
 - **la rodilla** - knee / колено
 - **la rueda** - wheel / колесо
-- **el rey** - king / король
 - **el sacapuntas** - pencil sharpener / точилка
 - **la salchicha** - sausage / сосиска
 - **la sandía** - watermelon / арбуз
@@ -209,15 +215,16 @@ tags: [vocabulario, sustantivos]
 - **el teléfono** - telephone / телефон
 - **el terciopelo** - velvet / бархат
 - **la tilde** - accent mark / тильда, ударение
+- **el/la turista** - tourist / турист
 - **la ubicación** - location / местоположение
-- **la unidad** - unit / единица
 - **la uña** - nail / ноготь
+- **la unidad** - unit / единица
 - **el usuario** - user / пользователь
 - **el valor** - value, courage / ценность, смелость
-- **la vergüenza** - shame / стыд
-- **el viento** - wind / ветер
-- **el vidrio** - glass / стекло
 - **la vela** - candle, sail, sailing / свеча, парус, парусный спорт
+- **la vergüenza** - shame / стыд
+- **el vidrio** - glass / стекло
+- **el viento** - wind / ветер
 - **el vino** - wine / вино
 - **la vocal** - vowel / гласная
 - **el volante** - steering wheel / руль
@@ -225,10 +232,10 @@ tags: [vocabulario, sustantivos]
 - **la voz** - voice / голос
 - **el xilófono** - xylophone / ксилофон
 - **el yate** - yacht / яхта
+- **la yaya** - grandma (colloquial) / бабуля
 - **la yema** - yolk / желток
 - **el yen** - yen / йена
 - **el yodo** - iodine / йод
-- **la yaya** - grandma (colloquial) / бабуля
 - **el yunque** - anvil / наковальня
 - **la zambomba** - friction drum / самбомба (музыкальный инструмент)
 - **la zamburiña** - scallop / гребешок (моллюск)
