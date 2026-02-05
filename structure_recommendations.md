@@ -55,7 +55,7 @@ Carpeta con el mismo nombre que el archivo markdown:
     └── pantalones.jpg
 ```
 
-Referencias: `![[Ropa y Accesorios/pantalones.jpg]]`
+Referencias: `![[public/30-Vocabulario/Temas/Ropa-y-Accesorios/pantalones.jpg]]`
 
 ### Especificaciones
 

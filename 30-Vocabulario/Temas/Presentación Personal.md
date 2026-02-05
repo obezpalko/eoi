@@ -2,7 +2,7 @@
 tags:
   - español
   - vocabulario
-  - presentacñion
+  - presentación
 ---
 
 # Presentación Personal
@@ -193,27 +193,27 @@ La presentación personal es una de las habilidades más importantes al aprender
 
 ### Palabras Interrogativas
 
-| Español | Uso | Ejemplo |
-|---------|-----|---------|
-| **¿Cómo?** | Para nombre, descripción | ¿Cómo te llamas? |
-| **¿Cuál?** / **¿Cuáles?** | Para seleccionar (singular/plural) | ¿Cuál es tu apellido? |
-| **¿Cuántos?** / **¿Cuántas?** | Para cantidad | ¿Cuántos años tienes? |
-| **¿Dónde?** | Para lugar | ¿Dónde vives? |
-| **¿De dónde?** | Para origen | ¿De dónde eres? |
-| **¿Qué?** | Para identificar, profesión | ¿Qué idiomas hablas? |
-| **¿A qué?** | Para actividad, dedicación | ¿A qué te dedicas? |
-| **¿En qué?** | Para especificar trabajo | ¿En qué trabajas? |
+| Español                       | Uso                                | Ejemplo               |
+| ----------------------------- | ---------------------------------- | --------------------- |
+| **¿Cómo?**                    | Para nombre, descripción           | ¿Cómo te llamas?      |
+| **¿Cuál?** / **¿Cuáles?**     | Para seleccionar (singular/plural) | ¿Cuál es tu apellido? |
+| **¿Cuántos?** / **¿Cuántas?** | Para cantidad                      | ¿Cuántos años tienes? |
+| **¿Dónde?**                   | Para lugar                         | ¿Dónde vives?         |
+| **¿De dónde?**                | Para origen                        | ¿De dónde eres?       |
+| **¿Qué?**                     | Para identificar, profesión        | ¿Qué idiomas hablas?  |
+| **¿A qué?**                   | Para actividad, dedicación         | ¿A qué te dedicas?    |
+| **¿En qué?**                  | Para especificar trabajo           | ¿En qué trabajas?     |
 
 ### Adjetivos Posesivos
 
-| Pronombre | Singular | Plural |
-|-----------|----------|--------|
-| Yo | mi | mis |
-| Tú | tu | tus |
-| Él/Ella/Usted | su | sus |
-| Nosotros/as | nuestro/nuestra | nuestros/nuestras |
-| Vosotros/as | vuestro/vuestra | vuestros/vuestras |
-| Ellos/Ellas/Ustedes | su | sus |
+| Pronombre           | Singular        | Plural            |
+| ------------------- | --------------- | ----------------- |
+| Yo                  | mi              | mis               |
+| Tú                  | tu              | tus               |
+| Él/Ella/Usted       | su              | sus               |
+| Nosotros/as         | nuestro/nuestra | nuestros/nuestras |
+| Vosotros/as         | vuestro/vuestra | vuestros/vuestras |
+| Ellos/Ellas/Ustedes | su              | sus               |
 
 **Ejemplos:**
 - _Mi nombre es Alex._

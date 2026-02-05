@@ -78,4 +78,4 @@ Recuerda que los adjetivos de nacionalidad deben concordar con el sujeto:
 ---
 
 **Navegación:**
-[[20260121 Lección veintinueve|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️
+[[20260121 Lección veintinueve|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260204 Lección treinta y uno|📝 Deberes]] | [[20260204 Lección treinta y uno|Lección siguiente ➡️]]

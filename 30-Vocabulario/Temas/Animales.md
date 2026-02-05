@@ -20,16 +20,19 @@ tags:
 
 ## Otros Animales (Salvajes y de España)
 
-| Imagen                             | Animal <br> (Macho / Hembra / Cría) | Idioma (EN / RU)               | Sonido (Verbo + Onomatopeya)   |
-| :--------------------------------- | :---------------------------------- | :----------------------------- | :----------------------------- |
-| ![[Animales/animales_aguila.png]]  | **Águila**                          | Eagle / Орёл                   | -                              |
-| ![[Animales/animales_ballena.png]] | **Ballena**                         | Whale / Кит                    | -                              |
-| ![[Animales/animales_ciervo.png]]  | **Ciervo**                          | Deer / Олень                   | -                              |
-| ![[Animales/animales_conejo.png]]  | **Conejo**<br>Coneja / Gazapo      | Rabbit / Кролик                | **Chillar** <br> Chilla        |
-| ![[Animales/animales_jabali.png]]  | **Jabalí**<br>Jabalina / Jabato    | Wild Boar / Кабан              | **Gruñir** <br> Gruñe          |
-| ![[Animales/animales_lince.png]]   | **Lince ibérico**                   | Iberian Lynx / Иберийская рысь | -                              |
-| ![[Animales/animales_lobo.png]]    | **Lobo**<br>Loba / Lobezno         | Wolf / Волк                    | **Aullar** <br> Aúlla (¡Auuu!) |
-| ![[Animales/animales_murcielago.png]] | **Murciélago**                   | Bat / Летучая мышь             | -                              |
-| ![[Animales/animales_pez.png]]     | **Pez**                             | Fish / Рыба                    | -                              |
-| ![[Animales/animales_tiburon.png]] | **Tiburón**                         | Shark / Акула                  | -                              |
-| ![[Animales/animales_tigre.png]]   | **Tigre**<br>Tigresa / Cachorro    | Tiger / Тигр                   | **Rugir** <br> Ruge (¡Grrr!)   |
+| Imagen                                | Animal <br> (Macho / Hembra / Cría) | Idioma (EN / RU)               | Sonido (Verbo + Onomatopeya)   |
+| :------------------------------------ | :---------------------------------- | :----------------------------- | :----------------------------- |
+| ![[Animales/animales_aguila.png]]     | **Águila**                          | Eagle / Орёл                   | -                              |
+| ![[Animales/animales_ballena.png]]    | **Ballena**                         | Whale / Кит                    | -                              |
+| ![[Animales/animales_ciervo.png]]     | **Ciervo**                          | Deer / Олень                   | -                              |
+| ![[Animales/animales_conejo.png]]     | **Conejo**<br>Coneja / Gazapo       | Rabbit / Кролик                | **Chillar** <br> Chilla        |
+| ![[Animales/animales_escarabajo.png]] | **Escarabajo**                      | Beetle / Жук                   | -                              |
+| ![[Animales/animales_jabali.png]]     | **Jabalí**<br>Jabalina / Jabato     | Wild Boar / Кабан              | **Gruñir** <br> Gruñe          |
+| ![[Animales/animales_libelula.png]]   | **Libélula**                        | Dragonfly / Стрекоза           | -                              |
+| ![[Animales/animales_lince.png]]      | **Lince ibérico**                   | Iberian Lynx / Иберийская рысь | -                              |
+| ![[Animales/animales_lobo.png]]       | **Lobo**<br>Loba / Lobezno          | Wolf / Волк                    | **Aullar** <br> Aúlla (¡Auuu!) |
+| ![[Animales/animales_mariposa.png]]   | **Mariposa**                        | Butterfly / Бабочка            | -                              |
+| ![[Animales/animales_murcielago.png]] | **Murciélago**                      | Bat / Летучая мышь             | -                              |
+| ![[Animales/animales_pez.png]]        | **Pez**                             | Fish / Рыба                    | -                              |
+| ![[Animales/animales_tiburon.png]]    | **Tiburón**                         | Shark / Акула                  | -                              |
+| ![[Animales/animales_tigre.png]]      | **Tigre**<br>Tigresa / Cachorro     | Tiger / Тигр                   | **Rugir** <br> Ruge (¡Grrr!)   |

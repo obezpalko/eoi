@@ -11,8 +11,10 @@ En esta página exploramos el vocabulario de los medios de transporte, los verbo
 
 | Palabra          | Definición/Descripción                                   | Ejemplo                                            | Imagen                        |
 | :--------------- | :------------------------------------------------------- | :------------------------------------------------- | :---------------------------- |
-| **el autocar**   | Autobús de largo recorrido o para excursiones.           | El **autocar** sale a las nueve para la excursión. | ![[Transporte/autocar.jpg]]   |
 | **el autobús**   | Vehículo grande de transporte público urbano.            | Cojo el **autobús** número 24 para ir al centro.   | ![[Transporte/autobús.jpg]]   |
+| **el autocar**   | Autobús de largo recorrido o para excursiones.           | El **autocar** sale a las nueve para la excursión. | ![[Transporte/autocar.jpg]]   |
+| **la autopista** | Carretera de alta velocidad con peajes o limitaciones.   | Vamos por la **autopista** para llegar más rápido. | ![[Transporte/autopista.jpg]] |
+| **la autovía**   | Carretera de alta velocidad, similar a la autopista.     | La **autovía** es gratuita en este tramo.          | ![[Transporte/autovía.jpg]]   |
 | **el avión**     | Medio de transporte aéreo.                               | Viajo en **avión** a Madrid.                       | ![[Transporte/avión.jpg]]     |
 | **el barco**     | Vehículo para viajar por agua.                           | El **barco** cruza el Mediterráneo.                | ![[Transporte/barco.jpg]]     |
 | **la bicicleta** | Vehículo de dos ruedas movido por pedales.               | Voy al trabajo en **bicicleta**.                   | ![[Transporte/bicicleta.jpg]] |
@@ -22,6 +24,7 @@ En esta página exploramos el vocabulario de los medios de transporte, los verbo
 | **la moto**      | Vehículo de dos ruedas con motor.                        | Él conduce una **moto** muy rápida.                | ![[Transporte/moto.jpg]]      |
 | **el patinete**  | Vehículo pequeño de dos ruedas (muchas veces eléctrico). | Muchos jóvenes usan el **patinete** eléctrico.     | ![[Transporte/patinete.jpg]]  |
 | **el taxi**      | Coche público con conductor.                             | Pido un **taxi** para ir al aeropuerto.            | ![[Transporte/taxi.jpg]]      |
+| **el tram**      | Tranvía moderno que circula por la ciudad.               | El **tram** de Alicante llega hasta Denia.         | ![[Transporte/tram.jpg]]      |
 | **el tren**      | Vehículo que circula sobre raíles.                       | El **tren** de alta velocidad es muy cómodo.       | ![[Transporte/tren.jpg]]      |
 
 ## ¿Cómo usamos los verbos? (Reglas y Preposiciones)
