@@ -13,58 +13,59 @@ Este documento recopila parejas de palabras con significados opuestos (antónimo
 
 ## 1. Antónimos (Adjetivos)
 
-| Palabra A | Palabra B | Significado A (EN / RU) | Significado B (EN / RU) |
-| :--- | :--- | :--- | :--- |
-| **Alegre** | **Serio / Triste** | Cheerful / Весёлый | Serious / Sad / Серьёзный / Грустный |
-| **Alto** | **Bajo** | Tall / Vysokiy | Short (stature) / Низкий |
-| **Ancho** | **Estrecho** | Wide / Широкий | Narrow / Узкий |
-| **Bello / Guapo** | **Feo** | Beautiful / Handsome / Красивый | Ugly / Некрасивый |
-| **Bueno** | **Malo** | Good / Хороший | Bad / Плохой |
-| **Caliente** | **Frío** | Hot / Горячий | Cold / Холодный |
-| **Calmado** | **Agitado** | Calm / Спокойный | Agitated / Возбужденный |
-| **Cariñoso** | **Frío / Seco** | Affectionate / Ласковый | Cold / Unemotional / Холодный / Сухой |
-| **Casado** | **Soltero** | Married / Женатый | Single / Холостой |
-| **Contento** | **Disgustado / Insatisfecho** | Happy / Content / Довольный | Upset / Dissatisfied / Недовольный |
-| **Delgado / Flaco** | **Gordo** | Slim / Thin / Худой | Fat / Толстый |
-| **Difícil** | **Fácil** | Difficult / Трудный | Easy / Лёгкий |
-| **Divertido** | **Aburrido** | Fun / Funny / Весёлый | Boring / Скучный |
-| **Dulce** | **Salado / Amargo** | Sweet / Сладкий | Salty / Bitter / Солёный / Горький |
-| **Duro** | **Blando** | Hard / Твёрдый | Soft / Мягкий |
-| **Educado** | **Maleducado** | Polite / Вежливый | Rude / Грубый |
-| **Emocionado** | **Indiferente** | Excited / Взволнованный | Indifferent / Безразличный |
-| **Enamorado** | **Desamorado / Indiferente** | In love / Влюбленный | Unloving / Indifferent / Нелюбящий |
-| **En paz** | **Angustiado / En conflicto** | At peace / Спокойный | Anguished / In conflict / Страдающий |
-| **Falso** | **Verdadero** | False / Ложный | True / Истинный |
-| **Feliz** | **Triste / Melancólico** | Happy / Счастливый | Sad / Melancholy / Грустный |
-| **Fuerte** | **Débil** | Strong / Сильный | Weak / Слабый |
-| **Generoso** | **Egoísta** | Generous / Щедрый | Selfish / Эгоистичный |
-| **Grande** | **Pequeño** | Big / Большой | Small / Маленький |
-| **Gratuito** | **De pago** | Free / Бесплатный | Paid / Платный |
-| **Inútil** | **Útil** | Useless / Бесполезный | Useful / Полезный |
-| **Inspirado** | **Desinspirado** | Inspired / Вдохновленный | Uninspired / Вне вдохновения |
-| **Inteligente** | **Tonto** | Intelligent / Умный | Dumb / Silly / Глупый |
-| **Joven** | **Viejo / Mayor** | Young / Молодой | Old / Старый / Пожилой |
-| **Largo** | **Corto** | Long / Длинный | Short (length) / Короткий |
-| **Liso** | **Rizado** | Straight / Прямой (волосы) | Curly / Кудрявый |
-| **Listo** | **Tonto** | Clever / Smart / Умный | Silly / Dumb / Глупый |
-| **Lleno** | **Vacío** | Full / Полный | Empty / Пустой |
-| **Nervioso** | **Tranquilo** | Nervous / Нервный | Calm / Спокойный |
-| **Nuevo** | **Viejo** | New / Новый | Old / Старый |
-| **Optimista** | **Pesimista** | Optimistic / Оптимист | Pessimistic / Пессимист |
-| **Ordenado** | **Desordenado** | Tidy / Аккуратный | Messy / Неряшливый |
-| **Paciente** | **Impaciente** | Patient / Терпеливый | Impatient / Нетерпеливый |
-| **Primero** | **Último** | First / Первый | Last / Последний |
-| **Puntual** | **Impuntual** | Punctual / Пунктуальный | Unpunctual / Непунктуальный |
-| **Rápido** | **Lento** | Fast / Быстрый | Slow / Медленный |
-| **Relajado** | **Tenso** | Relaxed / Расслабленный | Tense / Напряженный |
-| **Responsable** | **Irresponsable** | Responsible / Ответственный | Irresponsible / Безответственный |
-| **Seguro** | **Inseguro / Temeroso** | Safe / Sure / Уверенный | Insecure / Fearful / Неуверенный |
-| **Simpático** | **Antipático** | Nice / Likeable / Приятный | Unpleasant / Неприятный |
-| **Sincero** | **Mentiroso** | Sincere / Искренний | Liar / Лживый |
-| **Sociable** | **Tímido** | Sociable / Общительный | Shy / Застенчивый |
-| **Trabajador** | **Vago / Gandul** | Hardworking / Трудолюбивый | Lazy / Ленивый |
-| **Valiente** | **Miedoso** | Brave / Храбрый | Fearful / Трусливый |
-| **Vivo** | **Apático** | Alive / Lively / Живой | Apathetic / Апатичный |
+| Palabra A           | Palabra B                     | Significado A (EN / RU)         | Significado B (EN / RU)               |
+| :------------------ | :---------------------------- | :------------------------------ | :------------------------------------ |
+| **Alegre**          | **Serio / Triste**            | Cheerful / Весёлый              | Serious / Sad / Серьёзный / Грустный  |
+| **Alto**            | **Bajo**                      | Tall / Vysokiy                  | Short (stature) / Низкий              |
+| **Ancho**           | **Estrecho**                  | Wide / Широкий                  | Narrow / Узкий                        |
+| **Bello / Guapo**   | **Feo**                       | Beautiful / Handsome / Красивый | Ugly / Некрасивый                     |
+| **Bueno**           | **Malo**                      | Good / Хороший                  | Bad / Плохой                          |
+| **Caliente**        | **Frío**                      | Hot / Горячий                   | Cold / Холодный                       |
+| **Calmado**         | **Agitado**                   | Calm / Спокойный                | Agitated / Возбужденный               |
+| **Cariñoso**        | **Frío / Seco**               | Affectionate / Ласковый         | Cold / Unemotional / Холодный / Сухой |
+| **Casado**          | **Soltero**                   | Married / Женатый               | Single / Холостой                     |
+| **Contento**        | **Disgustado / Insatisfecho** | Happy / Content / Довольный     | Upset / Dissatisfied / Недовольный    |
+| **Delgado / Flaco** | **Gordo**                     | Slim / Thin / Худой             | Fat / Толстый                         |
+| **Difícil**         | **Fácil**                     | Difficult / Трудный             | Easy / Лёгкий                         |
+| **Divertido**       | **Aburrido**                  | Fun / Funny / Весёлый           | Boring / Скучный                      |
+| **Dulce**           | **Salado / Amargo**           | Sweet / Сладкий                 | Salty / Bitter / Солёный / Горький    |
+| **Duro**            | **Blando**                    | Hard / Твёрдый                  | Soft / Мягкий                         |
+| **Educado**         | **Maleducado**                | Polite / Вежливый               | Rude / Грубый                         |
+| **Emocionado**      | **Indiferente**               | Excited / Взволнованный         | Indifferent / Безразличный            |
+| **Enamorado**       | **Desamorado / Indiferente**  | In love / Влюбленный            | Unloving / Indifferent / Нелюбящий    |
+| **En paz**          | **Angustiado / En conflicto** | At peace / Спокойный            | Anguished / In conflict / Страдающий  |
+| **Falso**           | **Verdadero**                 | False / Ложный                  | True / Истинный                       |
+| **Feliz**           | **Triste / Melancólico**      | Happy / Счастливый              | Sad / Melancholy / Грустный           |
+| **Fuerte**          | **Débil**                     | Strong / Сильный                | Weak / Слабый                         |
+| **Generoso**        | **Egoísta**                   | Generous / Щедрый               | Selfish / Эгоистичный                 |
+| **Grande**          | **Pequeño**                   | Big / Большой                   | Small / Маленький                     |
+| **Gratuito**        | **De pago**                   | Free / Бесплатный               | Paid / Платный                        |
+| **Inútil**          | **Útil**                      | Useless / Бесполезный           | Useful / Полезный                     |
+| **Inspirado**       | **Desinspirado**              | Inspired / Вдохновленный        | Uninspired / Вне вдохновения          |
+| **Inteligente**     | **Tonto**                     | Intelligent / Умный             | Dumb / Silly / Глупый                 |
+| **Joven**           | **Viejo / Mayor**             | Young / Молодой                 | Old / Старый / Пожилой                |
+| **Largo**           | **Corto**                     | Long / Длинный                  | Short (length) / Короткий             |
+| **Liso**            | **Rizado**                    | Straight / Прямой (волосы)      | Curly / Кудрявый                      |
+| **Listo**           | **Tonto**                     | Clever / Smart / Умный          | Silly / Dumb / Глупый                 |
+| **Lleno**           | **Vacío**                     | Full / Полный                   | Empty / Пустой                        |
+| **Moderno**         | **Antiguo / Viejo**           | Modern / Современный            | Ancient / Old / Древний / Старый      |
+| **Nervioso**        | **Tranquilo**                 | Nervous / Нервный               | Calm / Спокойный                      |
+| **Nuevo**           | **Viejo**                     | New / Новый                     | Old / Старый                          |
+| **Optimista**       | **Pesimista**                 | Optimistic / Оптимист           | Pessimistic / Пессимист               |
+| **Ordenado**        | **Desordenado**               | Tidy / Аккуратный               | Messy / Неряшливый                    |
+| **Paciente**        | **Impaciente**                | Patient / Терпеливый            | Impatient / Нетерпеливый              |
+| **Primero**         | **Último**                    | First / Первый                  | Last / Последний                      |
+| **Puntual**         | **Impuntual**                 | Punctual / Пунктуальный         | Unpunctual / Непунктуальный           |
+| **Rápido**          | **Lento**                     | Fast / Быстрый                  | Slow / Медленный                      |
+| **Relajado**        | **Tenso**                     | Relaxed / Расслабленный         | Tense / Напряженный                   |
+| **Responsable**     | **Irresponsable**             | Responsible / Ответственный     | Irresponsible / Безответственный      |
+| **Seguro**          | **Inseguro / Temeroso**       | Safe / Sure / Уверенный         | Insecure / Fearful / Неуверенный      |
+| **Simpático**       | **Antipático**                | Nice / Likeable / Приятный      | Unpleasant / Неприятный               |
+| **Sincero**         | **Mentiroso**                 | Sincere / Искренний             | Liar / Лживый                         |
+| **Sociable**        | **Tímido**                    | Sociable / Общительный          | Shy / Застенчивый                     |
+| **Trabajador**      | **Vago / Gandul**             | Hardworking / Трудолюбивый      | Lazy / Ленивый                        |
+| **Valiente**        | **Miedoso**                   | Brave / Храбрый                 | Fearful / Трусливый                   |
+| **Vivo**            | **Apático**                   | Alive / Lively / Живой          | Apathetic / Апатичный                 |
 
 ## 2. Antónimos (Verbos)
 
@@ -145,7 +146,8 @@ Este documento recopila parejas de palabras con significados opuestos (antónimo
 | **Perezoso** | **Vago / Gandul** | Lazy / Ленивый              |
 | **Sacar**    | **Coger**         | To take / To grab           |
 | **Servicio** | **Aseo / Baño**   | Restroom / Туалет           |
-| **Terminar** | **Acabar**        | To finish / Заканчивать     |
+| **También** | **Además** | Also / Besides / Также / Кроме того |
+| **Terminar** | **Acabar** | To finish / Заканчивать |
 | **Usar**     | **Utilizar**      | To use / Использовать       |
 | **Triste**   | **Apenado**       | Sad / Грустный              |
 | **Gente**    | **Las personas**  | People / Люди               |

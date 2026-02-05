@@ -6,9 +6,11 @@ tags: [vocabulario, sustantivos]
 - **el abecedario** - alphabet / алфавит
 - **el/la abogado/a** - lawyer / адвокат
 - **el abrigo** - coat / пальто
+- **el acuario** - aquarium / аквариум
 - **el aguacate** - avocado / авокадо
 - **el algodón** - cotton / хлопок
 - **la almohada** - pillow / подушка
+- **la amistad** - friendship / дружба
 - **el apellido** - surname, last name / фамилия
 - **el apretón** - handshake, squeeze / рукопожатие
 - **el armario** - wardrobe, closet / шкаф
@@ -63,6 +65,7 @@ tags: [vocabulario, sustantivos]
 - **el cristal** - glass (or crystal) / хрусталь, стекло
 - **el cuaderno** - notebook / тетрадь
 - **los cuernos** - horns / рога
+- **el cubo** - bucket / ведро
 - **el cumpleaños** - birthday / день рождения
 - **el cura** - priest / священник
 - **el dátil** - date (fruit) / финик
@@ -81,9 +84,11 @@ tags: [vocabulario, sustantivos]
 - **el erizo** - hedgehog / еж
 - **la escoba** - broom / метла
 - **el estribillo** - chorus, refrain / припев
+- **el estuche** - pencil case / пенал
 - **la estufa** - stove, heater / печь, обогреватель
 - **el éxito** - success / успех
 - **la falla** - fault, failure / ошибка, неисправность
+- **el flato** - stitch (pain) / колика (боку)
 - **la fregona** - mop / швабра
 - **el freno** - brake / тормоз
 - **el frigorífico** - refrigerator / холодильник
@@ -169,6 +174,7 @@ tags: [vocabulario, sustantivos]
 - **la papelera** - wastebasket / мусорная корзина
 - **el patinete** - scooter / самокат
 - **el patito** - duckling / утенок
+- **la pecera** - fishbowl / аквариум (шарообразный)
 - **el pedo** - fart / пук
 - **la percha** - hanger / вешалка-плечики
 - **el perchero** - coat rack / вешалка
@@ -215,10 +221,12 @@ tags: [vocabulario, sustantivos]
 - **el teléfono** - telephone / телефон
 - **el terciopelo** - velvet / бархат
 - **la tilde** - accent mark / тильда, ударение
+- **la toalla** - towel / полотенце
 - **el/la turista** - tourist / турист
 - **la ubicación** - location / местоположение
-- **la uña** - nail / ноготь
+- **la UNED** - distance university / университет дистанционного обучения
 - **la unidad** - unit / единица
+- **la uña** - nail / ноготь
 - **el usuario** - user / пользователь
 - **el valor** - value, courage / ценность, смелость
 - **la vela** - candle, sail, sailing / свеча, парус, парусный спорт

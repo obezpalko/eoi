@@ -37,16 +37,35 @@ Suelen ser femeninos los sustantivos que terminan en:
 Sustantivos femeninos que en singular usan el artículo **el** para evitar la cacofonía, pero mantienen el género femenino (en plural usan **las**).
 - *el agua / las aguas*
 - *el águila / las águilas*
+- *el alma / las almas*
+- *el arma / las armas*
+- *el aula / las aulas*
+- *el hacha / las hachas*
 - *el hambre*
-- *el hacha*
 
 ### Sustantivos comunes en cuanto al género (una sola forma)
 Palabras que no cambian su terminación; el género lo indica el artículo.
-- *el/la periodista*
-- *el/la estudiante*
+- *el/la artista*
 - *el/la cantante*
-- *el/la turista*
+- *el/la comercial*
+- *el/la dentista*
+- *el/la esteticista*
+- *el/la estudiante*
+- *el/la gerente*
+- *el/la influencer*
+- *el/la intérprete*
+- *el/la masajista*
 - *el/la modelo*
+- *el/la nutricionista*
+- *el/la oficinista*
+- *el/la pensionista*
+- *el/la periodista*
+- *el/la piloto*
+- *el/la policía*
+- *el/la recepcionista*
+- *el/la taxista*
+- *el/la turista*
+- *el/la youtuber*
 
 ---
 

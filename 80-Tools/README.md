@@ -127,7 +127,7 @@ python3 fix_image_paths.py
 **Example:**
 
 - Before: `![[60-Cultura/España vs Hispanoamerica/gafas.jpg]]`
-- After: `![[gafas.jpg]]` (when file is in `60-Cultura/España vs Hispanoamerica/`)
+- After: `![[../30-Vocabulario/Temas/Siempre Plural/gafas.jpg]]` (when file is in `60-Cultura/España vs Hispanoamerica/`)
 
 ---
 

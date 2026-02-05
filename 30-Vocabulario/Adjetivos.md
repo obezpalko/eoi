@@ -8,8 +8,10 @@ tags: [vocabulario, adjetivos]
 - **agotado/a** - exhausted / истощенный, изнуренный
 - **alegre** - happy, cheerful / веселый, радостный
 - **ambiguo/a** - ambiguous, unclear / неоднозначный, двусмысленный
+- **ancho/a** - wide / широкий
 - **angustiado/a** - distressed, anxious / встревоженный, страдающий
 - **ansioso/a** - anxious / тревожный, жаждущий
+- **antiguo/a** - ancient, old / древний, старый
 - **apático/a** - apathetic / апатичный
 - **asustado/a** - scared / испуганный
 - **avergonzado/a** - embarrassed, ashamed / пристыженный, смущенный
@@ -23,6 +25,7 @@ tags: [vocabulario, adjetivos]
 - **cariñoso/a** - affectionate / ласковый
 - **casado/a** - married / женатый, замужняя
 - **comprometido/a** - engaged / обрученный, обрученная
+- **congelado/a** - frozen / замороженный
 - **contento/a** - happy, content / довольный
 - **cosmopolita** - cosmopolitan / космополитичный
 - **curioso/a** - curious / любопытный
@@ -40,6 +43,7 @@ tags: [vocabulario, adjetivos]
 - **encantado/a** - pleased / рад
 - **enfadado/a** - angry / сердитый
 - **enfermo/a** - sick / больной
+- **estrecho/a** - narrow / узкий
 - **extranjero/a** - foreign, foreigner / иностранный, иностранец
 - **fácil** - easy / легкий
 - **feliz** - happy / счастливый
@@ -73,6 +77,7 @@ tags: [vocabulario, adjetivos]
 - **manchego/a** - from La Mancha / манчего
 - **mejor** - better / лучший
 - **melancólico/a** - melancholy / меланхоличный
+- **moderno/a** - modern / современный
 - **nocturno/a** - nocturnal, night / ночной
 - **nervioso/a** - nervous / нервный
 - **optimista** - optimistic / оптимистичный

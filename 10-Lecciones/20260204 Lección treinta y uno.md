@@ -4,9 +4,9 @@ tags:
   - lección
 date: 2026-02-04
 ---
-# Lección 
+# 031: Mi Barrio y Preposiciones
 
-[[../40-Deberes/20260000 Lección template|Deberes]]
+[[../40-Deberes/20260204 Lección treinta y uno|Deberes]]
 
 ## Información
 
@@ -50,7 +50,7 @@ Palabras incontables
 - en y encima de
 - en y dentro de
 - detrás de
-- enfrente de / frente a (лицо у объекту?)
+- enfrente de / frente a (¿cara al objeto?)
 - al lado de / junto a
 - a la izquierda / a la derecha 
 - alrededor de 
@@ -61,7 +61,7 @@ Palabras incontables
 - palabras incontables 
 - amistad
 - ancha/estrecha 
-- piscinas privadas/públicos/municipales
+- piscinas privadas/públicas/municipales
 - controversias 
 	- moderno/a - antiguo/, viejo/a
 	- estrecho/a - ancho/a
@@ -87,4 +87,4 @@ Palabras incontables
 ---
 
 **Navegación:**
-[[20260000 Lección anterior|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260204 Lección treinta y uno|Deberes →]]
+[[20260202 Lección treinta|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️
