@@ -5,22 +5,25 @@ tags: [vocabulario, general]
 
 ## 1. Posiciones
 
-| Imagen                                                   | Palabra          | Significado<br>(EN / RU)       | Ejemplo                                 |
-| :------------------------------------------------------- | :--------------- | :----------------------------- | :-------------------------------------- |
-| ![[attachments/preposiciones/preposicion_abajo.jpg]]     | **Abajo**        | down, at the bottom <br>внизу, снизу | El niño está **abajo**.                 |
-| ![[attachments/preposiciones/preposicion_alrededor.jpg]] | **Alrededor de** | around <br>вокруг              | La valla está **alrededor del** jardín. |
-| ![[attachments/preposiciones/preposicion_arriba.jpg]]    | **Arriba**       | up, at the top <br>вверху, наверху | Hay nieve **arriba** de la montaña.     |
-| ![[attachments/preposiciones/preposicion_cerca.jpg]]     | **Cerca**        | near <br>близко                | Mis amigos están **cerca**.             |
-| ![[attachments/preposiciones/preposicion_debajo.jpg]]    | **Debajo de**    | under <br>под                  | El gato está **debajo de** la manta.    |
-| ![[attachments/preposiciones/preposicion_delante.jpg]]   | **Delante de**   | in front of <br>перед (чем-то) | El coche está **delante de** la casa.   |
-| ![[attachments/preposiciones/preposicion_dentro.jpg]]    | **Dentro de**    | inside <br>внутри              | El gato está **dentro de** la caja.     |
-| ![[attachments/preposiciones/preposicion_detras.jpg]]    | **Detrás de**    | behind <br>позади              | El gato está **detrás de** la cortina.  |
-| ![[attachments/preposiciones/preposicion_encima.jpg]]    | **Encima de**    | on top of <br>на               | La taza está **encima de** la mesa.     |
-| ![[attachments/preposiciones/preposicion_enfrente.jpg]]  | **Enfrente**     | opposite, across <br>напротив  | Están sentados **enfrente**.            |
-| ![[attachments/preposiciones/preposicion_entre.jpg]]     | **Entre**        | between <br>между              | El camino pasa **entre** los árboles.   |
-| ![[attachments/preposiciones/preposicion_fuera.jpg]]     | **Fuera de**     | outside <br>снаружи            | La terraza está **fuera**.              |
-| ![[attachments/preposiciones/preposicion_lejos.jpg]]     | **Lejos**        | far <br>далеко                 | La persona camina **lejos**.            |
-| ![[attachments/preposiciones/preposicion_sobre.jpg]]     | **Sobre**        | on, about <br>на, о            | El libro está **sobre** el escritorio.  |
+| Imagen                                                   | Palabra                    | Significado<br>(EN / RU)                     | Ejemplo                                 |
+| :------------------------------------------------------- | :------------------------- | :------------------------------------------- | :-------------------------------------- |
+| ![[attachments/preposiciones/preposicion_abajo.jpg]]     | **Abajo**                  | down, at the bottom <br>внизу, снизу         | El niño está **abajo**.                 |
+| -                                                        | **Al lado de / Junto a**   | next to <br>рядом с                          | Está **junto a** mí.                    |
+| ![[attachments/preposiciones/preposicion_alrededor.jpg]] | **Alrededor de**           | around <br>вокруг                            | La valla está **alrededor del** jardín. |
+| ![[attachments/preposiciones/preposicion_arriba.jpg]]    | **Arriba**                 | up, at the top <br>вверху, наверху           | Hay nieve **arriba** de la montaña.     |
+| -                                                        | **A la derecha**           | to the right <br>направо                     | Gira **a la derecha**.                  |
+| -                                                        | **A la izquierda**         | to the left <br>налево                       | Gira **a la izquierda**.                |
+| ![[attachments/preposiciones/preposicion_cerca.jpg]]     | **Cerca**                  | near <br>близко                              | Mis amigos están **cerca**.             |
+| ![[attachments/preposiciones/preposicion_debajo.jpg]]    | **Debajo de / Bajo**       | under <br>под                                | El gato está **debajo de** la manta.    |
+| ![[attachments/preposiciones/preposicion_delante.jpg]]   | **Delante de**             | in front of <br>перед (чем-то)               | El coche está **delante de** la casa.   |
+| ![[attachments/preposiciones/preposicion_dentro.jpg]]    | **Dentro de**              | inside <br>внутри                            | El gato está **dentro de** la caja.     |
+| ![[attachments/preposiciones/preposicion_detras.jpg]]    | **Detrás de**              | behind <br>позади                            | El gato está **detrás de** la cortina.  |
+| ![[attachments/preposiciones/preposicion_encima.jpg]]    | **Encima de**              | on top of <br>на                             | La taza está **encima de** la mesa.     |
+| ![[attachments/preposiciones/preposicion_enfrente.jpg]]  | **Enfrente de / Frente a** | opposite, across <br>напротив                | Están sentados **enfrente**.            |
+| ![[attachments/preposiciones/preposicion_entre.jpg]]     | **Entre / En medio de**    | between, in the middle of <br>между, посреди | El camino pasa **entre** los árboles.   |
+| ![[attachments/preposiciones/preposicion_fuera.jpg]]     | **Fuera de**               | outside <br>снаружи                          | La terraza está **fuera**.              |
+| ![[attachments/preposiciones/preposicion_lejos.jpg]]     | **Lejos**                  | far <br>далеко                               | La persona camina **lejos**.            |
+| ![[attachments/preposiciones/preposicion_sobre.jpg]]     | **Sobre**                  | on, about <br>на, о                          | El libro está **sobre** el escritorio.  |
 
 ## 2. Adverbios Genéricos
 
@@ -40,7 +43,6 @@ tags: [vocabulario, general]
 | **Despacio** | slowly <br>медленно                         | Camina **despacio**.      |
 | **Después**  | after <br>после                             | **Después** de la clase.  |
 | **Jamás**    | never <br>никогда (усиленно)                | No lo haré **jamás**.     |
-| **Junto a**  | next to <br>рядом с                         | Está **junto a** mí.      |
 | **Mal**      | badly <br>плохо                             | Me siento **mal**.        |
 | **Nunca**    | never <br>никогда                           | **Nunca** llego tarde.    |
 | **Siempre**  | always <br>всегда                           | **Siempre** estudio.      |

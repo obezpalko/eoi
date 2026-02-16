@@ -184,6 +184,7 @@ tags: [vocabulario, sustantivos]
 - **la piedra** - stone / камень
 - **la piel** - leather, skin / кожа
 - **la pierna** - leg / нога
+- **la piscina** - swimming pool / бассейн
 - **la pizarra** - blackboard / доска
 - **el placer** - pleasure / удовольствие
 - **el plástico** - plastic / пластик
