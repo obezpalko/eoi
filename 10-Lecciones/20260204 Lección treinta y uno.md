@@ -1,7 +1,5 @@
 ---
-tags:
-  - español
-  - lección
+tags: [lección]
 date: 2026-02-04
 ---
 # 031: Mi Barrio y Preposiciones
@@ -42,7 +40,7 @@ Palabras incontables
 - amistad
 
 ### preposiciones 
-
+[[../30-Vocabulario/Adverbios y Preposiciones|Adverbios y Preposiciones]]
 - aquí, allí
 - sobre, de
 - debajo de, bajo
@@ -87,4 +85,4 @@ Palabras incontables
 ---
 
 **Navegación:**
-[[20260202 Lección treinta|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️
+[[20260202 Lección treinta|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260216 Lección treinta y dos|📝 Deberes]] | [[20260216 Lección treinta y dos|Lección siguiente ➡️]]
