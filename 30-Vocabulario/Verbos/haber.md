@@ -21,6 +21,7 @@ El verbo **Haber** es el verbo auxiliar más importante del español. Se utiliza
 ---
 
 ### Reglas de Uso
+[[el uso de hay]]
 
 #### 1. Existencia (Forma Impersonal: HAY)
 Se usa para indicar que algo existe en un lugar. 
