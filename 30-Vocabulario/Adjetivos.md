@@ -4,12 +4,14 @@ tags: [vocabulario, adjetivos]
 # Adjetivos
 
 - **aburrido/a** - boring, bored / скучный, скучающий
+- **acogedor/a** - cozy / уютный
 - **agitado/a** - agitated / взволнованный, возбужденный
 - **agotado/a** - exhausted / истощенный, изнуренный
 - **alegre** - happy, cheerful / веселый, радостный
 - **ambiguo/a** - ambiguous, unclear / неоднозначный, двусмысленный
 - **ancho/a** - wide / широкий
 - **angustiado/a** - distressed, anxious / встревоженный, страдающий
+- **animado/a** - lively, animated / оживленный
 - **ansioso/a** - anxious / тревожный, жаждущий
 - **antiguo/a** - ancient, old / древний, старый
 - **apático/a** - apathetic / апатичный
@@ -17,21 +19,26 @@ tags: [vocabulario, adjetivos]
 - **avergonzado/a** - embarrassed, ashamed / пристыженный, смущенный
 - **bajo/a** - short (stature) / низкий
 - **blando/a** - soft / мягкий
+- **bohemio/a** - bohemian / богемный
 - **bueno/a** - good / хороший
+- **bullicioso/a** - noisy, bustling / шумный, суетливый
 - **caliente** - hot / горячий
 - **calmado/a** - calm / спокойный
 - **caluroso/a** - hot (person/weather) / жаркий
 - **cansado/a** - tired / уставший
+- **caótico/a** - chaotic / хаотичный
 - **cariñoso/a** - affectionate / ласковый
 - **casado/a** - married / женатый, замужняя
 - **comprometido/a** - engaged / обрученный, обрученная
 - **congelado/a** - frozen / замороженный
 - **contento/a** - happy, content / довольный
 - **cosmopolita** - cosmopolitan / космополитичный
+- **costero/a** - coastal / прибрежный
 - **curioso/a** - curious / любопытный
 - **débil** - weak / слабый
 - **delgado/a** - slim / стройный
 - **desamorado/a** - indifferent, unloving / нелюбящий, равнодушный
+- **descuidado/a** - neglected, careless / запущенный, небрежный
 - **difícil** - difficult / трудный
 - **disgustado/a** - upset, annoyed / расстроенный, недовольный
 - **divertido/a** - fun / веселый, забавный
@@ -40,7 +47,8 @@ tags: [vocabulario, adjetivos]
 - **diurno/a** - daytime / дневной
 - **emocionado/a** - excited, emotional / взволнованный, эмоциональный
 - **enamorado/a** - in love / влюбленный
-- **encantado/a** - pleased / рад
+- **encantado/a** - pleased / рад (встрече)
+- **encantador/a** - charming / очаровательный
 - **enfadado/a** - angry / сердитый
 - **enfermo/a** - sick / больной
 - **estrecho/a** - narrow / узкий
@@ -78,16 +86,21 @@ tags: [vocabulario, adjetivos]
 - **mejor** - better / лучший
 - **melancólico/a** - melancholy / меланхоличный
 - **moderno/a** - modern / современный
+- **mucho/a** - much, many / много, многий
 - **nocturno/a** - nocturnal, night / ночной
 - **nervioso/a** - nervous / нервный
 - **optimista** - optimistic / оптимистичный
 - **orgulloso/a** - proud / гордый
 - **pequeño/a** - small / маленький
 - **peor** - worse / худший
+- **perezoso/a** - lazy / ленивый
 - **perjudicial** - harmful / вредный
 - **pesimista** - pessimistic / пессимистичный
+- **pintoresco/a** - picturesque / живописный
 - **preocupado/a** - worried / обеспокоенный
 - **rápido/a** - fast / быстрый
+- **rectangular** - rectangular / прямоугольный
+- **redondo/a** - round / круглый
 - **relajado/a** - relaxed / расслабленный
 - **resfriado/a** - having a cold / простуженный
 - **salado/a** - salty / соленый

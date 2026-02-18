@@ -24,12 +24,14 @@ tags: [vocabulario, sustantivos]
 - **el barco** - boat / корабль
 - **el barrio** - neighborhood / район
 - **la berenjena** - eggplant / баклажан
+- **el bicho** - bug / букашка, козявка
 - **la bicicleta** - bicycle / велосипед
 - **la boda** - wedding / свадьба
 - **la bolera** - bowling alley / боулинг
 - **el bolígrafo borrable** - erasable pen / стираемая ручка
 - **la bolsa** - bag (plastic/paper) / пакет
 - **el bolso** - handbag / сумка
+- **el bullicio** - bustle, noise / шум, суета
 - **el borrador** - eraser / ластик
 - **el botón de arranque** - start button / кнопка запуска
 - **el brazo** - arm / рука (от плеча до кисти)
@@ -38,6 +40,7 @@ tags: [vocabulario, sustantivos]
 - **el burro** - donkey / oсел
 - **el caballo** - horse / лошадь
 - **el cajón** - drawer / ящик
+- **la calculadora** - calculator / калькулятор
 - **la canasta** - basket / корзина
 - **la canción de cuna** - lullaby / колыбельная песня
 - **las carcajadas** - laughter / хохот
@@ -83,6 +86,7 @@ tags: [vocabulario, sustantivos]
 - **el equipaje** - luggage / багаж
 - **el erizo** - hedgehog / еж
 - **la escoba** - broom / метла
+- **la estantería** - shelf, bookcase / полка, стеллаж
 - **el estribillo** - chorus, refrain / припев
 - **el estuche** - pencil case / пенал
 - **la estufa** - stove, heater / печь, обогреватель
@@ -96,15 +100,20 @@ tags: [vocabulario, sustantivos]
 - **el futbolín** - foosball / настольный футбол
 - **la galleta** - cookie / печенье
 - **el ganso** - goose / гусь
+- **el flexo** - desk lamp / настольная лампа
 - **el geranio** - geranium / герань
 - **el gitano** - gypsy, Roma person / цыган
 - **el gofre** - waffle / вафля
 - **el gusano** - worm / червяк
 - **el halago** - compliment, flattery / комплимент, лесть
+- **la goma de borrar** - eraser / ластик
+- **la goma para el pelo** - hair tie / резинка для волос
 - **la herida** - wound / рана
+- **el hambre** (f) - hunger / голод
 - **la historia** - story, history / история
 - **el hombro** - shoulder / плечо
 - **la hucha** - piggy bank / копилка
+- **la hormiga** - ant / муравей
 - **el huevo** - egg / яйцо
 - **el idioma** - language / язык
 - **el imán** - magnet / магнит
@@ -120,6 +129,7 @@ tags: [vocabulario, sustantivos]
 - **la joyería** - jewelry store / ювелирный магазин
 - **el juez** - judge / судья
 - **el juzgado** - court / суд
+- **el lapicero** - pencil holder / подставка для карандашей
 - **el lago** - lake / озеро
 - **la lágrima** - tear / слеза
 - **la lana** - wool / шерсть
@@ -170,8 +180,10 @@ tags: [vocabulario, sustantivos]
 - **el padre** - father / отец
 - **la palomita / palomitas de maíz** - popcorn / попкорн
 - **el papá** - dad / папа
+- **la pantalla** - screen / экран
 - **el papel** - paper / бумага
 - **la papelera** - wastebasket / мусорная корзина
+- **el paraguas** - umbrella / зонт
 - **el patinete** - scooter / самокат
 - **el patito** - duckling / утенок
 - **la pecera** - fishbowl / аквариум (шарообразный)
@@ -210,16 +222,21 @@ tags: [vocabulario, sustantivos]
 - **el sacapuntas** - pencil sharpener / точилка
 - **la salchicha** - sausage / сосиска
 - **la sandía** - watermelon / арбуз
+- **la sed** - thirst / жажда
 - **la seda** - silk / шёлк
 - **el seguidor** - follower / последователь, подписчик
 - **el seno** - breast, bosom / грудь, пазуха
 - **el servicio** - service, restroom / служебное помещение, туалет
 - **el signo de exclamación** - exclamation mark / восклицательный знак
 - **el signo de interrogación** - question mark / вопросительный знак
+- **la suciedad** - dirtiness / грязь
+- **el suelo** - floor / пол
 - **el taller** - workshop / мастерская
 - **la tapa** - lid, cover, tapa / крышка, тапа
 - **la tela** - fabric / ткань
+- **el teclado** - keyboard / клавиатура
 - **el teléfono** - telephone / телефон
+- **el teléfono fijo** - landline / городской (стационарный) телефон
 - **el terciopelo** - velvet / бархат
 - **la tilde** - accent mark / тильда, ударение
 - **la toalla** - towel / полотенце
@@ -228,6 +245,7 @@ tags: [vocabulario, sustantivos]
 - **la UNED** - distance university / университет дистанционного обучения
 - **la unidad** - unit / единица
 - **la uña** - nail / ноготь
+- **la torre** - tower (CPU) / системный блок
 - **el usuario** - user / пользователь
 - **el valor** - value, courage / ценность, смелость
 - **la vela** - candle, sail, sailing / свеча, парус, парусный спорт
