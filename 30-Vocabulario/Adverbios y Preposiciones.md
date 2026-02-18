@@ -44,5 +44,7 @@ tags: [vocabulario, general]
 | **Después**  | after <br>после                             | **Después** de la clase.  |
 | **Jamás**    | never <br>никогда (усиленно)                | No lo haré **jamás**.     |
 | **Mal**      | badly <br>плохо                             | Me siento **mal**.        |
+| **Mucho**    | much, a lot <br>много                       | Te quiero **mucho**.      |
+| **Muy**      | very <br>очень                              | Es **muy** rápido.        |
 | **Nunca**    | never <br>никогда                           | **Nunca** llego tarde.    |
 | **Siempre**  | always <br>всегда                           | **Siempre** estudio.      |

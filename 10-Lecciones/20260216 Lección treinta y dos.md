@@ -2,7 +2,7 @@
 tags: [lección]
 date: 2026-02-16
 ---
-# 032: [Tema de la lección]
+# 032: Muy y Mucho y la Ciudad
 
 [[../40-Deberes/20260216 Lección treinta y dos|Deberes]]
 
@@ -19,12 +19,12 @@ date: 2026-02-16
 [[../20-Gramática/Muy VS mucho|Muy VS mucho]]
 - vives muy lejos del centro 
 - hablas muy alto
-- ma cama es muy pequeña 
-- este libro es muy bien 
+- mi cama es muy pequeña 
+- este libro está muy bien 
 - huele muy mal 
 - siempre compro mucha (poca) fruta
 - tengo muchos relojes 
-- Pedro baila mucho
+- Petro baila mucho
 - conoces a muchos famosos
 - me gusta dormir mucho (poco)
 - tengo mucha (muchísima, poco, poquísima) hambre
@@ -33,31 +33,31 @@ date: 2026-02-16
 - escribo muchas historias 
 
 ¡Lo siento mucho!
-?Falta mucho?
+¿Falta mucho?
 Te quiero mucho.
 Mucho gusto.
 Hace mucho (que no voy al cine)
-!Mucha suerte!
+¡Mucha suerte!
 
 - mi cama es muy cómoda 
 - mis vecinos son muy extraños 
 - cuando estoy nervioso hablo mucho 
-- en mi ciudad llueve muchos veces
-- no quiero comer mucho no tengo hambre 
+- en mi ciudad llueve muchas veces
+- no quiero comer mucho, no tengo hambre 
 - mi tío tiene muchas casas en el extranjero 
 - tengo mucho miedo a las arañas 
 - mi perro es muy grande y duerme en mi cama 
 - no me gusta mucho madrugar 
 - no me gusta levantarme muy pronto 
-- en mi jardín ha muchas hormigas 
+- en mi jardín hay muchas hormigas 
 - hoy hace un tiempo muy malo
 - tienes el pelo muy largo
 - vivo muy cerca de aquí 
 - tengo que estudiar mucho para este examen 
-- mi habitación tiene mucho suciedad
-- ¡Mucho suerte en el examen!
+- mi habitación tiene mucha suciedad
+- ¡Mucha suerte en el examen!
 - vivo con muchos gatos
-- mis gatosvson muy perezosos
+- mis gatos son muy perezosos
 
 ### [[../30-Vocabulario/Verbos/haber|haber]]
 
@@ -91,12 +91,12 @@ acogedor
 - teléfono fijo 
 - pegado 
 - me toca 
-- mu bien (muy bien )
+- muy bien 
 - huele [[../30-Vocabulario/Verbos/oler|oler]]
 - el hambre (femenino)
 - la sed
 - el bicho
-- el hormiga
+- la hormiga
 - mucha suerte 
 - la suciedad
 - 
@@ -107,6 +107,6 @@ paraguas y sacapuntas - siempre in plural. El/Los para plural
 ---
 
 **Navegación:**
-[[20260204 Lección treinta y uno|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️
+[[20260204 Lección treinta y uno|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260218 Lección treinta y tres|📝 Deberes]] | [[20260218 Lección treinta y tres|Lección siguiente ➡️]]
 
 
