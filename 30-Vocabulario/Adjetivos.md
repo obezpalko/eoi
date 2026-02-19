@@ -32,6 +32,7 @@ tags: [vocabulario, adjetivos]
 - **comprometido/a** - engaged / обрученный, обрученная
 - **congelado/a** - frozen / замороженный
 - **contento/a** - happy, content / довольный
+- **cortado/a** - cut, dead-end (street) / отрезанный, тупиковый (улица)
 - **cosmopolita** - cosmopolitan / космополитичный
 - **costero/a** - coastal / прибрежный
 - **curioso/a** - curious / любопытный

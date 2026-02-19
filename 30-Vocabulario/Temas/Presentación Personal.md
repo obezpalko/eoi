@@ -192,6 +192,10 @@ La presentación personal es una de las habilidades más importantes al aprender
 ## Gramática Relacionada
 
 ### Palabras Interrogativas
+ 
+ > [!TIP] Guía completa
+ > Para ver todas las reglas y ejemplos detallados, consulta: [[../../20-Gramática/Las Palabras Interrogativas|Las Palabras Interrogativas]]
+
 
 | Español                       | Uso                                | Ejemplo               |
 | ----------------------------- | ---------------------------------- | --------------------- |

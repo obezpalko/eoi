@@ -14,6 +14,7 @@ date: 2026-02-16
 ### preposiciones de lugar 
 
 [[../30-Vocabulario/Temas/Describir la casa|Describir la casa]]
+[[../30-Vocabulario/Temas/La Ciudad y el Barrio|La Ciudad y el Barrio]]
 
 ### muy y mucho 
 [[../20-Gramática/Muy VS mucho|Muy VS mucho]]

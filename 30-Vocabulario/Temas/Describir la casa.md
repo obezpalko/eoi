@@ -7,12 +7,12 @@
 
 ## 🛠️ Cómo describir una ventana correctamente
 
-| Verbo | Uso | Ejemplo en español | Traducción (RU / EN) |
-| :--- | :--- | :--- | :--- |
-| **TENER** | Para partes de la estructura | La pared **tiene** una ventana. | В стене есть окно / The wall has a window. |
-| **HAY** | Para existencia general | **Hay** una ventana grande. | Там есть окно / There is a window. |
-| **ESTAR** | Para posición específica | La ventana **está** a la izquierda. | Окно находится слева / The window is on the left. |
-| **DAR A** | Para vistas/orientación | La ventana **da** al patio. | Окно выходит во двор / The window faces the yard. |
+| Verbo     | Uso                          | Ejemplo en español                  | Traducción (RU / EN)                              |
+| :-------- | :--------------------------- | :---------------------------------- | :------------------------------------------------ |
+| **TENER** | Para partes de la estructura | La pared **tiene** una ventana.     | В стене есть окно / The wall has a window.        |
+| **HAY**   | Para existencia general      | **Hay** una ventana grande.         | Там есть окно / There is a window.                |
+| **ESTAR** | Para posición específica     | La ventana **está** a la izquierda. | Окно находится слева / The window is on the left. |
+| **DAR A** | Para vistas/orientación      | La ventana **da** al patio.         | Окно выходит во двор / The window faces the yard. |
 
 
 

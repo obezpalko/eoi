@@ -27,7 +27,7 @@ date: 2025-10-29
 
 > [!TIP] Regla de acentuación
 > Las palabras interrogativas (**qué, cuándo, dónde, por qué...**) **siempre** llevan tilde para distinguirlas de las respuestas o afirmaciones.
-> Ver más: [[../30-Vocabulario/Palabras interrogativas|Palabras interrogativas]]
+> Ver más: [[../20-Gramática/Las Palabras Interrogativas|Las Palabras Interrogativas]]
 
 ### Imperativos (Tú)
 
