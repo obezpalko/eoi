@@ -89,6 +89,10 @@ tags:
 - [[../30-Vocabulario/Verbos/llamarse|Llamarse]]
 
 ### Palabras interrogativas
+ 
+ > [!TIP] Guía completa
+ > Para ver todas las reglas y ejemplos detallados, consulta: [[../20-Gramática/Las Palabras Interrogativas|Las Palabras Interrogativas]]
+
 
 | Español                       | Uso                                | Ejemplo               |
 | ----------------------------- | ---------------------------------- | --------------------- |
