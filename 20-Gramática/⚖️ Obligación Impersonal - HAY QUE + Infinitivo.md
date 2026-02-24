@@ -15,6 +15,7 @@ A diferencia de "Tener que", el verbo **Hay que** no se conjuga. Siempre se usa 
 | **Hay que** comer sano. | One must eat healthy. | **Нужно** есть здоровую пищу. |
 | **Hay que** pagar impuestos. | It is necessary to pay taxes. | **Нужно** платить налоги. |
 | **Hay que** estudiar para aprender. | You have to study to learn. | **Надо** учиться, чтобы научиться. |
+| Para el examen, **hay que** traer un bolígrafo. | For the exam, it is necessary to bring a pen. | Для экзамена **нужно** принести ручку. |
 
 ---
 

@@ -13,6 +13,8 @@ tags: [vocabulario, sustantivos]
 - **el algodón** - cotton / хлопок
 - **la almohada** - pillow / подушка
 - **la amistad** - friendship / дружба
+- **el ambiente** - environment, atmosphere / атмосфера, окружающая среда
+- **la ansiedad** - anxiety / тревога
 - **el aparcamiento** - parking lot / парковка
 - **el apellido** - surname, last name / фамилия
 - **el apretón** - handshake, squeeze / рукопожатие
@@ -40,6 +42,7 @@ tags: [vocabulario, sustantivos]
 - **el bolso** - handbag / сумка
 - **el borrador** - eraser / ластик
 - **el botón de arranque** - start button / кнопка запуска
+- **el abrazo** - hug / объятие
 - **el brazo** - arm / рука (от плеча до кисти)
 - **la broma** - joke / шутка
 - **la bruja** - witch / ведьма
@@ -77,6 +80,7 @@ tags: [vocabulario, sustantivos]
 - **la comilona** - big meal, feast / пиршество
 - **la comisaría** - police station / полицейский участок
 - **la consonante** - consonant / согласная
+- **el consejo** - advice / совет
 - **el contenedor** - container, dumpster / контейнер
 - **el correo electrónico** - email / электронная почта
 - **correos** - post office / почта
@@ -217,6 +221,7 @@ tags: [vocabulario, sustantivos]
 - **el paso de peatones** - pedestrian crossing / пешеходный переход
 - **el patinete** - scooter / самокат
 - **el patito** - duckling / утенок
+- **el/la peregrino/a** - pilgrim / паломник/ца
 - **la pecera** - fishbowl / аквариум (шарообразный)
 - **el pedo** - fart / пук
 - **la peluquería** - hair salon / парикмахерская
@@ -246,6 +251,7 @@ tags: [vocabulario, sustantivos]
 - **el rayo** - beam, lightning / луч, молния
 - **la razón** - reason / причина
 - **el reciclaje** - recycling / переработка
+- **la recomendación** - recommendation / рекомендация
 - **la resaca** - hangover / похмелье
 - **la residencia** - residence / место жительства
 - **el retraso** - delay, lateness / опоздание, задержка
@@ -267,6 +273,7 @@ tags: [vocabulario, sustantivos]
 - **el signo de interrogación** - question mark / вопросительный знак
 - **la suciedad** - dirtiness / грязь
 - **el suelo** - floor / пол
+- **la sugerencia** - suggestion / предложение
 - **el taller** - workshop / мастерская
 - **la tapa** - lid, cover, tapa / крышка, тапа
 - **la tela** - fabric / ткань
@@ -296,6 +303,8 @@ tags: [vocabulario, sustantivos]
 - **el vino** - wine / вино
 - **la vocal** - vowel / гласная
 - **el volante** - steering wheel / руль
+- **la vida sana** - healthy life / здоровый образ жизни
+- **la vida saludable** - healthy life / здоровый (полезный) образ жизни
 - **la voluntad** - will, willpower / воля
 - **la voz** - voice / голос
 - **el xilófono** - xylophone / ксилофон
