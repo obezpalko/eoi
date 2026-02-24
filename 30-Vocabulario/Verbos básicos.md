@@ -16,6 +16,7 @@ tags: [vocabulario, verbos]
 - **[[Verbos/vivir|vivir]]** - to live / жить
 - **abrazar(se)** - to hug / обнимать(ся)
 - **abrir** - to open / открывать
+- **adelgazar** - to lose weight, slim down / худеть
 - **adivinar** - to guess / угадывать
 - **almorzar** - to have lunch / обедать
 - **andar** - to walk / ходить

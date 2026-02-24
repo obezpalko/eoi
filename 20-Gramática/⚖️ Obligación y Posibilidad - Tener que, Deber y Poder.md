@@ -23,6 +23,8 @@ Diferencias en el grado de obligación y libertad de elección. / Differences in
 * **English:** "Should" / "Ought to" (Advice or moral duty).
 * **Русский:** **Следует / Стоит** (совет или моральный долг).
 * **Uso:** Consejos fuertes o lo que es "correcto" socialmente.
+- **Ejemplo (Lección 034):** "Si tú quieres una vida sana, **debes** correr 30 minutos."
+- **Ejemplo (Lección 034):** "Si quieres **adelgazar**, **debes** comer menos pan."
 
 | Ejemplo en Español | English Translation | Перевод на русский |
 | :--- | :--- | :--- |
@@ -43,6 +45,7 @@ Diferencias en el grado de obligación y libertad de elección. / Differences in
 | **Puedo** ir a la playa hoy. | I **can** go to the beach today. | Я **могу** пойти на пляж сегодня. |
 | ¿**Puedo** entrar? | **May** I come in? | **Можно** войти? |
 | Aquí **puedes** pagar con móvil. | You **can** pay with your phone here. | Здесь ты **можешь** платить телефоном. |
+| Si te gusta la playa, **puedes** ir a Menorca. | If you like the beach, you **can** go to Menorca. | Если тебе нравится пляж, ты **можешь** поехать на Менорку. |
 
 ---
 

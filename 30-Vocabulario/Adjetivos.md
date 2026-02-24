@@ -35,6 +35,7 @@ tags: [vocabulario, adjetivos]
 - **cortado/a** - cut, dead-end (street) / отрезанный, тупиковый (улица)
 - **cosmopolita** - cosmopolitan / космополитичный
 - **costero/a** - coastal / прибрежный
+- **cristalino/a** - crystalline, crystal clear / кристально чистый
 - **curioso/a** - curious / любопытный
 - **débil** - weak / слабый
 - **delgado/a** - slim / стройный

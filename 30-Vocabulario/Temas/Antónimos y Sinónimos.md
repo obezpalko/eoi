@@ -71,6 +71,7 @@ Este documento recopila parejas de palabras con significados opuestos (antónimo
 
 | Palabra A         | Palabra B       | Significado A (EN / RU) | Significado B (EN / RU) |
 | :---------------- | :-------------- | :---------------------- | :---------------------- |
+| **Adelgazar**     | **Engordar**    | To lose weight / Худеть | To gain weight / Толстеть |
 | **Aprender**      | **Enseñar**     | To learn / Учить(ся)    | To teach / Преподавать  |
 | **Comprar**       | **Vender**      | To buy / Покупать       | To sell / Продавать     |
 | **Dar**           | **Recibir**     | To give / Давать        | To receive / Получать   |
@@ -154,3 +155,4 @@ Este documento recopila parejas de palabras con significados opuestos (antónimo
 | **Disfrutar**| **Gozar**         | To enjoy / Наслаждаться     |
 | **Autocar**  | **Autobús**       | Coach / Bus / Автобус       |
 | **Unión de hecho** | **Pareja de hecho** | Domestic partnership / Гражданский брак |
+| **Vida sana**     | **Vida saludable** | Healthy life / Здоровый образ жизни |

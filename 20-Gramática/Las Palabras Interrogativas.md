@@ -69,6 +69,11 @@ Depende del movimiento y el origen:
 - ¿**Cuántos** años tienes? (Edad)
 - ¿**Cuándo** es tu cumpleaños? (Fecha)
 - ¿**Qué** hora es? (Hispanoamérica: *¿Cuál hora es?*)
+- ¿**Cuánto** cuesta la matrícula?
+- ¿**Cuántos** años **lleva Sergei** en la academia?
+- ¿**Cuál** es el idioma que enseña Daniel?
+- ¿**Cuánto** cuestan las naranjas?
+- ¿**Qué** necesitas para el examen?
 - ¿**Cuál** es tu número de teléfono?
 
 ---

@@ -43,6 +43,7 @@ Sustantivos que tienen un significado informal o que se usan comúnmente en la c
 | **La yaya / El yayo** | Grandma / Grandpa                                 | Бабуля / Дедуля    | *Voy a ver a mi yaya este domingo.*                |
 | **Gordo/a**           | Fat (can be very offensive)                       | Толстый            | *Use "gordito/a" or "rellenito/a" to be polite.*   |
 | **Guiri**             | Foreign tourist (usually North European/American) | Иностранный турист | *Esa playa está llena de guiris.*                  |
+| **Flus-flus / Espray / Fu-fu** | Spray / Atomizer (Onomatopoeia) | Пшик-пшик / Спрей | *Ponte un poco de flus-flus (colonia).* |
 
 ## 4. Otras expresiones comunes
 - **A fuego / Afuego**: Cool, great, "on fire" / "Круто", "огонь".
