@@ -76,6 +76,7 @@ tags: [vocabulario, adjetivos]
 - **infinito/a** - infinite / бесконечный
 - **insatisfecho/a** - dissatisfied / неудовлетворенный
 - **inseguro/a** - insecure / небезопасный, неуверенный
+- **inútil** - useless / бесполезный
 - **inspirado/a** - inspired / вдохновленный
 - **inteligente** - intelligent / умный
 - **jaranero/a** - party animal / гуляка
@@ -117,6 +118,7 @@ tags: [vocabulario, adjetivos]
 - **tonto/a** - silly, stupid / глупый
 - **tranquilo/a** - calm, quiet / спокойный, тихий
 - **triste** - sad / грустный
+- **útil** - useful / полезный
 - **vacío/a** - empty / пустой
 - **viejo/a** - old / старый
 - **viudo/a** - widowed / вдовец, вдова

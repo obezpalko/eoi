@@ -36,6 +36,7 @@ tags: [vocabulario, verbos]
 - **chispear** - to drizzle / моросить
 - **cocinar** - to cook / готовить
 - **coger** - to take / брать (в Испании)
+- **comenzar** - to start, begin / начинать
 - **comer** - to eat / есть
 - **comprar** - to buy / покупать
 - **conducir** - to drive / водить
@@ -47,6 +48,7 @@ tags: [vocabulario, verbos]
 - **dividir** - to divide / делить
 - **dormir** - to sleep / спать
 - **echarse** - to lie down, to throw oneself / ложиться, бросаться
+- **empezar** - to start, begin / начинать
 - **empujar** - to push / толкать
 - **encender** - to turn on / включать
 - **enseñar** - to teach, to show / учить, показывать
@@ -78,6 +80,7 @@ tags: [vocabulario, verbos]
 - **meter** - to put in / вставлять, класть внутрь
 - **mezclar** - to mix / смешивать
 - **mirar** - to look at / смотреть
+- **molestar** - to bother, annoy / мешать, беспокоить
 - **montar** - to ride, to mount / кататься, ездить верхом
 - **morir** - to die / умирать
 - **multiplicar** - to multiply / умножать
@@ -109,6 +112,7 @@ tags: [vocabulario, verbos]
 - **romper** - to break / ломать
 - **sacar** - to take out / вынимать, доставать
 - **separar** - to separate / разделять
+- **sonreír** - to smile / улыбаться
 - **soñar** - to dream / мечтать
 - **subir** - to go up / подниматься
 - **sumar** - to add / складывать

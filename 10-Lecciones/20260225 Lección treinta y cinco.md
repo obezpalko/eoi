@@ -2,7 +2,7 @@
 tags: [lección]
 date: 2026-02-25
 ---
-# 035: [Tema de la lección]
+# 035: Condicionales y Consejos para una Vida Saludable
 
 [[../40-Deberes/20260225 Lección treinta y cinco|Deberes]]
 
@@ -92,11 +92,11 @@ Obligación, consejo, advertencia
 
 ### imperativo 
 - Si tú quieres ser feliz 
-	- debes que organizar tú día
+	- debes organizar tu día
 	- tienes que quererte mucho
-	- debes que comer saludable 
+	- debes comer saludable 
 	- tienes que creer en ti
-	- debes que sonreír 
+	- debes sonreír 
 	- debes meditar
 	- puedes hacer deporte 
 	- debes levantarte temprano 
@@ -104,14 +104,14 @@ Obligación, consejo, advertencia
 	1. debes hacer ejercicio físico 
 	2. tienes que beber dos litros de agua cada día 
 	3. debes escuchar tres canciones 
-	4. tienes que abrazar cuarto veces al día 
+	4. tienes que abrazar cuatro veces al día 
 	5. debes comer cinco raciones entre frutas y hortalizas 
 	6. debes ducharte seis minutos de ducha caliente 
 	7. hay que reír siete minutos cada día
 	8. debes dormir ocho horas al día
-	9. tienes que leer nuevo páginas cada día
+	9. tienes que leer nueve páginas cada día
 	10. tienes que reflexionar diez minutos cada día
-- Sí tú quieres comer mejor 
+- Si tú quieres comer mejor 
 
 ### consejos útiles 
 - Para comer saludable, hay que comer azúcares solo ocasionalmente 
@@ -150,4 +150,4 @@ Obligación, consejo, advertencia
 ---
 
 **Navegación:**
-[[20260223 Lección treinta y cuatro|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️
+[[20260223 Lección treinta y cuatro|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260302 Lección treinta y seis|📝 Deberes]] | [[20260302 Lección treinta y seis|Lección siguiente ➡️]]

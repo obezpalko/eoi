@@ -7,7 +7,9 @@ tags: [vocabulario, sustantivos]
 - **el/la abogado/a** - lawyer / адвокат
 - **el abrigo** - coat / пальто
 - **el acuario** - aquarium / аквариум
+- **la advertencia** - warning / предупреждение
 - **el aeropuerto** - airport / аэропорт
+- **la agenda** - agenda, planner / ежедневник, расписание
 - **la agencia de viajes** - travel agency / туристическое агентство
 - **el aguacate** - avocado / авокадо
 - **el algodón** - cotton / хлопок
@@ -94,6 +96,7 @@ tags: [vocabulario, sustantivos]
 - **el dedo** - finger / палец
 - **la destreza** - skill, dexterity / мастерство, ловкость
 - **el diamante** - diamond / алмаз
+- **el diario** - diary, daily / дневник, ежедневная газета
 - **el diminutivo** - diminutive, nickname / уменьшительное имя
 - **la dirección** - address / адрес
 - **el diseñador / la diseñadora** - designer / дизайнер
@@ -101,6 +104,7 @@ tags: [vocabulario, sustantivos]
 - **la edad** - age / возраст
 - **el efectivo** - cash / наличные dinero
 - **el elefante** - elephant / слон
+- **el embutido** - cold meat, sausage / колбасное изделие
 - **el encaje** - lace / кружево
 - **el equipaje** - luggage / багаж
 - **el erizo** - hedgehog / еж
@@ -110,6 +114,7 @@ tags: [vocabulario, sustantivos]
 - **la estantería** - shelf, bookcase / полка, стеллаж
 - **la estación de tren** - train station / вокзал
 - **la estatua** - statue / статуя
+- **la estilista** - stylist / стилист
 - **el estribillo** - chorus, refrain / припев
 - **el estuche** - pencil case / пенал
 - **la estufa** - stove, heater / печь, обогреватель
@@ -141,6 +146,7 @@ tags: [vocabulario, sustantivos]
 - **la hucha** - piggy bank / копилка
 - **el hospital** - hospital / больница
 - **la hormiga** - ant / муравей
+- **las hortalizas** - vegetables, greens / овощи, зелень
 - **el huevo** - egg / яйцо
 - **el idioma** - language / язык
 - **el imán** - magnet / магнит
@@ -165,6 +171,7 @@ tags: [vocabulario, sustantivos]
 - **la lana** - wool / шерсть
 - **la leche condensada** - condensed milk / сгущенное молоко
 - **la lechuga** - lettuce / салат
+- **las legumbres** - legumes, pulses / бобовые
 - **la lengua** - language, tongue / язык
 - **la lengua de señas** - sign language / язык жестов
 - **la lengua materna** - mother tongue / родной язык
@@ -252,6 +259,7 @@ tags: [vocabulario, sustantivos]
 - **la razón** - reason / причина
 - **el reciclaje** - recycling / переработка
 - **la recomendación** - recommendation / рекомендация
+- **la redundancia** - redundancy / избыточность
 - **la resaca** - hangover / похмелье
 - **la residencia** - residence / место жительства
 - **el retraso** - delay, lateness / опоздание, задержка
@@ -300,6 +308,7 @@ tags: [vocabulario, sustantivos]
 - **la vergüenza** - shame / стыд
 - **el vidrio** - glass / стекло
 - **el viento** - wind / ветер
+- **las vistas** - views / виды (из окна, на горы)
 - **el vino** - wine / вино
 - **la vocal** - vowel / гласная
 - **el volante** - steering wheel / руль
