@@ -80,6 +80,7 @@ casas - increíbles - pueblo - turistas - pescadores - isla - familia - costa - 
 - dormir
 
 ### Verbos reflectivos (pronominales)
+Guía completa: [[../20-Gramática/Verbos Reflexivos y Recíprocos|Verbos Reflexivos y Recíprocos]]
 
 |     | levantarse | lavarse | depertarse  | acostarse |
 | --- | ---------- | ------- | ----------- | --------- |
@@ -148,4 +149,4 @@ Verbos recíprocos (siempre plural)
 ---
 
 **Navegación:**
-[[20260225 Lección treinta y cinco|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260303 Lección treinta y siete|📝 Deberes]] | [[20260303 Lección treinta y siete|Lección siguiente ➡️]]
+[[20260225 Lección treinta y cinco|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260304 Lección treinta y siete|📝 Deberes]] | [[20260304 Lección treinta y siete|Lección siguiente ➡️]]

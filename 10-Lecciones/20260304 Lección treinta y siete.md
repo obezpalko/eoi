@@ -1,10 +1,10 @@
 ---
 tags: [lección]
-date: 2026-03-03
+date: 2026-03-04
 ---
 # 037: [Título de la lección]
 
-[[../40-Deberes/20260303 Lección treinta y siete|📝 Deberes de la lección]]
+[[../40-Deberes/20260304 Lección treinta y siete|📝 Deberes de la lección]]
 
 ## Información
 
