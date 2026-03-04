@@ -2,7 +2,7 @@
 tags: [lección]
 date: 2026-03-04
 ---
-# 037: [Título de la lección]
+# 037: Práctica de Verbos Reflexivos y Posesivos
 
 [[../40-Deberes/20260304 Lección treinta y siete|📝 Deberes de la lección]]
 
@@ -14,14 +14,17 @@ date: 2026-03-04
 #### 15
 #### 17
 #### 18a
-Порядковые числительные?
+
 #### 18b
+
+[[../30-Vocabulario/Temas/Números#6. Números Ordinales|Números Ordinales]]
 
 ### LA: páginas 100 y 106 Tema 5
 
 ### Verbos reflexivos 
-[[../20-Gramática/Verbos Reflexivos y Recíprocos|Verbos Reflexivos y Recíprocos]]
-[[../20-Gramática/Verbos como Gustar (Encantar, Doler, etc.)|Verbos como Gustar (Encantar, Doler, etc.)]]
+- [[../20-Gramática/Verbos Reflexivos y Recíprocos|Verbos Reflexivos y Recíprocos]]
+- [[../20-Gramática/Verbos como Gustar (Encantar, Doler, etc.)|Verbos como Gustar (Encantar, Doler, etc.)]]
+—
 - Me apellido Bezpalko (Mi apellido es Bezpalko)
 - Me [[acostarse|acuesto]] a las once.
 - Me [[despertarse|despierto]] a las seis.
@@ -33,7 +36,6 @@ date: 2026-03-04
 - En invierno siempre me seco el pelo.
 - Si no te [[sentarse|sientas]] bien, no comes.
 - Me siento feliz. Me siento en el sofá.
-- 
 
 Incorrecto: me quito mi ropa
 Correcto: me quito la ropa
@@ -46,7 +48,7 @@ Correcto: me quito la ropa
 - quedarse 
 - reunirse 
 - ponerse
-- TOC (disease)
+- TOC (Trastorno Obsesivo-Compulsivo)
 - quitarse != ponerse
 - sentarse != levantarse
 - sentirse
@@ -56,4 +58,4 @@ Correcto: me quito la ropa
 ---
 
 **Navegación:**
-[[20260302 Lección treinta y seis|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️
+[[20260302 Lección treinta y seis|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260309 Lección treinta y ocho|📝 Deberes]] | [[20260309 Lección treinta y ocho|Lección siguiente ➡️]]

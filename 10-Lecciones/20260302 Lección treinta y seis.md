@@ -2,7 +2,7 @@
 tags: [lección]
 date: 2026-03-02
 ---
-# 036: [Título de la lección]
+# 036: Rutinas Diarias y Verbos Reflexivos
 
 [[../40-Deberes/20260302 Lección treinta y seis|📝 Deberes de la lección]]
 

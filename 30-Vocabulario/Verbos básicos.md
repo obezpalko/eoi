@@ -16,21 +16,28 @@ tags: [vocabulario, verbos]
 - **[[Verbos/vivir|vivir]]** - to live / жить
 - **abrazar(se)** - to hug / обнимать(ся)
 - **abrir** - to open / открывать
+- **acostarse** - to go to bed / ложиться спать
 - **adelgazar** - to lose weight, slim down / худеть
+- **afeitarse** - to shave / бриться
 - **adivinar** - to guess / угадывать
 - **almorzar** - to have lunch / обедать
 - **andar** - to walk / ходить
 - **apagar** - to turn off / выключать
 - **aparcar** - to park / парковаться
+- **apellidarse** - to be named (surname) / называться (по фамилии)
 - **aprender** - to learn / учить, учиться
 - **ayunar** - to fast / поститься, голодать
 - **bailar** - to dance / танцевать
 - **bajar** - to go down / спускаться
+- **bañarse** - to bathe, take a bath / приниматься ванну, купаться
 - **beber** - to drink / пить
 - **besar(se)** - to kiss / целовать(ся)
+- **caerse** - to fall / падать
 - **caminar** - to walk / идти, шагать
 - **cantar** - to sing / петь
+- **casarse** - to get married / жениться, выходить замуж
 - **cenar** - to have dinner / ужинать
+- **cepillarse** - to brush (teeth/hair) / чистить (зубы), причесываться
 - **cerrar** - to close / закрывать
 - **charlar** - to chat, to talk / болтать, разговаривать
 - **chispear** - to drizzle / моросить
@@ -42,7 +49,9 @@ tags: [vocabulario, verbos]
 - **conducir** - to drive / водить
 - **correr** - to run / бегать
 - **dar** - to give / давать
+- **depilarse** - to depilate / делать депиляцию
 - **desayunar** - to have breakfast / завтракать
+- **despertarse** - to wake up / просыпаться
 - **desordenar** - to mess up / приводить в беспорядок
 - **disfrutar** - to enjoy / наслаждаться
 - **dividir** - to divide / делить
@@ -68,22 +77,29 @@ tags: [vocabulario, verbos]
 - **gritar** - to shout / кричать
 - **haber (hay)** - to have (there is/are) / иметься (есть)
 - **ir** - to go / идти, ехать
+- **irse** - to leave / уходить
 - **jugar** - to play / играть
 - **juntar** - to put together / соединять, собирать вместе
+- **lavarse** - to wash oneself / умываться
+- **levantarse** - to get up / вставать
 - **limar** - to file / подпиливать
 - **limpiar** - to clean / чистить, убирать
 - **llamar** - to call / звать, звонить
 - **llorar** - to cry / плакать
 - **luchar** - to fight / бороться
 - **mandar** - to send, to command / посылать, командовать
+- **maquillarse** - to put on makeup / краситься
 - **merendar** - to have a snack / полдничать
 - **meter** - to put in / вставлять, класть внутрь
 - **mezclar** - to mix / смешивать
 - **mirar** - to look at / смотреть
+- **mirarse** - to look at oneself / смотреться (в зеркало)
+- **mojarse** - to get wet / мокнуть
 - **molestar** - to bother, annoy / мешать, беспокоить
 - **montar** - to ride, to mount / кататься, ездить верхом
 - **morir** - to die / умирать
 - **multiplicar** - to multiply / умножать
+- **navegar** - to browse, navigate / плавать, сидеть в интернете
 - **odiar** - to hate / ненавидеть
 - **oír** - to hear / слышать
 - **oler** - to smell / пахнуть
@@ -93,32 +109,43 @@ tags: [vocabulario, verbos]
 - **parar** - to stop / остановиться
 - **parecer** - to seem / казаться
 - **pasear** - to stroll, to walk / прогуливаться
+- **peinarse** - to comb one's hair / причесываться
 - **pensar** - to think / думать
 - **perder** - to lose / проигрывать
+- **ponerse** - to put on (clothes) / надевать
 - **preguntar** - to ask / спрашивать
 - **preparar** - to prepare / готовить, подготавливать
 - **quebrar** - to break / ломать, разбивать
 - **quedar** - to stay, to meet / оставаться, встречаться
+- **quedarse** - to stay / оставаться
 - **quejarse** - to complain / жаловаться
 - **querer** - to want, to love / хотеть, любить
+- **quitarse** - to take off (clothes) / снимать
 - **recibir** - to receive / получать
 - **reciclar** - to recycle / перерабатывать
 - **recordar** - to remember, to remind / помнить, напоминать
 - **regresar** - to return / возвращаться
 - **reír** - to laugh / смеяться
+- **relajarse** - to relax / расслабляться
 - **reñir** - to scold / ругать
 - **repartir** - to distribute, to hand out / распределять, раздавать
+- **reunirse** - to meet, gather / встречаться, собираться
 - **restar** - to subtract / вычитать
 - **romper** - to break / ломать
 - **sacar** - to take out / вынимать, доставать
+- **secarse** - to dry oneself / вытираться, сушиться
+- **sentarse** - to sit down / садиться
+- **sentirse** - to feel / чувствоваться
 - **separar** - to separate / разделять
 - **sonreír** - to smile / улыбаться
 - **soñar** - to dream / мечтать
 - **subir** - to go up / подниматься
 - **sumar** - to add / складывать
 - **tomar** - to take, to drink / брать, пить
+- **teletrabajar** - to telework / работать удаленно
 - **toser** - to cough / кашлять
 - **trepar** - to climb / лазать, карабкаться
+- **tumbarse** - to lie down / ложиться
 - **unir** - to unite, to join / объединять
 - **usar** - to use / использовать
 - **vender** - to sell / продавать
