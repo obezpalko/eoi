@@ -1,7 +1,7 @@
 ---
 tags: [gramática, verbos]
 ---
-
+[[Verbos como Gustar (Encantar, Doler, etc.)]]
 # Verbos Reflexivos y Recíprocos
 
 ## 1. Verbos Reflexivos (Pronominales)
