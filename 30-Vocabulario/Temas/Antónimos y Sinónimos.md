@@ -17,6 +17,7 @@ Este documento recopila parejas de palabras con significados opuestos (antónimo
 | :------------------ | :---------------------------- | :------------------------------ | :------------------------------------ |
 | **Alegre**          | **Serio / Triste**            | Cheerful / Весёлый              | Serious / Sad / Серьёзный / Грустный  |
 | **Alto**            | **Bajo**                      | Tall / Vysokiy                  | Short (stature) / Низкий              |
+| **Barato**          | **Caro**                      | Cheap / Дешевый                 | Expensive / Дорогой                   |
 | **Ancho**           | **Estrecho**                  | Wide / Широкий                  | Narrow / Узкий                        |
 | **Bello / Guapo**   | **Feo**                       | Beautiful / Handsome / Красивый | Ugly / Некрасивый                     |
 | **Bueno**           | **Malo**                      | Good / Хороший                  | Bad / Плохой                          |
@@ -90,6 +91,8 @@ Este documento recopila parejas de palabras con significados opuestos (antónimo
 | **Recoger**       | **Tirar**       | To pick up / Подбирать  | To throw / Бросать      |
 | **Reír**          | **Llorar**      | To laugh / Смеяться     | To cry / Плакать        |
 | **Restar**        | **Sumar**       | To subtract / Вычитать  | To add / Складывать     |
+| **Ponerse**       | **Quitarse**    | To put on / Надевать    | To take off / Снимать   |
+| **Sentarse**      | **Levantarse**  | To sit down / Садиться  | To get up / Вставать    |
 | **Subir**         | **Bajar**       | To go up / Подниматься  | To go down / Спускаться |
 
 ## 3. Antónimos (Adverbios y Preposiciones)

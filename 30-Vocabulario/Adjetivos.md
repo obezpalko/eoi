@@ -18,6 +18,7 @@ tags: [vocabulario, adjetivos]
 - **asustado/a** - scared / испуганный
 - **avergonzado/a** - embarrassed, ashamed / пристыженный, смущенный
 - **bajo/a** - short (stature) / низкий
+- **barato/a** - cheap / дешевый
 - **blando/a** - soft / мягкий
 - **bohemio/a** - bohemian / богемный
 - **bueno/a** - good / хороший
@@ -26,6 +27,7 @@ tags: [vocabulario, adjetivos]
 - **calmado/a** - calm / спокойный
 - **caluroso/a** - hot (person/weather) / жаркий
 - **cansado/a** - tired / уставший
+- **caro/a** - expensive / дорогой
 - **caótico/a** - chaotic / хаотичный
 - **cariñoso/a** - affectionate / ласковый
 - **casado/a** - married / женатый, замужняя

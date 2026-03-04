@@ -12,6 +12,7 @@ tags: [vocabulario, sustantivos]
 - **la agenda** - agenda, planner / ежедневник, расписание
 - **la agencia de viajes** - travel agency / туристическое агентство
 - **el aguacate** - avocado / авокадо
+- **el aimara** - Aymara (language) / аймара (язык)
 - **el algodón** - cotton / хлопок
 - **la almohada** - pillow / подушка
 - **la amistad** - friendship / дружба
@@ -46,6 +47,7 @@ tags: [vocabulario, sustantivos]
 - **el botón de arranque** - start button / кнопка запуска
 - **el abrazo** - hug / объятие
 - **el brazo** - arm / рука (от плеча до кисти)
+- **la cara** - face / лицо
 - **la broma** - joke / шутка
 - **la bruja** - witch / ведьма
 - **el bullicio** - bustle, noise / шум, суета
@@ -65,6 +67,7 @@ tags: [vocabulario, sustantivos]
 - **la catedral** - cathedral / собор
 - **el cebiche** - ceviche / севиче
 - **la cebra** - zebra / зебра
+- **la cena** - dinner / ужин
 - **el centro comercial** - shopping mall / торговый центр
 - **el césped** - lawn, grass / газон, трава
 - **la chancla** - flip-flop / шлепанец
@@ -80,6 +83,7 @@ tags: [vocabulario, sustantivos]
 - **la cola** - line, queue / очередь
 - **el colegio** - school / колледж, школа
 - **la comilona** - big meal, feast / пиршество
+- **la comida** - meal, lunch / еда, обед
 - **la comisaría** - police station / полицейский участок
 - **la consonante** - consonant / согласная
 - **el consejo** - advice / совет
@@ -89,6 +93,7 @@ tags: [vocabulario, sustantivos]
 - **el cristal** - glass (or crystal) / хрусталь, стекло
 - **el cuaderno** - notebook / тетрадь
 - **los cuernos** - horns / рога
+- **la cumbia** - cumbia (dance) / кумбия (танец)
 - **el cubo** - bucket / ведро
 - **el cumpleaños** - birthday / день рождения
 - **el cura** - priest / священник
@@ -103,12 +108,14 @@ tags: [vocabulario, sustantivos]
 - **la droga** - drug / наркотик
 - **la edad** - age / возраст
 - **el efectivo** - cash / наличные dinero
+- **el desayuno** - breakfast / завтрак
 - **el elefante** - elephant / слон
 - **el embutido** - cold meat, sausage / колбасное изделие
 - **el encaje** - lace / кружево
 - **el equipaje** - luggage / багаж
 - **el erizo** - hedgehog / еж
 - **la escoba** - broom / метла
+- **la escuela** - school / школа
 - **la esquina** - corner (street) / угол (улицы)
 - **el estante** - shelf / полка
 - **la estantería** - shelf, bookcase / полка, стеллаж
@@ -128,6 +135,7 @@ tags: [vocabulario, sustantivos]
 - **el futbolín** - foosball / настольный футбол
 - **la galleta** - cookie / печенье
 - **el ganso** - goose / гусь
+- **el guaraní** - Guarani (language) / гуарани (язык)
 - **la farmacia** - pharmacy / аптека
 - **el flexo** - desk lamp / настольная лампа
 - **la floristería** - flower shop / цветочный магазин
@@ -190,8 +198,10 @@ tags: [vocabulario, sustantivos]
 - **la mantita** - small blanket / одеяльце
 - **la margarita** - daisy / ромашка
 - **el mariachi** - mariachi / мариачи
+- **la marmota** - marmot, woodchuck / сурок
 - **el marisco** - seafood / морепродукты
 - **el mercado** - market / рынок
+- **el matiz** - nuance / нюанс
 - **la mayúscula** - capital letter / заглавная буква
 - **la mejilla** - cheek / щека
 - **el melón** - melon / дыня
@@ -277,6 +287,7 @@ tags: [vocabulario, sustantivos]
 - **el semáforo** - traffic light / светофор
 - **el seno** - breast, bosom / грудь, пазуха
 - **el servicio** - service, restroom / служебное помещение, туалет
+- **la siesta** - siesta, nap / сиеста
 - **el signo de exclamación** - exclamation mark / восклицательный знак
 - **el signo de interrogación** - question mark / вопросительный знак
 - **la suciedad** - dirtiness / грязь
@@ -296,6 +307,7 @@ tags: [vocabulario, sustantivos]
 - **la tilde** - accent mark / тильда, ударение
 - **la toalla** - towel / полотенце
 - **la torre** - tower (CPU) / системный блок
+- **la tumbona** - deck chair / шезлонг
 - **el/la turista** - tourist / турист
 - **la ubicación** - location / местоположение
 - **la UNED** - distance university / университет дистанционного обучения
