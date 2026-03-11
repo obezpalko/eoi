@@ -1,0 +1,18 @@
+---
+tags: [lección]
+date: 2026-03-16
+---
+# 040: [Título de la lección]
+
+[[../40-Deberes/20260316 Lección cuarenta|📝 Deberes de la lección]]
+
+## Información
+
+## Prácticas
+
+## Vocabulario
+
+---
+
+**Navegación:**
+[[20260311 Lección treinta y nueve|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️

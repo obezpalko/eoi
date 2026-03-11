@@ -15,4 +15,4 @@ date: 2026-03-09
 ---
 
 **Navegación:**
-[[20260304 Lección treinta y siete|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️
+[[20260304 Lección treinta y siete|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260311 Lección treinta y nueve|📝 Deberes]] | [[20260311 Lección treinta y nueve|Lección siguiente ➡️]]
