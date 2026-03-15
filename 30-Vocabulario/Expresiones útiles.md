@@ -12,4 +12,6 @@ tags: [vocabulario, general]
 - **Vivo en...** - I live in... / Я живу в...
 - **¿A qué te dedicas?** - What do you do (for work)? / Чем ты занимаешься?
 - **¿En qué trabajas?** - What do you work in? / Где ты работаешь?
+- **poner la lavadora** - to do the laundry / запустить стиральную машину
+- **quitar el polvo** - to dust / вытирать пыль
 - **A fuego / Afuego** - Cool, great / Круто, огонь

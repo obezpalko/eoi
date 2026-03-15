@@ -30,6 +30,7 @@ tags: [vocabulario, verbos]
 - **bailar** - to dance / танцевать
 - **bajar** - to go down / спускаться
 - **bañarse** - to bathe, take a bath / приниматься ванну, купаться
+- **barrer** - to sweep / подметать
 - **beber** - to drink / пить
 - **besar(se)** - to kiss / целовать(ся)
 - **caerse** - to fall / падать
@@ -72,6 +73,7 @@ tags: [vocabulario, verbos]
 - **fascinar** - to fascinate / очаровывать
 - **fijarse** - to notice, to pay attention / обращать внимание
 - **fotografiar** - to photograph / фотографировать
+- **fregar** (e->ie) - to scrub, wash dishes / тереть, мыть посуду
 - **ganar** - to win / выигрывать
 - **gozar** - to enjoy / наслаждаться
 - **gritar** - to shout / кричать
@@ -123,6 +125,7 @@ tags: [vocabulario, verbos]
 - **quitarse** - to take off (clothes) / снимать
 - **recibir** - to receive / получать
 - **reciclar** - to recycle / перерабатывать
+- **regar** (e->ie) - to water / поливать
 - **recordar** - to remember, to remind / помнить, напоминать
 - **regresar** - to return / возвращаться
 - **reír** - to laugh / смеяться
@@ -143,6 +146,7 @@ tags: [vocabulario, verbos]
 - **sumar** - to add / складывать
 - **tomar** - to take, to drink / брать, пить
 - **teletrabajar** - to telework / работать удаленно
+- **tender** (e->ie) - to hang (clothes) / вешать (белье) сушиться
 - **toser** - to cough / кашлять
 - **trepar** - to climb / лазать, карабкаться
 - **tumbarse** - to lie down / ложиться

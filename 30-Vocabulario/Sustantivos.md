@@ -259,6 +259,7 @@ tags: [vocabulario, sustantivos]
 - **el plátano** - banana / банан
 - **el plato** - plate / тарелка
 - **el polideportivo** - sports center / спорткомплекс
+- **el polvo** - dust / пыль
 - **la profesión** - profession / профессия
 - **el pulpo** - octopus / осьминог
 - **la queja** - complaint / жалоба
