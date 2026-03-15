@@ -27,24 +27,29 @@ tags: [vocabulario, general]
 
 ## 2. Adverbios Genéricos
 
-| Palabra      | Significado<br>(EN / RU)                    | Ejemplo                   |
-| :----------- | :------------------------------------------ | :------------------------ |
-| **Adelante** | forward, ahead <br>вперед                   | Sigue **adelante**.       |
-| **Además**   | also, besides <br>кроме того                | **Además**, tengo tiempo. |
-| **Ahí**      | there (near) <br>там (рядом)                | El libro está **ahí**.    |
-| **Al final** | at the end <br>в конце                      | **Al final** de la calle. |
-| **Allí**     | there (far) <br>там (далеко)                | La tienda está **allí**.  |
-| **Allá**     | there (far, Latin America) <br>там (далеко) | Mira **allá**.            |
-| **Antes**    | before <br>раньше, перед                    | **Antes** de comer.       |
-| **Aquí**     | here <br>здесь                              | Estoy **aquí**.           |
-| **Acá**      | here (Latin America) <br>здесь              | Ven **acá**.              |
-| **Bastante** | quite, enough <br>довольно, достаточно      | Es **bastante** grande.   |
-| **Bien**     | well <br>хорошо                             | Todo está **bien**.       |
-| **Despacio** | slowly <br>медленно                         | Camina **despacio**.      |
-| **Después**  | after <br>после                             | **Después** de la clase.  |
-| **Jamás**    | never <br>никогда (усиленно)                | No lo haré **jamás**.     |
-| **Mal**      | badly <br>плохо                             | Me siento **mal**.        |
-| **Mucho**    | much, a lot <br>много                       | Te quiero **mucho**.      |
-| **Muy**      | very <br>очень                              | Es **muy** rápido.        |
-| **Nunca**    | never <br>никогда                           | **Nunca** llego tarde.    |
-| **Siempre**  | always <br>всегда                           | **Siempre** estudio.      |
+| Palabra              | Significado<br>(EN / RU)                    | Ejemplo                           |
+| :------------------- | :------------------------------------------ | :-------------------------------- |
+| **A menudo**         | often <br> часто                            | Como verdura **a menudo**.        |
+| **A veces**          | sometimes <br> иногда                       | **A veces** leo libros.           |
+| **Adelante**         | forward, ahead <br>вперед                   | Sigue **adelante**.               |
+| **Además**           | also, besides <br>кроме того                | **Además**, tengo tiempo.         |
+| **Ahí**              | there (near) <br>там (рядом)                | El libro está **ahí**.            |
+| **Al final**         | at the end <br>в конце                      | **Al final** de la calle.         |
+| **Allí**             | there (far) <br>там (далеко)                | La tienda está **allí**.          |
+| **Allá**             | there (far, Latin America) <br>там (далеко) | Mira **allá**.                    |
+| **Antes**            | before <br>раньше, перед                    | **Antes** de comer.               |
+| **Aquí**             | here <br>здесь                              | Estoy **aquí**.                   |
+| **Acá**              | here (Latin America) <br>здесь              | Ven **acá**.                      |
+| **Bastante**         | quite, enough <br>довольно, достаточно      | Es **bastante** grande.           |
+| **Bien**             | well <br>хорошо                             | Todo está **bien**.               |
+| **Casi siempre**     | almost always <br> почти всегда             | **Casi siempre** hago deporte.    |
+| **Casi nunca**       | almost never <br> почти никогда             | **Casi nunca** voy al cine.       |
+| **De vez en cuando** | from time to time <br> время от времени     | Voy al cine **de vez en cuando**. |
+| **Despacio**         | slowly <br>медленно                         | Camina **despacio**.              |
+| **Después**          | after <br>после                             | **Después** de la clase.          |
+| **Jamás**            | never <br>никогда (усиленно)                | No lo haré **jamás**.             |
+| **Mal**              | badly <br>плохо                             | Me siento **mal**.                |
+| **Mucho**            | much, a lot <br>много                       | Te quiero **mucho**.              |
+| **Muy**              | very <br>очень                              | Es **muy** rápido.                |
+| **Nunca**            | never <br>никогда                           | **Nunca** llego tarde.            |
+| **Siempre**          | always <br>всегда                           | **Siempre** estudio.              |

@@ -2,7 +2,7 @@
 tags: [lección]
 date: 2026-03-11
 ---
-# 039: Lección No Asistida
+# 039: El Tiempo y la Rutina
 
 [[../40-Deberes/20260311 Lección treinta y nueve|📝 Deberes de la lección]]
 
