@@ -4,7 +4,16 @@ date: 2026-03-16
 ---
 # 040: Deberes - La Ciudad y el Barrio
 ## La
-58 1a, 2a
+### 58 1a ¿Qué sabes sobre las costumbres de los españoles? Lee estas frases y comenta con tu compañero si te parecen verdaderas o falsas
+1. ✅ Muchos españoles comen y cenan muy tarde.
+2. ❌ Las tiendas de España cierran pronto.
+3. ❌ El desayuno es la comida más importante de los españoles.
+4. ❌ El aceite de oliva es un ingrediente típico de los  desayunos españoles.
+5. ✅ En España hay muchos bares y a la gente le gusta ir de tapas.
+6. ✅ En España hay muchas fiestas populares.
+### 58 2a Lee este foro donde un español escribe sobre algunas costumbres de los mexicanos, ¿te sorprende alguna?
+- ¡Hola! Quiero ir a México el próximo año y me gustaría conocer algunas costumbres de los mexicanos, sobre la comida, la gente, la cultura…
+- ¡Hola! Pues a los mexicanos les gusta la comida muy picante y usan mucho la lima. Desayunan fuerte, solo toman huevos en el desayuno, nunca para comer o cenar. Los mexicanos son muy educados, piden todo por favor y dan siempre las gracias. Además, hablan muy bien inglés porque ven las películas extranjeras en versión original. Y otra cosa muy importante es que tienen fiestas religiosas durante todo el año. Es un país muy bonito. ¡Te va a encantar!
 ## le tema 6
 8, 9, 10, 11, 12a, 14, 16a, 16b, 17 PP
 
