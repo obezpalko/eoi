@@ -29,7 +29,7 @@ tags:
 
 ---
 
-## Ser vs. Estar
+## Ser vs. [[estar]]
 
 | Ser (Permanencia/Esencia) | Estar (Temporalidad/Estado) |
 | :--- | :--- |
