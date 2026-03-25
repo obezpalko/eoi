@@ -9,6 +9,7 @@ tags: [vocabulario, sustantivos]
 - **el acuario** - aquarium / аквариум
 - **la advertencia** - warning / предупреждение
 - **el aeropuerto** - airport / аэропорт
+- **la afonía** - aphonia / афония, потеря голоса
 - **la agenda** - agenda, planner / ежедневник, расписание
 - **la agencia de viajes** - travel agency / туристическое агентство
 - **el aguacate** - avocado / авокадо
@@ -189,6 +190,7 @@ tags: [vocabulario, sustantivos]
 - **el limpiaparabrisas** - windshield wiper / стеклоочиститель
 - **el lino** - linen / лён
 - **la lista** - list / список
+- **el logro** - achievement, accomplishment / достижение
 - **el llavero** - keychain / брелок
 - **la madera** - wood / дерево
 - **la madre** - mother / мать
@@ -224,6 +226,7 @@ tags: [vocabulario, sustantivos]
 - **la ojera** - bag under eyes / мешок под глазом
 - **el olor** - smell / запах
 - **el orgullo** - pride / гордость
+- **la orilla** - shore, bank / берег
 - **el oro** - gold / золото
 - **el oso / la osa** - bear / медведь
 - **el padre** - father / отец

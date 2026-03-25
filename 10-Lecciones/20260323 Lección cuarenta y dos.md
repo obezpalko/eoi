@@ -2,7 +2,7 @@
 tags: [lección]
 date: 2026-03-23
 ---
-# 042: [Título de la lección]
+# 042: Mi día a día y verbos irregulares
 
 [[../40-Deberes/20260323 Lección cuarenta y dos|📝 Deberes de la lección]]
 
@@ -39,14 +39,14 @@ date: 2026-03-23
 | **Vosotros/-as**     | vais           | empezáis         | volvéis         | dormís          | salís       | hacéis      | veis  | cogéis        |
 | **Ellos/Ellas/Uds.** | van            | emp**ie**zan     | vu**el**ven     | du**er**men     | salen       | hacen       | ven   | cogen         |
 —
-- ¿Como vienes a clase? Vengo a clase en pie.
-- ¿Que haces los fines de semana? Normalmente hago senderismo.
-- ¿Que desayunos normalmente? Yo desayuno un tostado y café.
+- ¿Cómo vienes a clase? Vengo a clase a pie.
+- ¿Qué haces los fines de semana? Normalmente hago senderismo.
+- ¿Qué desayunas normalmente? Yo desayuno una tostada y café.
 - ¿Duermes la siesta? Duermo la siesta solo cuando estoy enfermo.
-- ¿A qué hora e levantes normalmente? Normalmente me levanto a las seis menos cuarto.
+- ¿A qué hora te levantas normalmente? Normalmente me levanto a las seis menos cuarto.
 - ¿Te duchas por la mañana o por la noche? Me ducho tanto por la mañana como por la noche.
-- ¿Cuál es tu día de la semana favorito? Me favorito día de semana es jueves.
-- ¿Prácticas deporte? 
+- ¿Cuál es tu día de la semana favorito? Mi día favorito de la semana es el jueves.
+- ¿Practicas deporte? 
 - ¿Prefieres leer o ver la tele? Prefiero leer.
 - ¿Qué haces en tu tiempo libre? En mi tiempo libre yo voy de compras.
 ### Estado de ánimo y emociones 
@@ -56,7 +56,7 @@ date: 2026-03-23
 - tengo prisa 
 - tengo frío 
 - estoy enfadado 
-- tengo ser
+- tengo sed
 - tengo sueño 
 - está ocupada (siempre está)
 
@@ -78,4 +78,4 @@ date: 2026-03-23
 ---
 
 **Navegación:**
-[[20260318 Lección cuarenta y uno|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️
+[[20260318 Lección cuarenta y uno|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260325 Lección cuarenta y tres|📝 Deberes]] | [[20260325 Lección cuarenta y tres|Lección siguiente ➡️]]

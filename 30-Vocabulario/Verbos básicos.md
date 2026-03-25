@@ -16,7 +16,7 @@ tags: [vocabulario, verbos]
 - **[[Verbos/vivir|vivir]]** - to live / жить
 - **abrazar(se)** - to hug / обнимать(ся)
 - **abrir** - to open / открывать
-- **acostarse** - to go to bed / ложиться спать
+- **[[Verbos/acostarse|acostarse]]** - to go to bed / ложиться спать
 - **adelgazar** - to lose weight, slim down / худеть
 - **afeitarse** - to shave / бриться
 - **adivinar** - to guess / угадывать
@@ -52,7 +52,8 @@ tags: [vocabulario, verbos]
 - **dar** - to give / давать
 - **depilarse** - to depilate / делать депиляцию
 - **desayunar** - to have breakfast / завтракать
-- **despertarse** - to wake up / просыпаться
+- **ducharse** - to shower / принимать душ
+- **[[Verbos/despertarse|despertarse]]** - to wake up / просыпаться
 - **desordenar** - to mess up / приводить в беспорядок
 - **disfrutar** - to enjoy / наслаждаться
 - **dividir** - to divide / делить
