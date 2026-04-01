@@ -7,6 +7,7 @@ tags: [vocabulario, adjetivos]
 - **acogedor/a** - cozy / уютный
 - **agitado/a** - agitated / взволнованный, возбужденный
 - **agotado/a** - exhausted / истощенный, изнуренный
+- **acompañado/a** - accompanied / сопровождаемый
 - **alegre** - happy, cheerful / веселый, радостный
 - **ambiguo/a** - ambiguous, unclear / неоднозначный, двусмысленный
 - **ancho/a** - wide / широкий
@@ -14,6 +15,7 @@ tags: [vocabulario, adjetivos]
 - **animado/a** - lively, animated / оживленный
 - **ansioso/a** - anxious / тревожный, жаждущий
 - **antiguo/a** - ancient, old / древний, старый
+- **arreglado/a** - fixed, tidied / исправленный, приведенный в порядок
 - **apático/a** - apathetic / апатичный
 - **asustado/a** - scared / испуганный
 - **avergonzado/a** - embarrassed, ashamed / пристыженный, смущенный
@@ -84,6 +86,7 @@ tags: [vocabulario, adjetivos]
 - **jaranero/a** - party animal / гуляка
 - **joven** - young / молодой
 - **lento/a** - slow / медленный
+- **loco/a** - crazy / сумасшедший
 - **lindo/a** - cute, pretty / красивый
 - **lleno/a** - full / полный
 - **malo/a** - bad / плохой
@@ -92,6 +95,7 @@ tags: [vocabulario, adjetivos]
 - **melancólico/a** - melancholy / меланхоличный
 - **moderno/a** - modern / современный
 - **mucho/a** - much, many / много, многий
+- **muerto/a** - dead / мертвый
 - **nocturno/a** - nocturnal, night / ночной
 - **nervioso/a** - nervous / нервный
 - **optimista** - optimistic / оптимистичный
@@ -108,8 +112,10 @@ tags: [vocabulario, adjetivos]
 - **redondo/a** - round / круглый
 - **relajado/a** - relaxed / расслабленный
 - **resfriado/a** - having a cold / простуженный
+- **roto/a** - broken / сломанный
 - **salado/a** - salty / соленый
 - **seguro/a** - safe, sure / безопасный, уверенный
+- **sano/a** - healthy / здоровый
 - **separado/a** - separated / разошедшийся, разошедшаяся
 - **serio/a** - serious / серьезный
 - **soltero/a** - single / холостой, незамужняя

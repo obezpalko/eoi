@@ -57,6 +57,7 @@ tags: [vocabulario, verbos]
 - **desordenar** - to mess up / приводить в беспорядок
 - **disfrutar** - to enjoy / наслаждаться
 - **dividir** - to divide / делить
+- **despedirse** (e->i) - to say goodbye / прощаться
 - **dormir** - to sleep / спать
 - **echarse** - to lie down, to throw oneself / ложиться, бросаться
 - **empezar** - to start, begin / начинать
@@ -115,6 +116,7 @@ tags: [vocabulario, verbos]
 - **peinarse** - to comb one's hair / причесываться
 - **pensar** - to think / думать
 - **perder** - to lose / проигрывать
+- **pelear(se)** - to fight / драться
 - **ponerse** - to put on (clothes) / надевать
 - **preguntar** - to ask / спрашивать
 - **preparar** - to prepare / готовить, подготавливать

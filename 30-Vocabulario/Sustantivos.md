@@ -28,6 +28,7 @@ tags: [vocabulario, sustantivos]
 - **el autocar** - coach, bus / междугородний автобус
 - **el ayuntamiento** - city hall / мэрия
 - **la azafata** - flight attendant / стюардесса
+- **el asco** - disgust / отвращение
 - **el banco** - bank, bench / банк, скамейка
 - **la bañera** - bathtub / ванна
 - **el baño** - bathroom / ванная комната
@@ -58,6 +59,7 @@ tags: [vocabulario, sustantivos]
 - **la cafetería** - cafeteria / кафетерий
 - **el cajón** - drawer / ящик
 - **la calculadora** - calculator / калькулятор
+- **el campamento** - camp / лагерь
 - **la canasta** - basket / корзина
 - **la canción de cuna** - lullaby / колыбельная песня
 - **el carrito de helados** - ice cream cart / тележка с мороженым
@@ -141,6 +143,7 @@ tags: [vocabulario, sustantivos]
 - **el flexo** - desk lamp / настольная лампа
 - **la floristería** - flower shop / цветочный магазин
 - **la fuente** - fountain / фонтан
+- **el finde** - weekend (short for fin de semana) / выходные (коротко)
 - **el geranio** - geranium / герань
 - **el gitano** - gypsy, Roma person / цыган
 - **el gofre** - waffle / вафля
@@ -225,6 +228,7 @@ tags: [vocabulario, sustantivos]
 - **el océano** - ocean / океан
 - **la ojera** - bag under eyes / мешок под глазом
 - **el olor** - smell / запах
+- **la onomatopeya** - onomatopoeia / ономатопея
 - **el orgullo** - pride / гордость
 - **la orilla** - shore, bank / берег
 - **el oro** - gold / золото
@@ -278,6 +282,7 @@ tags: [vocabulario, sustantivos]
 - **la residencia** - residence / место жительства
 - **el retraso** - delay, lateness / опоздание, задержка
 - **el retrato** - portrait / портрет
+- **el reposo** - rest / отдых, покой
 - **el rey** - king / король
 - **la risa** - laughter / смех
 - **la rodilla** - knee / колено
@@ -304,10 +309,12 @@ tags: [vocabulario, sustantivos]
 - **el teatro** - theater / театр
 - **el teléfono** - telephone / телефон
 - **el teléfono fijo** - landline / городской (стационарный) телефон
+- **la taquilla** - locker, ticket office / шкафчик, билетная касса
 - **el terciopelo** - velvet / бархат
 - **la tienda de electrodomésticos** - appliance store / магазин бытовой техники
 - **la tienda de música** - music store / музыкальный магазин
 - **la tienda de ropa** - clothing store / магазин одежды
+- **el tendón** - tendon / сухожилие
 - **la tilde** - accent mark / тильда, ударение
 - **la toalla** - towel / полотенце
 - **la torre** - tower (CPU) / системный блок
