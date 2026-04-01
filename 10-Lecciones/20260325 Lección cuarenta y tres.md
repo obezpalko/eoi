@@ -71,4 +71,4 @@ Verbos reflectivos
 ---
 
 **Navegación:**
-[[20260323 Lección cuarenta y dos|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️
+[[20260323 Lección cuarenta y dos|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260330 Lección cuarenta y cuatro|📝 Deberes]] | [[20260330 Lección cuarenta y cuatro|Lección siguiente ➡️]]
