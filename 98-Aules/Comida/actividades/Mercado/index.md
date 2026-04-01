@@ -2,280 +2,56 @@
 
 # Mercado.pdf
 
----
-*Page 1*
+![Page 1](page_001.jpg)
 
-En el mercado
-En el mercado
+![Page 2](page_002.jpg)
 
----
-*Page 2*
+![Page 3](page_003.jpg)
 
-Charcutería                                Carnicería                 
-                                 Frutería
+![Page 4](page_004.jpg)
 
----
-*Page 3*
+![Page 5](page_005.jpg)
 
-Pescadería       Ultramarinos
-Panadería
+![Page 6](page_006.jpg)
 
----
-*Page 4*
+![Page 7](page_007.jpg)
 
-¿Dónde 
-compro?...
-• El pan
-• La cerveza
-• La harina
-• El pimiento
-• Las manzanas
-• Las cebollas
-• El chocolate
-Panadería
-Charcutería
-Frutería
-Ultramarinos
-Pescadería
-Pastelería
+![Page 8](page_008.jpg)
 
----
-*Page 5*
+![Page 9](page_009.jpg)
 
-• La leche
-• El arroz
-• El pepino
-• El cordero
-• El zumo
-• El azúcar
-• Las patatas
-Panadería
-Charcutería
-Frutería
-Ultramarinos
-Pescadería
-Pastelería
+![Page 10](page_010.jpg)
 
----
-*Page 6*
+![Page 11](page_011.jpg)
 
-●La tarta
-●Las lentejas
-●La chuleta
-●La cereza
-●La sardina
-●El plátano
-●La merluza
-Panadería
-Charcutería
-Frutería
-Ultramarinos
-Pescadería
-Pastelería
+![Page 12](page_012.jpg)
 
----
-*Page 7*
+![Page 13](page_013.jpg)
 
-●El atún
-●La pasta
-●El melón
-●El vino
-●La naranja
-●El bacalao
-●La pera
-Panadería
-Charcutería
-Frutería
-Ultramarinos
-Pescadería
-Pastelería
+![Page 14](page_014.jpg)
 
----
-*Page 8*
+![Page 15](page_015.jpg)
 
-¿Qué hay en?...
-• 1. Una farmacia
-• 2. Una joyería
-• 3. Una carnicería
-• 4. Una polleria
-• 5. Una librería
-• 6. Un quiosco
-• 7. Una papelería
+![Page 16](page_016.jpg)
 
----
-*Page 9*
+![Page 17](page_017.jpg)
 
-¿Es o está?
-• La sandía -------una fruta de verano.
-• El helado ------ frío.
-• El café -------caliente.
-• Las nueces--------frutos secos.
-• La manzana------verde.
-• Esta pera --------- demasiado madura.
-• El plátano -------- amarillo
+![Page 18](page_018.jpg)
 
----
-*Page 10*
+![Page 19](page_019.jpg)
 
-¿Es o está?
-• Las fresas ---------rojas.
-• El melón ------una fruta originaria de África.
-• Este melón-------muy bueno.
-• La naranja ------- muy buena para la salud 
-porque tiene mucha vitamina C.
-• Las ciruelas ----------muy digestivas.
-• Estamos en julio, las uvas todavía -------- 
-verdes.
+![Page 20](page_020.jpg)
 
----
-*Page 11*
+![Page 21](page_021.jpg)
 
-• Una caja
-• Un paquete
-• Una botella
-• Un kilo
-• Una lata
+![Page 22](page_022.jpg)
 
----
-*Page 12*
+![Page 23](page_023.jpg)
 
-Una caja...
-Un paquete...
-Una botella...
-Un kilo...
-Una lata...
+![Page 24](page_024.jpg)
 
----
-*Page 13*
+![Page 25](page_025.jpg)
 
-Una caja...
-Un paquete...
-Una botella...
-Un kilo...
-Una lata...
+![Page 26](page_026.jpg)
 
----
-*Page 14*
-
-Una caja...
-Un paquete...
-Una botella...
-Un kilo...
-Una lata...
-
----
-*Page 15*
-
-Una caja...
-Un paquete...
-Una botella...
-Un kilo...
-Una lata...
-
----
-*Page 16*
-
-Un paquete de...
-Un kilo de...
-Un litro de...
-Una botella de...
-Una lata de...
-Una bolsa de...
-
----
-*Page 17*
-
-Una caja...
-Un paquete...
-Una botella...
-Un kilo...
-Una lata...
-
----
-*Page 18*
-
-Una caja...
-Un paquete...
-Una botella...
-Un kilo...
-Una lata...
-
----
-*Page 19*
-
-¿Qu  palabra sobra?
-é
-Té   café   azúcar
-
----
-*Page 20*
-
-¿Qu  palabra sobra?
-é
-Sal aceite vinagre
-
----
-*Page 21*
-
-Patatas  galletas   cebollas   
-¿Qu  palabra sobra?
-é
-
----
-*Page 22*
-
-¿Qu  palabra sobra?
-é
-Pan harina manzana
-
----
-*Page 23*
-
-Arroz merluza atún
-¿Qu  palabra sobra?
-é
-
----
-*Page 24*
-
-En la tienda
-Dependiente: ¡Hola! ¡Buenos días!
-Cliente:
-Dependiente: ¿Qué desea?
-Cliente:
-Dependiente: ¿Algo más?
-Cliente:
-Dependiente: Así son 4 con 50, gracias.
-Cliente:
-
----
-*Page 25*
-
-En la tienda
-Dependiente: ¡Hola! ¡Buenos días!
-Cliente:
-Dependiente: ¿Qué le pongo?
-Cliente:
-Dependiente: ¿Algo más?
-Cliente:
-Dependiente: Sí ¿Golden o Fuji? ...
-
----
-*Page 26*
-
-Cliente:
-Dependiente: ¿Algo más?
-Cliente:
-Dependiente: Lo siento, se me han terminado, pero 
-tengo unos plátanos muy buenos.
-Cliente:
-Dependiente: ¿Algo más?  ...
-
----
-*Page 27*
-
-Dependiente: ¿Algo más?
-Cliente: 
-Dependiente: Pues así son siete euros. Muchas 
-gracias, hasta pronto.
-Cliente:
+![Page 27](page_027.jpg)
