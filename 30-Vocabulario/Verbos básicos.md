@@ -33,6 +33,7 @@ tags: [vocabulario, verbos]
 - **barrer** - to sweep / подметать
 - **beber** - to drink / пить
 - **besar(se)** - to kiss / целовать(ся)
+- **bucear** - to dive / нырять
 - **caerse** - to fall / падать
 - **caminar** - to walk / идти, шагать
 - **cantar** - to sing / петь
@@ -65,6 +66,7 @@ tags: [vocabulario, verbos]
 - **encender** - to turn on / включать
 - **enseñar** - to teach, to show / учить, показывать
 - **entender** - to understand / понимать
+- **esquiar** - to ski / кататься на лыжах
 - **entrar** - to enter / входить
 - **enviar** - to send / посылать
 - **eructar** - to burp / рыгать
@@ -103,6 +105,7 @@ tags: [vocabulario, verbos]
 - **montar** - to ride, to mount / кататься, ездить верхом
 - **morir** - to die / умирать
 - **multiplicar** - to multiply / умножать
+- **nacer** - to be born / рождаться
 - **navegar** - to browse, navigate / плавать, сидеть в интернете
 - **odiar** - to hate / ненавидеть
 - **oír** - to hear / слышать

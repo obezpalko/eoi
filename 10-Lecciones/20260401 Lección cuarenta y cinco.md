@@ -5,98 +5,83 @@ tags:
 date: 2026-04-01
 ---
 
-# 045: [Título de la lección]
+# 045: Futuro y El Tiempo Atmosférico
 
 [[../40-Deberes/20260401 Lección cuarenta y cinco|📝 Deberes de la lección]]
 
 ## Información
-Próxima clase: 15 de abril 
+Próxima clase: **15 de abril** 
 
 ## Prácticas
-### repetir futuro (ir a + infinitivo) y reflectivos 
-- mañana voy a ir a la playa 
-- hoy por la tarde voy a comer helado 
-- este domingo voy a nadar en el mar
-- mañana me voy a relajar 
-- mañana por la mañana voy a buscar 
-- en año que viene voy a salir de fiesta 
-- en próximo mes voy a jugar voleibol 
-- el fin de semana voy a ver series 
-- el mayo voy a comer sandia 
-- el viernes voy a quedar con amigos 
-### agenda Luis
-- lunes 4
-	- 
-- martes 5
-	- el martes 5 Luis va a ir al médico a las nueve y media
-	- va a comer son su abuela a la una y media de la tarde
-	- el martes cinco Luis va a ir al cine con Pablo de la nueve de la noche 
-- miércoles 6
-	- va a llamar sus tíos a las diez de la mañana 
-	- Luis va a estudiar un poco a las cuatro de la tarde
-- jueves 7
-	- el jueves siete Luis va a tener clases de guitarra hasta las tres y media desde cuatro y media de la tarde
-- viernes 8
-	- a las nueve y media de la mañana Luis va a recoger a sus padres de la estación de tren
-- sábado 9
-- domingo 10
-	- el domingo diez a las nueve y media Luis va a preparar de el examen de inglés 
-### agenda de Marta
-- lunes 4
-	- el lunes cuatro desde las ocho hasta las nueve de mañana Marta va a desayunar con Pepe
-	- el lunes 4 a las ocho de la tarde Marta va a ir al teatro 
-- martes 5 
-	- el martes 5 a las cuatro y media de la tarde Marta va a recoger a Elena del aeropuerto 
-- miércoles 6
-	- el miércoles 5 Marta va a ir a esquiar desde las siete y media de la mañana hasta las nueve de la noche 
-- jueves 7
-	- el jueves siete Marta va a estudiar con Manolo desde las ocho y media hasta las once de la mañana 
-	- el jueves 7 Marta va a ir a la piscina con José y Paula a las cinco de la tarde
-- viernes 8
-- sábado 9
-- domingo 10
-	- el domingo diez Marta va a celebrar las cumpleaños de su abuelo desde las tres de la tarde hasta las once de la noche
-	- el domingo diez Marta va a ir la fiesta con la familia desde tres de la tarde hasta once de la noche
-### LA. Tema ocho. Tiempo de colores
-#### estaciones del año 
-- invierno 
-	- diciembre 
-	- enero 
-	- febrero 
-- primera 
-	- marzo 
-	- abril 
-	- mayo 
-- verano 
-	- junio 
-	- julio 
-	- agosto 
-- otoño 
-	- septiembre 
-	- octubre 
-	- noviembre 
-#### qué VS que 
-Con tilde - es pregunta. Siempre 
-O con exclamation 
-- ¡Qué chulo!
-- ¿Qué tal?
-- ¿Qué colores ves en esta imagen?
-- Los colores que ves en esta imagen son rojo, verde y blanco 
-- La mesa que es verde está rota.
+### Repaso: Futuro (*ir* + *a* + infinitivo) y Reflexivos 
+- Mañana voy a ir a la playa. 
+- Hoy por la tarde voy a comer helado. 
+- Este domingo voy a nadar en el mar.
+- Mañana **me voy a relajar** / voy a relajarme. 
+- Mañana por la mañana voy a buscar... 
+- El año que viene voy a salir de fiesta. 
+- El próximo mes voy a jugar al voleibol. 
+- El fin de semana voy a ver series. 
+- En mayo voy a comer sandía. 
+- El viernes voy a quedar con amigos. 
 
-- Lucas, Beatriz y Pablo, que viven conmigo, son mis mejores amigos. 
-- el chico que lleva barba es Lucas.
-- la hermana de Pablo que trabaja el museo de llama Anna 
-- la chaqueta que me gusta mucho es muy cara
+### Agenda de Luis
+- **Martes 5**: 
+	- A las 09:30, Luis va a ir al médico.
+	- A las 13:30, va a comer con su abuela.
+	- A las 21:00, va a ir al cine con Pablo.
+- **Miércoles 6**: 
+	- A las 10:00, va a llamar a sus tíos. 
+	- A las 16:00, va a estudiar un poco.
+- **Jueves 7**: 
+	- Desde las 16:30 hasta las 18:30 (*o según notas*), va a tener clase de guitarra. (Nota: *hasta las tres y media desde cuatro y media* - corregido a horario lógico).
+- **Viernes 8**: 
+	- A las 09:30, Luis va a recoger a sus padres a la estación de tren.
+- **Domingo 10**: 
+	- A las 09:30, va a preparar el examen de inglés. 
 
-Aules: que/qué ?
+### Agenda de Marta
+- **Lunes 4**: 
+	- De 08:00 a 09:00, Marta va a desayunar con Pepe.
+	- A las 20:00, va a ir al teatro. 
+- **Martes 5**: 
+	- A las 16:30, va a recoger a Elena al aeropuerto. 
+- **Miércoles 6**: 
+	- Va a ir a esquiar desde las 07:30 hasta las 21:00. 
+- **Jueves 7**: 
+	- De 08:30 a 11:00, va a estudiar con Manolo. 
+	- A las 17:00, va a ir a la piscina con José y Paula.
+- **Domingo 10**: 
+	- De 15:00 a 23:00, va a celebrar el cumpleaños de su abuelo / va a ir a la fiesta con la familia.
+
+### LA. Tema 8: Tiempo de colores
+#### Estaciones del año 
+- **Invierno**: diciembre, enero, febrero. 
+- **Primavera**: marzo, abril, mayo. 
+- **Verano**: junio, julio, agosto. 
+- **Otoño**: septiembre, octubre, noviembre. 
+
+#### Pronombres Relativos: *que* vs *qué*
+- **Qué** (con tilde): se usa en preguntas o exclamaciones.
+	- *¿Qué tal?*, *¡Qué chulo!*, *¿Qué colores ves?*
+- **Que** (sin tilde): nexo que conecta oraciones, relativo.
+	- *Los colores **que** ves en esta imagen son rojo, verde y blanco.*
+	- *La mesa **que** es verde está rota.*
+	- *Lucas, Beatriz y Pablo, **que** viven conmigo, son mis mejores amigos.*
+	- *El chico **que** lleva barba es Lucas.*
+	- *La hermana de Pablo **que** trabaja en el museo se llama Anna.*
+	- *La chaqueta **que** me gusta mucho es muy cara.*
+
+---
+**Nota**: Aules tiene ejercicios prácticos sobre *qué* vs *que*.
 
 ### Clima
-[[🌤️ El Tiempo Atmosférico]]
+[[../20-Gramática/🌤️ El Tiempo Atmosférico|🌤️ El Tiempo Atmosférico]]
 
-Llueve es verbo impersonal (more verbos [[☁️ Verbos Impersonales]])
-Llover
-Llueve - lluvia 
+*Llueve* es un verbo impersonal.
+- Verbo: **Llover** (o->ue).
+- Sustantivo: **la lluvia**.
+- Más información en: [[../20-Gramática/☁️ Verbos Impersonales|☁️ Verbos Impersonales]]
 
 ## Vocabulario
 - huelga 
@@ -106,43 +91,40 @@ Llueve - lluvia
 - snorkel
 - esquiar
 - granada
-- estaciones del año 
 - nacer (yo nací)
 - nazi 
 - la tierra 
 - la nieve
-- infierno 
-- paraíso 
-- chulo
-- nexo (conecta dos oraciones)
+- el infierno 
+- el paraíso 
+- chulo/a
+- nexo 
 - antecedente 
 - acogedor 
 - despejado 
 - nublado
 - el relámpago 
 - las nubes
-- el arcoiris 
+- el arcoíris 
 - el amanecer
 - el anochecer 
 - el atardecer 
 - el paraguas 
 
-## deberes 
-### la
-- pág 70 2b
-- pág 64 1a 1b 1d 2a
-- [[../98-Aules/Comida/Aules. Comida|Aules Comida]]
-- pág 68 1a 1b
-- pág 73 2d
-- pág 75 2a 4
-- pág 101 7b 7c
-- pág 107 7b 7c
-- pág 102 8a
-- pág 108 8a
-- pág 124 1 2a 3a
-- pág 125 4 5
-- 
+## Tarea (Deberes)
+- **LA (Libro del alumno)**:
+	- Pág. 64 (1a, 1b, 1d, 2a)
+	- Pág. 68 (1a, 1b)
+	- Pág. 70 (2b)
+	- Pág. 73 (2d)
+	- Pág. 75 (2a, 4)
+	- Pág. 101/107 (7b, 7c)
+	- Pág. 102/108 (8a)
+	- Pág. 124 (1, 2a, 3a)
+	- Pág. 125 (4, 5)
+- **Aules**: Comida (vocabulario y actividades).
+
 ---
 
 **Navegación:**
-[[20260330 Lección cuarenta y cuatro|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️
+[[20260330 Lección cuarenta y cuatro|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260415 Lección cuarenta y seis|📝 Deberes]] | [[20260415 Lección cuarenta y seis|Lección siguiente ➡️]]
