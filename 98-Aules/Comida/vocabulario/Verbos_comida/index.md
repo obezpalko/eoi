@@ -1,4 +1,4 @@
-[← Index](../../index.md)
+[← Index](../../Aules.%20Comida.md)
 
 # Verbos comida.tif
 
