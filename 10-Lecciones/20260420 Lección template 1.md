@@ -119,4 +119,4 @@ Va delante del verbo con presente, pasado, futuro.
 ---
 
 **Navegación:**
-[[20260000 Lección anterior|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260000 Lección siguiente|Deberes →]]
+[[20260415 Lección template 1|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️

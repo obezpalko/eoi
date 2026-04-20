@@ -70,4 +70,4 @@ Examenes mayo 4-11
 ---
 
 **Navegación:**
-[[20260000 Lección anterior|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260000 Lección siguiente|Deberes →]]
+[[20260415 Lección cuarenta y seis|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260420 Lección template 1|📝 Deberes]] | [[20260420 Lección template 1|Lección siguiente ➡️]]
