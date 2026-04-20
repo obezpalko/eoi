@@ -64,6 +64,28 @@ Ciertos adjetivos cambian completamente de significado dependiendo de si van **a
 
 ---
 
+## 4. El Apócope (Acortamiento)
+
+Algunos adjetivos se acortan (pierden la última vocal o sílaba) cuando van **delante** de un sustantivo **masculino singular**.
+
+### A. Bueno -> Buen
+- *Un tiempo **bueno**.* (Después)
+- *Un **buen** tiempo.* (Antes)
+
+### B. Malo -> Mal
+- *Un día **malo**.* (Después)
+- *Un **mal** día.* (Antes)
+
+### C. Grande -> Gran
+Este adjetivo se acorta tanto para **masculino** como para **femenino** cuando va delante.
+- *Un hombre **grande**.* (Tamaño físico) -> *Un **gran** hombre.* (Magnífico)
+- *Una mujer **grande**.* (Tamaño físico) -> *Una **gran** mujer.* (Magnífica)
+- *Una chica **grande**.* -> *Una **gran** chica.*
+
+---
+
+---
+
 ## 3. Ejemplos Contextuales (Familia)
 
 Aquí puedes ver cómo cambia el matiz usando a tu familia como ejemplo:

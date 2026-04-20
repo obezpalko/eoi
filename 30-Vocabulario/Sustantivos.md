@@ -81,6 +81,7 @@ tags: [vocabulario, sustantivos]
 - **la chancla** - flip-flop / шлепанец
 - **el charco** - puddle / лужа
 - **el chef** - chef / шеф-повар
+- **el chirimiri** - drizzle (Northern Spain) / моросящий дождь
 - **la chuchería / las chuches** - sweets, candy / сладости, конфеты
 - **la chuleta** - cheat sheet / шпаргалка
 - **el cine** - cinema / кинотеатр
@@ -121,6 +122,7 @@ tags: [vocabulario, sustantivos]
 - **el embutido** - cold meat, sausage / колбасное изделие
 - **el encaje** - lace / кружево
 - **el equipaje** - luggage / багаж
+- **el equinoccio** - equinox / равноденствие
 - **el erizo** - hedgehog / еж
 - **la escoba** - broom / метла
 - **la escuela** - school / школа
@@ -152,8 +154,10 @@ tags: [vocabulario, sustantivos]
 - **el geranio** - geranium / герань
 - **el gitano** - gypsy, Roma person / цыган
 - **el gofre** - waffle / вафля
+- **la gota** - drop / капля
 - **el gusano** - worm / червяк
 - **la granada** - pomegranate / гранат
+- **el granizo** - hail / град
 - **el halago** - compliment, flattery / комплимент, лесть
 - **la goma de borrar** - eraser / ластик
 - **la goma para el pelo** - hair tie / резинка для волос
@@ -232,6 +236,7 @@ tags: [vocabulario, sustantivos]
 - **la natación** - swimming / плавание
 - **la navaja** - pocket knife / складной нож
 - **la nevera** - fridge / холодильник
+- **la niebla** - fog / туман
 - **la nube** - cloud / облако
 - **el nombre** - name / имя
 - **la obra** - work (of art, construction) / произведение, стройка
@@ -312,6 +317,8 @@ tags: [vocabulario, sustantivos]
 - **el signo de exclamación** - exclamation mark / восклицательный знак
 - **el signo de interrogación** - question mark / вопросительный знак
 - **el snorkel** - snorkeling / снорклинг
+- **el solsticio** - solstice / солнцестояние
+- **la sombrilla** - sunshade, beach umbrella / зонтик (от солнца)
 - **la suciedad** - dirtiness / грязь
 - **el suelo** - floor / пол
 - **la sugerencia** - suggestion / предложение
@@ -331,6 +338,7 @@ tags: [vocabulario, sustantivos]
 - **el tendón** - tendon / сухожилие
 - **la tilde** - accent mark / тильда, ударение
 - **la toalla** - towel / полотенце
+- **la tormenta** - storm / шторм, гроза
 - **la torre** - tower (CPU) / системный блок
 - **la tumbona** - deck chair / шезлонг
 - **el/la turista** - tourist / турист

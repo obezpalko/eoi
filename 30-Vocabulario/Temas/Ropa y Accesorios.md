@@ -46,6 +46,7 @@ tags:
 | Botas                 | unas         | En invierno llevo unas botas.          | Calzado que cubre el tobillo.                               | ![[Ropa y Accesorios/botas.jpg]]              |
 | Zapatillas de casa    | unas         | En casa llevo unas zapatillas de casa. | Calzado suave solo para el hogar.                           | ![[Ropa y Accesorios/zapatillas_casa.jpg]]    |
 | Chanclas              | unas         | En la playa llevo unas chanclas.       | Calzado de goma muy simple (Flip-flops).                    | ![[Ropa y Accesorios/chanclas.jpg]]           |
+| **Bailarinas / Manoletinas** | unas      | Ella lleva unas bailarinas negras.     | Zapatos planos de estilo femenino.                          | ![[Ropa y Accesorios/bailarinas.jpg]]         |
 
 ### Notas Gramaticales (Ropa)
 
@@ -80,6 +81,7 @@ tags:
 | Pulsera              | una          | María lleva una pulsera de plata.         | Joya que se pone en la muñeca (Bracelet).                                  | ![[Ropa y Accesorios/pulsera.jpg]]    |
 | Cinturón             | un           | Carlos lleva un cinturón marrón.          | Correa para sujetar los pantalones.                                        | ![[Ropa y Accesorios/cinturon.jpg]]   |
 | Gafas de sol         | unas         | Llevo unas gafas de sol en la playa.      | Protección oscura para los ojos.                                           | ![[Ropa y Accesorios/gafas_sol.jpg]]  |
+| **Gafas de vista**       | unas         | Polina lleva unas gafas de vista.         | Gafas para ver mejor.                                                      | ![[Ropa y Accesorios/gafas_vista.jpg]]|
 | Cartera              | una          | Carlos lleva una cartera en el bolsillo.  | Pequeño objeto para guardar dinero y tarjetas (Wallet).                    | ![[Ropa y Accesorios/cartera.jpg]]    |
 | Pañuelo              | un           | La chica lleva un pañuelo en el cuello.   | Tela fina y cuadrada, más ligera que la bufanda (Scarf/Kerchief).          | ![[Ropa y Accesorios/pañuelo.jpg]]    |
 | Diadema              | una          | Ana lleva una diadema rosa.               | Accesorio rígido o de tela para sujetar el pelo (Headband).                | ![[Ropa y Accesorios/diadema.jpg]]    |
@@ -88,6 +90,31 @@ tags:
 | Broche               | un           | La señora lleva un broche en la chaqueta. | Joya con alfiler para decorar la ropa (Brooch).                            | ![[Ropa y Accesorios/broche.jpg]]     |
 | Gemelos              | unos         | Carlos lleva unos gemelos en la camisa.   | Joyas pequeñas para cerrar los puños de las camisas elegantes (Cufflinks). | ![[Ropa y Accesorios/gemelos.jpg]]    |
 | Manga                | una          | Esta camisa tiene la manga rota.          | Parte de la ropa que cubre el brazo (Sleeve).                              | ![[Ropa y Accesorios/manga.jpg]]      |
+| **Tirantes**             | unos         | Eugenio lleva unos tirantes.              | Tiras para sujetar los pantalones (Suspenders).                             | ![[Ropa y Accesorios/tirantes.jpg]]   |
+
+## Estampados y Estilos
+
+| **Estampado**         | **Descripción**               | **Ejemplo**                                    |
+| --------------------- | ----------------------------- | ---------------------------------------------- |
+| **Liso**              | De un solo color.             | *Lleva una camiseta **lisa**.*                 |
+| **Estampado**         | Con dibujos o diseños.        | *Lleva un bolso **estampado**.*                |
+| **De cuadros**        | Checkered / Plaid.            | *Una camisa **de cuadros**.*                   |
+| **De rayas**          | Striped.                      | *Una camiseta **de rayas**.*                   |
+| **De flores**         | Floral.                       | *Un vestido **de flores**.*                    |
+| **De lunares**        | Polka dot.                    | *Una blusa **de lunares**.*                    |
+| **De corazones**      | With hearts.                  | *Un pijama **de corazones**.*                  |
+| **De leopardo**       | Leopard print.                | *Unos zapatos **de leopardo**.*               |
+| **De serpiente**      | Snake print.                  | *Unas botas **de serpiente**.*                |
+| **Vaquero / Denim**   | Tela de jeans.                | *Una chaqueta **vaquera**.*                    |
+| **Roto**              | Ripped / Torn.                | *Unos vaqueros **rotos**.*                     |
+
+### Otras características
+
+- **Manga corta**: Short sleeve.
+- **Manga larga**: Long sleeve.
+- **Manga francesa**: Three-quarter sleeve.
+- **Pelo liso**: Straight hair. (Aunque no es ropa, se usó para describir estilo).
+- **Ropa deportiva**: Sportswear.
 
 ### Notas de Vocabulario y Materiales
 
