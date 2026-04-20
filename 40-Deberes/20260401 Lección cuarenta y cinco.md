@@ -7,7 +7,7 @@ date: 2026-04-01
 
 # 045: Deberes (Tarea)
 
-[[../10-Lecciones/20260401 Lección cuarenta y cinco|⬅️ Volver a la lección]]
+[[../10-Lecciones/20260401 Lección cuarenta y cinco1|⬅️ Volver a la lección]]
 
 ## Libro del Alumno (LA)
 - **Pág. 64**: Ejercicios 1a, 1b, 1d y 2a.
