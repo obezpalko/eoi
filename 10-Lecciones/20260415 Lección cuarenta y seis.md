@@ -24,18 +24,18 @@ tags:
 	- *En Dénia no nieva nunca, ni siquiera en invierno.*
 
 ### El tiempo atmosférico
-| Condición | Expresiones y Verbos | Gerundio (Ahora) |
-| :--- | :--- | :--- |
-| ☀️ Sol | Hace sol | Está **soleado** / Está despejado |
-| 🥵 Calor | Hace calor | - |
-| ❄️ Frío | Hace frío | - |
-| 🌬️ Viento | Hace viento / Hay viento | - |
-| ☁️ Nubes | Hay nubes | Está **nublado** |
-| 🌫️ Niebla | Hay niebla | - |
-| ⛈️ Tormenta | Hay tormenta / Hay rayos | - |
-| 🌧️ Lluvia | **Llueve** (Llover, o->ue) | Está **lloviendo** |
-| ❄️ Nieve | **Nieva** (Nevar, e->ie) | Está **nevando** |
-| 🧊 Granizo | **Graniza** (Granizar) | Está granizando |
+| Condición   | Expresiones y Verbos       | Gerundio (Ahora)                  |
+| :---------- | :------------------------- | :-------------------------------- |
+| ☀️ Sol      | Hace sol                   | Está **soleado** / Está despejado |
+| 🥵 Calor    | Hace calor                 | -                                 |
+| ❄️ Frío     | Hace frío                  | -                                 |
+| 🌬️ Viento  | Hace viento / Hay viento   | -                                 |
+| ☁️ Nubes    | Hay nubes                  | Está **nublado**                  |
+| 🌫️ Niebla  | Hay niebla                 | -                                 |
+| ⛈️ Tormenta | Hay tormenta / Hay rayos   | -                                 |
+| 🌧️ Lluvia  | **Llueve** (Llover, o->ue) | Está **lloviendo**                |
+| ❄️ Nieve    | **Nieva** (Nevar, e->ie)   | Está **nevando**                  |
+| 🧊 Granizo  | **Graniza** (Granizar)     | Está granizando                   |
 
 ### Vocabulario específico
 - **El chirimiri**: Lluvia muy fina.
@@ -46,14 +46,14 @@ tags:
 ### Pretérito Indefinido (Pasado)
 Terminaciones para verbos regulares acabados en **-er** e **-ir**:
 
-| Persona | nacer / beber |
-| :--- | :--- |
-| Yo | nac**í** / beb**í** |
-| Tú | nac**iste** |
-| Él/Ella/Ud. | nac**ió** |
-| Nosotros | nac**imos** |
-| Vosotros | nac**isteis** |
-| Ellos/Ellas/Uds. | nac**ieron** |
+| Persona          | nacer / beber       |
+| :--------------- | :------------------ |
+| Yo               | nac**í** / beb**í** |
+| Tú               | nac**iste**         |
+| Él/Ella/Ud.      | nac**ió**           |
+| Nosotros         | nac**imos**         |
+| Vosotros         | nac**isteis**       |
+| Ellos/Ellas/Uds. | nac**ieron**        |
 
 ### Apócope del adjetivo
 Cuando el adjetivo va delante del sustantivo, a veces se acorta:
