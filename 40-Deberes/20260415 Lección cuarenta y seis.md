@@ -14,4 +14,4 @@ date: 2026-04-15
 ---
 
 **Navegación:**
-[[20260401 Lección cuarenta y cinco|⬅️ Deberes anteriores]] | [[../index|🏠 Inicio]] | Deberes siguientes ➡️
+[[20260401 Lección cuarenta y cinco|⬅️ Deberes anteriores]] | [[../index|🏠 Inicio]] | [[20260420 Lección cuarenta y siete|Deberes siguientes ➡️]]

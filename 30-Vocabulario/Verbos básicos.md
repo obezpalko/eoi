@@ -80,6 +80,7 @@ tags: [vocabulario, verbos]
 - **fregar** (e->ie) - to scrub, wash dishes / тереть, мыть посуду
 - **ganar** - to win / выигрывать
 - **gozar** - to enjoy / наслаждаться
+- **granizar** - to hail / идти (о граде)
 - **gritar** - to shout / кричать
 - **haber (hay)** - to have (there is/are) / иметься (есть)
 - **ir** - to go / идти, ехать
@@ -91,6 +92,8 @@ tags: [vocabulario, verbos]
 - **limar** - to file / подпиливать
 - **limpiar** - to clean / чистить, убирать
 - **llamar** - to call / звать, звонить
+- **llevar** - to wear, to carry / носить, нести
+- **llover** (o->ue) - to rain / идти (о дожде)
 - **llorar** - to cry / плакать
 - **luchar** - to fight / бороться
 - **mandar** - to send, to command / посылать, командовать
@@ -107,6 +110,7 @@ tags: [vocabulario, verbos]
 - **multiplicar** - to multiply / умножать
 - **nacer** - to be born / рождаться
 - **navegar** - to browse, navigate / плавать, сидеть в интернете
+- **nevar** (e->ie) - to snow / идти (о снеге)
 - **odiar** - to hate / ненавидеть
 - **oír** - to hear / слышать
 - **oler** - to smell / пахнуть

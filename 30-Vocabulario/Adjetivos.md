@@ -121,6 +121,7 @@ tags: [vocabulario, adjetivos]
 - **sano/a** - healthy / здоровый
 - **separado/a** - separated / разошедшийся, разошедшаяся
 - **serio/a** - serious / серьезный
+- **soleado/a** - sunny / солнечный
 - **soltero/a** - single / холостой, незамужняя
 - **sorprendido/a** - surprised / удивленный
 - **temeroso/a** - fearful / боязливый

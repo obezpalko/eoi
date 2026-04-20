@@ -40,6 +40,7 @@ tags:
 | **Beige**     | ![[Colores/swatches/beige.svg]]     | ![[Colores/ejemplos/beige.jpg]]       | beige      | _El sofá es **beige**._                      |
 | **Crema**     | ![[Colores/swatches/crema.svg]]     | ![[Colores/ejemplos/crema.jpg]]       | crema      | _Las paredes están **crema**._               |
 | **Marfil**    | ![[Colores/swatches/marfil.svg]]    | ![[Colores/ejemplos/marfil.jpg]]      | marfil     | _Lleva un vestido **marfil**._               |
+| **Transparente**| - | ![[Colores/ejemplos/transparente.jpg]] | transparente | _El cristal es **transparente**._ |
 
 ## Tonos de Verde
 

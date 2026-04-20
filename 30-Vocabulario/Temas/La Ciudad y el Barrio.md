@@ -18,11 +18,14 @@ Este documento recopila el vocabulario y las estructuras necesarias para describ
 | ![[../attachments/la_ciudad_y_el_barrio/el_bar.jpg\|100]]                         | **El bar**                         | Bar / Pub               | Бар                        |
 | ![[../attachments/la_ciudad_y_el_barrio/la_cafeteria.jpg\|100]]                   | **La cafetería**                   | Café / Coffee shop      | Кафетерий                  |
 | ![[../attachments/la_ciudad_y_el_barrio/el_cine.jpg\|100]]                        | **El cine**                        | Cinema / Movie theater  | Кинотеатр                  |
+| ![[../attachments/la_ciudad_y_el_barrio/la_drogueria.jpg\|100]]                   | **La droguería**                   | Drugstore / Cleaning    | Магазин хозтоваров / бытовой химии |
 | ![[../attachments/la_ciudad_y_el_barrio/el_colegio.jpg\|100]]                     | **El colegio**                     | School                  | Школа / Колледж            |
 | ![[../attachments/la_ciudad_y_el_barrio/la_comisaria.jpg\|100]]                   | **La comisaría**                   | Police station          | Полицейский участок        |
 | ![[../attachments/la_ciudad_y_el_barrio/correos.jpg\|100]]                        | **Correos**                        | Post office             | Почта                      |
 | ![[../attachments/la_ciudad_y_el_barrio/la_estacion_de_tren.jpg\|100]]            | **La estación de tren**            | Train station           | Железнодорожный вокзал     |
+| ![[../attachments/la_ciudad_y_el_barrio/el_estanco.jpg\|100]]                     | **El estanco**                     | Tobacco / Stamp shop    | Табачный киоск / газетный  |
 | ![[../attachments/la_ciudad_y_el_barrio/la_farmacia.jpg\|100]]                    | **La farmacia**                    | Pharmacy / Drugstore    | Аптека                     |
+| ![[../attachments/la_ciudad_y_el_barrio/la_ferreteria.jpg\|100]]                  | **La ferretería**                  | Hardware store          | Хозяйственный / строительный магазин |
 | ![[../attachments/la_ciudad_y_el_barrio/la_floristeria.jpg\|100]]                 | **La floristería**                 | Flower shop             | Цветочный магазин          |
 | ![[../attachments/la_ciudad_y_el_barrio/el_hospital.jpg\|100]]                    | **El hospital**                    | Hospital                | Больница                   |
 | ![[../attachments/la_ciudad_y_el_barrio/la_iglesia.jpg\|100]]                     | **La iglesia / La catedral**       | Church / Cathedral      | Церковь / Собор            |
@@ -31,7 +34,9 @@ Este documento recopila el vocabulario y las estructuras necesarias para describ
 | ![[../attachments/la_ciudad_y_el_barrio/la_lavanderia.jpg\|100]]                  | **La lavandería**                  | Laundry                 | Прачечная                  |
 | ![[../attachments/la_ciudad_y_el_barrio/la_libreria.jpg\|100]]                    | **La librería**                    | Bookstore               | Книжный магазин            |
 | ![[../attachments/la_ciudad_y_el_barrio/el_mercado.jpg\|100]]                     | **El mercado**                     | Market                  | Рынок                      |
+| ![[../attachments/la_ciudad_y_el_barrio/la_merceria.jpg\|100]]                    | **La mercería**                    | Haberdashery            | Магазин галантереи / ниток |
 | ![[../attachments/la_ciudad_y_el_barrio/la_panaderia.jpg\|100]]                   | **La panadería**                   | Bakery                  | Пекарня                    |
+| ![[../attachments/la_ciudad_y_el_barrio/la_papeleria.jpg\|100]]                   | **La papelería**                   | Stationery shop         | Магазин канцтоваров        |
 | ![[../attachments/la_ciudad_y_el_barrio/la_peluqueria.jpg\|100]]                  | **La peluquería / barbería**       | Hair salon / Barbershop | Парикмахерская / Барбершоп |
 | ![[../attachments/la_ciudad_y_el_barrio/la_pizzeria.jpg\|100]]                    | **La pizzería**                    | Pizzeria                | Пиццерия                   |
 | ![[../attachments/la_ciudad_y_el_barrio/el_polideportivo.jpg\|100]]               | **El polideportivo**               | Sports center           | Спорткомплекс              |
