@@ -20,3 +20,4 @@ Próxima clase: [Fecha]
 
 **Navegación:**
 [[20260401 Lección cuarenta y cinco|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260415 Lección template 1|📝 Deberes]] | [[20260415 Lección template 1|Lección siguiente ➡️]]
+
