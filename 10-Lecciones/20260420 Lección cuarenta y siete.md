@@ -57,14 +57,14 @@ El pronombre va **delante** del verbo conjugado:
 ## Vocabulario: ¿Dónde compras...?
 Nuevos establecimientos y productos relacionados:
 
-| Producto | Establecimiento |
-| :--- | :--- |
-| **Tabaco, sellos** | El estanco |
-| **Hilo, botones, agujas** | La mercería |
-| **Herramientas, bricolaje** | La ferretería |
-| **Detergente, limpieza, perfume** | La droguería |
-| **Libretas, bolígrafos, folios** | La papelería |
-| **Medicamentos, pastillas** | La farmacia |
+| Producto                          | Establecimiento |
+| :-------------------------------- | :-------------- |
+| **Tabaco, sellos**                | El estanco      |
+| **Hilo, botones, agujas**         | La mercería     |
+| **Herramientas, bricolaje**       | La ferretería   |
+| **Detergente, limpieza, perfume** | La droguería    |
+| **Libretas, bolígrafos, folios**  | La papelería    |
+| **Medicamentos, pastillas**       | La farmacia     |
 
 ### Otras palabras nuevas
 - **Estampado:** de cuadros, de rayas, de corazones, de flores, de lunares.
