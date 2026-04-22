@@ -23,7 +23,8 @@
     "editor:indent-list",
     "editor:unindent-list",
     "editor:insert-table",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "nldates-obsidian:nlp-picker"
   ],
   "pdfExportSettings": {
     "includeName": true,

@@ -33,6 +33,7 @@ tags: [vocabulario, verbos]
 - **barrer** - to sweep / подметать
 - **beber** - to drink / пить
 - **besar(se)** - to kiss / целовать(ся)
+- **bucear** - to dive / нырять
 - **caerse** - to fall / падать
 - **caminar** - to walk / идти, шагать
 - **cantar** - to sing / петь
@@ -65,6 +66,7 @@ tags: [vocabulario, verbos]
 - **encender** - to turn on / включать
 - **enseñar** - to teach, to show / учить, показывать
 - **entender** - to understand / понимать
+- **esquiar** - to ski / кататься на лыжах
 - **entrar** - to enter / входить
 - **enviar** - to send / посылать
 - **eructar** - to burp / рыгать
@@ -78,6 +80,7 @@ tags: [vocabulario, verbos]
 - **fregar** (e->ie) - to scrub, wash dishes / тереть, мыть посуду
 - **ganar** - to win / выигрывать
 - **gozar** - to enjoy / наслаждаться
+- **granizar** - to hail / идти (о граде)
 - **gritar** - to shout / кричать
 - **haber (hay)** - to have (there is/are) / иметься (есть)
 - **ir** - to go / идти, ехать
@@ -89,6 +92,8 @@ tags: [vocabulario, verbos]
 - **limar** - to file / подпиливать
 - **limpiar** - to clean / чистить, убирать
 - **llamar** - to call / звать, звонить
+- **llevar** - to wear, to carry / носить, нести
+- **llover** (o->ue) - to rain / идти (о дожде)
 - **llorar** - to cry / плакать
 - **luchar** - to fight / бороться
 - **mandar** - to send, to command / посылать, командовать
@@ -103,7 +108,9 @@ tags: [vocabulario, verbos]
 - **montar** - to ride, to mount / кататься, ездить верхом
 - **morir** - to die / умирать
 - **multiplicar** - to multiply / умножать
+- **nacer** - to be born / рождаться
 - **navegar** - to browse, navigate / плавать, сидеть в интернете
+- **nevar** (e->ie) - to snow / идти (о снеге)
 - **odiar** - to hate / ненавидеть
 - **oír** - to hear / слышать
 - **oler** - to smell / пахнуть

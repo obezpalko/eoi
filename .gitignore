@@ -2,6 +2,8 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
+quartz/util/emojimap.json
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -33,3 +35,4 @@ quartz/.quartz-cache/
 # Node
 node_modules/
 .package-lock.json
+
