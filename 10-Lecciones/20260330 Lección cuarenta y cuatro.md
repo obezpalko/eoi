@@ -28,14 +28,14 @@ Próxima clase: miércoles 1 de abril y después 15 de abril.
 ### Futuro: Ir + a + infinitivo (AL 7C)
 Para hacer planes en el futuro se usan las formas: **ir** + **a** + **infinitivo**.
 
-| Sujeto           | Verbo *ir* | Preposición | Infinitivo               |
-| ---------------- | ---------- | ----------- | ------------------------ |
-| Yo               | voy        | a           | ir a un restaurante      |
-| Tú               | vas        | a           | ir al cine               |
-| Él/ella/usted    | va         | a           | ir al café               |
-| Nosotros/as      | vamos      | a           | ver un partido de fútbol |
-| Vosotros/as      | vais       | a           | comer fuera              |
-| Ellos/las/ustedes| van        | a           | estudiar                 |
+| Sujeto            | Verbo *ir* | Preposición | Infinitivo               |
+| ----------------- | ---------- | ----------- | ------------------------ |
+| Yo                | voy        | a           | ir a un restaurante      |
+| Tú                | vas        | a           | ir al cine               |
+| Él/ella/usted     | va         | a           | ir al café               |
+| Nosotros/as       | vamos      | a           | ver un partido de fútbol |
+| Vosotros/as       | vais       | a           | comer fuera              |
+| Ellos/las/ustedes | van        | a           | estudiar                 |
 
 ![[attachments/Presentación 1.pdf]]
 

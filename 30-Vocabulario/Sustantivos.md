@@ -16,13 +16,18 @@ tags: [vocabulario, sustantivos]
 - **el aimara** - Aymara (language) / аймара (язык)
 - **el algodón** - cotton / хлопок
 - **la almohada** - pillow / подушка
+- **el amanecer** - dawn / рассвет
 - **la amistad** - friendship / дружба
 - **el ambiente** - environment, atmosphere / атмосфера, окружающая среда
 - **la ansiedad** - anxiety / тревога
+- **el anochecer** - dusk, nightfall / сумерки
+- **el antecedente** - antecedent / антецедент
 - **el aparcamiento** - parking lot / парковка
 - **el apellido** - surname, last name / фамилия
 - **el apretón** - handshake, squeeze / рукопожатие
+- **el arcoíris** - rainbow / радуга
 - **el armario** - wardrobe, closet / шкаф
+- **el atardecer** - sunset / закат
 - **la arroba** (@) - at symbol / символ собака
 - **el aseo** - toilet, restroom / туалет
 - **el autocar** - coach, bus / междугородний автобус
@@ -76,6 +81,7 @@ tags: [vocabulario, sustantivos]
 - **la chancla** - flip-flop / шлепанец
 - **el charco** - puddle / лужа
 - **el chef** - chef / шеф-повар
+- **el chirimiri** - drizzle (Northern Spain) / моросящий дождь
 - **la chuchería / las chuches** - sweets, candy / сладости, конфеты
 - **la chuleta** - cheat sheet / шпаргалка
 - **el cine** - cinema / кинотеатр
@@ -116,6 +122,7 @@ tags: [vocabulario, sustantivos]
 - **el embutido** - cold meat, sausage / колбасное изделие
 - **el encaje** - lace / кружево
 - **el equipaje** - luggage / багаж
+- **el equinoccio** - equinox / равноденствие
 - **el erizo** - hedgehog / еж
 - **la escoba** - broom / метла
 - **la escuela** - school / школа
@@ -147,13 +154,18 @@ tags: [vocabulario, sustantivos]
 - **el geranio** - geranium / герань
 - **el gitano** - gypsy, Roma person / цыган
 - **el gofre** - waffle / вафля
+- **la gota** - drop / капля
 - **el gusano** - worm / червяк
+- **la granada** - pomegranate / гранат
+- **el granizo** - hail / град
 - **el halago** - compliment, flattery / комплимент, лесть
 - **la goma de borrar** - eraser / ластик
 - **la goma para el pelo** - hair tie / резинка для волос
 - **la herida** - wound / рана
 - **el hambre** (f) - hunger / голод
 - **la historia** - story, history / история
+- **el holgazán** - lazy person / бездельник
+- **la huelga** - strike / забастовка
 - **el hombro** - shoulder / плечо
 - **la hucha** - piggy bank / копилка
 - **el hospital** - hospital / больница
@@ -162,6 +174,7 @@ tags: [vocabulario, sustantivos]
 - **el huevo** - egg / яйцо
 - **el idioma** - language / язык
 - **el imán** - magnet / магнит
+- **el infierno** - hell / ад
 - **el inglés** - English / английский язык
 - **el instituto** - institute / институт
 - **la jarana** - partying, revelry / кутеж, веселье
@@ -223,6 +236,8 @@ tags: [vocabulario, sustantivos]
 - **la natación** - swimming / плавание
 - **la navaja** - pocket knife / складной нож
 - **la nevera** - fridge / холодильник
+- **la niebla** - fog / туман
+- **la nube** - cloud / облако
 - **el nombre** - name / имя
 - **la obra** - work (of art, construction) / произведение, стройка
 - **el océano** - ocean / океан
@@ -240,6 +255,7 @@ tags: [vocabulario, sustantivos]
 - **la pantalla** - screen / экран
 - **el papel** - paper / бумага
 - **la papelera** - wastebasket / мусорная корзина
+- **el paraíso** - paradise / рай
 - **el paraguas** - umbrella / зонт
 - **la parada de autobús** - bus stop / автобусная остановка
 - **el paso de peatones** - pedestrian crossing / пешеходный переход
@@ -278,6 +294,7 @@ tags: [vocabulario, sustantivos]
 - **el reciclaje** - recycling / переработка
 - **la recomendación** - recommendation / рекомендация
 - **la redundancia** - redundancy / избыточность
+- **el relámpago** - lightning / молния
 - **la resaca** - hangover / похмелье
 - **la residencia** - residence / место жительства
 - **el retraso** - delay, lateness / опоздание, задержка
@@ -299,6 +316,9 @@ tags: [vocabulario, sustantivos]
 - **la siesta** - siesta, nap / сиеста
 - **el signo de exclamación** - exclamation mark / восклицательный знак
 - **el signo de interrogación** - question mark / вопросительный знак
+- **el snorkel** - snorkeling / снорклинг
+- **el solsticio** - solstice / солнцестояние
+- **la sombrilla** - sunshade, beach umbrella / зонтик (от солнца)
 - **la suciedad** - dirtiness / грязь
 - **el suelo** - floor / пол
 - **la sugerencia** - suggestion / предложение
@@ -313,10 +333,12 @@ tags: [vocabulario, sustantivos]
 - **el terciopelo** - velvet / бархат
 - **la tienda de electrodomésticos** - appliance store / магазин бытовой техники
 - **la tienda de música** - music store / музыкальный магазин
+- **la tierra** - land, earth / земля
 - **la tienda de ropa** - clothing store / магазин одежды
 - **el tendón** - tendon / сухожилие
 - **la tilde** - accent mark / тильда, ударение
 - **la toalla** - towel / полотенце
+- **la tormenta** - storm / шторм, гроза
 - **la torre** - tower (CPU) / системный блок
 - **la tumbona** - deck chair / шезлонг
 - **el/la turista** - tourist / турист

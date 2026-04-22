@@ -39,12 +39,14 @@ tags: [vocabulario, adjetivos]
 - **cortado/a** - cut, dead-end (street) / отрезанный, тупиковый (улица)
 - **cosmopolita** - cosmopolitan / космополитичный
 - **costero/a** - coastal / прибрежный
+- **chulo/a** - cool / крутой, классный
 - **cristalino/a** - crystalline, crystal clear / кристально чистый
 - **curioso/a** - curious / любопытный
 - **débil** - weak / слабый
 - **delgado/a** - slim / стройный
 - **desamorado/a** - indifferent, unloving / нелюбящий, равнодушный
 - **descuidado/a** - neglected, careless / запущенный, небрежный
+- **despejado/a** - clear (weather) / ясный, безоблачный
 - **difícil** - difficult / трудный
 - **disgustado/a** - upset, annoyed / расстроенный, недовольный
 - **divertido/a** - fun / веселый, забавный
@@ -96,6 +98,7 @@ tags: [vocabulario, adjetivos]
 - **moderno/a** - modern / современный
 - **mucho/a** - much, many / много, многий
 - **muerto/a** - dead / мертвый
+- **nublado/a** - cloudy / облачный
 - **nocturno/a** - nocturnal, night / ночной
 - **nervioso/a** - nervous / нервный
 - **optimista** - optimistic / оптимистичный
@@ -118,6 +121,7 @@ tags: [vocabulario, adjetivos]
 - **sano/a** - healthy / здоровый
 - **separado/a** - separated / разошедшийся, разошедшаяся
 - **serio/a** - serious / серьезный
+- **soleado/a** - sunny / солнечный
 - **soltero/a** - single / холостой, незамужняя
 - **sorprendido/a** - surprised / удивленный
 - **temeroso/a** - fearful / боязливый
