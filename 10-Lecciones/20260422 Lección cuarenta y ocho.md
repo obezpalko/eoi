@@ -4,117 +4,103 @@ tags:
   - español
   - lección
 ---
-# 048: Lección template
+# 048: La Ropa y Pronombres de Complemento Directo
 
 [[../40-Deberes/20260422 Lección cuarenta y ocho|📝 Deberes de la lección]]
 
 ## Prácticas
-### Lleva ropa
-- Anthony lleva una camisa blanca, unas gafas de sol y unas zapatillas deportivas beige. Además un cinturón blanco y una cadena plateado de oro blanco 
-- Jasmin lleva una vestido blanco y una jaqueta vaquera. Además un bolso negro y gris
-- Alina lleva una camiseta melocotón de manga corta, unas pantalones vaqueros y unas zapatillas blancas. Además una botella de agua, un reloj rose y unas gafas de sol.
-- Lilia lleva una chaqueta vaquera, una camiseta de manga corta negra, unos vaqueros rotos y zapatillas azul claro. Además un bolso azul, un reloj blanco, unos anillos de oro, unos pendientes y una cadena dorada.
-- Perro lleva un polo verde claro (lima, pistacho), unos vaqueros negros y unos zapatos gris. Además una pulsera negra de piel y un cinturón negro. 
-- Dimitri lleva una camiseta de manga corta gris, unos vaqueros celeste, unos zapatos gris, unos calcetines gris. También el lleva un reloj plateado y un móvil.
-- El lleva un polo violeta y blanco, una jaqueta vaquera, unos vaqueros y unos zapatos beige (rosa bebe). Además un móvil, un cinturón, unas gafas de vista y una cadena de oro blanco.
-- Alexander lleva una sudadera gris con cremallera, unas pantalones grises y unas zapatas grises. También el lleva un cinturón gris
-- Seva lleva una camiseta de manga corta verde militar (oliva, verde oscuro ), unas bermudas beige, unas zapatillas negras y un reloj 
-- Merry lleva una jaqueta de manga larga beige, una camiseta corta marrón, unos pantalones vaqueros rotos azul, unas zapatillas beige y unos calcetines blancos. Además una cadena dorada con colgante, un pendiente y un anillo de oro.
-- Diana lleva una camisa de manga larga blanca y unos vaqueros rotos casi blancos y unas zapatillas beige y marrones. Además un collar, un anillo dorado y unos pendientes dorados.
-- Jasna lleva una gabardina azul marino, unos vaqueros blancos y unas zapatillas deportivas negras, las gafas de vista negras. También un pañuelo blanco y negro.
-- Polina lleva una falda corta blanca, unas zapatas beige, una sudadera verde y beige, un bolsa rosa bebe. También una pulsera goma del pelo .
-- Svetlana lleva una jaqueta negra, un jersey rosa bebé, unas pantalones grises y un cinturón negro con tachuelas plateados. Además ella lleva un collar, un pulsera plateada y un bolso de pelo gris. También un reloj plateado, un anillo con diamante, unas pendientes perlas y un móvil.
-### Pronombres de complemento directo 
-- Aules
-- [[../20-Gramática/Pronombres de Complemento Directo (LO, LA, LOS, LAS)|Pronombres de Complemento Directo (LO, LA, LOS, LAS)]]
-—
-#### LA pág 75 3b
-- El traje para mí es necesario por mi trabajo. Lo uso para reuniones con clientes y eventos especiales.
-#### 1
-0. Termino el trabajo. Lo termino.
-1. Pago los billetes. Los pago.
-2. Escribo la respuesta. La escribo.
-3. Compro el periódico. Lo compro.
-4. Escucha la canción.
-5. Alquilo un piso.
-6. Crítico la película.
-7. ¿Envío la carta?
-8. Aprendo la lección.
-9. ¿Cierro las puertas?
-10. ¿Invitó a María?
-11. Leo el cuento.
-12. Vendo los libros.
-13. Comprendo la solución.
-14. Traduzco las poesías.
-15. Conozco a los artistas.
-16. Veo a las niñas en el parque. Las veo.
-17. No encuentro el papel. No lo encuentro.
-18. ¿Buscas las gafas?
-19. Consulta la guía.
-#### 2
-0. ¿Haces la compra? Si, la hago.
-1. ¿Traes la revista? Sí, la traigo.
-2. ¿Conoces a los señores Pérez? No, no los conozco.
-3. ¿Encuentras los libros? No, no los encuentro.
-4. ¿Ves mucho a Pedro y a Juan? Si, los veo mucho.
-5. ¿Envías las cartas? Si,
-6. ¿Compras los discos? Si, los compro.
-7. ¿Escuchas las noticias hoy? No, no las escucho.
-8. ¿Coges el autobús está mañana?
-9. ¿Compras la ropa en Madrid? No, no la compro.
-10. ¿Invitamos a Isabel? Si, la invito.
-#### 3. Me, te, lo, la 
-0. Mi amiga me escribe todos los días un correo.
-1. ¿Vienes con nosotros al cine? ==Te== invitamos.
-2. Pedro quiere mucho a su novia, pero elle no lo quiere.
-3. Estamos cansados. ¿==Nos== llevas en tu coche?
-4. Veo mucho la tele. Y tú, ¿==la== ves mucho también?
-5. Vemos todos los partidos en el tele. Y vosotros, ¿los veis?
-6. Nosotros no ==os== conocemos, ¿verdad?
-#### lugar posición 
-Va delante del verbo con presente, pasado, futuro
-- 
-Va detrás del verbo y unido a él con:
-- infinitivo:
-	- tengo que estudiar español. tengo que estudiarlo.
-- imperativo 
-	- escucha la radio. escuchala.
-	- abre el libro. ábrelo.
-	- lee el texto. leelo.
-- gerundio 
-	- estoy estudiando español.estoy estudiandolo.
-	- estoy aprendiendo español. estoy aprendiendolo
-#### 4 ¿Que?
-0. Me gusta tocar el piano. Me gusta tocarlo.
-1. Hago la carta. La hago.
-2. Quiero comprar el periódico. Dos variantes 
-3. Vemos las noticias.
-4. Quiero ver a María y a Isabel hoy.
-5. Escucho a la profesora 
-6. Necesito ver a mis padres
-7. Quiero decir una cosa
-8. Podemos hacer las compras
-9. Buscáis las soluciones 
-10. Espero encontrar las llaves.
-## Vocabulario
-- cómodo VS comfortable 
-- color + bebe. Rosa bebe, verde bebe…
-- cremallera 
-- reloj digital 
-- móvil - smartphone 
-- colgante 
-- cadena y collar 
-- calcetines y medias 
-- abrigo VS gabardina 
-- niqab, hiyab, burka
-- crochet 
-- pinza del pelo
-- pinza
-- tachuelas 
-- prendedor, broche 
-## deberes
-- los fines de semana (pagina)
-- página con textos 
+
+### ¿Qué lleva puesto?
+- **Anthony** lleva una camisa blanca, unas gafas de sol y unas zapatillas deportivas beige. Además, un cinturón blanco y una cadena de oro blanco.
+- **Jasmin** lleva un vestido blanco y una chaqueta vaquera. Además, un bolso negro y gris.
+- **Alina** lleva una camiseta melocotón de manga corta, unos pantalones vaqueros y unas zapatillas blancas. Además, una botella de agua, un reloj rosa y unas gafas de sol.
+- **Lilia** lleva una chaqueta vaquera, una camiseta de manga corta negra, unos vaqueros rotos y zapatillas azul claro. Además, un bolso azul, un reloj blanco, unos anillos de oro, unos pendientes y una cadena dorada.
+- **Petro** lleva un polo verde claro (lima, pistacho), unos vaqueros negros y unos zapatos grises. Además, una pulsera negra de piel y un cinturón negro. 
+- **Dimitri** lleva una camiseta de manga corta gris, unos vaqueros celeste, unos zapatos grises y unos calcetines grises. También él lleva un reloj plateado y un móvil.
+- **Hassna** lleva una gabardina azul marino, unos vaqueros blancos y unas zapatillas deportivas negras, y las gafas de vista negras. También un pañuelo blanco y negro.
+- **Alexandr** lleva una sudadera gris con cremallera, unos pantalones grises y unos zapatos grises. También él lleva un cinturón gris.
+- **Sevak** lleva una camiseta de manga corta verde militar (oliva, verde oscuro), unas bermudas beige, unas zapatillas negras y un reloj.
+- **Meghry** lleva una chaqueta de manga larga beige, una camiseta corta marrón, unos pantalones vaqueros rotos azules, unas zapatillas beige y unos calcetines blancos. Además, una cadena dorada con colgante, un pendiente y un anillo de oro.
+- **Diana** lleva una camisa de manga larga blanca, unos vaqueros rotos casi blancos y unas zapatillas beige y marrones. Además, un collar, un anillo dorado y unos pendientes dorados.
+- **Polina** lleva una falda corta blanca, unos zapatos beige, una sudadera verde y beige, y un bolso rosa bebé. También una pulsera de goma para el pelo.
+- **Svetlana** lleva una chaqueta negra, un jersey rosa bebé, unos pantalones grises y un cinturón negro con tachuelas plateadas. Además, ella lleva un collar, una pulsera plateada y un bolso de pelo gris. También un reloj plateado, un anillo con diamante, unos pendientes de perlas y un móvil.
+
+## Gramática: Pronombres de Complemento Directo (LO, LA, LOS, LAS)
+
+Consulta la guía completa: [[../20-Gramática/Pronombres de Complemento Directo (LO, LA, LOS, LAS)|Pronombres de Complemento Directo]]
+
+### Ejercicios de clase
+
+#### 1. Sustitución simple
+0. Termino el trabajo. -> **Lo** termino.
+1. Pago los billetes. -> **Los** pago.
+2. Escribo la respuesta. -> **La** escribo.
+3. Compro el periódico. -> **Lo** compro.
+4. Escucha la canción. -> **La** escucha.
+5. Alquilo un piso. -> **Lo** alquilo.
+6. Critico la película. -> **La** critico.
+7. ¿Envío la carta? -> ¿**La** envío?
+8. Aprendo la lección. -> **La** aprendo.
+9. ¿Cierro las puertas? -> ¿**Las** cierro?
+10. ¿Invito a María? -> ¿**La** invito?
+11. Leo el cuento. -> **Lo** leo.
+12. Vendo los libros. -> **Los** vendo.
+13. Comprendo la solución. -> **La** comprendo.
+14. Traduzco las poesías. -> **Las** traduzco.
+15. Conozco a los artistas. -> **Los** conozco.
+16. Veo a las niñas en el parque. -> **Las** veo.
+17. No encuentro el papel. -> No **lo** encuentro.
+18. ¿Buscas las gafas? -> ¿**Las** buscas?
+19. Consulta la guía. -> **La** consulta.
+
+#### 2. Preguntas y respuestas
+0. ¿Haces la compra? -> Sí, **la** hago.
+1. ¿Traes la revista? -> Sí, **la** traigo.
+2. ¿Conoces a los señores Pérez? -> No, no **los** conozco.
+3. ¿Encuentras los libros? -> No, no **los** encuentro.
+4. ¿Ves mucho a Pedro y a Juan? -> Sí, **los** veo mucho.
+5. ¿Envías las cartas? -> Sí, **las** envío.
+6. ¿Compras los discos? -> Sí, **los** compro.
+7. ¿Escuchas las noticias hoy? -> No, no **las** escucho.
+8. ¿Coges el autobús esta mañana? -> Sí, **lo** cojo.
+9. ¿Compras la ropa en Madrid? -> No, no **la** compro.
+10. ¿Invitamos a Isabel? -> Sí, **la** invitamos.
+
+#### 3. Me, te, lo, la, nos, os, los, las
+0. Mi amiga **me** escribe todos los días un correo.
+1. ¿Vienes con nosotros al cine? **Te** invitamos.
+2. Pedro quiere mucho a su novia, pero ella no **lo** quiere.
+3. Estamos cansados. ¿**Nos** llevas en tu coche?
+4. Veo mucho la tele. Y tú, ¿**la** ves mucho también?
+5. Vemos todos los partidos en la tele. Y vosotros, ¿**los** veis?
+6. Nosotros no **os** conocemos, ¿verdad?
+
+### Posición del pronombre
+- **Delante del verbo** (presente, pasado, futuro): "Lo compro", "La vi".
+- **Detrás del verbo y unido a él** (Infinitivo, Imperativo afirmativo, Gerundio):
+	- **Infinitivo**: "Tengo que estudiarlo" (o "Lo tengo que estudiar").
+	- **Imperativo**: "Escúchala", "Ábrelo", "Léelo".
+	- **Gerundio**: "Estoy estudiándolo", "Estoy aprendiéndolo".
+
+## Vocabulario de la Lección
+- **Cómodo** (Comfortable)
+- **Rosa bebé, verde bebé** (Baby pink, baby green)
+- **Cremallera** (Zipper)
+- **Reloj digital** (Digital watch)
+- **Móvil / Smartphone** (Mobile phone)
+- **Colgante** (Pendant)
+- **Cadena** (Chain)
+- **Collar** (Necklace)
+- **Calcetines** (Socks)
+- **Medias** (Tights/Stockings)
+- **Abrigo** (Coat)
+- **Gabardina** (Trench coat)
+- **Niqab, hiyab, burka** (Velo/Vestimenta islámica)
+- **Crochet** (Ganchillo)
+- **Pinza del pelo** (Hair clip)
+- **Tachuelas** (Studs)
+- **Prendedor / Broche** (Brooch/Pin)
+
 ---
 
 **Navegación:**

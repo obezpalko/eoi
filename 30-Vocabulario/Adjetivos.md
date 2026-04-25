@@ -33,6 +33,7 @@ tags: [vocabulario, adjetivos]
 - **caótico/a** - chaotic / хаотичный
 - **cariñoso/a** - affectionate / ласковый
 - **casado/a** - married / женатый, замужняя
+- **cómodo/a** - comfortable / удобный
 - **comprometido/a** - engaged / обрученный, обрученная
 - **congelado/a** - frozen / замороженный
 - **contento/a** - happy, content / довольный
@@ -91,6 +92,7 @@ tags: [vocabulario, adjetivos]
 - **loco/a** - crazy / сумасшедший
 - **lindo/a** - cute, pretty / красивый
 - **lleno/a** - full / полный
+- **lluvioso/a** - rainy / дождливый
 - **malo/a** - bad / плохой
 - **manchego/a** - from La Mancha / манчего
 - **mejor** - better / лучший

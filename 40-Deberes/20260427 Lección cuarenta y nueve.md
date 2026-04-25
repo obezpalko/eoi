@@ -4,7 +4,7 @@ tags:
   - español
   - deberes
 ---
-# Deberes: 049: Lección template
+# Deberes: 049: El Tiempo Atmosférico y Verbos Impersonales
 
 [[../10-Lecciones/20260427 Lección cuarenta y nueve|⬅️ Volver a la lección]]
 
@@ -12,4 +12,4 @@ tags:
 
 ---
 **Navegación:**
-[[20260422 Lección cuarenta y ocho|⬅️ Deberes anteriores]] | [[../index|🏠 Inicio]] | Deberes siguientes ➡️
+[[20260422 Lección cuarenta y ocho|⬅️ Deberes anteriores]] | [[../index|🏠 Inicio]] | [[20260429 Lección cincuenta|Deberes siguientes ➡️]]
