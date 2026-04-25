@@ -20,32 +20,38 @@ Vocabulario relacionado con el clima, los fenómenos atmosféricos y las estacio
 
 | Fenómeno | Sustantivo | Verbo | Adjetivo / Estado |
 | :--- | :--- | :--- | :--- |
-| 🌧️ Lluvia | la lluvia | **llover** (o->ue) | está lloviendo / lluvioso |
+| 🌧️ Lluvia | la lluvia | **llover** (o->ue) / **diluviar** | está lloviendo / lluvioso |
 | ❄️ Nieve | la nieve | **nevar** (e->ie) | está nevando / nevado |
 | 🧊 Granizo | el granizo | **granizar** | está granizando |
-| 🌬️ Viento | el viento | hace viento | - (ciudad ventosa) |
-| ☀️ Sol | el sol | hace sol | está soleado / despejado |
-| ☁️ Nubes | la nube | hay nubes | está nublado |
-| 🌫️ Niebla | la niebla | hay niebla | - |
-| ⚡ Tormenta | la tormenta | hay tormenta | - |
+| 🌬️ Viento | el viento | **soplar** / hace viento | ventoso |
+| ☀️ Sol | el sol | **brillar** / hace sol | está soleado / despejado |
+| ☁️ Nubes | la nube | hay nubes | está nublado / cubierto |
+| 🌫️ Niebla | la niebla | hay niebla | brumoso |
+| ⚡ Tormenta | la tormenta | **tronar** / **relampaguear** | tormentoso |
 
-### Detalles del Clima
+### Detalles del Clima y Luz
 
-- **El chirimiri** - Lluvia muy fina (típica del norte de España).
+- **Amanecer** - Salir el sol por la mañana.
+- **Anochecer** - Hacerse de noche.
+- **Atardecer** - Caer la tarde, cuando el sol se pone.
 - **Chispear** - Empezar a llover muy poco.
-- **Las gotas** - Drops.
-- **Los rayos** - Lightning beams.
+- **Diluviar** - Llover con mucha intensidad.
 - **El arcoíris** - Rainbow.
-- **El equinoccio** - Equinox.
-- **El solsticio** - Solstice.
+- **El chirimiri** - Lluvia muy fina (típica del norte de España).
+- **El relámpago / El rayo** - Lightning.
+- **El solsticio / El equinoccio** - Eventos astronómicos de las estaciones.
+- **El trueno** - El ruido de la tormenta.
+- **Las gotas** - Drops.
 
 ## Expresiones de Temperatura
 
 - **Hace calor** - It's hot.
 - **Hace frío** - It's cold.
+- **Hace fresco** - It's cool.
 - **Hace buen tiempo** - The weather is good.
 - **Hace mal tiempo** - The weather is bad.
+- **Estamos a...** - "Estamos a 20 grados" (To be at... degrees).
 - **Un sol de justicia** - Hace muchísimo sol y calor.
 
 ---
-[[../../index|🏠 Inicio]] | [[../Sustantivos|🔤 Sustantivos]] | [[../../20-Gramática/🌤️ El Tiempo Atmosférico|📖 Gramática]]
+[[../../index|🏠 Inicio]] | [[../Sustantivos|🔤 Sustantivos]] | [[../../10-Lecciones/20260427 Lección cuarenta y nueve|📖 Lección 49]]

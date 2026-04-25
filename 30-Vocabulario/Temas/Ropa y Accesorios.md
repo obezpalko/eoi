@@ -11,6 +11,7 @@ tags:
 | --------------------- | ------------ | -------------------------------------- | ----------------------------------------------------------- | --------------------------------------------- |
 | Pantalones            | unos         | Carlos lleva unos pantalones oscuros.  | Cubren desde la cintura hasta los tobillos. Siempre plural. | ![[Ropa y Accesorios/pantalones.jpg]]         |
 | Pantalones cortos     | unos         | El niño lleva unos pantalones cortos.  | Pantalones de verano (Shorts).                              | ![[Ropa y Accesorios/pantalones_cortos.jpg]]  |
+| Bermudas              | unas         | Él lleva unas bermudas beige.          | Pantalones cortos hasta la rodilla.                        | ![[Ropa y Accesorios/bermudas.jpg]]           |
 | Vaqueros              | unos         | María lleva unos vaqueros azules.      | Pantalones de tela denim (Jeans).                           | ![[Ropa y Accesorios/vaqueros.jpg]]           |
 | Vestido               | un           | Ana lleva un vestido de flores.        | Prenda femenina de una sola pieza.                          | ![[Ropa y Accesorios/vestido.jpg]]            |
 | Falda                 | una          | La chica lleva una falda larga.        | Prenda femenina que cubre de la cintura para abajo.         | ![[Ropa y Accesorios/falda.jpg]]              |
@@ -79,6 +80,11 @@ tags:
 | Bufanda              | una          | Ella lleva una bufanda roja.              | Tela larga para abrigar el cuello.                                         | ![[Ropa y Accesorios/bufanda.jpg]]    |
 | Collar               | un           | Ana lleva un collar de colores.           | Joya o adorno que se pone alrededor del cuello.                            | ![[Ropa y Accesorios/collar.jpg]]     |
 | Pulsera              | una          | María lleva una pulsera de plata.         | Joya que se pone en la muñeca (Bracelet).                                  | ![[Ropa y Accesorios/pulsera.jpg]]    |
+| Cadena               | una          | Ella lleva una cadena de oro.             | Joya en forma de serie de eslabones (Chain).                               | ![[Ropa y Accesorios/cadena.jpg]]     |
+| Colgante             | un           | El collar tiene un colgante.              | Adorno que cuelga de una cadena o collar (Pendant).                        | ![[Ropa y Accesorios/colgante.jpg]]   |
+| Pinza del pelo       | una          | Ella lleva una pinza en el pelo.          | Accesorio para sujetar el cabello (Hair clip).                             | ![[Ropa y Accesorios/pinza_pelo.jpg]] |
+| Niqab / Hiyab / Burka | un           | Ella lleva un hiyab.                      | Diferentes tipos de velo o vestimenta islámica.                            | ![[Ropa y Accesorios/hiyab.jpg]]      |
+
 | Cinturón             | un           | Carlos lleva un cinturón marrón.          | Correa para sujetar los pantalones.                                        | ![[Ropa y Accesorios/cinturon.jpg]]   |
 | Gafas de sol         | unas         | Llevo unas gafas de sol en la playa.      | Protección oscura para los ojos.                                           | ![[Ropa y Accesorios/gafas_sol.jpg]]  |
 | **Gafas de vista**       | unas         | Polina lleva unas gafas de vista.         | Gafas para ver mejor.                                                      | ![[Ropa y Accesorios/gafas_vista.jpg]]|
@@ -107,6 +113,10 @@ tags:
 | **De serpiente**      | Snake print.                  | *Unas botas **de serpiente**.*                |
 | **Vaquero / Denim**   | Tela de jeans.                | *Una chaqueta **vaquera**.*                    |
 | **Roto**              | Ripped / Torn.                | *Unos vaqueros **rotos**.*                     |
+| **Tachuelas**         | Pequeños clavos decorativos.  | *Una chaqueta con **tachuelas**.*              |
+| **Cremallera**        | Cierre de metal o plástico.   | *Una sudadera con **cremallera**.*             |
+| **Crochet**           | Tejido de ganchillo.          | *Un top de **crochet**.*                       |
+
 
 ### Otras características
 

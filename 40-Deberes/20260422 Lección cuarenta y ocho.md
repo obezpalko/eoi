@@ -4,7 +4,7 @@ tags:
   - español
   - deberes
 ---
-# Deberes: 048: Lección template
+# Deberes: 048: La Ropa y Pronombres de Complemento Directo
 
 [[../10-Lecciones/20260422 Lección cuarenta y ocho|⬅️ Volver a la lección]]
 

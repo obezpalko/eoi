@@ -55,6 +55,7 @@ tags: [vocabulario, sustantivos]
 - **el abrazo** - hug / объятие
 - **el brazo** - arm / рука (от плеча до кисти)
 - **la cara** - face / лицо
+- **la cadena** - chain / цепь
 - **la broma** - joke / шутка
 - **la bruja** - witch / ведьма
 - **el bullicio** - bustle, noise / шум, суета
@@ -88,6 +89,7 @@ tags: [vocabulario, sustantivos]
 - **la clara** - egg white / яичный белок
 - **el clima** - climate / климат
 - **el cojín** - cushion / подушка (декоративная)
+- **el colgante** - pendant / подвеска
 - **el cojón (vulgar)** - testicle / яйцо (вульг.)
 - **la cola** - line, queue / очередь
 - **el colegio** - school / колледж, школа
@@ -101,6 +103,7 @@ tags: [vocabulario, sustantivos]
 - **correos** - post office / почта
 - **el cristal** - glass (or crystal) / хрусталь, стекло
 - **el cuaderno** - notebook / тетрадь
+- **la cremallera** - zipper / молния
 - **los cuernos** - horns / рога
 - **la cumbia** - cumbia (dance) / кумбия (танец)
 - **el cubo** - bucket / ведро
@@ -145,6 +148,7 @@ tags: [vocabulario, sustantivos]
 - **el futbolín** - foosball / настольный футбол
 - **la galleta** - cookie / печенье
 - **el ganso** - goose / гусь
+- **el ganchillo** - crochet / вязание крючком
 - **el guaraní** - Guarani (language) / гуарани (язык)
 - **la farmacia** - pharmacy / аптека
 - **el flexo** - desk lamp / настольная лампа
@@ -263,10 +267,12 @@ tags: [vocabulario, sustantivos]
 - **el patito** - duckling / утенок
 - **el/la peregrino/a** - pilgrim / паломник/ца
 - **la pecera** - fishbowl / аквариум (шарообразный)
+- **la pinza del pelo** - hair clip / заколка для волос
 - **el pedo** - fart / пук
 - **la peluquería** - hair salon / парикмахерская
 - **la percha** - hanger / вешалка-плечики
 - **el perchero** - coat rack / вешалка
+- **el prendedor** - brooch, pin / брошь, булавка
 - **el perrito caliente** - hot dog / хот-дог
 - **el pescado** - fish (caught/food) / рыба (еда)
 - **el pez** - fish (living) / живая рыба
@@ -324,6 +330,7 @@ tags: [vocabulario, sustantivos]
 - **la sugerencia** - suggestion / предложение
 - **el taller** - workshop / мастерская
 - **la tapa** - lid, cover, tapa / крышка, тапа
+- **la tachuela** - tack, stud / кнопка, заклепка
 - **la tela** - fabric / ткань
 - **el teclado** - keyboard / клавиатура
 - **el teatro** - theater / театр
@@ -339,6 +346,7 @@ tags: [vocabulario, sustantivos]
 - **la tilde** - accent mark / тильда, ударение
 - **la toalla** - towel / полотенце
 - **la tormenta** - storm / шторм, гроза
+- **el trueno** - thunder / гром
 - **la torre** - tower (CPU) / системный блок
 - **la tumbona** - deck chair / шезлонг
 - **el/la turista** - tourist / турист

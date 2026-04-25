@@ -21,15 +21,19 @@ tags: [vocabulario, verbos]
 - **afeitarse** - to shave / бриться
 - **adivinar** - to guess / угадывать
 - **almorzar** - to have lunch / обедать
+- **amanecer** - to dawn / рассветать
+- **anochecer** - to get dark / смеркаться
 - **andar** - to walk / ходить
 - **apagar** - to turn off / выключать
 - **aparcar** - to park / парковаться
 - **apellidarse** - to be named (surname) / называться (по фамилии)
 - **aprender** - to learn / учить, учиться
+- **atardecer** - to get dark (evening) / смеркаться (вечер)
 - **ayunar** - to fast / поститься, голодать
 - **bailar** - to dance / танцевать
 - **bajar** - to go down / спускаться
 - **bañarse** - to bathe, take a bath / приниматься ванну, купаться
+- **brillar** - to shine / блестеть, сиять
 - **barrer** - to sweep / подметать
 - **beber** - to drink / пить
 - **besar(se)** - to kiss / целовать(ся)
@@ -53,6 +57,7 @@ tags: [vocabulario, verbos]
 - **dar** - to give / давать
 - **depilarse** - to depilate / делать депиляцию
 - **desayunar** - to have breakfast / завтракать
+- **diluviar** - to pour with rain / лить как из ведра
 - **ducharse** - to shower / принимать душ
 - **[[Verbos/despertarse|despertarse]]** - to wake up / просыпаться
 - **desordenar** - to mess up / приводить в беспорядок
@@ -143,6 +148,7 @@ tags: [vocabulario, verbos]
 - **reñir** - to scold / ругать
 - **repartir** - to distribute, to hand out / распределять, раздавать
 - **reunirse** - to meet, gather / встречаться, собираться
+- **relampaguear** - to flash (lightning) / сверкать (о молнии)
 - **restar** - to subtract / вычитать
 - **romper** - to break / ломать
 - **sacar** - to take out / вынимать, доставать
@@ -151,6 +157,7 @@ tags: [vocabulario, verbos]
 - **sentirse** - to feel / чувствоваться
 - **separar** - to separate / разделять
 - **sonreír** - to smile / улыбаться
+- **soplar** - to blow / дуть
 - **soñar** - to dream / мечтать
 - **subir** - to go up / подниматься
 - **sumar** - to add / складывать
@@ -158,6 +165,7 @@ tags: [vocabulario, verbos]
 - **teletrabajar** - to telework / работать удаленно
 - **tender** (e->ie) - to hang (clothes) / вешать (белье) сушиться
 - **toser** - to cough / кашлять
+- **tronar** - to thunder / греметь (о громе)
 - **trepar** - to climb / лазать, карабкаться
 - **tumbarse** - to lie down / ложиться
 - **unir** - to unite, to join / объединять

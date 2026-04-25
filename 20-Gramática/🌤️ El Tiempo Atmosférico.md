@@ -1,59 +1,60 @@
 ---
-tags: [gramática, a1-a2]
+tags: [gramática, vocabulario, tiempo]
+---
+# 🌤️ El Tiempo Atmosférico (Weather / Погода)
+
+En español usamos tres verbos principales para hablar del clima: **Hacer**, **Estar** y **Haber**, además de los verbos específicos de fenómenos.
+
 ---
 
-# 🌤️ El Tiempo Atmosférico
+## 🏗️ Estructuras Principales
 
-Expresiones básicas para hablar del clima y el tiempo en español.
-
-## Verbos y Estructuras
-
-### 1. Con el verbo *Hacer*
-Se usa para condiciones generales.
-- **Hace sol** ☀️ - It's sunny
-- **Hace frío** ❄️ - It's cold
-- **Hace calor** 🥵 - It's hot
-- **Hace viento** 🌬️ - It's windy
-- **Hace buen tiempo** 😊 - The weather is good
-- **Hace mal tiempo** 😞 - The weather is bad
-
-### 2. Con el verbo *Estar*
-Se usa para estados temporales del cielo o la visibilidad.
-- **Está nublado** ☁️ - It's cloudy
-- **Está soleado** ☀️ - It's sunny
-- **Está despejado** 🌤️ - It's clear
-- **Está cubierto** 🌥️ - It's overcast
-- **Está lloviendo** 🌧️ - It's raining (now)
-- **Está nevando** ❄️ - It's snowing (now)
-
-### 3. Verbos Meteorológicos (Impersonales)
-Estos verbos solo se usan en la 3ª persona del singular.
-- **Llueve** (Llover, o->ue) 🌧️ - It rains
-- **Nieva** (Nevar, e->ie) ❄️ - It snows
-- **Graniza** (Granizar) 🧊 - It hails
-- **Truena** (Tronar, o->ue) ⚡ - It thunders
-
-### 4. Con el verbo *Hay*
-Se usa para fenómenos que "existen" en el ambiente.
-- **Hay sol** ☀️ - There's sun
-- **Hay viento** 🌬️ - There's wind
-- **Hay niebla** 🌫️ - There's fog
-- **Hay tormenta** ⛈️ - There's a storm
-- **Hay rayos** ⚡ - There are lightning beams
-
-## La Pregunta
-Para preguntar por el clima usamos:
-- *¿Qué tiempo hace?*
-- *¿Cómo está el tiempo?*
-
-## Sustantivos Relacionados
-- **La lluvia** - Rain
-- **La nieve** - Snow
-- **El relámpago** - Lightning
-- **El trueno** - Thunder
-- **La nube** - Cloud
-- **El arcoíris** - Rainbow
-- **La niebla** - Fog
+| Verbo | Uso | Ejemplo |
+| :--- | :--- | :--- |
+| **HACE** + Sustantivo | Sensación general | **Hace** sol, **hace** frío, **hace** viento. |
+| **ESTÁ** + Adjetivo/Gerundio | Estado actual | **Está** nublado, **está** lloviendo. |
+| **HAY** + Sustantivo | Existencia de algo | **Hay** niebla, **hay** tormenta, **hay** humedad. |
 
 ---
-[[../10-Lecciones/20260401 Lección cuarenta y cinco|⬅️ Volver a la lección]] | [[../index|🏠 Inicio]]
+
+## ⚡ Efectos: Verbos vs. Sustantivos
+
+| Efecto | Verbo (Acción) | Sustantivo (El fenómeno) | English / Русский |
+| :--- | :--- | :--- | :--- |
+| **Lluvia** | **Llover** (llueve) | La lluvia | To rain / Дождь |
+| **Nieve** | **Nevar** (nieva) | La nieve | To snow / Снег |
+| **Viento** | **Soplar** (sopla) | El viento | To blow / Ветер |
+| **Sol** | **Brillar** (brilla) | El sol | To shine / Солнце |
+| **Trueno** | **Tronar** (truena) | El trueno | To thunder / Гром |
+| **Rayo** | **Relampaguear** | El rayo / El relámpago | Lightning / Молния |
+| **Granizo** | **Granizar** | El granizo | To hail / Град |
+
+---
+
+## 🌡️ La Temperatura
+
+* **Hace calor:** It is hot / Жарко.
+* **Hace frío:** It is cold / Холодно.
+* **Hace fresco:** It is cool/chilly / Прохладно.
+* **Estamos a...** (Para grados específicos): "En Dénia **estamos a** 22 grados".
+
+---
+
+## 📊 Vocabulario Extra (Adjetivos)
+
+* **Despejado:** Clear sky / Ясно.
+* **Nublado:** Cloudy / Облачно.
+* **Cubierto:** Overcast / Пасмурно.
+* **Lluvioso:** Rainy / Дождливый.
+
+---
+
+> [!TIP] **Error Común (Common Mistake)**
+> ❌ No digas: "El tiempo es bueno".
+> ✅ Di: "**Hace buen tiempo**".
+> 
+> ❌ No digas: "Hay calor".
+> ✅ Di: "**Hace calor**".
+
+---
+[[../index|🏠 Inicio]] | [[☁️ Verbos Impersonales|☁️ Verbos Impersonales]]
