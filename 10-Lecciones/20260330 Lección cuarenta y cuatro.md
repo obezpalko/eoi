@@ -83,4 +83,4 @@ Para hacer planes en el futuro se usan las formas: **ir** + **a** + **infinitivo
 ---
 
 **Navegación:**
-[[20260325 Lección cuarenta y tres|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260401 Lección cuarenta y cinco|📝 Deberes]] | [[20260401 Lección cuarenta y cinco1|Lección siguiente ➡️]]
+[[20260325 Lección cuarenta y tres|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260401 Lección cuarenta y cinco|📝 Deberes]] | [[20260401 Lección cuarenta y cinco|Lección siguiente ➡️]]
