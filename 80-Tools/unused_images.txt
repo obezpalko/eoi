@@ -1,9 +1,8 @@
 Unused Images
 ============================================================
 
-Total: 595
+Total: 862
 
-10-Lecciones/attachments/.trashed-1771586409-PXL_20260121_082354832~3.jpg
 10-Lecciones/attachments/IMG-20260202-WA0001.jpg
 30-Vocabulario/Temas/Siempre Plural/calzones.jpg
 40-Deberes/attachments/1769431474454-ca1ed6b5-72a4-46c7-b623-40adb1f0365f.jpg
@@ -29,6 +28,244 @@ Total: 595
 60-Cultura/Familia del rey/SofiaHija.jpg
 60-Cultura/Familia del rey/Victoria.png
 60-Cultura/attachments/tradiciones/carnavales.jpg
+98-Aules/Comida/actividades/Comidas_y_bebidas_1/page_001.jpg
+98-Aules/Comida/actividades/Comidas_y_bebidas_2/page_001.jpg
+98-Aules/Comida/actividades/De_compras_por_la_ciudad/page_001.jpg
+98-Aules/Comida/actividades/Dónde_compras/¿Dónde compras....jpg
+98-Aules/Comida/actividades/Ficha_28_Menú/page_001.jpg
+98-Aules/Comida/actividades/Frutas_30/page_001.jpg
+98-Aules/Comida/actividades/Las_tiendas/page_001.jpg
+98-Aules/Comida/actividades/Mercado/page_001.jpg
+98-Aules/Comida/actividades/Mercado/page_002.jpg
+98-Aules/Comida/actividades/Mercado/page_003.jpg
+98-Aules/Comida/actividades/Mercado/page_004.jpg
+98-Aules/Comida/actividades/Mercado/page_005.jpg
+98-Aules/Comida/actividades/Mercado/page_006.jpg
+98-Aules/Comida/actividades/Mercado/page_007.jpg
+98-Aules/Comida/actividades/Mercado/page_008.jpg
+98-Aules/Comida/actividades/Mercado/page_009.jpg
+98-Aules/Comida/actividades/Mercado/page_010.jpg
+98-Aules/Comida/actividades/Mercado/page_011.jpg
+98-Aules/Comida/actividades/Mercado/page_012.jpg
+98-Aules/Comida/actividades/Mercado/page_013.jpg
+98-Aules/Comida/actividades/Mercado/page_014.jpg
+98-Aules/Comida/actividades/Mercado/page_015.jpg
+98-Aules/Comida/actividades/Mercado/page_016.jpg
+98-Aules/Comida/actividades/Mercado/page_017.jpg
+98-Aules/Comida/actividades/Mercado/page_018.jpg
+98-Aules/Comida/actividades/Mercado/page_019.jpg
+98-Aules/Comida/actividades/Mercado/page_020.jpg
+98-Aules/Comida/actividades/Mercado/page_021.jpg
+98-Aules/Comida/actividades/Mercado/page_022.jpg
+98-Aules/Comida/actividades/Mercado/page_023.jpg
+98-Aules/Comida/actividades/Mercado/page_024.jpg
+98-Aules/Comida/actividades/Mercado/page_025.jpg
+98-Aules/Comida/actividades/Mercado/page_026.jpg
+98-Aules/Comida/actividades/Mercado/page_027.jpg
+98-Aules/Comida/actividades/Productos_de_comida/page_001.jpg
+98-Aules/Comida/actividades/Tiendas_y_productos/page_001.jpg
+98-Aules/Comida/actividades/Tortilla_española/page_001.jpg
+98-Aules/Comida/actividades/Verduras_31/page_001.jpg
+98-Aules/Comida/actividades/ejercicio-espanol-recetas-imperativo-afirmativo/page_001.jpg
+98-Aules/Comida/actividades/ejercicio-espanol-vocabulario-comida-alimentos/page_001.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_11727a51.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_18d48aa4.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_1a1cba86.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_1f1c06d7.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_20b82be8.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_22c364b4.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_2728c2ff.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_27e49861.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_2b99485d.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_2c524248.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_2d6e33f1.gif
+98-Aules/Comida/actividades/fichas/fichas_html_2f1b722e.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_2f3c42ca.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_33773ecd.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_374a7e03.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_3d866f90.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_3d9f62ed.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_4936ac9.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_4b3ab45c.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_509e7c0.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_54803a07.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_574fc650.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_604efb11.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_607afd5e.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_6737ec47.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_6817ebf7.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_6b12947a.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_6ea3bcfd.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_6f8d80b2.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_7629fd80.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_7afd2108.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_7c027c48.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_89a03377.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_8cdf8d25.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_8fff293e.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_908a82bc.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_977f38ed.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_9ae4d149.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_9e425748.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_9fa06938.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_a1638e90.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_a3caf520.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_a61125c9.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_a6ac0abc.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_a7548e6c.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_ae3092b4.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_b7a37e91.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_bf9a6c8b.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_c5d740d9.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_c9ace4c6.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_c9cd3297.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_ce22852c.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_cedc38d1.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_de02848.gif
+98-Aules/Comida/actividades/fichas/fichas_html_de3de010.gif
+98-Aules/Comida/actividades/fichas/fichas_html_e7f5128f.gif
+98-Aules/Comida/actividades/fichas/fichas_html_eb5a6fc.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_eee77e47.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_f5572822.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_f587a6c9.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_f58cd664.gif
+98-Aules/Comida/actividades/fichas/fichas_html_f7cb32a7.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_f9bfe920.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_fb3c8701.jpg
+98-Aules/Comida/actividades/fichas/fichas_html_fcb647cd.jpg
+98-Aules/Comida/actividades/fichas/page_001.jpg
+98-Aules/Comida/actividades/fichas/page_002.jpg
+98-Aules/Comida/actividades/fichas/page_003.jpg
+98-Aules/Comida/actividades/fichas/page_004.jpg
+98-Aules/Comida/actividades/fichas/page_005.jpg
+98-Aules/Comida/actividades/fichas/page_006.jpg
+98-Aules/Comida/actividades/fichas/page_007.jpg
+98-Aules/Comida/actividades/fichas/page_008.jpg
+98-Aules/Comida/actividades/fichas/page_009.jpg
+98-Aules/Comida/vocabulario/Verbos_comida/page_001.jpg
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_3c2785e8.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_3c93610f.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_45b9c161.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_5f6a2c40.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_634d87d5.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_66509126.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_6877896.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_948f45d3.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_982d316e.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_a0909aa0.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_b4ae6252.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_cbe2bbf2.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_d400154a.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_d5f771f4.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_e57bb068.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_e685831f.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_ef0c85c1.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/Vocabulario COMIDA_html_f2bed9a2.png
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/page_001.jpg
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/page_002.jpg
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/page_003.jpg
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/page_004.jpg
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/page_005.jpg
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/page_006.jpg
+98-Aules/Comida/vocabulario/Vocabulario_COMIDA/page_007.jpg
+98-Aules/Comida/vocabulario/comidas_fotos/comidas_fotos_html_1210887c.jpg
+98-Aules/Comida/vocabulario/comidas_fotos/comidas_fotos_html_16c19d66.jpg
+98-Aules/Comida/vocabulario/comidas_fotos/comidas_fotos_html_21bb4b90.jpg
+98-Aules/Comida/vocabulario/comidas_fotos/comidas_fotos_html_4e0e85fa.jpg
+98-Aules/Comida/vocabulario/comidas_fotos/comidas_fotos_html_599379f5.jpg
+98-Aules/Comida/vocabulario/comidas_fotos/comidas_fotos_html_6ab136ed.jpg
+98-Aules/Comida/vocabulario/comidas_fotos/comidas_fotos_html_72d96c34.jpg
+98-Aules/Comida/vocabulario/comidas_fotos/comidas_fotos_html_79e0e713.jpg
+98-Aules/Comida/vocabulario/comidas_fotos/comidas_fotos_html_9053b9a1.jpg
+98-Aules/Comida/vocabulario/comidas_fotos/comidas_fotos_html_bf399ade.jpg
+98-Aules/Comida/vocabulario/comidas_fotos/comidas_fotos_html_dd22f81b.jpg
+98-Aules/Comida/vocabulario/comidas_fotos/comidas_fotos_html_ef920f7a.jpg
+98-Aules/Comida/vocabulario/comidas_fotos/page_001.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_12b95e59.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_13676707.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_137eb13e.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_16b68b20.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_1c65a781.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_1e480b8b.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_1e8556e8.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_1f833c51.png
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_214e1b36.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_244400ea.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_29148a21.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_2c108884.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_2d69cc80.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_34eff888.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_3ab647.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_407bbca4.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_43cc9d29.gif
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_4c80fcef.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_4f2253a.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_5223140.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_555794d5.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_5599aa9e.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_5e767dfd.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_615f6059.png
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_69875fc7.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_6bc1b0f2.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_70e5232e.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_733950.gif
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_76ed19d2.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_7df487f6.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_805b842c.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_80c705bb.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_8975465.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_8a3f885.gif
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_8de9600f.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_9398de4a.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_948d4483.png
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_99bed0ca.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_9a64ba4d.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_9a6d2718.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_a3577509.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_a9a94dc6.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_a9da2b66.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_ad977aad.png
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_b15b6fe.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_b26edf6f.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_b881923a.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_bda04cec.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_c2847ee6.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_c4b5a120.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_cc73c994.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_cee1cf4.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_cf54e5cf.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_d111ed9c.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_d28d0e01.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_db695617.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_df64c92d.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_e0693561.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_e442d1a8.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_e8084fd8.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_e98ea604.png
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_e99890b9.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_ea0732b0.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_eb9dfe3.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_f2e26908.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_f50cb693.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/comidas_tarjetas_html_fb126796.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_001.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_002.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_003.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_004.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_005.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_006.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_007.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_008.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_009.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_010.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_011.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_012.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_013.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_014.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_015.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_016.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_017.jpg
+98-Aules/Comida/vocabulario/comidas_tarjetas/page_018.jpg
 node_modules/cli-spinner/img/spinner.gif
 node_modules/gifuct-js/demo/dog.gif
 node_modules/gifuct-js/demo/horses.gif
@@ -436,6 +673,20 @@ public/30-Vocabulario/Verbos/tomar-og-image.png
 public/30-Vocabulario/Verbos/trabajar-og-image.png
 public/30-Vocabulario/Verbos/vivir-og-image.png
 public/30-Vocabulario/Verbos-básicos-og-image.png
+public/30-Vocabulario/attachments/preposiciones/preposicion_abajo.jpg
+public/30-Vocabulario/attachments/preposiciones/preposicion_alrededor.jpg
+public/30-Vocabulario/attachments/preposiciones/preposicion_arriba.jpg
+public/30-Vocabulario/attachments/preposiciones/preposicion_cerca.jpg
+public/30-Vocabulario/attachments/preposiciones/preposicion_debajo.jpg
+public/30-Vocabulario/attachments/preposiciones/preposicion_delante.jpg
+public/30-Vocabulario/attachments/preposiciones/preposicion_dentro.jpg
+public/30-Vocabulario/attachments/preposiciones/preposicion_detras.jpg
+public/30-Vocabulario/attachments/preposiciones/preposicion_encima.jpg
+public/30-Vocabulario/attachments/preposiciones/preposicion_enfrente.jpg
+public/30-Vocabulario/attachments/preposiciones/preposicion_entre.jpg
+public/30-Vocabulario/attachments/preposiciones/preposicion_fuera.jpg
+public/30-Vocabulario/attachments/preposiciones/preposicion_lejos.jpg
+public/30-Vocabulario/attachments/preposiciones/preposicion_sobre.jpg
 public/40-Deberes/20251001-Lección-dos-og-image.png
 public/40-Deberes/20251006-Lección-tres-og-image.png
 public/40-Deberes/20251008-Lección-cuatro-og-image.png
@@ -567,9 +818,25 @@ public/60-Cultura/Salir-de-copas-og-image.png
 public/60-Cultura/Saludos-y-Contacto-Físico-og-image.png
 public/60-Cultura/Teléfonos-en-España-og-image.png
 public/60-Cultura/Tú-vs-Usted-og-image.png
+public/60-Cultura/attachments/barrios/baix_la_mar.jpg
+public/60-Cultura/attachments/barrios/calle_loreto.jpg
+public/60-Cultura/attachments/barrios/el_saladar.jpg
+public/60-Cultura/attachments/barrios/explanada_cervantes.jpg
+public/60-Cultura/attachments/barrios/jesus_pobre.jpg
+public/60-Cultura/attachments/barrios/la_xara.jpg
+public/60-Cultura/attachments/barrios/les_marines.jpg
+public/60-Cultura/attachments/barrios/les_roques.jpg
+public/60-Cultura/attachments/barrios/les_rotes.jpg
+public/60-Cultura/attachments/barrios/marques_campo.jpg
+public/60-Cultura/attachments/barrios/montgo.jpg
 public/60-Cultura/attachments/invierno_espana_pueblo.png
 public/60-Cultura/attachments/otono_espana_paisaje.png
 public/60-Cultura/attachments/primavera_espana_jerte.png
+public/60-Cultura/attachments/regional/regional_aguacate.jpg
+public/60-Cultura/attachments/regional/regional_aqui.jpg
+public/60-Cultura/attachments/regional/regional_enojado.jpg
+public/60-Cultura/attachments/regional/regional_fregona.jpg
+public/60-Cultura/attachments/regional/regional_tram.jpg
 public/60-Cultura/attachments/tradiciones/carnavales.jpg
 public/60-Cultura/attachments/tradiciones/dia_colon.jpg
 public/60-Cultura/attachments/tradiciones/dia_comunidad_valenciana.jpg
