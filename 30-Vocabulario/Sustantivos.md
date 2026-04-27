@@ -88,6 +88,7 @@ tags: [vocabulario, sustantivos]
 - **la canción de cuna** - lullaby / колыбельная песня
 - **el carrito de helados** - ice cream cart / тележка с мороженым
 - **las carcajadas** - laughter / хохот
+- **la carta** - letter, menu, card / письмо, меню, карта
 - **el cartón** - cardboard / картон
 - **el casco antiguo** - old town / исторический центр
 - **el castillo de arena** - sandcastle / замок из песка
@@ -264,6 +265,8 @@ tags: [vocabulario, sustantivos]
 - **el mariachi** - mariachi / мариачи
 - **la marmota** - marmot, woodchuck / сурок
 - **el marisco** - seafood / морепродукты
+- **el menú** - menu / меню
+- **el menú del día** - daily special menu / меню дня
 - **el mercado** - market / рынок
 - **el matiz** - nuance / нюанс
 - **la mayúscula** - capital letter / заглавная буква
@@ -392,6 +395,7 @@ tags: [vocabulario, sustantivos]
 - **la tapa** - lid, cover, tapa / крышка, тапа
 - **la tachuela** - tack, stud / кнопка, заклепка
 - **la tela** - fabric / ткань
+- **la taza** - cup, mug / чашка, кружка
 - **el teclado** - keyboard / клавиатура
 - **el teatro** - theater / театр
 - **el teléfono** - telephone / телефон
@@ -403,6 +407,7 @@ tags: [vocabulario, sustantivos]
 - **la tierra** - land, earth / земля
 - **la tienda de ropa** - clothing store / магазин одежды
 - **la tortilla de patatas** - Spanish omelette / испанская тортилья
+- **el tenedor** - fork / вилка
 - **el tendón** - tendon / сухожилие
 - **la tilde** - accent mark / тильда, ударение
 - **la toalla** - towel / полотенце
@@ -421,6 +426,7 @@ tags: [vocabulario, sustantivos]
 - **la vela** - candle, sail, sailing / свеча, парус, парусный спорт
 - **la vergüenza** - shame / стыд
 - **el vidrio** - glass / стекло
+- **el vaso** - glass (for water/juice) / стакан
 - **el viento** - wind / ветер
 - **las vistas** - views / виды (из окна, на горы)
 - **el vino** - wine / вино
