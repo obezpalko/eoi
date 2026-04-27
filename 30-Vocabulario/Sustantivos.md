@@ -58,6 +58,7 @@ tags: [vocabulario, sustantivos]
 - **el boquerón** - anchovy / анчоус
 - **el brécol / el brócoli** - broccoli / брокколи
 - **el bicho** - bug / букашка, козявка
+- **el camarero / la camarera** - waiter / waitress / официант, официантка
 - **la bicicleta** - bicycle / велосипед
 - **la boda** - wedding / свадьба
 - **la bolera** - bowling alley / боулинг
@@ -128,6 +129,9 @@ tags: [vocabulario, sustantivos]
 - **el cristal** - glass (or crystal) / хрусталь, стекло
 - **el cuaderno** - notebook / тетрадь
 - **la cremallera** - zipper / молния
+- **la cuchara** - spoon / ложка
+- **el cuchillo** - knife / нож
+- **la cuenta** - bill, account, count / счет
 - **los cuernos** - horns / рога
 - **la cumbia** - cumbia (dance) / кумбия (танец)
 - **el cubo** - bucket / ведро
@@ -261,6 +265,7 @@ tags: [vocabulario, sustantivos]
 - **la mamá** - mom / мама
 - **la mancha** - stain / пятно
 - **la mantita** - small blanket / одеяльце
+- **el mantel** - tablecloth / скатерть
 - **la margarita** - daisy / ромашка
 - **el mariachi** - mariachi / мариачи
 - **la marmota** - marmot, woodchuck / сурок
@@ -346,6 +351,7 @@ tags: [vocabulario, sustantivos]
 - **el pomelo** - grapefruit / грейпфрут
 - **el plato** - plate / тарелка
 - **el polideportivo** - sports center / спорткомплекс
+- **la propina** - tip / чаевые
 - **el polvo** - dust / пыль
 - **la profesión** - profession / профессия
 - **el pulpo** - octopus / осьминог
@@ -365,6 +371,7 @@ tags: [vocabulario, sustantivos]
 - **el retraso** - delay, lateness / опоздание, задержка
 - **el retrato** - portrait / портрет
 - **el reposo** - rest / отдых, покой
+- **la reserva** - reservation / бронь, резерв
 - **el rey** - king / король
 - **la risa** - laughter / смех
 - **la rodilla** - knee / колено
@@ -379,6 +386,7 @@ tags: [vocabulario, sustantivos]
 - **la seda** - silk / шёлк
 - **el seguidor** - follower / последователь, подписчик
 - **el semáforo** - traffic light / светофор
+- **la servilleta** - napkin / салфетка
 - **el seno** - breast, bosom / грудь, пазуха
 - **el servicio** - service, restroom / служебное помещение, туалет
 - **la siesta** - siesta, nap / сиеста
