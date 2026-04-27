@@ -4,11 +4,13 @@ tags:
   - español
   - deberes
 ---
-# Deberes: 049: El Tiempo Atmosférico y Verbos Impersonales
+# Deberes: 049: Pronombres de Complemento Directo y Comida
 
-[[../30-Vocabulario/Temas/El Tiempo Atmosférico y Verbos Impersonales|⬅️ Volver a la lección]]
+[[../10-Lecciones/20260427 Lección cuarenta y nueve|⬅️ Volver a la lección]]
 
 ## Tareas
+- Estudiar el vocabulario de la comida.
+- Practicar los pronombres de complemento directo.
 
 ---
 **Navegación:**

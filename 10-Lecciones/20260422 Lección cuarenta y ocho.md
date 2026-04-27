@@ -104,4 +104,4 @@ Consulta la guía completa: [[../20-Gramática/Pronombres de Complemento Directo
 ---
 
 **Navegación:**
-[[20260420 Lección cuarenta y siete|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260427 Lección cuarenta y nueve|📝 Deberes]] | [[../30-Vocabulario/Temas/El Tiempo Atmosférico y Verbos Impersonales|Lección siguiente ➡️]]
+[[20260420 Lección cuarenta y siete|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260427 Lección cuarenta y nueve|📝 Deberes]] | [[20260427 Lección cuarenta y nueve|Lección siguiente ➡️]]

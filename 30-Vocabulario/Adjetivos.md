@@ -23,6 +23,7 @@ tags: [vocabulario, adjetivos]
 - **barato/a** - cheap / дешевый
 - **blando/a** - soft / мягкий
 - **bohemio/a** - bohemian / богемный
+- **borracho/a** - drunk / пьяный
 - **bueno/a** - good / хороший
 - **bullicioso/a** - noisy, bustling / шумный, суетливый
 - **caliente** - hot / горячий
@@ -63,6 +64,7 @@ tags: [vocabulario, adjetivos]
 - **estrecho/a** - narrow / узкий
 - **extranjero/a** - foreign, foreigner / иностранный, иностранец
 - **fácil** - easy / легкий
+- **facilísimo/a** - very easy / очень легкий
 - **feliz** - happy / счастливый
 - **feo/a** - ugly / некрасивый
 - **fino/a** - thin, fine / тонкий
