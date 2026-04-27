@@ -20,7 +20,7 @@ tags:
 - **Hassna** lleva una gabardina azul marino, unos vaqueros blancos y unas zapatillas deportivas negras, y las gafas de vista negras. También un pañuelo blanco y negro.
 - **Alexandr** lleva una sudadera gris con cremallera, unos pantalones grises y unos zapatos grises. También él lleva un cinturón gris.
 - **Sevak** lleva una camiseta de manga corta verde militar (oliva, verde oscuro), unas bermudas beige, unas zapatillas negras y un reloj.
-- **Meghry** lleva una chaqueta de manga larga beige, una camiseta corta marrón, unos pantalones vaqueros rotos azules, unas zapatillas beige y unos calcetines blancos. Además, una cadena dorada con colgante, un pendiente y un anillo de oro.
+- **Merry** lleva una chaqueta de manga larga beige, una camiseta corta marrón, unos pantalones vaqueros rotos azules, unas zapatillas beige y unos calcetines blancos. Además, una cadena dorada con colgante, un pendiente y un anillo de oro.
 - **Diana** lleva una camisa de manga larga blanca, unos vaqueros rotos casi blancos y unas zapatillas beige y marrones. Además, un collar, un anillo dorado y unos pendientes dorados.
 - **Polina** lleva una falda corta blanca, unos zapatos beige, una sudadera verde y beige, y un bolso rosa bebé. También una pulsera de goma para el pelo.
 - **Svetlana** lleva una chaqueta negra, un jersey rosa bebé, unos pantalones grises y un cinturón negro con tachuelas plateadas. Además, ella lleva un collar, una pulsera plateada y un bolso de pelo gris. También un reloj plateado, un anillo con diamante, unos pendientes de perlas y un móvil.
@@ -104,4 +104,4 @@ Consulta la guía completa: [[../20-Gramática/Pronombres de Complemento Directo
 ---
 
 **Navegación:**
-[[20260420 Lección cuarenta y siete|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260427 Lección cuarenta y nueve|📝 Deberes]] | [[20260427 Lección cuarenta y nueve|Lección siguiente ➡️]]
+[[20260420 Lección cuarenta y siete|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260427 Lección cuarenta y nueve|📝 Deberes]] | [[../30-Vocabulario/Temas/El Tiempo Atmosférico y Verbos Impersonales|Lección siguiente ➡️]]

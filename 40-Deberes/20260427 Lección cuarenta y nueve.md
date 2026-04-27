@@ -6,7 +6,7 @@ tags:
 ---
 # Deberes: 049: El Tiempo Atmosférico y Verbos Impersonales
 
-[[../10-Lecciones/20260427 Lección cuarenta y nueve|⬅️ Volver a la lección]]
+[[../30-Vocabulario/Temas/El Tiempo Atmosférico y Verbos Impersonales|⬅️ Volver a la lección]]
 
 ## Tareas
 
