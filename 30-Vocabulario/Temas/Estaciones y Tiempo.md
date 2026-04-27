@@ -7,27 +7,27 @@ Vocabulario relacionado con el clima, los fenómenos atmosféricos y las estacio
 
 ## Las Estaciones del Año
 
-| Estación | Meses (España) | Características | Imagen |
+| Imagen | Estación | Meses (España) | Características |
 | :--- | :--- | :--- | :--- |
-| **La primavera** | marzo, abril, mayo | Las flores, el sol, días más largos | ![[Estaciones-y-Tiempo/primavera.jpg]] |
-| **El verano** | junio, julio, agosto | El calor, la playa, las vacaciones | ![[Estaciones-y-Tiempo/verano.jpg]] |
-| **El otoño** | septiembre, octubre, noviembre | La caída de las hojas, la lluvia | ![[Estaciones-y-Tiempo/otono.jpg]] |
-| **El invierno** | diciembre, enero, febrero | El frío, la nieve, el viento | ![[Estaciones-y-Tiempo/invierno.jpg]] |
+| ![[Estaciones y Tiempo/primavera.jpg]] | **La primavera** | marzo, abril, mayo | Las flores, el sol, días más largos |
+| ![[Estaciones y Tiempo/verano.jpg]] | **El verano** | junio, julio, agosto | El calor, la playa, las vacaciones |
+| ![[Estaciones y Tiempo/otono.jpg]] | **El otoño** | septiembre, octubre, noviembre | La caída de las hojas, la lluvia |
+| ![[Estaciones y Tiempo/invierno.jpg]] | **El invierno** | diciembre, enero, febrero | El frío, la nieve, el viento |
 
 ## Fenómenos Atmosféricos
 
 ### Nombres y Verbos
 
-| Fenómeno | Sustantivo | Verbo | Adjetivo / Estado |
-| :--- | :--- | :--- | :--- |
-| 🌧️ Lluvia | la lluvia | **llover** (o->ue) / **diluviar** | está lloviendo / lluvioso |
-| ❄️ Nieve | la nieve | **nevar** (e->ie) | está nevando / nevado |
-| 🧊 Granizo | el granizo | **granizar** | está granizando |
-| 🌬️ Viento | el viento | **soplar** / hace viento | ventoso |
-| ☀️ Sol | el sol | **brillar** / hace sol | está soleado / despejado |
-| ☁️ Nubes | la nube | hay nubes | está nublado / cubierto |
-| 🌫️ Niebla | la niebla | hay niebla | brumoso |
-| ⚡ Tormenta | la tormenta | **tronar** / **relampaguear** | tormentoso |
+| Imagen | Fenómeno | Sustantivo | Verbo | Adjetivo / Estado |
+| :--- | :--- | :--- | :--- | :--- |
+| ![[Estaciones y Tiempo/lluvia.jpg]] | 🌧️ Lluvia | la lluvia | **llover** (o->ue) / **diluviar** | está lloviendo / lluvioso |
+| ![[Estaciones y Tiempo/nieve.jpg]] | ❄️ Nieve | la nieve | **nevar** (e->ie) | está nevando / nevado |
+| ![[Estaciones y Tiempo/granizo.jpg]] | 🧊 Granizo | el granizo | **granizar** | está granizando |
+| ![[Estaciones y Tiempo/viento.jpg]] | 🌬️ Viento | el viento | **soplar** / hace viento | ventoso |
+| ![[Estaciones y Tiempo/sol.jpg]] | ☀️ Sol | el sol | **brillar** / hace sol | está soleado / despejado |
+| ![[Estaciones y Tiempo/nubes.jpg]] | ☁️ Nubes | la nube | hay nubes | está nublado / cubierto |
+| ![[Estaciones y Tiempo/niebla.jpg]] | 🌫️ Niebla | la niebla | hay niebla | brumoso |
+| ![[Estaciones y Tiempo/tormenta.jpg]] | ⚡ Tormenta | la tormenta | **tronar** / **relampaguear** | tormentoso |
 
 ### Detalles del Clima y Luz
 
