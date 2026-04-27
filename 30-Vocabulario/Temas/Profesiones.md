@@ -25,7 +25,7 @@ tags:
 | ![[Profesiones/cocinero.jpg]] | **cocinero cocinera** | Persona que prepara comida profesionalmente. | El cocinero prepara platos deliciosos. |
 | ![[Profesiones/camarero.jpg]] | **camarero camarera** | Persona que sirve comida y bebida en restaurantes. | La camarera trajo el menú. |
 | ![[Profesiones/peluquero.jpg]] | **peluquero peluquera** | Persona que corta y arregla el pelo. | Voy a la peluquera cada mes. |
-| ![[mecanico.jpg]] | **mecánico mecánica** | Persona que repara vehículos y máquinas. | El mecánico arregló mi coche. |
+| ![[Profesiones/mecanico.jpg]] | **mecánico mecánica** | Persona que repara vehículos y máquinas. | El mecánico arregló mi coche. |
 | ![[Profesiones/electricista.jpg]] | **electricista** | Persona que instala y repara sistemas eléctricos. | Llama al electricista, no hay luz. |
 | ![[Profesiones/fontanero.jpg]] | **fontanero fontanera** | Persona que instala y repara tuberías y sistemas de agua. | El fontanero reparó el grifo. |
 | ![[Profesiones/carpintero.jpg]] | **carpintero carpintera** | Persona que trabaja con madera. | La carpintera hizo una mesa preciosa. |

@@ -10,32 +10,32 @@
 
 ## 🖥️ Hardware y Periféricos (Части и устройства)
 
-| Español | Inglés | Ruso |
-| :--- | :--- | :--- |
-| **La pantalla** | Screen / Monitor | Экран / Монитор |
-| **La torre** | Tower / Case | Системный блок (корпус) |
-| **El teclado** | Keyboard | Клавиатура |
-| **El ratón** | Mouse | Мышь |
-| **La alfombrilla** | Mouse pad | Коврик для мыши |
-| **El escáner** | Scanner | Сканер |
-| **La impresora** | Printer | Принтер |
-| **Los cascos / auriculares** | Headphones | Наушники |
-| **El micrófono** | Microphone | Микрофон |
-| **La cámara web** | Webcam | Веб-камера |
-| **El altavoz** | Speaker | Динамик / Колонка |
-| **El cargador** | Charger | Зарядное устройство |
+| Imagen | Español | Inglés | Ruso |
+| :--- | :--- | :--- | :--- |
+| ![[Ordenador/la_pantalla.jpg]] | **La pantalla** | Screen / Monitor | Экран / Монитор |
+| ![[Ordenador/la_torre.jpg]] | **La torre** | Tower / Case | Системный блок (корпус) |
+| ![[Ordenador/el_teclado.jpg]] | **El teclado** | Keyboard | Клавиатура |
+| ![[Ordenador/el_ratón.jpg]] | **El ratón** | Mouse | Мышь |
+| ![[Ordenador/la_alfombrilla.jpg]] | **La alfombrilla** | Mouse pad | Коврик для мыши |
+| ![[Ordenador/el_escáner.jpg]] | **El escáner** | Scanner | Сканер |
+| ![[Ordenador/la_impresora.jpg]] | **La impresora** | Printer | Принтер |
+| ![[Ordenador/los_cascos.jpg]] | **Los cascos / auriculares** | Headphones | Наушники |
+| ![[Ordenador/el_micrófono.jpg]] | **El micrófono** | Microphone | Микрофон |
+| ![[Ordenador/la_cámara_web.jpg]] | **La cámara web** | Webcam | Веб-камера |
+| ![[Ordenador/el_altavoz.jpg]] | **El altavoz** | Speaker | Динамик / Колонка |
+| ![[Ordenador/el_cargador.jpg]] | **El cargador** | Charger | Зарядное устройство |
 
 ---
 
 ## ⚙️ Componentes Internos (Внутренние компоненты)
 
-| Español | Inglés | Ruso |
-| :--- | :--- | :--- |
-| **El disco duro** | Hard drive | Жесткий диск |
-| **La tarjeta gráfica** | Graphics card | Видеокарта |
-| **La placa base** | Motherboard | Материнская плата |
-| **La memoria RAM** | RAM memory | Оперативная память |
-| **El procesador** | Processor | Процессор |
+| Imagen | Español | Inglés | Ruso |
+| :--- | :--- | :--- | :--- |
+| ![[Ordenador/el_disco_duro.jpg]] | **El disco duro** | Hard drive | Жесткий диск |
+| ![[Ordenador/la_tarjeta_gráfica.jpg]] | **La tarjeta gráfica** | Graphics card | Видеокарта |
+| ![[Ordenador/la_placa_base.jpg]] | **La placa base** | Motherboard | Материнская плата |
+| ![[Ordenador/la_memoria_ram.jpg]] | **La memoria RAM** | RAM memory | Оперативная память |
+| ![[Ordenador/el_procesador.jpg]] | **El procesador** | Processor | Процессор |
 
 ---
 
