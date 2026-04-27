@@ -54,4 +54,4 @@ Vocabulario relacionado con el clima, los fenómenos atmosféricos y las estacio
 - **Un sol de justicia** - Hace muchísimo sol y calor.
 
 ---
-[[../../index|🏠 Inicio]] | [[../Sustantivos|🔤 Sustantivos]] | [[../../10-Lecciones/20260427 Lección cuarenta y nueve|📖 Lección 49]]
+[[../../index|🏠 Inicio]] | [[../Sustantivos|🔤 Sustantivos]] | [[El Tiempo Atmosférico y Verbos Impersonales|📖 Lección 49]]

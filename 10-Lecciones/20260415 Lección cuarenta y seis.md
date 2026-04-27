@@ -22,7 +22,7 @@ tags:
 - **Otoño**: la lluvia y el viento.
 - **Invierno**: el frío, la nieve y el viento.
 	- *En Dénia no nieva nunca, ni siquiera en invierno.*
-
+[[../30-Vocabulario/Temas/El Tiempo Atmosférico y Verbos Impersonales|El Tiempo Atmosférico y Verbos Impersonales]]
 ### El tiempo atmosférico
 | Condición   | Expresiones y Verbos       | Gerundio (Ahora)                  |
 | :---------- | :------------------------- | :-------------------------------- |
