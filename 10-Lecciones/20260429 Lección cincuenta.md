@@ -17,4 +17,4 @@ tags:
 ---
 
 **Navegación:**
-[[../30-Vocabulario/Temas/El Tiempo Atmosférico y Verbos Impersonales|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260504 Lección cincuenta y uno|📝 Deberes]] | [[20260504 Lección cincuenta y uno|Lección siguiente ➡️]]
+[[20260427 Lección cuarenta y nueve|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260504 Lección cincuenta y uno|📝 Deberes]] | [[20260504 Lección cincuenta y uno|Lección siguiente ➡️]]

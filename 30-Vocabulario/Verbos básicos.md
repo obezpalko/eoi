@@ -37,6 +37,7 @@ tags: [vocabulario, verbos]
 - **barrer** - to sweep / подметать
 - **beber** - to drink / пить
 - **besar(se)** - to kiss / целовать(ся)
+- **borrar** - to erase / стирать
 - **bucear** - to dive / нырять
 - **caerse** - to fall / падать
 - **caminar** - to walk / идти, шагать
@@ -147,6 +148,7 @@ tags: [vocabulario, verbos]
 - **relajarse** - to relax / расслабляться
 - **reñir** - to scold / ругать
 - **repartir** - to distribute, to hand out / распределять, раздавать
+- **repasar** - to review / повторять
 - **reunirse** - to meet, gather / встречаться, собираться
 - **relampaguear** - to flash (lightning) / сверкать (о молнии)
 - **restar** - to subtract / вычитать
@@ -161,6 +163,8 @@ tags: [vocabulario, verbos]
 - **soñar** - to dream / мечтать
 - **subir** - to go up / подниматься
 - **sumar** - to add / складывать
+- **sustituir** - to replace / заменять
+- **tapear** - to go for tapas / ходить по тапас-барам
 - **tomar** - to take, to drink / брать, пить
 - **teletrabajar** - to telework / работать удаленно
 - **tender** (e->ie) - to hang (clothes) / вешать (белье) сушиться
