@@ -9,15 +9,15 @@ El estado civil describe la situación administrativa y personal de una persona 
 
 ## Vocabulario y Estados
 
-| Término                         | Significado                              | Situación                                     | Imagen                             |
-| :------------------------------ | :--------------------------------------- | :-------------------------------------------- | :--------------------------------- |
-| **Soltero / Soltera**           | No se ha casado nunca.                   | Vive solo o con su familia de origen.         | ![[Estado Civil/soltero.jpg]]      |
-| **Casado / Casada**             | Ha contraído matrimonio legal.           | Tiene un cónyuge (esposo o esposa).           | ![[Estado Civil/casado.jpg]]       |
-| **Separado / Separada**         | No vive con su pareja pero sigue casado. | Paso previo al divorcio o situación de hecho. | ![[Estado Civil/separado.jpg]]     |
-| **Divorciado / Divorciada**     | Ha disuelto su matrimonio legalmente.    | Puede volver a casarse legalmente.            | ![[Estado Civil/divorciado.jpg]]   |
-| **Viudo / Viuda**               | Su cónyuge ha fallecido.                 | Se refiere a la pérdida de la pareja.         | ![[Estado Civil/viudo.jpg]]        |
-| **Comprometido / Comprometida** | Tiene intención de casarse pronto.       | Lleva el anillo de compromiso.                | ![[Estado Civil/comprometido.jpg]] |
-| **Pareja de hecho**             | Convivencia legal sin matrimonio.        | Inscritos en un registro oficial.             | ![[Estado Civil/pareja_hecho.jpg]] |
+| Imagen | Término | Significado | Situación |
+| :--- | :--- | :--- | :--- |
+| ![[Estado Civil/soltero.jpg]] | **Soltero / Soltera** | No se ha casado nunca. | Vive solo o con su familia de origen. |
+| ![[Estado Civil/casado.jpg]] | **Casado / Casada** | Ha contraído matrimonio legal. | Tiene un cónyuge (esposo o esposa). |
+| ![[Estado Civil/separado.jpg]] | **Separado / Separada** | No vive con su pareja pero sigue casado. | Paso previo al divorcio o situación de hecho. |
+| ![[Estado Civil/divorciado.jpg]] | **Divorciado / Divorciada** | Ha disuelto su matrimonio legalmente. | Puede volver a casarse legalmente. |
+| ![[Estado Civil/viudo.jpg]] | **Viudo / Viuda** | Su cónyuge ha fallecido. | Se refiere a la pérdida de la pareja. |
+| ![[Estado Civil/comprometido.jpg]] | **Comprometido / Comprometida** | Tiene intención de casarse pronto. | Lleva el anillo de compromiso. |
+| ![[Estado Civil/pareja_hecho.jpg]] | **Pareja de hecho** | Convivencia legal sin matrimonio. | Inscritos en un registro oficial. |
 
 ## Reglas Gramaticales: ¿Ser o Estar?
 
