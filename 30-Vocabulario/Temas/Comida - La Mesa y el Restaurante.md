@@ -17,17 +17,23 @@ tags: [vocabulario, tema, comida]
 
 ## En la Mesa
 
-| Imagen | Término | Traducción | Descripción en español |
-| :--- | :--- | :--- | :--- |
-| ![[Comida - La Mesa y el Restaurante/copa.jpg]] | **la copa** | wine glass / бокал | Necesaria para brindar con un **buen vino tinto**. |
-| ![[Comida - La Mesa y el Restaurante/cuchara.jpg]] | **la cuchara** | spoon / ложка | Imprescindible para comer **lentejas o gazpacho**. |
-| ![[Comida - La Mesa y el Restaurante/cuchillo.jpg]] | **el cuchillo** | knife / нож | Se usa junto al tenedor para **cortar el filete**. |
-| ![[Comida - La Mesa y el Restaurante/mantel.jpg]] | **el mantel** | tablecloth / скатерть | En los bares de tapas suele ser de **papel desechable**. |
-| ![[Comida - La Mesa y el Restaurante/plato.jpg]] | **el plato** | plate / тарелка | Los restaurantes sirven el **primer y segundo plato**. |
-| ![[Comida - La Mesa y el Restaurante/servilleta.jpg]] | **la servilleta** | napkin / салфетка | Se usa para limpiarse; típica la de **papel en la barra**. |
-| ![[Comida - La Mesa y el Restaurante/taza.jpg]] | **la taza** | cup / mug / чашка | Recipiente ideal para el **café solo o con leche**. |
-| ![[Comida - La Mesa y el Restaurante/tenedor.jpg]] | **el tenedor** | fork / вилка | Se usa para comer la **ensalada o la paella**. |
-| ![[Comida - La Mesa y el Restaurante/vaso.jpg]] | **el vaso** | glass / стакан | Se pide un **vaso de agua** del grifo (es gratis). |
+| Imagen                                                | Término           | Traducción            | Descripción en español                                     |
+| :---------------------------------------------------- | :---------------- | :-------------------- | :--------------------------------------------------------- |
+| ![[Comida - La Mesa y el Restaurante/copa.jpg]]       | **la copa**       | wine glass / бокал    | Necesaria para brindar con un **buen vino tinto**.         |
+| ![[Comida - La Mesa y el Restaurante/cuchara.jpg]]    | **la cuchara**    | spoon / ложка         | Imprescindible para comer **lentejas o gazpacho**.         |
+| ![[Comida - La Mesa y el Restaurante/cuchillo.jpg]]   | **el cuchillo**   | knife / нож           | Se usa junto al tenedor para **cortar el filete**.         |
+| ![[Comida - La Mesa y el Restaurante/mantel.jpg]]     | **el mantel**     | tablecloth / скатерть | En los bares de tapas suele ser de **papel desechable**.   |
+| ![[Comida - La Mesa y el Restaurante/plato.jpg]]      | **el plato**      | plate / тарелка       | Los restaurantes sirven el **primer y segundo plato**.     |
+| ![[Comida - La Mesa y el Restaurante/servilleta.jpg]] | **la servilleta** | napkin / салфетка     | Se usa para limpiarse; típica la de **papel en la barra**. |
+| ![[Comida - La Mesa y el Restaurante/taza.jpg]]       | **la taza**       | cup / mug / чашка     | Recipiente ideal para el **café solo o con leche**.        |
+| ![[Comida - La Mesa y el Restaurante/tenedor.jpg]]    | **el tenedor**    | fork / вилка          | Se usa para comer la **ensalada o la paella**.             |
+| ![[Comida - La Mesa y el Restaurante/vaso.jpg]]       | **el vaso**       | glass / стакан        | Se pide un **vaso de agua** del grifo (es gratis).         |
+|                                                       | La jarra          |                       |                                                            |
+|                                                       | La cucharilla     |                       |                                                            |
+|                                                       | Cuenco (bol)      |                       |                                                            |
+|                                                       | Plato hondo       |                       |                                                            |
+|                                                       | Botella           |                       |                                                            |
+|                                                       | Plato llano       |                       |                                                            |
 
 ## Expresiones Útiles
 - **¿Qué van a tomar?** - What are you going to have?
