@@ -52,6 +52,7 @@ tags: [vocabulario, sustantivos]
 - **la barbería** - barbershop / барбершоп
 - **la barca** - small boat / лодка
 - **el barco** - boat / корабль
+- **la barra de labios** - lipstick / губная помада
 - **el barrio** - neighborhood / район
 - **la berenjena** - eggplant / баклажан
 - **el bocadillo** - sandwich / бутерброд
@@ -107,6 +108,7 @@ tags: [vocabulario, sustantivos]
 - **el chirimiri** - drizzle (Northern Spain) / моросящий дождь
 - **la chuchería / las chuches** - sweets, candy / сладости, конфеты
 - **la chuleta** - cheat sheet / шпаргалка
+- **el chupito** - shot (drink) / шот (стопка)
 - **el cine** - cinema / кинотеатр
 - **la clara** - egg white / яичный белок
 - **el clima** - climate / климат
@@ -120,6 +122,7 @@ tags: [vocabulario, sustantivos]
 - **la comisaría** - police station / полицейский участок
 - **la consonante** - consonant / согласная
 - **el consejo** - advice / совет
+- **el concesionario** - car dealership / автосалон
 - **el contenedor** - container, dumpster / контейнер
 - **el correo electrónico** - email / электронная почта
 - **correos** - post office / почта
@@ -249,6 +252,7 @@ tags: [vocabulario, sustantivos]
 - **los kikos** - roasted corn / жареная кукуруза
 - **el kiwi** - kiwi / киви
 - **la librería** - bookstore / книжный магазин
+- **la lencería** - lingerie / нижнее белье
 - **el/la licenciado/a** - graduate (university degree holder) / дипломированный специалист
 - **la licra** - lycra / ликра
 - **el limpiaparabrisas** - windshield wiper / стеклоочиститель
@@ -273,6 +277,7 @@ tags: [vocabulario, sustantivos]
 - **el menú** - menu / меню
 - **el menú del día** - daily special menu / меню дня
 - **el mercado** - market / рынок
+- **el mercadillo** - street market / блошиный рынок, ярмарка
 - **el matiz** - nuance / нюанс
 - **la mayúscula** - capital letter / заглавная буква
 - **la mejilla** - cheek / щека
@@ -281,6 +286,7 @@ tags: [vocabulario, sustantivos]
 - **la merluza** - hake / мерлуза
 - **el metal** - metal / металл
 - **la minúscula** - lowercase letter / строчная буква
+- **el mimbre** - wicker / лоза
 - **la moneda** - coin, currency / монета, валюта
 - **la montaña rusa** - roller coaster / американские горки
 - **el motivo** - motive, reason / мотив, повод
@@ -355,11 +361,13 @@ tags: [vocabulario, sustantivos]
 - **el polvo** - dust / пыль
 - **la profesión** - profession / профессия
 - **el pulpo** - octopus / осьминог
+- **el puente** - long weekend / длинные выходные
 - **el racimo de uvas** - bunch of grapes / гроздь винограда
 - **la queja** - complaint / жалоба
 - **la raíz** - root / корень
 - **la rata** - rat / крыса
 - **el ratón** - mouse / мышь
+- **el ratán** - rattan / ротанг
 - **el rayo** - beam, lightning / луч, молния
 - **la razón** - reason / причина
 - **el reciclaje** - recycling / переработка
@@ -398,6 +406,7 @@ tags: [vocabulario, sustantivos]
 - **la suciedad** - dirtiness / грязь
 - **el suelo** - floor / пол
 - **la sustitución** - replacement / замена
+- **el sujetador** - bra / бюстгальтер
 - **la sugerencia** - suggestion / предложение
 - **el taller** - workshop / мастерская
 - **la tapa** - lid, cover, tapa / крышка, тапа
@@ -422,6 +431,7 @@ tags: [vocabulario, sustantivos]
 - **la tormenta** - storm / шторм, гроза
 - **el trueno** - thunder / гром
 - **la torre** - tower (CPU) / системный блок
+- **el trabalenguas** - tongue twister / скороговорка
 - **la tumbona** - deck chair / шезлонг
 - **el/la turista** - tourist / турист
 - **la ubicación** - location / местоположение

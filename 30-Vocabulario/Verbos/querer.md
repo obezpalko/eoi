@@ -14,8 +14,8 @@ El verbo **Querer** es un verbo irregular de cambio de raíz (Stem-changing verb
 La **e** cambia a **ie**.
 
 > [!WARNING] La Irregularidad
-> **e** $\rightarrow$ **ie**
-> (Qu**e**rer $\rightarrow$ Yo qu**ie**ro)
+> **e** → **ie**
+> (Qu**e**rer → Yo qu**ie**ro)
 > *Recuerda: Nosotros y Vosotros NO cambian.*
 
 ## 1. Tabla de Conjugación
@@ -73,7 +73,7 @@ En un restaurante o bar en España:
 
 ## Práctica de Traducción Mental
 
-1.  *I want to sleep.* $\rightarrow$ **Quiero dormir.**
-2.  *I love my daughter.* $\rightarrow$ **Quiero a mi hija.** (Usa la 'a' personal).
-3.  *We want to go out.* $\rightarrow$ **Queremos salir.**
+1.  *I want to sleep.* → **Quiero dormir.**
+2.  *I love my daughter.* → **Quiero a mi hija.** (Usa la 'a' personal).
+3.  *We want to go out.* → **Queremos salir.**
 4. 

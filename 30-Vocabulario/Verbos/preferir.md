@@ -13,8 +13,8 @@ El verbo **Preferir** es un verbo irregular de cambio de raíz (Stem-changing ve
 La **e** de la raíz cambia a **ie** en todas las personas, **excepto** en *Nosotros* y *Vosotros*.
 
 > [!WARNING] ¡Ojo al cambio!
-> **e** $\rightarrow$ **ie**
-> (Pref**e**rir $\rightarrow$ Yo pref**ie**ro)
+> **e** → **ie**
+> (Pref**e**rir → Yo pref**ie**ro)
 
 ## Tabla de Conjugación
 

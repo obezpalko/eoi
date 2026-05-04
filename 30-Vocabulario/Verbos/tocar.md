@@ -51,7 +51,7 @@ Aquí están los usos más comunes en España que te harán sonar nativo.
 
 Fundamental para juegos de mesa o tareas de casa.
 
-* *¿A quién le toca tirar los dados?* $\rightarrow$ **Me toca a mí.** (It's my turn).
+* *¿A quién le toca tirar los dados?* → **Me toca a mí.** (It's my turn).
 * *Hoy **te toca a ti** lavar los platos.* (It's your turn to do the dishes).
 * *Ahora **le toca a** Alena elegir la película.*
 

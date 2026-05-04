@@ -4,212 +4,95 @@ tags:
   - español
   - lección
 ---
-# 050: La Comida y el Imperativo
+# 050: La Comida, Tiendas y el Imperativo
 
 [[../40-Deberes/20260429 Lección cincuenta|📝 Deberes de la lección]]
 
 ## Información
-### prueba de nivel
-1. preinscripción  (junio)
-2. matrícula (julio)
 
-Huelga empieza en 11 de mayo 
+- **Prueba de nivel:** preinscripción en junio, matrícula en julio.
+- **Huelga:** empieza el 11 de mayo.
+- **Cultura:** El primer domingo de mayo es el Día de la Madre en España.
 
-Primer domingo de mayo es día de madre 
-## Prácticas
-###  [[../30-Vocabulario/Temas/Comida|Comida]]
-Yo compro en charcutería 
-- jamón
-- embutidos 
-- quesos
-- paté
-- mortadela 
-En frutería 
-- sandía
-- tomate
-- fresa
-- manzana 
-- níspero 
-- plátano (la palabra "banana" no se usa en España)
-- carlota (zanahoria en la Comunidad Valenciana)
-- melón 
-- naranja 
-- pera
-En pescadería 
-- caballo
-- panga
-- boquerones 
-- tetinas?
-- bacalao
-- sardinas
-- lubina 
-- mariscos 
-- caviar 
-- merluza
-- atún 
-En panadería 
-- bollo 
+## Prácticas: Tiendas y Compras
 
-Farmacia
-Joyería
-Carnicería
-Pollería 
-Librería
-Quiosco
-Papelería 
-#### [[../30-Vocabulario/Verbos/ser|ser]] y [[../30-Vocabulario/Verbos/estar|estar]] con comida 
- - la sandía es una fruta de verano 
- - el helado es frío
- - el café está caliente 
- - las nueces son frutos secos 
- - la manzana es verde. 
- - la manzana está verde/madura 
- - el plátano es amarillo 
- - el plátano está verde/maduro
- - el cielo es blanco y azul 
- - el cielo está gris 
- - yo soy blanca pero en verano estoy morena.
- - esta pera está demasiado madura.
- - las fresas son rojas 
- - el melón es una fruta originaria de África 
- - este melón está muy bueno 
- - la naranja es muy muy buena para la salud 
- - las ciruelas son muy digestivas
- - estamos en julio, las uvas todavía están verdes.
+### ¿Dónde compramos? (Las Tiendas)
 
----
-- un paquete (brick) de leche
-- una botella de aceite (leche)
-- una caja (un kilo) de arroz 
-- un paquete de galletas 
-- una caja de galletas 
-- atún 
-	- un kilo
-	- una lata
-- sal
-	- un kilo
-	- un paquete 
-- agua 
-	- botella
-	- una lata 
-	- un paquete 
-- patatas fritas
-	- un paquete 
-	- una caja 
-- patatas 
-	- un kilo
-	- una bolsa
-- arroz
-	- un kilo 
-	- un paquete 
-	- una bolsa
-- galletas 
-	- una caja
-	- un paquete 
-	- un kilo
----
-Yo compro una furgoneta en un concesionario 
-Compro un apartamento en una inmobiliaria
-#### comidas españolas 
-Plato, ración, tapa (tamaños)
-Raciones
-- chopitos (calamares)
-- chorizo 
-- empanada gallega 
-Bocadillos 
-- pepito de ternera
-Bebidas 
-- caña 
-- tanque 
-- vino tinto 
-- jarra de cerveza 
----
-#### Menus
-##### primer plato
-Tortilla de patatas con cebolla y sin cebolla 
-Tortilla de berenjena 
-Crema de calabaza 
-Salmorejo 
-Bacalao encebollado 
-Ensalada murciana 
-Ensalada rusa 
-Magra con tomate 
-Ensalada mixta o de tiempo 
-Calamar con tomate
-Consomé con pelotas 
-##### segundo plato 
-Arroz y costra
-Arroz y conejo 
-Arroz y verdura 
-Arroz y pollo campero 
-Habichuelas en salsa
-Estofado de ternera 
-Boquerones a la plancha o rebozados
-Merluza a la plancha o rebozada 
-##### postre
-Natillas caseras 
-Flan casero 
-Fruta de temporada 
-Arroz con leche 
-Tarta de la abuela
-Tiramisú casero 
-Macedonia (ensalada de frutas)
+*   **La charcutería:** jamón, embutidos, quesos, paté, mortadela, salchichón, salchichas.
+*   **La frutería:** sandía, tomate, fresa, manzana, níspero, plátano, carlota (zanahoria en la Comunidad Valenciana), melón, naranja, pera.
+    *   *Nota:* La palabra "banana" no se usa en España, se dice "plátano".
+*   **La pescadería:** caballo (caballa), panga, boquerones, bacalao, sardinas, lubina, mariscos, caviar, merluza, atún, chopitos (calamares pequeños).
+*   **La panadería:** pan, bollo.
+*   **La carnicería:** carne, pollo asado, codorniz. (También existe **la pollería** solo para aves).
+*   **La farmacia / La parafarmacia:** medicamentos, pastillas, jarabes.
+*   **La papelería / La librería:** material escolar, libros, libretas, bolígrafos.
+*   **El quiosco:** periódicos, revistas.
+*   **La droguería / La perfumería:** productos de limpieza, perfumes, barra de labios (pintalabios).
+*   **La ferretería:** herramientas, un martillo.
+*   **Otras tiendas:**
+    *   **La joyería:** joyas, anillos.
+    *   **La lencería:** ropa interior, sujetador.
+    *   **La juguetería:** juguetes.
+    *   **El concesionario:** para comprar un coche o una furgoneta.
+    *   **La inmobiliaria:** para comprar o alquilar un apartamento.
 
-### imperativo 
-Usamos imperativo para:
-- dar órdenes 
-- dar consejos 
-- dar instrucciones 
-- invitar 
-#### imperativo afirmativo
-No yo, no nosotros.
+### Envases y Cantidades
 
-|          | Comprar (ar) | Comer (er) | Escribir (ir) |     |
-| -------- | ------------ | ---------- | ------------- | --- |
-| Tú       | Compra       | Come       | Escribe       |     |
-| Usted    | Compre       | Coma       | Escriba       |     |
-| Vosotros | Comprad      | Comed      | Escribid      |     |
-| Ustedes  | Compren      | Comsn      | Escriban      |     |
-en aules
-## Vocabulario
-- prueba de nivel 
-- picar, pica
-- mercadillo 
-- mimbre
-- ratán
-- salchichón 
-- salchichas 
-- codorniz 
-- charcutería 
-	- embutidos 
-	- jamón
-	- queso 
-- pollo asado 
-- material escolar
-- medicamentos (medicinas)
-	- pastillas 
-	- jarabes
-- galletas con pepitas de chocolate (cookies)
-- aliñar
-- aliño 
-- seguimos 
-- droguería 
-- parafarmacia 
-- perfumería 
-- furgoneta 
-- concesionario 
-- una barra de labios (pintalabios )
-- lencería 
-- sujetador 
-- inmobiliaria 
-- juguetería 
-- tienda de comestibles 
-- ferretería 
-- un martillo 
-- chopitos (calamares pequeños) vs. chupito (vaso pequeño de alcohol)
-- tabla de quesos 
-- pepito
-- propina
+*   **Un paquete:** de leche (brick), de galletas, de sal, de arroz, de patatas fritas.
+*   **Una botella:** de aceite, de agua, de leche.
+*   **Una lata:** de atún, de agua/refresco.
+*   **Una caja:** de arroz, de galletas, de patatas fritas.
+*   **Una bolsa:** de patatas, de arroz.
+*   **Un kilo:** de arroz, de sal, de patatas, de atún, de galletas.
+
+## Gramática
+
+### Ser y Estar con la comida
+
+El significado cambia si usamos SER (característica) o ESTAR (estado temporal/sabor).
+
+*   **Color / Característica (SER):**
+    *   La manzana **es** verde. (Su color natural).
+    *   Las fresas **son** rojas.
+    *   El plátano **es** amarillo.
+    *   Las nueces **son** frutos secos.
+*   **Estado / Madurez (ESTAR):**
+    *   La manzana **está** verde (no está madura).
+    *   El plátano **está** verde / **está** maduro.
+    *   Estamos en julio, las uvas todavía **están** verdes.
+    *   Esta pera **está** demasiado madura.
+*   **Temperatura / Sabor (ESTAR):**
+    *   El café **está** caliente.
+    *   Este melón **está** muy bueno (tasty).
+    *   *(Nota para personas)*: Yo **soy** blanca, pero en verano **estoy** morena.
+
+### El Imperativo Afirmativo (Verbos Regulares)
+
+Usamos el imperativo para: dar órdenes, dar consejos, dar instrucciones o invitar.
+
+| Pronombre | Comprar (-ar) | Comer (-er) | Escribir (-ir) |
+| :--- | :--- | :--- | :--- |
+| **Tú** | compr**a** | com**e** | escrib**e** |
+| **Usted** | compr**e** | com**a** | escrib**a** |
+| **Vosotros** | compr**ad** | com**ed** | escrib**id** |
+| **Ustedes** | compr**en** | com**an** | escrib**an** |
+
+## Vocabulario y Cultura
+
+### La Comida en el Restaurante
+
+*   **Tamaños:** Tapa (pequeño), Ración (mediano/para compartir), Plato (individual).
+*   **Bocadillos:** pepito de ternera (bocadillo pequeño de carne).
+*   **Bebidas:** caña (vaso pequeño de cerveza), tanque/jarra de cerveza, vino tinto, chupito (vaso pequeño de alcohol).
+
+#### El Menú del Día
+
+*   **Primer plato:** Tortilla de patatas (con/sin cebolla), tortilla de berenjena, crema de calabaza, salmorejo, bacalao encebollado, ensalada murciana, ensaladilla rusa, ensalada mixta/del tiempo, consomé con pelotas, magra con tomate, calamar con tomate.
+*   **Segundo plato:** Arroz con costra, arroz con conejo, arroz con verdura, arroz con pollo campero, habichuelas en salsa, estofado de ternera, boquerones (a la plancha o rebozados), merluza (a la plancha o rebozada).
+*   **Postre:** Natillas caseras, flan casero, fruta de temporada, arroz con leche, tarta de la abuela, tiramisú casero, macedonia (ensalada de frutas).
+
+*Otras palabras:* aliñar, el aliño (dressing), mercadillo, mimbre, ratán, tabla de quesos, propina (tip).
+
 ---
 
 **Navegación:**

@@ -41,10 +41,10 @@ Consulta la guía detallada: 👉 **[[../20-Gramática/Pronombres de Complemento
 
 Sustituyen al objeto directo para evitar repeticiones (**lo, la, los, las**).
 
-- **Yo compro una sandía.** $\rightarrow$ Yo **la** compro en Mercadona.
-- **Juan canta una canción.** $\rightarrow$ Juan **la** canta.
-- **Laura escribe muchos correos.** $\rightarrow$ Laura **los** escribe todos los días.
-- **Los niños hacen las tareas.** $\rightarrow$ Los niños **las** hacen cada día.
+- **Yo compro una sandía.** → Yo **la** compro en Mercadona.
+- **Juan canta una canción.** → Juan **la** canta.
+- **Laura escribe muchos correos.** → Laura **los** escribe todos los días.
+- **Los niños hacen las tareas.** → Los niños **las** hacen cada día.
 
 #### Posición
 El pronombre va **delante** del verbo conjugado:

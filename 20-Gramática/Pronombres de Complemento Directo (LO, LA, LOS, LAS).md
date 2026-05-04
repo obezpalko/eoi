@@ -27,19 +27,19 @@ En oraciones con un solo verbo conjugado (Presente, Pasado, Futuro), el pronombr
 ### Ejemplos:
 
 - **Presente:**
-	- Yo hago una tarta. $\rightarrow$ Yo **la** hago.
-	- Compro el lápiz. $\rightarrow$ **Lo** compro.
+	- Yo hago una tarta. → Yo **la** hago.
+	- Compro el lápiz. → **Lo** compro.
 - **Pasado (Indefinido):**
-	- Laura hizo los bizcochos. $\rightarrow$ Laura **los** hizo.
-	- Juan cantó una canción. $\rightarrow$ Juan **la** cantó.
+	- Laura hizo los bizcochos. → Laura **los** hizo.
+	- Juan cantó una canción. → Juan **la** cantó.
 - **Futuro:**
-	- Mario hará las actividades. $\rightarrow$ Mario **las** hará.
+	- Mario hará las actividades. → Mario **las** hará.
 
 ### En oraciones negativas:
 El pronombre se coloca entre el **NO** y el **verbo**.
 
-- *Yo no compro la sandía en Lidl.* $\rightarrow$ Yo **no la** compro en Lidl.
-- *Juan no canta la canción.* $\rightarrow$ Juan **no la** canta.
+- *Yo no compro la sandía en Lidl.* → Yo **no la** compro en Lidl.
+- *Juan no canta la canción.* → Juan **no la** canta.
 
 ---
 
