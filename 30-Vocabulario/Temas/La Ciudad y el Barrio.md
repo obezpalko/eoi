@@ -22,6 +22,7 @@ Este documento recopila el vocabulario y las estructuras necesarias para describ
 | ![[La Ciudad y el Barrio/el_cine.jpg]]                        | **El cine**                        | Cinema / Movie theater  | Кинотеатр                            |
 | ![[La Ciudad y el Barrio/el_colegio.jpg]]                     | **El colegio**                     | School                  | Школа / Колледж                      |
 | ![[La Ciudad y el Barrio/la_comisaria.jpg]]                   | **La comisaría**                   | Police station          | Полицейский участок                  |
+| ![[La Ciudad y el Barrio/el_concesionario.jpg]] | **El concesionario** | Car dealership | Автосалон |
 | ![[La Ciudad y el Barrio/correos.jpg]]                        | **Correos**                        | Post office             | Почта                                |
 | ![[La Ciudad y el Barrio/la_drogueria.jpg]]                   | **La droguería**                   | Drugstore / Cleaning    | Магазин хозтоваров / бытовой химии   |
 | ![[La Ciudad y el Barrio/la_estacion_de_tren.jpg]]            | **La estación de tren**            | Train station           | Железнодорожный вокзал               |
@@ -37,6 +38,7 @@ Este documento recopila el vocabulario y las estructuras necesarias para describ
 | ![[La Ciudad y el Barrio/la_joyeria.jpg]]                     | **La joyería**                     | Jewelry store           | Ювелирный магазин                    |
 | ![[La Ciudad y el Barrio/la_jugueteria.jpg]] | **La juguetería** | Toy store | Магазин игрушек |
 | ![[La Ciudad y el Barrio/la_lavanderia.jpg]]                  | **La lavandería**                  | Laundry                 | Прачечная                            |
+| ![[La Ciudad y el Barrio/la_lenceria.jpg]] | **La lencería** | Lingerie store | Магазин нижнего белья |
 | ![[La Ciudad y el Barrio/la_libreria.jpg]]                    | **La librería**                    | Bookstore               | Книжный магазин                      |
 | ![[La Ciudad y el Barrio/el_mercado.jpg]]                     | **El mercado**                     | Market                  | Рынок                                |
 | ![[La Ciudad y el Barrio/la_merceria.jpg]]                    | **La mercería**                    | Haberdashery            | Магазин галантереи / ниток           |

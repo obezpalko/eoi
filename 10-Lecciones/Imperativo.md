@@ -69,9 +69,9 @@ The Imperative is used to give orders, advice, instructions, or make requests.
 ## 4. Reflexive Verbs (Verbos Reflexivos)
 The pronoun is **attached to the end**. (Местоимение **приклеивается в конце**).
 
-* **Levantarse** $\rightarrow$ **Levántate** (Get up / Вставай).
-* **Sentarse** $\rightarrow$ **Siéntate** (Sit down / Садись).
-* **Ducharse** $\rightarrow$ **Dúchate** (Take a shower / Помойся в душе).
+* **Levantarse** → **Levántate** (Get up / Вставай).
+* **Sentarse** → **Siéntate** (Sit down / Садись).
+* **Ducharse** → **Dúchate** (Take a shower / Помойся в душе).
 
 > [!WARNING] **Accents / Ударения**
 > Adding a pronoun often requires a written accent (tilde) to keep the original stress. (При добавлении местоимения часто нужно ставить графическое ударение).
@@ -142,7 +142,7 @@ If you have both an indirect pronoun (to whom) and a direct pronoun (what), the 
 ## 4. Practical Checklist for Obsidian
 - [ ] **Tú** forms usually end in a vowel (**Compra**).
 - [ ] **Pronoun** goes at the end (**Cómpralo**).
-- [ ] Count back 3 syllables $\rightarrow$ Add an **accent** if needed (**Cóm**-pra-lo).
+- [ ] Count back 3 syllables → Add an **accent** if needed (**Cóm**-pra-lo).
 
 ---
 #Spanish #Grammar #Imperativo #Pronombres #A2
