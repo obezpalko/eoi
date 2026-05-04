@@ -4,13 +4,13 @@ tags:
   - español
   - lección
 ---
-# 050: Lección template
+# 050: La Comida y el Imperativo
 
 [[../40-Deberes/20260429 Lección cincuenta|📝 Deberes de la lección]]
 
 ## Información
 ### prueba de nivel
-1. prescripción  (junio)
+1. preinscripción  (junio)
 2. matrícula (julio)
 
 Huelga empieza en 11 de mayo 
@@ -30,8 +30,8 @@ En frutería
 - fresa
 - manzana 
 - níspero 
-- plátano (banana is wrong )
-- Carlota (zanahoria )
+- plátano (la palabra "banana" no se usa en España)
+- carlota (zanahoria en la Comunidad Valenciana)
 - melón 
 - naranja 
 - pera
@@ -63,13 +63,13 @@ Papelería
  - el café está caliente 
  - las nueces son frutos secos 
  - la manzana es verde. 
- - la manzana está verde/maduro 
+ - la manzana está verde/madura 
  - el plátano es amarillo 
  - el plátano está verde/maduro
  - el cielo es blanco y azul 
  - el cielo está gris 
- - yo soy blanca pero en verano estoy moreno.
- - está pera está demasiado madura.
+ - yo soy blanca pero en verano estoy morena.
+ - esta pera está demasiado madura.
  - las fresas son rojas 
  - el melón es una fruta originaria de África 
  - este melón está muy bueno 
@@ -93,7 +93,7 @@ Papelería
 	- botella
 	- una lata 
 	- un paquete 
-- patas fritas (patatis)
+- patatas fritas
 	- un paquete 
 	- una caja 
 - patatas 
@@ -109,9 +109,9 @@ Papelería
 	- un kilo
 ---
 Yo compro una furgoneta en un concesionario 
-Compro un apartamento en un inmobiliario
+Compro un apartamento en una inmobiliaria
 #### comidas españolas 
-Plato, ración, tapa (size)
+Plato, ración, tapa (tamaños)
 Raciones
 - chopitos (calamares)
 - chorizo 
@@ -128,7 +128,7 @@ Bebidas
 ##### primer plato
 Tortilla de patatas con cebolla y sin cebolla 
 Tortilla de berenjena 
-Crema d calabaza 
+Crema de calabaza 
 Salmorejo 
 Bacalao encebollado 
 Ensalada murciana 
@@ -151,9 +151,9 @@ Natillas caseras
 Flan casero 
 Fruta de temporada 
 Arroz con leche 
-Tarta de abuela ?
+Tarta de la abuela
 Tiramisú casero 
-Macedonia ?
+Macedonia (ensalada de frutas)
 
 ### imperativo 
 Usamos imperativo para:
@@ -189,7 +189,7 @@ en aules
 - medicamentos (medicinas)
 	- pastillas 
 	- jarabes
-- galletas con cukies?
+- galletas con pepitas de chocolate (cookies)
 - aliñar
 - aliño 
 - seguimos 
@@ -206,7 +206,7 @@ en aules
 - tienda de comestibles 
 - ferretería 
 - un martillo 
-- chopitos VS chupito
+- chopitos (calamares pequeños) vs. chupito (vaso pequeño de alcohol)
 - tabla de quesos 
 - pepito
 - propina

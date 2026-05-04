@@ -12,20 +12,25 @@ tags: [vocabulario, tema, comida]
 | ![[Comida - Frutas y Verduras/arandano.jpg]] | **el arándano** | blueberry / черника | Fruta azul; popular en **t tartas** y yogures. |
 | ![[Comida - Frutas y Verduras/ciruela_seca.jpg]] | **la ciruela seca** | prune / чернослив | Fruta deshidratada; se usa en **guisos de carne**. |
 | ![[Comida - Frutas y Verduras/frambuesa.jpg]] | **la frambuesa** | raspberry / малина | Fruta roja; se usa en **postres** y sorbetes. |
+| ![[Comida - Frutas y Verduras/fresa.jpg]] | **la fresa** | strawberry / клубника | Fruta roja pequeña; típica en primavera. |
 | ![[Comida - Frutas y Verduras/granada.jpg]] | **la granada** | pomegranate / гранат | Fruta con semillas; típica en **ensaladas de invierno**. |
 | ![[Comida - Frutas y Verduras/grosellero.jpg]] | **el grosellero** | redcurrant / смородина | Planta de frutos rojos; se usa en **jaleas**. |
 | ![[Comida - Frutas y Verduras/higo.jpg]] | **el higo** | fig / инжир | Fruta dulce; se come con **queso** o en mermelada. |
 | ![[Comida - Frutas y Verduras/kiwi.jpg]] | **el kiwi** | kiwi / киви | Fruta verde; común en **macedonias de frutas**. |
 | ![[Comida - Frutas y Verduras/madrono.jpg]] | **el madroño** | strawberry tree fruit / земляничное дерево | Fruta roja; se usa para hacer **licor de madroño**. |
 | ![[Comida - Frutas y Verduras/mango.jpg]] | **el mango** | mango / манго | Fruta tropical; popular en **smoothies** y ensaladas. |
+| ![[Comida - Frutas y Verduras/manzana.jpg]] | **la manzana** | apple / яблоко | Fruta muy común; puede ser roja o verde. |
 | ![[Comida - Frutas y Verduras/melocoton.jpg]] | **el melocotón** | peach / персик | Fruta naranja; famoso el **melocotón en almíbar**. |
 | ![[Comida - Frutas y Verduras/melon.jpg]] | **el melón** | melon / дыня | Fruta dulce; típico el plato **melón con jamón**. |
+| ![[Comida - Frutas y Verduras/naranja.jpg]] | **la naranja** | orange / апельсин | Cítrico dulce; famoso el zumo de naranja de Valencia. |
+| ![[Comida - Frutas y Verduras/nispero.jpg]] | **el níspero** | loquat / мушмула | Fruta de primavera; color naranja y dulce. |
 | ![[Comida - Frutas y Verduras/pera.jpg]] | **la pera** | pear / груша | Fruta jugosa; se usa en **peras al vino**. |
 | ![[Comida - Frutas y Verduras/platano.jpg]] | **el plátano** | banana / банан | Fruta amarilla; famoso el **plátano de Canarias**. |
 | ![[Comida - Frutas y Verduras/pomelo.jpg]] | **el pomelo** | grapefruit / грейпфрут | Cítrico amargo; se toma mucho en **zumos de desayuno**. |
-| ![[Comida - Frutas y Verduras/sandia.jpg]] | **la sandía** | watermelon / арбуз | Fruta grande; esencial en verano para **refrescarse**. |
-| ![[Comida - Frutas y Verduras/uva.jpg]] | **la uva** | grape / виноград | Fruta del vino; se comen 12 uvas en **Nochevieja**. |
 | ![[Comida - Frutas y Verduras/racimo_uvas.jpg]] | **el racimo de uvas** | bunch of grapes / гроздь винограда | Conjunto de uvas; se sirve como **postre natural**. |
+| ![[Comida - Frutas y Verduras/sandia.jpg]] | **la sandía** | watermelon / арбуз | Fruta grande; esencial en verano para **refrescarse**. |
+| ![[Comida - Frutas y Verduras/tomate.jpg]] | **el tomate** | tomato / помидор | Fruta roja; se usa como verdura en el gazpacho. |
+| ![[Comida - Frutas y Verduras/uva.jpg]] | **la uva** | grape / виноград | Fruta del vino; se comen 12 uvas en **Nochevieja**. |
 | ![[Comida - Frutas y Verduras/uva_pasa.jpg]] | **la uva pasa** | raisin / изюм | Uva seca; se usa en el **cuscús** o bizcochos. |
 
 ## Verduras y Hortalizas

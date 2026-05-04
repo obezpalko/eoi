@@ -17,30 +17,41 @@ Este documento recopila el vocabulario y las estructuras necesarias para describ
 | ![[La Ciudad y el Barrio/el_banco.jpg]]                       | **El banco**                       | Bank                    | Банк                                 |
 | ![[La Ciudad y el Barrio/el_bar.jpg]]                         | **El bar**                         | Bar / Pub               | Бар                                  |
 | ![[La Ciudad y el Barrio/la_cafeteria.jpg]]                   | **La cafetería**                   | Café / Coffee shop      | Кафетерий                            |
+| ![[La Ciudad y el Barrio/la_carniceria.jpg]] | **La carnicería** | Butcher shop | Мясной магазин |
+| ![[La Ciudad y el Barrio/la_charcuteria.jpg]] | **La charcutería** | Delicatessen | Магазин колбас и сыров |
 | ![[La Ciudad y el Barrio/el_cine.jpg]]                        | **El cine**                        | Cinema / Movie theater  | Кинотеатр                            |
-| ![[La Ciudad y el Barrio/la_drogueria.jpg]]                   | **La droguería**                   | Drugstore / Cleaning    | Магазин хозтоваров / бытовой химии   |
 | ![[La Ciudad y el Barrio/el_colegio.jpg]]                     | **El colegio**                     | School                  | Школа / Колледж                      |
 | ![[La Ciudad y el Barrio/la_comisaria.jpg]]                   | **La comisaría**                   | Police station          | Полицейский участок                  |
 | ![[La Ciudad y el Barrio/correos.jpg]]                        | **Correos**                        | Post office             | Почта                                |
+| ![[La Ciudad y el Barrio/la_drogueria.jpg]]                   | **La droguería**                   | Drugstore / Cleaning    | Магазин хозтоваров / бытовой химии   |
 | ![[La Ciudad y el Barrio/la_estacion_de_tren.jpg]]            | **La estación de tren**            | Train station           | Железнодорожный вокзал               |
 | ![[La Ciudad y el Barrio/el_estanco.jpg]]                     | **El estanco**                     | Tobacco / Stamp shop    | Табачный киоск / газетный            |
 | ![[La Ciudad y el Barrio/la_farmacia.jpg]]                    | **La farmacia**                    | Pharmacy / Drugstore    | Аптека                               |
 | ![[La Ciudad y el Barrio/la_ferreteria.jpg]]                  | **La ferretería**                  | Hardware store          | Хозяйственный / строительный магазин |
 | ![[La Ciudad y el Barrio/la_floristeria.jpg]]                 | **La floristería**                 | Flower shop             | Цветочный магазин                    |
+| ![[La Ciudad y el Barrio/la_fruteria.jpg]] | **La frutería** | Greengrocer | Овощной магазин |
 | ![[La Ciudad y el Barrio/el_hospital.jpg]]                    | **El hospital**                    | Hospital                | Больница                             |
 | ![[La Ciudad y el Barrio/la_iglesia.jpg]]                     | **La iglesia / La catedral**       | Church / Cathedral      | Церковь / Собор                      |
+| ![[La Ciudad y el Barrio/la_inmobiliaria.jpg]] | **La inmobiliaria** | Real estate agency | Агентство недвижимости |
 | ![[La Ciudad y el Barrio/el_instituto.jpg]]                   | **El instituto**                   | High school / Institute | Институт / Лицей                     |
 | ![[La Ciudad y el Barrio/la_joyeria.jpg]]                     | **La joyería**                     | Jewelry store           | Ювелирный магазин                    |
+| ![[La Ciudad y el Barrio/la_jugueteria.jpg]] | **La juguetería** | Toy store | Магазин игрушек |
 | ![[La Ciudad y el Barrio/la_lavanderia.jpg]]                  | **La lavandería**                  | Laundry                 | Прачечная                            |
 | ![[La Ciudad y el Barrio/la_libreria.jpg]]                    | **La librería**                    | Bookstore               | Книжный магазин                      |
 | ![[La Ciudad y el Barrio/el_mercado.jpg]]                     | **El mercado**                     | Market                  | Рынок                                |
 | ![[La Ciudad y el Barrio/la_merceria.jpg]]                    | **La mercería**                    | Haberdashery            | Магазин галантереи / ниток           |
 | ![[La Ciudad y el Barrio/la_panaderia.jpg]]                   | **La panadería**                   | Bakery                  | Пекарня                              |
 | ![[La Ciudad y el Barrio/la_papeleria.jpg]]                   | **La papelería**                   | Stationery shop         | Магазин канцтоваров                  |
+| ![[La Ciudad y el Barrio/la_parafarmacia.jpg]] | **La parafarmacia** | Parapharmacy | Парафармация |
 | ![[La Ciudad y el Barrio/la_peluqueria.jpg]]                  | **La peluquería / barbería**       | Hair salon / Barbershop | Парикмахерская / Барбершоп           |
+| ![[La Ciudad y el Barrio/la_perfumeria.jpg]] | **La perfumería** | Perfume shop | Парфюмерный магазин |
+| ![[La Ciudad y el Barrio/la_pescaderia.jpg]] | **La pescadería** | Fishmonger | Рыбный магазин |
 | ![[La Ciudad y el Barrio/la_pizzeria.jpg]]                    | **La pizzería**                    | Pizzeria                | Пиццерия                             |
 | ![[La Ciudad y el Barrio/el_polideportivo.jpg]]               | **El polideportivo**               | Sports center           | Спорткомплекс                        |
+| ![[La Ciudad y el Barrio/la_polleria.jpg]] | **La pollería** | Poultry shop | Магазин птицы |
+| ![[La Ciudad y el Barrio/el_quiosco.jpg]] | **El quiosco** | Kiosk | Киоск |
 | ![[La Ciudad y el Barrio/el_teatro.jpg]]                      | **El teatro**                      | Theater                 | Театр                                |
+| ![[La Ciudad y el Barrio/la_tienda_de_comestibles.jpg]] | **La tienda de comestibles** | Grocery store | Продуктовый магазин |
 | ![[La Ciudad y el Barrio/la_tienda_de_electrodomesticos.jpg]] | **La tienda de electrodomésticos** | Appliance store         | Магазин бытовой техники              |
 | ![[La Ciudad y el Barrio/la_tienda_de_musica.jpg]]            | **La tienda de música**            | Music store             | Музыкальный магазин                  |
 | ![[La Ciudad y el Barrio/la_tienda_de_ropa.jpg]]              | **La tienda de ropa**              | Clothing store          | Магазин одежды                       |
@@ -55,13 +66,24 @@ Este documento recopila el vocabulario y las estructuras necesarias para describ
 | ![[La Ciudad y el Barrio/el_aeropuerto.jpg]]        | **El aeropuerto**        | Airport             | Аэропорт                |
 | ![[La Ciudad y el Barrio/el_aparcamiento.jpg]]      | **El aparcamiento**      | Parking lot         | Парковка                |
 | ![[La Ciudad y el Barrio/el_buzon.jpg]]             | **El buzón**             | Mailbox             | Почтовый ящик           |
+| ![[La Ciudad y el Barrio/la_carniceria.jpg]] | **La carnicería** | Butcher shop | Мясной магазин |
+| ![[La Ciudad y el Barrio/la_charcuteria.jpg]] | **La charcutería** | Delicatessen | Магазин колбас и сыров |
 | ![[La Ciudad y el Barrio/el_contenedor.jpg]]        | **El contenedor**        | Container, dumpster | Контейнер (мусорный)    |
 | ![[La Ciudad y el Barrio/la_esquina.jpg]]           | **La esquina**           | Corner              | Угол                    |
 | ![[La Ciudad y el Barrio/la_estatua.jpg]]           | **La estatua**           | Statue              | Статуя                  |
+| ![[La Ciudad y el Barrio/la_fruteria.jpg]] | **La frutería** | Greengrocer | Овощной магазин |
 | ![[La Ciudad y el Barrio/la_fuente.jpg]]            | **La fuente**            | Fountain            | Фонтан                  |
+| ![[La Ciudad y el Barrio/la_inmobiliaria.jpg]] | **La inmobiliaria** | Real estate agency | Агентство недвижимости |
+| ![[La Ciudad y el Barrio/la_jugueteria.jpg]] | **La juguetería** | Toy store | Магазин игрушек |
 | ![[La Ciudad y el Barrio/la_parada_de_autobus.jpg]] | **La parada de autobús** | Bus stop            | Автобусная остановка    |
+| ![[La Ciudad y el Barrio/la_parafarmacia.jpg]] | **La parafarmacia** | Parapharmacy | Парафармация |
 | ![[La Ciudad y el Barrio/el_paso_de_peatones.jpg]]  | **El paso de peatones**  | Pedestrian crossing | Пешеходный переход      |
+| ![[La Ciudad y el Barrio/la_perfumeria.jpg]] | **La perfumería** | Perfume shop | Парфюмерный магазин |
+| ![[La Ciudad y el Barrio/la_pescaderia.jpg]] | **La pescadería** | Fishmonger | Рыбный магазин |
+| ![[La Ciudad y el Barrio/la_polleria.jpg]] | **La pollería** | Poultry shop | Магазин птицы |
+| ![[La Ciudad y el Barrio/el_quiosco.jpg]] | **El quiosco** | Kiosk | Киоск |
 | ![[La Ciudad y el Barrio/el_semaforo.jpg]]          | **El semáforo**          | Traffic light       | Светофор                |
+| ![[La Ciudad y el Barrio/la_tienda_de_comestibles.jpg]] | **La tienda de comestibles** | Grocery store | Продуктовый магазин |
 | ![[La Ciudad y el Barrio/urgencias.jpg]]            | **Urgencias**            | Emergency room      | Отделение скорой помощи |
 
 ---

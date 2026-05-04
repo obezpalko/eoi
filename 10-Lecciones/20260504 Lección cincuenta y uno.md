@@ -4,7 +4,7 @@ tags:
   - español
   - lección
 ---
-# 051: Lección template
+# 051: Lección cincuenta y uno
 
 [[../40-Deberes/20260504 Lección cincuenta y uno|📝 Deberes de la lección]]
 
@@ -17,4 +17,4 @@ tags:
 ---
 
 **Navegación:**
-[[20260429 Lección cincuenta|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | 📝 Deberes | Lección siguiente ➡️
+[[20260429 Lección cincuenta|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[../40-Deberes/20260506 Lección cincuenta y dos|📝 Deberes]] | [[20260506 Lección cincuenta y dos|Lección siguiente ➡️]]
