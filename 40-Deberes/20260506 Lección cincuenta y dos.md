@@ -6,6 +6,12 @@ tags:
 ---
 # Deberes: 052: Lección cincuenta y dos
 
+LA. Tema 9.
+- casa
+- 81 2a 2c
+- 82 1a 1d
+- 83 1f
+- 86 1
 [[../10-Lecciones/20260506 Lección cincuenta y dos|⬅️ Volver a la lección]]
 
 ## Tareas
