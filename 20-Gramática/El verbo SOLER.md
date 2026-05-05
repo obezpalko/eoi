@@ -1,56 +1,56 @@
 ---
-tags: [gramática, verbos]
+tags: [gramática, verbos, soler]
 ---
-# El verbo SOLER
+# El verbo SOLER (To usually do / Обычно делать)
 
-El verbo **soler** se utiliza para expresar rutinas, hábitos o acciones que se repiten con frecuencia. Su significado principal es "tener costumbre de hacer algo" o "hacer algo habitualmente" (equivale a *usually do* en inglés).
+> [!info] Estructura
+> **Soler + Infinitivo**
+> Se usa para describir hábitos y rutinas en el presente.
 
 ---
 
-## 1. Estructura
+## 1. Conjugación (Presente de Indicativo)
+*Tipo: Verbo de cambio vocálico (o → ue)*
 
-La estructura siempre es:
-**Soler (conjugado) + Infinitivo**
+| Persona | Forma | Inglés | Ruso |
+| :--- | :--- | :--- | :--- |
+| **Yo** | **suelo** | I usually | Я обычно |
+| **Tú** | **sueles** | You usually | Ты обычно |
+| **Él/Ella/Ud.** | **suele** | He/She usually | Он/Она обычно |
+| **Nosotros** | **solemos** | We usually | Мы обычно |
+| **Vosotros** | **soléis** | You all usually | Вы обычно |
+| **Ellos/Uds.** | **suelen** | They usually | Они обычно |
 
-El verbo "soler" es un verbo irregular con cambio vocálico en presente (**O → UE**), al igual que *dormir* o *poder*.
+---
 
-| Persona | Presente | Pretérito Imperfecto (Pasado) |
+## 2. Ejemplos de uso
+
+* **Suelo** levantarme a las siete. *(Я обычно встаю в семь).*
+* ¿A qué hora **sueles** cenar? *(Во сколько ты обычно ужинаешь?)*
+* En Dénia **suele** hacer buen tiempo. *(В Дении обычно хорошая погода).*
+* **Solemos** ir a la playa los sábados. *(Мы обычно ходим на пляж по субботам).*
+
+---
+
+## 3. Soler + Verbos Reflexivos
+
+Cuando usamos **Soler** con verbos reflexivos, el pronombre puede colocarse en dos posiciones diferentes con el mismo significado.
+
+| Posición | Estructura | Ejemplo (Levantarse) |
 | :--- | :--- | :--- |
-| **Yo** | s**ue**lo | solía |
-| **Tú** | s**ue**les | solías |
-| **Él/Ella/Usted** | s**ue**le | solía |
-| **Nosotros/as** | solemos | solíamos |
-| **Vosotros/as** | soléis | solíais |
-| **Ellos/Ellas/Ustedes** | s**ue**len | solían |
+| **Opción A** | [Pronombre] + Soler + Infinitivo | **Me** suelo levantar |
+| **Opción B** | Soler + [Infinitivo + Pronombre] | Suelo levantar**me** |
 
-*Nota:* Nosotros y vosotros **no** tienen el cambio vocálico. "Soler" se usa principalmente en Presente y en Pretérito Imperfecto; no suele usarse en otros tiempos.
+### Ejemplo con "Ducharse" (To shower / Принимать душ)
 
----
-
-## 2. Ejemplos
-
-*   Tú **sueles leer** antes de dormir. *(You usually read before sleeping).*
-*   Diego y tú **soléis visitar** a vuestros abuelos los domingos.
-*   Mis padres y yo **solemos viajar** en vacaciones de verano a Bilbao.
-*   Cada año **suelo viajar** en vacaciones.
-*   **Suelo bailar** flamenco.
-*   *(En pasado):* Yo **solía jugar** al fútbol cuando era niño. *(I used to play...)*
-
----
-
-## 3. Niveles de Frecuencia
-
-Para expresar los hábitos, solemos usar "soler" acompañado de marcadores de frecuencia. Aquí tienes los principales, ordenados de más a menos frecuente:
-
-1.  **Siempre** (100%) - *Always*
-2.  **Casi siempre** - *Almost always*
-3.  **A menudo** / **Muchas veces** / **Frecuentemente** - *Often*
-4.  **Normalmente** / **Generalmente** - *Normally / Usually*
-5.  **A veces** - *Sometimes*
-6.  **De vez en cuando** - *From time to time / Occasionally*
-7.  **Pocas veces** / **Raramente** - *Rarely*
-8.  **Casi nunca** - *Almost never*
-9.  **Nunca** (0%) - *Never*
+| Persona | Opción A | Opción B | Traducción |
+| :--- | :--- | :--- | :--- |
+| **Yo** | **me** suelo duchar | suelo duchar**me** | I usually shower / Я обычно моюсь |
+| **Tú** | **te** sueles duchar | sueles duchar**te** | Ты обычно моешься |
+| **Él/Ella** | **se** suele duchar | suele duchar**se** | Он/Она моется |
+| **Nosotros**| **nos** solemos duchar | solemos duchar**nos** | Мы обычно моемся |
+| **Vosotros**| **os** soléis duchar | soléis duchar**os** | Вы обычно моетесь |
+| **Ellos** | **se** suelen duchar | suelen duchar**se** | Они обычно моются |
 
 ---
 
