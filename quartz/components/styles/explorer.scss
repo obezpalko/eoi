@@ -114,16 +114,19 @@ button.desktop-explorer {
 
 .explorer-content {
   list-style: none;
-  overflow: hidden;
-  overflow-y: auto;
-  max-height: 75vh; // limit height to allow scrolling on desktop
+  overflow: visible;
   margin-top: 0.5rem;
+
+  & ul.explorer-ul {
+    max-height: 75vh; // limit height to allow scrolling on desktop
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
 
   & ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    overscroll-behavior: contain;
 
     & li>a {
       color: var(--dark);
