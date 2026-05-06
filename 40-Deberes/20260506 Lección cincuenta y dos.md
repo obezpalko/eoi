@@ -4,7 +4,7 @@ tags:
   - español
   - deberes
 ---
-# Deberes: 052: Lección cincuenta y dos
+# Deberes: 052: Estar + Gerundio y La Casa
 
 LA. Tema 9.
 - casa

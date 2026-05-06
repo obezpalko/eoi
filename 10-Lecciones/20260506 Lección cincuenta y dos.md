@@ -4,35 +4,39 @@ tags:
   - español
   - lección
 ---
-# 052: Lección cincuenta y dos
+# 052: Estar + Gerundio y La Casa
 
 [[../40-Deberes/20260506 Lección cincuenta y dos|📝 Deberes de la lección]]
 
 ## Información
 
-- examen escrito en miércoles 
-- no clases en el próximo lunes (de momento)
+- **Examen escrito:** Miércoles 13 de mayo.
+- **Próximo lunes:** No hay clases (de momento).
+- **Contenido del examen:**
+    - Presente de Indicativo.
+    - Verbos irregulares.
+    - La familia y descripciones.
+    - Rutinas diarias.
+    - Estar + Gerundio.
+    - *Nota:* No entra el Imperativo ni el vocabulario de la casa.
+
 ![[attachments/IMG-20260506-WA0001.jpg]]
 ![[attachments/IMG-20260506-WA0000.jpg]]
-- no imperativo en el examen 
-- no casa vocabulario en el examen 
-- presente
-- verbos
-- familia
-- rutinas
-- gerundio 
-- 
+
 ## Prácticas
-### Los fines de semana
-- los fines de semana yo juega con la consola 
-- a ver voy al gimnasio 
-- nunca me acuesto tarde 
+### Los fines de semana (Hábitos)
+- Los fines de semana **juego** con la consola.
+- A veces voy al gimnasio.
+- Nunca me acuesto tarde.
+
 ### [[../20-Gramática/El verbo SOLER|El verbo SOLER]]
-- los fines de semana la gente suele jugar con la consola 
-- … yo suelo salir y cenar en un restaurante 
-- a veces suelo ir al gimnasio 
-- nunca me suelo acostar tarde/nunca suelo acostarme tarde
-Cuando escribamos rutina podemos usar presente o suelo+infinitivo 
+- Los fines de semana la gente **suele jugar** con la consola.
+- Yo **suelo salir** y cenar en un restaurante.
+- A veces **suelo ir** al gimnasio.
+- Nunca **me suelo acostar** tarde / Nunca **suelo acostarme** tarde.
+
+> [!NOTE]
+> Para hablar de rutinas podemos usar el **Presente** o la estructura **Soler + Infinitivo**.
 ### [[../20-Gramática/Estar + Gerundio|Estar + Gerundio]]
 - ar → raíz + ando
 - er, ir → raíz + iendo
@@ -97,140 +101,121 @@ Cuando escribamos rutina podemos usar presente o suelo+infinitivo
 - ver viendo
 - vivir viviendo 
 - volver volviendo 
-### Aules. Estar + gerundio 
+### Práctica: ¿Qué están haciendo?
+0. Los chicos están jugando al fútbol.
+1. Pedro está bebiendo un vaso de leche.
+2. Mis padres están comiendo en casa.
+3. El tren está llegando a la estación.
+4. Estoy paseando por el parque.
+5. Está duchándose con agua fría (Se está duchando).
+6. Están hablando por teléfono.
+7. María está escribiendo correos electrónicos.
 
-0. Los chichos están jugando al fútbol 
-1. Pedro está bebiendo un vaso de leche
-2. Mis padres están comiendo en casa
-3. El tren está llegando a la estación 
-4. Estoy paseando por el parque 
-5. Está duchándose con agua fría (se está duchando)
-6. Están hablando por teléfono 
-7. María está escribiendo correos electrónicos 
 ---
-0. Este invierno está haciendo mucho frío 
-1. Pedro está abriendo la tienda 
-2. María está comiendo en un restaurante 
-3. Está semana Andrés está trabajando en una empresa de transportes
-4. Ahora en Canarias está haciendo bastante calor 
-5. No quiero hablar, estoy escuchando música 
-6. Estoy viendo un partido de tenis en la tele 
-7. Estamos pensando en comprar un piso nuevo 
+0. Este invierno está haciendo mucho frío.
+1. Pedro está abriendo la tienda.
+2. María está comiendo en un restaurante.
+3. Esta semana Andrés está trabajando en una empresa de transportes.
+4. Ahora en Canarias está haciendo bastante calor.
+5. No quiero hablar, estoy escuchando música.
+6. Estoy viendo un partido de tenis en la tele.
+7. Estamos pensando en comprar un piso nuevo.
+
 ---
-1. Está leyendo el periódico 
-2. Las palomas están comiendo 
-3. Las señoras están hablando 
-4. El perro está ladrando 
-5. Lin niños están jugando 
-6. Está pareja está brindando
-7. Este chico está tocando en guitarra, cantando y pendiendo dinero 
-8. Ella está mirando el reloj 
-9. Está pareja está besándose (se está besando)
+1. Está leyendo el periódico.
+2. Las palomas están comiendo.
+3. Las señoras están hablando.
+4. El perro está ladrando.
+5. Los niños están jugando.
+6. Esta pareja está brindando.
+7. Este chico está tocando la guitarra, cantando y pidiendo dinero.
+8. Ella está mirando el reloj.
+9. Esta pareja está besándose (Se están besando).
 ---
-### las tareas de la casa
-- limpiar el polvo 
-- tender la ropa
-- barrer el suelo
-- poner la lavadora 
-- hacer la cama 
-- hacer la comida 
-- fregar los platos 
-- planchar la ropa 
-- limpiar los cristales 
-- fregar el suelo 
-- hacer la compra 
-- tirar la basura  sacar la basura 
-- regar las flores 
-- tocar el piano 
----
-- este chico está nadando 
-- está tomando el sol
-- el está cruzando la calle 
-- está paseando al perro 
-- está montando el bici 
-- está haciendo fotos
-## Vocabulario
-- ladrar
-- pelear peleando
-- brindar
-- pedir dinero 
-- besarse, besar
-- vigilar
-- trasto trastos trastero
-- partes de la casa
-	- el garaje (la cochera)
-	- el dormitorio 
-	- la terraza 
-	- el balcón 
-	- el vestidor 
-	- el bañó 
-	- el aseo
-	- el salón
-	- el comedor 
-	- el desván 
-	- el sótano 
-	- la despensa (solo comida y bebida)
-	- la lavadero 
-	- cuarto de la colada
-	- dormitorio infantil 
-	- el trastero 
-	- la cómoda (cajonera )
-	- el espejo 
-	- la almohada 
-	- el cojín 
-	- el despertador 
-	- la manta (nórdico)
-	- la mesita de noche 
-	- alfombra 
-	- la sabana
-	- el lavabo
-	- el inodoro (váter)
-	- esponja 
-	- cepillo de dientes 
-	- secador 
-	- toalla 
-	- peine
-	- radiador 
-	- el horno
-	- microondas 
-	- el grifo 
-	- mantel
-	- el cazo
-	- cazuela (olla)
-	- frigorífico (nevera)
-	- tostadora 
-	- la la vajilla
-	- tetera
-	- cafetera
-	- hervidor 
-	- espátula 
-	- sartén
-	- cuadro 
-	- aspiradora
-	- ventilador 
-	- sillón
-	- sofá
-	- llaves
-	- llavero 
-	- cortina 
-	- lavadora y secadora
-	- altavoz (altavoces)
-	- estantería ()
-	- servicio 
-	- ordenador (portátil )
-	- zapatero 
-	- papel higiénico 
-	- bombona de gas 
-	- trapo
-	- bayeta
-	- estropajo 
-	- escoba
-	- cepillo
-	- recogedor 
-	- fregona
-	- tendedero 
-	- cubo (de basura)
-	- campana extractora 
+### Las tareas de la casa
+- **limpiar el polvo** - to dust / вытирать пыль
+- **tender la ropa** - to hang the laundry / вешать белье
+- **barrer el suelo** - to sweep the floor / подметать пол
+- **poner la lavadora** - to put on the washing machine / включать стираную машину
+- **hacer la cama** - to make the bed / заправлять кровать
+- **hacer la comida** - to cook, make food / готовить еду
+- **fregar los platos** - to wash the dishes / мыть посуду
+- **planchar la ropa** - to iron the clothes / гладить одежду
+- **limpiar los cristales** - to clean the windows / мыть окна
+- **fregar el suelo** - to mop the floor / мыть пол
+- **hacer la compra** - to do the shopping / делать покупки
+- **tirar la basura / sacar la basura** - to take out the trash / выносить мусор
+- **regar las flores** - to water the flowers / поливать цветы
+
+### Otras acciones
+- **nadar** - to swim / плавать
+- **tomar el sol** - to sunbathe / загорать
+- **cruzar la calle** - to cross the street / переходить улицу
+- **pasear al perro** - to walk the dog / гулять с собакой
+- **montar en bici** - to ride a bike / кататься на велосипеде
+- **hacer fotos** - to take photos / фотографировать
+- **tocar el piano / la guitarra** - to play the piano/guitar / играть на пианино/гитаре
+- **ladrar** - to bark / лаять
+- **pelear** - to fight / драться
+- **brindar** - to toast / чокаться, произносить тост
+- **pedir dinero** - to ask for money / просить деньги
+- **besarse** - to kiss each other / целоваться
+- **vigilar** - to watch, monitor / следить, караулить
+
+### La Casa: Habitaciones y Objetos
+- **el trastero / el desván** - storage room, attic / кладовка, чердак
+- **el garaje / la cochera** - garage / гараж
+- **el dormitorio / la habitación** - bedroom / спальня
+- **la terraza / el balcón** - terrace, balcony / терраса, балкон
+- **el vestidor** - walk-in closet / гардеробная
+- **el baño / el aseo** - bathroom, small toilet / ванная, уборная
+- **el salón / el comedor** - living room, dining room / гостиная, столовая
+- **el sótano** - basement / подвал
+- **la despensa** - pantry / кладовая
+- **el lavadero / el cuarto de la colada** - laundry room / прачечная
+- **la cómoda / la cajonera** - dresser / комод
+- **el espejo** - mirror / зеркало
+- **la almohada / el cojín** - pillow, cushion / подушка
+- **el despertador** - alarm clock / будильник
+- **la manta / el nórdico** - blanket, duvet / одеяло
+- **la mesita de noche** - bedside table / прикроватная тумбочка
+- **la alfombra** - rug / ковер
+- **la sábana** - sheet / простыня
+- **el lavabo / el inodoro (váter)** - sink, toilet / раковина, унитаз
+- **la esponja** - sponge / губка
+- **el cepillo de dientes** - toothbrush / зубная щетка
+- **el secador** - hair dryer / фен
+- **la toalla** - towel / полотенце
+- **el peine / el cepillo** - comb, brush / расческа, щетка
+- **el radiador** - radiator / радиатор
+- **el horno / el microondas** - oven, microwave / духовка, микроволновка
+- **el grifo** - tap, faucet / кран
+- **el mantel** - tablecloth / скатерть
+- **el cazo / la cazuela (olla)** - saucepan, pot / ковш, кастрюля
+- **el frigorífico / la nevera** - fridge / холодильник
+- **la tostadora** - toaster / тостер
+- **la vajilla** - tableware / посуда
+- **la tetera / la cafetera / el hervidor** - teapot, coffee maker, kettle / чайник
+- **la espátula** - spatula / лопатка
+- **la sartén** - frying pan / сковорода
+- **el cuadro** - painting / картина
+- **la aspiradora** - vacuum cleaner / пылесос
+- **el ventilador** - fan / вентилятор
+- **el sillón / el sofá** - armchair, sofa / кресло, диван
+- **las llaves / el llavero** - keys, keychain / ключи, брелок
+- **la cortina** - curtain / штора
+- **la lavadora / la secadora** - washing machine, dryer / стиральная машина, сушилка
+- **el altavoz** - speaker / колонка
+- **la estantería** - shelf / полка
+- **el ordenador / el portátil** - computer, laptop / компьютер, ноутбук
+- **el zapatero** - shoe rack / шкаф для обуви
+- **el papel higiénico** - toilet paper / туалетная бумага
+- **la bombona de gas** - gas cylinder / газовый баллон
+- **el trapo / la bayeta / el estropajo** - cleaning cloth, scouring pad / тряпка, губка для посуды
+- **la escoba / el recogedor / la fregona** - broom, dustpan, mop / метла, совок, швабра
+- **el tendedero** - clothesline / сушилка для белья
+- **el cubo (de basura)** - trash can / мусорное ведро
+- **la campana extractora** - extractor hood / вытяжка
 
 
 
