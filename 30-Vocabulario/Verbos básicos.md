@@ -36,6 +36,7 @@ tags: [vocabulario, verbos]
 - **bajar** - to go down / спускаться
 - **bañarse** - to bathe, take a bath / приниматься ванну, купаться
 - **brillar** - to shine / блестеть, сиять
+- **brindar** - to toast / чокаться, произносить тост
 - **barrer** - to sweep / подметать
 - **batir** - to beat, to whisk / взбивать
 - **beber** - to drink / пить
@@ -59,6 +60,7 @@ tags: [vocabulario, verbos]
 - **conducir** - to drive / водить
 - **correr** - to run / бегать
 - **cortar** - to cut / резать
+- **cruzar** - to cross / переходить, пересекать
 - **cuajar** - to curdle, to set / свернуться (о яйце)
 - **dar** - to give / давать
 - **depilarse** - to depilate / делать депиляцию
@@ -141,8 +143,10 @@ tags: [vocabulario, verbos]
 - **peinarse** - to comb one's hair / причесываться
 - **pensar** - to think / думать
 - **perder** - to lose / проигрывать
+- **pedir** (e->i) - to ask for, order / просить, заказывать
 - **pelear(se)** - to fight / драться
 - **pelar** - to peel / чистить
+- **planchar** - to iron / гладить
 - **ponerse** - to put on (clothes) / надевать
 - **preguntar** - to ask / спрашивать
 - **preparar** - to prepare / готовить, подготавливать
@@ -188,6 +192,7 @@ tags: [vocabulario, verbos]
 - **teletrabajar** - to telework / работать удаленно
 - **tender** (e->ie) - to hang (clothes) / вешать (белье) сушиться
 - **toser** - to cough / кашлять
+- **tirar** - to throw, pull / кидать, тянуть
 - **tronar** - to thunder / греметь (о громе)
 - **triturar** - to grind, to blend / измельчать, блендерить
 - **trepar** - to climb / лазать, карабкаться
@@ -196,6 +201,7 @@ tags: [vocabulario, verbos]
 - **usar** - to use / использовать
 - **vender** - to sell / продавать
 - **ver** - to see / видеть
+- **vigilar** - to watch, monitor / следить, караулить
 - **vestir** - to dress / одевать
 - **viajar** - to travel / путешествовать
 - **volver** - to return / возвращаться
