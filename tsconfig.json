@@ -4,7 +4,13 @@
     "experimentalDecorators": true,
     "module": "esnext",
     "target": "esnext",
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
+    // micromorph's package.json declares "types": "./types.d.ts", a file it does
+    // not ship; its real declarations are index.d.ts. node10 resolution fell back
+    // to them, exports-aware resolution does not. Point at them explicitly.
+    "paths": {
+      "micromorph": ["./node_modules/micromorph/index.d.ts"]
+    },
     "strict": true,
     "incremental": true,
     "resolveJsonModule": true,
