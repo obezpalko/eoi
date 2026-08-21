@@ -33,5 +33,5 @@ export const Static: QuartzEmitterPlugin = () => ({
       }
     }
   },
-  async *partialEmit() { },
+  async *partialEmit() {},
 })
