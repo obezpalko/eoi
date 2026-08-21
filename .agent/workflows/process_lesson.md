@@ -3,12 +3,10 @@ description: Standardize a lesson file, extracting vocabulary, translating notes
 ---
 
 1. **Analyze the Request & Context**
-
    - Identify the target lesson file (usually in `10-Lecciones/`).
    - Read `structure_recommendations.md` to ensure strict adherence to project guidelines.
 
 2. **Standardize Structure & Frontmatter**
-
    - **Frontmatter**: Ensure the file starts with YAML frontmatter containing:
      - `date`: YYYY-MM-DD (extracted from filename).
      - `tags`: `[lección]` (plus others if relevant).
@@ -17,7 +15,6 @@ description: Standardize a lesson file, extracting vocabulary, translating notes
    - **Links**: Verify that the file ends with navigation links (Previous/Next lesson, Homework).
 
 3. **Process Vocabulary**
-
    - Read the relevant files in `30-Vocabulario/` (e.g., `Sustantivos.md`, `Verbos básicos.md`, `Adjetivos.md`).
    - Extract new vocabulary definitions from the lesson.
    - **Action**: Add missing words to the correct file and section.
@@ -28,13 +25,11 @@ description: Standardize a lesson file, extracting vocabulary, translating notes
    - **Images**: If new vocabulary is significant, suggest or run `80-Tools/download_images_universal.py` for those terms.
 
 4. **Content Refinement**
-
    - **Translation**: Translate any remaining comments or notes (e.g., Russian, English) into simple Spanish (A1-A2).
-   - **Names in Examples**: Use names from `90-Archivos/Estudiantes.md` when a proper name is needed. Check the *Género* column to ensure adjectives and verbs agree (e.g., *Svitlana está cansada* vs *Sergei está cansado*).
+   - **Names in Examples**: Use names from `90-Archivos/Estudiantes.md` when a proper name is needed. Check the _Género_ column to ensure adjectives and verbs agree (e.g., _Svitlana está cansada_ vs _Sergei está cansado_).
    - **Correction**: Fix any "improper" words or typos.
    - **Style**: Ensure images are embedded utilizing standard markdown syntax `![[image.jpg]]` or relative paths vs absolute.
 
 5. **Final Validation**
-
    - Run a quick lint check (check for multiple blank lines, correct header spacing).
    - Ensure all internal links work (relative paths).

@@ -88,8 +88,9 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
                     .join("")
                 }
               })
-              
-              data.title = h1Title || (file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title)
+
+              data.title =
+                h1Title || (file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title)
             }
 
             const tags = coerceToArray(coalesceAliases(data, ["tags", "tag"]))

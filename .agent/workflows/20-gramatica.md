@@ -1,6 +1,7 @@
 ---
 description: Rules for grammar topics in 20-Gramática/
 ---
+
 1. **Scope**: Apply to files in `20-Gramática/`.
 2. **Metadata**:
    - Tags: `[gramática, español]`.
