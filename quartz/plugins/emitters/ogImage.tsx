@@ -6,7 +6,6 @@ import { ImageOptions, SocialImageOptions, defaultImage, getSatoriFonts } from "
 import sharp from "sharp"
 import satori, { SatoriOptions } from "satori"
 import { loadEmoji, getIconCode } from "../../util/emoji"
-import { Readable } from "stream"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
 import { QuartzPluginData } from "../vfile"
@@ -28,7 +27,7 @@ const defaultOptions: SocialImageOptions = {
 async function generateSocialImage(
   { cfg, description, fonts, title, fileData }: ImageOptions,
   userOpts: SocialImageOptions,
-): Promise<Readable> {
+): Promise<Buffer> {
   const { width, height } = userOpts
   const iconPath = joinSegments(QUARTZ, "static", "icon.png")
   let iconBase64: string | undefined = undefined

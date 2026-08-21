@@ -1,6 +1,7 @@
 ---
 description: Rules for vocabulary files in 30-Vocabulario/
 ---
+
 1. **Scope**: Apply to files in `30-Vocabulario/` and its subdirectories.
 2. **Metadata**:
    - Tags: `[vocabulario, español]`.
