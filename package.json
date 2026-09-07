@@ -97,6 +97,14 @@
     "ws": "^8.21.0",
     "yargs": "^18.1.0"
   },
+  "overrides": {
+    "satori": {
+      "fflate": "0.7.5"
+    },
+    "speech-rule-engine": {
+      "@xmldom/xmldom": "0.9.12"
+    }
+  },
   "devDependencies": {
     "@types/d3": "^7.4.3",
     "@types/hast": "^3.0.5",
