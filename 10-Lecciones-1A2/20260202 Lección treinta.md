@@ -74,7 +74,7 @@ Recuerda que los adjetivos de nacionalidad deben concordar con el sujeto:
 
 > [!CAUTION]
 > **Vocabulario Coloquial y Vulgar**: 
-> Para palabras como "cojones" y evitar confusiones con "cojín" o "cajón", consulta la [[30-Vocabulario/Temas/Jerga y Expresiones Vulgares|Guía de Jerga y Expresiones Vulgares]].
+> Para palabras como "cojones" y evitar confusiones con "cojín" o "cajón", consulta la [[../30-Vocabulario/Temas/Jerga y Expresiones Vulgares|Guía de Jerga y Expresiones Vulgares]].
 
 ---
 

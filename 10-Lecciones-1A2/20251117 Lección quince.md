@@ -22,7 +22,7 @@ date: 2025-11-17
 ## Gramática
 
 ### El Verbo Estar: Emociones y Estados
-Usamos [[30-Vocabulario/Verbos/estar|Estar]] para describir estados emocionales o físicos temporales:
+Usamos [[../30-Vocabulario/Verbos/estar|Estar]] para describir estados emocionales o físicos temporales:
 - *Estoy un poco nervioso porque tengo una cita en el dentista después de clase.*
 - *Estamos muy contentos hoy.*
 
@@ -40,7 +40,7 @@ Usamos estas expresiones para ubicar objetos o personas:
     - *Sergei está al final de la clase.*
 
 ### Repaso del Verbo Ir
-Recordamos las estructuras básicas de [[30-Vocabulario/Verbos básicos#ir|Ir]]:
+Recordamos las estructuras básicas de [[../30-Vocabulario/Verbos básicos#ir|Ir]]:
 - **Ir a + lugar** (To go to a place):
     - *Voy a clase.*
     - *Polina va a la playa.*

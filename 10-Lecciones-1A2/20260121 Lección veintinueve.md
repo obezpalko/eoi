@@ -91,7 +91,7 @@ Preguntas a tus compañeros/as
   - Se escribe A-L-E-X.
 - **¿De dónde eres?**
   - Soy de Ucrania.
-- **¿Puedes [[deletrear]] tu correo?**
+- **¿Puedes [[../30-Vocabulario/Verbos/deletrear|deletrear]] tu correo?**
   - Sí, es E-JOTA-E-EME-PE-ELE-O...
 - **¿Cómo te apellidas?**
   - Mi apellido es Bezpalko.

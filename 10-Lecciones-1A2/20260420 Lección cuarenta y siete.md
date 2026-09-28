@@ -22,7 +22,7 @@ tags:
 
 ## Prácticas
 ### Mi ropa, mi estilo (LA 74)
-Uso del verbo **[[llevar]]** para describir la vestimenta.
+Uso del verbo **[[../30-Vocabulario/Verbos/llevar|llevar]]** para describir la vestimenta.
 
 - **Lorena** lleva una camisa negra, unos pantalones negros y unas bailarinas con estampado de leopardo.
 - **Svetlana** lleva un jersey blanco, unos pantalones vaqueros rotos y unas zapatillas con estampado de serpiente. También lleva un reloj y una pulsera plateados. Además, luce un anillo de plata con un diamante grande y unos pendientes con perlas auténticas.

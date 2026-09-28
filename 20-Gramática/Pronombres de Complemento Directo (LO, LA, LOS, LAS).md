@@ -67,4 +67,4 @@ Cuando hablamos de compras, usamos el DOP para referirnos al producto y enfocarn
 ---
 
 **Navegación:**
-[[../index|🏠 Inicio]] | [[Sustantivos|Sustantivos]] | [[Verbos básicos|Verbos]]
+[[../index|🏠 Inicio]] | [[../30-Vocabulario/Sustantivos|Sustantivos]] | [[../30-Vocabulario/Verbos básicos|Verbos]]

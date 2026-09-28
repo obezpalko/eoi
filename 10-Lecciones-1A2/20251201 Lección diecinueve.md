@@ -7,7 +7,7 @@ tags:
 ---
 # 019: Artículos, Plurales y Adjetivos Posesivos
 
-[[../40-Deberes/20251203 Lección|Deberes]]
+[[../40-Deberes/20251203 Lección veinte|Deberes]]
 
 ## Información
 

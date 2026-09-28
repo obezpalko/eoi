@@ -7,7 +7,7 @@ date: 2025-11-24
 ---
 # 017: Números ordinales y Artículos
 
-[[../40-Deberes/20260000 Lección template|Deberes]]
+[[../40-Deberes/20251124 Lección diecisiete|Deberes]]
 
 ## Información
 
