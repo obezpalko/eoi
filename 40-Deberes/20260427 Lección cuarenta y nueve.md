@@ -6,7 +6,7 @@ tags:
 ---
 # Deberes: 049: Pronombres de Complemento Directo y Comida
 
-[[../10-Lecciones/20260427 Lección cuarenta y nueve|⬅️ Volver a la lección]]
+[[../10-Lecciones-1A2/20260427 Lección cuarenta y nueve|⬅️ Volver a la lección]]
 
 ## Tareas
 - Estudiar el vocabulario de la comida.

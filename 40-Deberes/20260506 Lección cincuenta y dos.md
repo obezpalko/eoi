@@ -12,7 +12,7 @@ LA. Tema 9.
 - 82 1a 1d
 - 83 1f
 - 86 1
-[[../10-Lecciones/20260506 Lección cincuenta y dos|⬅️ Volver a la lección]]
+[[../10-Lecciones-1A2/20260506 Lección cincuenta y dos|⬅️ Volver a la lección]]
 
 ## Tareas
 

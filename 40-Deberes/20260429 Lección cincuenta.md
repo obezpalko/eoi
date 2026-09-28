@@ -6,7 +6,7 @@ tags:
 ---
 # Deberes: 050: Lección template
 
-[[../10-Lecciones/20260429 Lección cincuenta|⬅️ Volver a la lección]]
+[[../10-Lecciones-1A2/20260429 Lección cincuenta|⬅️ Volver a la lección]]
 
 ## Tareas
 

@@ -7,4 +7,4 @@ date: 2026-03-23
 ## Tareas
 - [ ] 
 
-[[../10-Lecciones/20260323 Lección cuarenta y dos|⬅️ Volver a la lección]]
+[[../10-Lecciones-1A2/20260323 Lección cuarenta y dos|⬅️ Volver a la lección]]

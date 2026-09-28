@@ -7,7 +7,7 @@ date: 2026-03-30
 
 # 044: Deberes (Tarea)
 
-[[../10-Lecciones/20260330 Lección cuarenta y cuatro|⬅️ Volver a la lección]]
+[[../10-Lecciones-1A2/20260330 Lección cuarenta y cuatro|⬅️ Volver a la lección]]
 
 ## Tareas de los libros
 ### Libro del Alumno (LA)

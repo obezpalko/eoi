@@ -6,7 +6,7 @@ date: 2026-04-20
 ---
 # Deberes: 047: La ropa y Complementos Directos
 
-[[../10-Lecciones/20260420 Lección cuarenta y siete|⬅️ Volver a la lección]]
+[[../10-Lecciones-1A2/20260420 Lección cuarenta y siete|⬅️ Volver a la lección]]
 
 ## Tareas
 - Libro del Alumno (LA): página 75, ejercicios 2a, 3b y 4.

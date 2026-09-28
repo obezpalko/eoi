@@ -1,6 +1,6 @@
 # Deberes - Lección tres (20251006)
 
-[[../10-Lecciones/20251006 Lección tres|← Volver a la lección]]
+[[../10-Lecciones-1A2/20251006 Lección tres|← Volver a la lección]]
 
 ## count 0-100
 

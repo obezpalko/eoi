@@ -7,7 +7,7 @@ tags:
 ---
 # Deberes - Lección uno (20250929)
 
-[[../10-Lecciones/20250929 Lección uno|← Volver a la lección]]
+[[../10-Lecciones-1A2/20250929 Lección uno|← Volver a la lección]]
 
 ## Para la próxima clase
 
