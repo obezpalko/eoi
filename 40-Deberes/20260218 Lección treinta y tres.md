@@ -66,4 +66,4 @@ date: 2026-02-18
 ---
 
 **Navegación:**
-[[../10-Lecciones/20260218 Lección treinta y tres|⬅️ Volver a la lección]] | [[../index|🏠 Inicio]]
+[[../10-Lecciones-1A2/20260218 Lección treinta y tres|⬅️ Volver a la lección]] | [[../index|🏠 Inicio]]

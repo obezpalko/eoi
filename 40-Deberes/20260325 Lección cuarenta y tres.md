@@ -10,4 +10,4 @@ date: 2026-03-25
 
 ---
 
-[[../10-Lecciones/20260325 Lección cuarenta y tres|⬅️ Volver a la lección]]
+[[../10-Lecciones-1A2/20260325 Lección cuarenta y tres|⬅️ Volver a la lección]]

@@ -82,4 +82,4 @@ Un saludo.
 ---
 
 **Navegación:**
-[[../10-Lecciones/20260225 Lección treinta y cinco|⬅️ Volver a la lección]] | [[../index|🏠 Inicio]]
+[[../10-Lecciones-1A2/20260225 Lección treinta y cinco|⬅️ Volver a la lección]] | [[../index|🏠 Inicio]]

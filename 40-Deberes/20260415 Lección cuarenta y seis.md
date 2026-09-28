@@ -7,7 +7,7 @@ date: 2026-04-15
 
 # 046: Deberes (Tarea)
 
-[[../10-Lecciones/20260415 Lección cuarenta y seis|⬅️ Volver a la lección]]
+[[../10-Lecciones-1A2/20260415 Lección cuarenta y seis|⬅️ Volver a la lección]]
 
 ## Tareas
 

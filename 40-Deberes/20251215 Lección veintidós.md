@@ -96,4 +96,4 @@ tags:
   - 1)
   - 1)
 
-[[../10-Lecciones/20251215 Lección veintidós|20251215 Lección veintidós]]
+[[../10-Lecciones-1A2/20251215 Lección veintidós|20251215 Lección veintidós]]

@@ -6,7 +6,7 @@ tags:
 ---
 # Deberes: 051: Lección cincuenta y uno
 
-[[../10-Lecciones/20260504 Lección cincuenta y uno|⬅️ Volver a la lección]]
+[[../10-Lecciones-1A2/20260504 Lección cincuenta y uno|⬅️ Volver a la lección]]
 
 ## Tareas
 

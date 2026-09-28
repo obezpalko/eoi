@@ -6,7 +6,7 @@ tags:
 ---
 # Deberes: 048: La Ropa y Pronombres de Complemento Directo
 
-[[../10-Lecciones/20260422 Lección cuarenta y ocho|⬅️ Volver a la lección]]
+[[../10-Lecciones-1A2/20260422 Lección cuarenta y ocho|⬅️ Volver a la lección]]
 
 ## Tareas
 

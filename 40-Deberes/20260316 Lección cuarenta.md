@@ -42,7 +42,7 @@ Te recomiendo tres cosas que tienes que hacer aquí: primero, tienes que pasear 
 ¡Vente pronto a visitarme! Un abrazo.
 
 
-[[../10-Lecciones/20260316 Lección cuarenta|⬅️ Volver a la lección]]
+[[../10-Lecciones-1A2/20260316 Lección cuarenta|⬅️ Volver a la lección]]
 
 ## Tareas
 - [x] Escribir el correo electrónico sobre mi ciudad.

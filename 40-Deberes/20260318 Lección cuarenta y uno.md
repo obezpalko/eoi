@@ -15,4 +15,4 @@ date: 2026-03-18
 
 ### mi rutina
 
-[[../10-Lecciones/20260318 Lección cuarenta y uno|⬅️ Volver a la lección]]
+[[../10-Lecciones-1A2/20260318 Lección cuarenta y uno|⬅️ Volver a la lección]]

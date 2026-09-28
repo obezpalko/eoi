@@ -5,7 +5,7 @@ tags:
 ---
 # 008: Deberes (Lección ocho)
 
-[[../10-Lecciones/20251015 Lección siete|← Volver a la lección]]
+[[../10-Lecciones-1A2/20251015 Lección siete|← Volver a la lección]]
 
 ## Libro de ejercicios. Tema 1
 
