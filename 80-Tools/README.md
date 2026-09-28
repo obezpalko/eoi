@@ -152,7 +152,7 @@ python3 update_lesson_navigation.py --verbose
 
 **What it does:**
 
-- Scans all lesson files in `10-Lecciones/`
+- Scans all lesson files in `10-Lecciones-1A2/`
 - Sorts lessons chronologically by date
 - For each lesson:
   - Links to the previous lesson
