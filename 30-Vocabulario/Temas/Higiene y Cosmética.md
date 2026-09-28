@@ -36,4 +36,4 @@ Aunque ambos sirven para oler bien, tienen diferencias importantes en su composi
 
 ---
 **Navegación:**
-[[../index|Inicio]] | [[../30-Vocabulario/Temas/Ropa y Accesorios|Ropa y Accesorios →]]
+[[../../index|Inicio]] | [[Ropa y Accesorios|Ropa y Accesorios →]]

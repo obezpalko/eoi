@@ -12,7 +12,7 @@ date: 2026-02-04
 
 ### Haber (hay)
 
-[[../30-Vocabulario/Verbos/hay-ser-estar|hay-ser-estar]]
+[[../20-Gramática/Hay, Ser y Estar|hay-ser-estar]]
 
 En Dénia hay … es igual Dénia tiene …
 [[../90-Archivos/Guía de Barrios y Sectores de Dénia|Guía de Barrios y Sectores de Dénia]]

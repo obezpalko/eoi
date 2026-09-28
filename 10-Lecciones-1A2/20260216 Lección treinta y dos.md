@@ -10,7 +10,7 @@ date: 2026-02-16
 
 ## Prácticas
 ### haber 
-[[../30-Vocabulario/Verbos/el uso de hay|el uso de hay]]
+[[../20-Gramática/Hay, Ser y Estar|el uso de hay]]
 ### preposiciones de lugar 
 
 [[../30-Vocabulario/Temas/Describir la casa|Describir la casa]]

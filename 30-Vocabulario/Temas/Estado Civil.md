@@ -56,4 +56,4 @@ España fue uno de los pioneros en legalizar el **matrimonio entre personas del 
 ---
 
 **Navegación:**
-[[../../index|🏠 Inicio]] | [[../Sustantivos|Vocabulary List]] | [[../La Familia|La Familia]]
+[[../../index|🏠 Inicio]] | [[../Sustantivos|Vocabulary List]] | [[La Familia|La Familia]]

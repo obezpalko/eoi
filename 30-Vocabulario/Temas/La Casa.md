@@ -153,4 +153,4 @@ Este documento recopila el vocabulario relacionado con las partes de la casa y l
 
 ---
 **Navegación:**
-[[../index|Inicio]] | [[Describir la casa|Gramática: Describir la casa →]]
+[[../../index|Inicio]] | [[Describir la casa|Gramática: Describir la casa →]]

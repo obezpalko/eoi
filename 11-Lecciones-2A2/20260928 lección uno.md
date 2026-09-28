@@ -1,12 +1,11 @@
 # 001 Introducción 
 Nivel: 2A2
-Tutora: Matra Romero m.romerodelgado@edu.gba.es
+Profesora: Marta Romero m.romerodelgado@edu.gba.es
 
 ## Índice 
 
 ### el curso
 120h, 60 sesiones 
-
 - bolígrafo (los exámenes siempre con boli)
 - un cuaderno
 - un libro: Aula internacional plus 2 (edición híbrida, editorial difusión )
