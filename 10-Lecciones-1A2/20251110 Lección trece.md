@@ -8,12 +8,12 @@ date: 2025-11-10
 
 # 013: Adjetivos y Verbo Estar
 
-[[../40-Deberes/20260000 Lección template|Deberes]]
+[[../40-Deberes/20251110 Lección trece|Deberes]]
 
 ## Gramática
 
 ### El Verbo Estar
-[[30-Vocabulario/Verbos/estar|Estar]] es un verbo irregular. Se utiliza para estados temporales, ubicaciones y emociones (PLACE).
+[[../30-Vocabulario/Verbos/estar|Estar]] es un verbo irregular. Se utiliza para estados temporales, ubicaciones y emociones (PLACE).
 
 | Pronombre           | Conjugación | Ejemplo                   |
 | ------------------- | ----------- | ------------------------- |
@@ -29,7 +29,7 @@ Para preguntar por la situación personal:
 - ¿Cuál es tu estado civil?
 - Estoy soltero / casado / divorciado.
 
-*(Ver más en [[30-Vocabulario/Temas/Estado Civil]])*
+*(Ver más en [[../30-Vocabulario/Temas/Estado Civil]])*
 
 ### Uso de Adjetivos
 

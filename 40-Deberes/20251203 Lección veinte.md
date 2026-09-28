@@ -5,7 +5,7 @@ tags:
   - español
   - tarea
 ---
-# 20251203 Lección
+# 20251203 Lección veinte
 
 ## Aules
 

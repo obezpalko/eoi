@@ -8,7 +8,7 @@ date: 2025-10-20
 
 # 008: Animales y Vocabulario
 
-[[../40-Deberes/20260000 Lección template|Deberes]]
+[[../40-Deberes/20251020 Lección ocho|Deberes]]
 
 ## Información
 

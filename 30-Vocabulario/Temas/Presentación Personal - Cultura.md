@@ -8,7 +8,7 @@ tags:
 
 # Cultura de Presentación Personal en España
 
-[[Presentacion Personal|← Volver al tema principal]]
+[[Presentación Personal|← Volver al tema principal]]
 
 > **Nota:** Este tema cultural ha sido organizado en secciones independientes para facilitar el estudio. Cada sección profundiza en un aspecto específico de la cultura española relacionada con las presentaciones personales.
 

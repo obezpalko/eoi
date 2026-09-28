@@ -20,12 +20,12 @@ Al responder preguntas, los pronombres personales cambian para mantener la lógi
 - **Ustedes** (formal plural) → **Nosotros** (formal).
 
 ### Usos de Estar
-[[30-Vocabulario/Verbos/estar|Estar]] se utiliza para:
+[[../30-Vocabulario/Verbos/estar|Estar]] se utiliza para:
 - **Estado Civil**: Estoy soltero, estamos casados.
 - **Localización / Ubicación**: El libro está en la mesa. Las llaves están aquí.
 - **Emociones o Estados Temporales**: Estoy feliz, están cansados.
 
-*(Ver más en [[30-Vocabulario/Temas/Las Partes de la Oración]])*
+*(Ver más en [[../20-Gramática/Las Partes de la Oración]])*
 
 ### El Verbo Ir
 El verbo **Ir** se utiliza con diferentes preposiciones según el contexto:

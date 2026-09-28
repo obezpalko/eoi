@@ -8,7 +8,7 @@ date: 2025-10-29
 
 # 010: Imperativos y Cultura
 
-[[../40-Deberes/20260000 Lección template|Deberes]]
+[[../40-Deberes/20251029 Lección diez|Deberes]]
 
 ## Información
 

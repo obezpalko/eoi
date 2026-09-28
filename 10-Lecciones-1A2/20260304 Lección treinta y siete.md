@@ -27,8 +27,8 @@ date: 2026-03-04
 - [[../20-Gramática/Verbos como Gustar (Encantar, Doler, etc.)|Verbos como Gustar (Encantar, Doler, etc.)]]
 —
 - Me apellido Bezpalko (Mi apellido es Bezpalko)
-- Me [[acostarse|acuesto]] a las once.
-- Me [[despertarse|despierto]] a las seis.
+- Me [[../30-Vocabulario/Verbos/acostarse|acuesto]] a las once.
+- Me [[../30-Vocabulario/Verbos/despertarse|despierto]] a las seis.
 - En verano me ducho dos veces a día.
 - ¿Tú te afeitas todas las mañanas?
 - Mi madre casi nunca se maquilla.
