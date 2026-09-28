@@ -1,4 +1,5 @@
 ---
+title: "050: La Comida, Tiendas y el Imperativo"
 date: 2026-04-29
 tags:
   - español

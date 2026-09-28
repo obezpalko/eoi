@@ -1,3 +1,6 @@
+---
+title: "ejercicio-espanol-recetas-imperativo-afirmativo.pdf"
+---
 [← Index](../../Aules.%20Comida.md)
 
 # ejercicio-espanol-recetas-imperativo-afirmativo.pdf

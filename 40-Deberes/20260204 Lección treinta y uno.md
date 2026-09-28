@@ -1,3 +1,6 @@
+---
+title: "Deberes"
+---
 # Deberes 
 
 ## Adivina de lugar

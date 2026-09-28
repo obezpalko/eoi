@@ -1,3 +1,6 @@
+---
+title: "💸 Verbo: Costar (Presente de Indicativo)"
+---
 # 💸 Verbo: Costar (Presente de Indicativo)
 
 > [!WARNING] Irregularidad (O -> UE)

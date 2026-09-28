@@ -1,3 +1,6 @@
+---
+title: "⚖️ Gramática: Muy vs. Mucho"
+---
 # ⚖️ Gramática: Muy vs. Mucho
 
 > [!TIP] Regla rápida

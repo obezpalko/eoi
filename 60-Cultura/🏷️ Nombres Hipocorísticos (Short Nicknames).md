@@ -1,3 +1,6 @@
+---
+title: "🏷️ Nombres Hipocorísticos (Short/Nicknames)"
+---
 # 🏷️ Nombres Hipocorísticos (Short/Nicknames)
 
 In Spanish, nicknames are often formed by shortening the name or adding endings like "-ito/-ita". However, some are traditional and don't look like the original name.

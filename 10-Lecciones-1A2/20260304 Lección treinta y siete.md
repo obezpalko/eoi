@@ -1,4 +1,5 @@
 ---
+title: "037: Práctica de Verbos Reflexivos y Posesivos"
 tags: [lección]
 date: 2026-03-04
 ---

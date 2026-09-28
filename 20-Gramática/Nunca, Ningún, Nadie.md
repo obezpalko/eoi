@@ -1,3 +1,6 @@
+---
+title: "Ampliación: Otras Palabras Negativas (Nunca, Ningún, Nadie...)"
+---
 # Ampliación: Otras Palabras Negativas (Nunca, Ningún, Nadie...)
 
 En español, estas palabras siguen la **regla de la doble negación**: si van después del verbo, el verbo debe llevar un **NO** delante.

@@ -1,4 +1,5 @@
 ---
+title: "Deberes: 051: Lección cincuenta y uno"
 date: 2026-05-04
 tags:
   - español

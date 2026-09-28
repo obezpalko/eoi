@@ -1,4 +1,5 @@
 ---
+title: "030: Existencia (Hay) vs. Ubicación (Estar)"
 tags:
   - español
   - lección

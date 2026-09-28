@@ -1,4 +1,5 @@
 ---
+title: "024: Verbos Irregulares en Presente"
 date: 2025-12-22
 tags:
   - español

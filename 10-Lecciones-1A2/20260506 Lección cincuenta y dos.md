@@ -1,4 +1,5 @@
 ---
+title: "052: Estar + Gerundio y La Casa"
 date: 2026-05-06
 tags:
   - español

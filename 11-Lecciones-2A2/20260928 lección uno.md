@@ -1,3 +1,6 @@
+---
+title: "001 Introducción"
+---
 # 001 Introducción 
 Nivel: 2A2
 Profesora: Marta Romero m.romerodelgado@edu.gba.es
@@ -6,10 +9,10 @@ Profesora: Marta Romero m.romerodelgado@edu.gba.es
 
 ### el curso
 120h, 60 sesiones 
-- bolígrafo (los exámenes siempre con boli)
+- bolígrafo (los exámenes siempre con boligrafo)
 - un cuaderno
-- un libro: Aula internacional plus 2 (edición híbrida, editorial difusión )
-- dos libros de lectura: la zona alta
+- un libro: [Aula internacional plus 2](https://amzn.eu/d/0dANLCOZ) (edición híbrida, editorial difusión )
+- dos libros de lectura: [la zona alta](https://amzn.eu/d/0d9hows) 
 #### niveles 
 1. A1 acceso 
 2. A2 plataforma 
@@ -37,9 +40,9 @@ M - mediación
 
 ### comunicación 
 - Marta - correo electrónico 
-- chat de grupo 
-- web familia AULES
-- web de la esquela 
+- chat de grupo: 2A2 con MARTA
+- web familia [Aules](https://aules.edu.gva.es/especials/)
+- [página web de la EOI](https://portal.edu.gva.es/eoidenia/es/solicita-tu-carnet/)
 
 ### más cosas
 - ausencias - correo 

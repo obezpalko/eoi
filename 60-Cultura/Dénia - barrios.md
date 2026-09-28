@@ -1,3 +1,6 @@
+---
+title: "Guía de Barrios y Sectores de Dénia (2026)"
+---
 # Guía de Barrios y Sectores de Dénia (2026)
 
 Dénia se divide en sectores con personalidades muy marcadas, desde el casco histórico hasta las zonas rurales y residenciales.

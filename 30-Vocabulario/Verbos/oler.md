@@ -1,3 +1,6 @@
+---
+title: "👃 Verbo: Oler (Presente de Indicativo)"
+---
 # 👃 Verbo: Oler (Presente de Indicativo)
 
 > [!CAUTION] Irregularidad (O -> HUE)

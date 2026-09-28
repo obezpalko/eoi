@@ -1,4 +1,5 @@
 ---
+title: "047: La ropa y Complementos Directos"
 date: 2026-04-20
 tags:
   - español

@@ -1,3 +1,6 @@
+---
+title: "Deberes"
+---
 # Deberes
 ## Libro ejercicios. Tema 2
 - 20

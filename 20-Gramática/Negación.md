@@ -1,3 +1,6 @@
+---
+title: "Negación: No y Ni 🚫"
+---
 # Negación: No y Ni 🚫
 
 Guía para usar correctamente la negación simple y la negación coordinada en español.

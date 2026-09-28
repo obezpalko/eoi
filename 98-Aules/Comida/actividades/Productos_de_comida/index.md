@@ -1,3 +1,6 @@
+---
+title: "Productos de comida.pdf"
+---
 [← Index](../../Aules.%20Comida.md)
 
 # Productos de comida.pdf

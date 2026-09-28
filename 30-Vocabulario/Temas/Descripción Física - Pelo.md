@@ -1,4 +1,5 @@
 ---
+title: "Pelo: Colores, Texturas y Peinados"
 tags:
   - español
   - vocabulario

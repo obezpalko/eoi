@@ -1,4 +1,5 @@
 ---
+title: "Siempre Plural (Pluralia Tantum)"
 tags:
   - español
   - vocabulario

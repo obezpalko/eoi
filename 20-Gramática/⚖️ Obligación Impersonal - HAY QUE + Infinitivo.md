@@ -1,3 +1,6 @@
+---
+title: "⚖️ Obligación Impersonal: HAY QUE + Infinitivo"
+---
 # ⚖️ Obligación Impersonal: HAY QUE + Infinitivo
 
 A diferencia de "Tener que", el verbo **Hay que** no se conjuga. Siempre se usa la misma forma para todo el mundo.

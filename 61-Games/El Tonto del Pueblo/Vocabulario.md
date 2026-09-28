@@ -1,4 +1,5 @@
 ---
+title: "🇪🇸 Vocabulario Organizado"
 tags:
   - A1
   - español

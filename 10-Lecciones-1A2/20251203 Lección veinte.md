@@ -1,4 +1,5 @@
 ---
+title: "020: Posesivos, Familia y Verbos Irregulares (Yo)"
 date: 2025-12-03
 tags:
   - español

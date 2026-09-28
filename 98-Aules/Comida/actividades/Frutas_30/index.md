@@ -1,3 +1,6 @@
+---
+title: "Frutas 30.tif"
+---
 [← Index](../../Aules.%20Comida.md)
 
 # Frutas 30.tif

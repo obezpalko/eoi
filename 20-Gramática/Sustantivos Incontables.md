@@ -1,3 +1,6 @@
+---
+title: "📚 Sustantivos Incontables"
+---
 # 📚 Sustantivos Incontables
 
 Los **sustantivos incontables** (o nombres de masa) designan sustancias, materias o conceptos abstractos que no se pueden contar por unidades, sino que se miden, se pesan o se sienten.

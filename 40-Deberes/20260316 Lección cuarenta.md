@@ -1,4 +1,5 @@
 ---
+title: "040: Deberes - La Ciudad y el Barrio"
 tags: [deberes]
 date: 2026-03-16
 ---

@@ -1,3 +1,6 @@
+---
+title: "Tiendas y productos.pdf"
+---
 [← Index](../../Aules.%20Comida.md)
 
 # Tiendas y productos.pdf

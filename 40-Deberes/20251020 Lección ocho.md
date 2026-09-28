@@ -1,4 +1,5 @@
 ---
+title: "008: Deberes (Lección ocho)"
 date: 2025-10-20
 tags:
   - deberes

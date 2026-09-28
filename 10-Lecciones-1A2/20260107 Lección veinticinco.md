@@ -1,4 +1,5 @@
 ---
+title: "025: Práctica de \"Gustar\", Vocabulario y Series"
 date: 2026-01-07
 tags:
   - español

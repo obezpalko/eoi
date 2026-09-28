@@ -1,4 +1,5 @@
 ---
+title: "026: Gustar (Niveles), Interesar y Aficiones"
 date: 2026-01-12
 tags:
   - español

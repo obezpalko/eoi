@@ -1,4 +1,5 @@
 ---
+title: "América: Países, Capitales y Gentilicios"
 tags: [vocabulario, geografía, américa]
 ---
 # América: Países, Capitales y Gentilicios

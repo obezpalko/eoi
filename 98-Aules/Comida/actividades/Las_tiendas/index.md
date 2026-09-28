@@ -1,3 +1,6 @@
+---
+title: "Las tiendas.pdf"
+---
 [← Index](../../Aules.%20Comida.md)
 
 # Las tiendas.pdf

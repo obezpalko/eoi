@@ -1,3 +1,6 @@
+---
+title: "Deberes - Lección tres (20251006)"
+---
 # Deberes - Lección tres (20251006)
 
 [[../10-Lecciones-1A2/20251006 Lección tres|← Volver a la lección]]

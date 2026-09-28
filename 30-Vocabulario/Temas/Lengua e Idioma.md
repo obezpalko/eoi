@@ -1,4 +1,5 @@
 ---
+title: "Lengua Materna, Idioma Materno y Nativo"
 tags: [vocabulario, español, idiomas]
 date: 2026-01-21
 ---

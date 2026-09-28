@@ -1,4 +1,5 @@
 ---
+title: "Lección veintidós"
 date: 2025-12-15
 tags:
   - deberes

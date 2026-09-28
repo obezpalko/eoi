@@ -1,4 +1,5 @@
 ---
+title: "📓 Deberes: Lección 034"
 tags: [deberes]
 date: 2026-02-23
 ---

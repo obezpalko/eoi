@@ -1,4 +1,5 @@
 ---
+title: "040: La Ciudad y el Barrio"
 tags: [lección]
 date: 2026-03-16
 ---

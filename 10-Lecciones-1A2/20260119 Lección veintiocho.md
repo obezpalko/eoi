@@ -1,4 +1,5 @@
 ---
+title: "028: Repaso de Verbos, \"al\" y Vocabulario (Ocio/Comida)"
 date: 2026-01-19
 tags:
   - español

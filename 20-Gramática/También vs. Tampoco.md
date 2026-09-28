@@ -1,3 +1,6 @@
+---
+title: "⚖️ También vs. Tampoco"
+---
 # ⚖️ También vs. Tampoco
 
 Estas palabras se usan para expresar coincidencia o acuerdo con otra persona, pero dependen de la polaridad de la frase (sí o no).
