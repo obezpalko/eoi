@@ -10,7 +10,7 @@ Materiales del curso de español nivel A1.
 
 ## Navegación Principal
 
-### 📚 [[10-Lecciones/]]
+### 📚 [[10-Lecciones-1A2/]]
 Lecciones del curso organizadas por fecha. Cada lección incluye vocabulario, gramática y ejercicios prácticos.
 
 ### 📖 [[20-Gramática/]]

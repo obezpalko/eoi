@@ -22,7 +22,7 @@ python update_lesson_navigation.py
 
 ## What it does
 
-For each lesson in `10-Lecciones/`, it creates or updates a navigation section like this:
+For each lesson in `10-Lecciones-1A2/`, it creates or updates a navigation section like this:
 
 ```markdown
 ---

@@ -252,7 +252,7 @@ Examples:
     script_dir = Path(__file__).parent
     project_root = script_dir.parent
     
-    lessons_dir = project_root / '10-Lecciones'
+    lessons_dir = project_root / '10-Lecciones-1A2'
     homework_dir = project_root / '40-Deberes'
     
     if not lessons_dir.exists():

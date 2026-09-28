@@ -3,7 +3,7 @@ description: Standardize a lesson file, extracting vocabulary, translating notes
 ---
 
 1. **Analyze the Request & Context**
-   - Identify the target lesson file (usually in `10-Lecciones/`).
+   - Identify the target lesson file (usually in `10-Lecciones-1A2/`).
    - Read `structure_recommendations.md` to ensure strict adherence to project guidelines.
 
 2. **Standardize Structure & Frontmatter**

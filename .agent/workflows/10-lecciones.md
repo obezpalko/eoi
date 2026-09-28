@@ -1,8 +1,8 @@
 ---
-description: Rules for processing lesson files in 10-Lecciones/
+description: Rules for processing lesson files in 10-Lecciones-1A2/
 ---
 
-1. **Scope**: Apply this workflow only to files in `10-Lecciones/`.
+1. **Scope**: Apply this workflow only to files in `10-Lecciones-1A2/`.
 2. **Metadata**:
    - Filename MUST be `YYYYMMDD Lección [Nombre].md`.
    - Frontmatter MUST include `date: YYYY-MM-DD` and `tags: [lección]`.

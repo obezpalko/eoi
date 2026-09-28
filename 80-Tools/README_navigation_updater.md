@@ -1,6 +1,6 @@
 # Lesson Navigation Updater
 
-This tool automatically verifies and updates the navigation section at the bottom of lesson files in the `10-Lecciones` directory.
+This tool automatically verifies and updates the navigation section at the bottom of lesson files in the `10-Lecciones-1A2` directory.
 
 ## What it does
 
@@ -58,7 +58,7 @@ python update_lesson_navigation.py --dry-run --verbose
 
 ## How it Works
 
-1. **Scans** the `10-Lecciones` directory for all lesson files
+1. **Scans** the `10-Lecciones-1A2` directory for all lesson files
 2. **Sorts** lessons by date (extracted from filename: `YYYYMMDD Lección <name>.md`)
 3. **For each lesson**:
    - Determines the previous and next lessons
@@ -87,7 +87,7 @@ python update_lesson_navigation.py --dry-run --verbose
 Output:
 
 ```
-📚 Finding lesson files in /home/alexb/src/github.com/obezpalko/eoi/10-Lecciones
+📚 Finding lesson files in /home/alexb/src/github.com/obezpalko/eoi/10-Lecciones-1A2
 ✓ Found 29 lesson files
 
 🔍 DRY RUN MODE - No files will be modified
@@ -115,7 +115,7 @@ python update_lesson_navigation.py
 Output:
 
 ```
-📚 Finding lesson files in /home/alexb/src/github.com/obezpalko/eoi/10-Lecciones
+📚 Finding lesson files in /home/alexb/src/github.com/obezpalko/eoi/10-Lecciones-1A2
 ✓ Found 29 lesson files
 
 ============================================================
@@ -128,7 +128,7 @@ Output:
 The script expects:
 
 - Lesson files in format: `YYYYMMDD Lección <name>.md`
-- Lesson files located in `10-Lecciones/` directory
+- Lesson files located in `10-Lecciones-1A2/` directory
 - Homework files located in `40-Deberes/` directory
 - Homework files named: `YYYYMMDD Lección <name>.md` (matching lesson date)
 
