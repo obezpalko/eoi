@@ -2,7 +2,7 @@ import os
 import re
 
 # 1. UPDATE LESSON TEXT
-lesson_file = '10-Lecciones/20260429 Lección cincuenta.md'
+lesson_file = '10-Lecciones-1A2/20260429 Lección cincuenta.md'
 with open(lesson_file, 'r', encoding='utf-8') as f:
     text = f.read()
 

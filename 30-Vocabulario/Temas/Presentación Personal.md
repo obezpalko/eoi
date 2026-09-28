@@ -41,7 +41,7 @@ La presentación personal es una de las habilidades más importantes al aprender
 - **trabajar** - to work / работать
 - **hablar** - to speak / говорить
 
-> **Ver conjugaciones completas:** [[../../Verbos/ser|Ser]] · [[../../Verbos/tener|Tener]] · [[../../Verbos/vivir|Vivir]] · [[../../Verbos/trabajar|Trabajar]] · [[../../Verbos/hablar|Hablar]] · [[../../Verbos/llamarse|Llamarse]]
+> **Ver conjugaciones completas:** [[../Verbos/ser|Ser]] · [[../Verbos/tener|Tener]] · [[../Verbos/vivir|Vivir]] · [[../Verbos/trabajar|Trabajar]] · [[../Verbos/hablar|Hablar]] · [[../Verbos/llamarse|Llamarse]]
 
 ## Preguntas y Respuestas
 
@@ -452,9 +452,9 @@ En España es aceptable preguntar la edad, pero en contextos formales o con pers
 - [[../Abecedario|Abecedario]] - Para deletrear nombres y apellidos
 - [[Nacionalidades|Nacionalidades]] - Lista completa de nacionalidades
 - [[Profesiones|Profesiones]] - Vocabulario de profesiones
-- [[../../Verbos/ser|Verbo SER]] - Conjugación completa
-- [[../../Verbos/tener|Verbo TENER]] - Conjugación completa
-- [[../../Verbos/llamarse|Verbo LLAMARSE]] - Conjugación completa
+- [[../Verbos/ser|Verbo SER]] - Conjugación completa
+- [[../Verbos/tener|Verbo TENER]] - Conjugación completa
+- [[../Verbos/llamarse|Verbo LLAMARSE]] - Conjugación completa
 
 ## Plantilla de Presentación Personal
 

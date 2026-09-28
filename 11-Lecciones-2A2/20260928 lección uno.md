@@ -1,12 +1,11 @@
 # 001 Introducción 
 Nivel: 2A2
-Tutora: Matra Romero ***REMOVED***
+Profesora: Marta Romero ***REMOVED***
 
 ## Índice 
 
 ### el curso
 120h, 60 sesiones 
-
 - bolígrafo (los exámenes siempre con boli)
 - un cuaderno
 - un libro: Aula internacional plus 2 (edición híbrida, editorial difusión )

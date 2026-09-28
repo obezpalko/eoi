@@ -10,7 +10,7 @@ date: 2026-02-18
 
 ## Prácticas
 ### Ficha 8. El artículo indeterminado 
-[[../30-Vocabulario/Verbos/el uso de hay|el uso de hay]]
+[[../20-Gramática/Hay, Ser y Estar|el uso de hay]]
 ![[../40-Deberes/attachments/20260211.pdf|20260211]]
 
 Hay + artículo indeterminado + sustantivo

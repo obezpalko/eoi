@@ -19,7 +19,7 @@ tags:
 | Ellos Ellas | Su             | Sus          | Suyo/suya        | Suyos/as       |
 | Vosotros    | Vuestro/a      | Vuestros/as  | Vuestro/as       | Vuestros/as    |
 
-[[../30-Vocabulario/Adjetivos posesivos|→ Adjetivos posesivos]]
+[[../20-Gramática/Adjetivos posesivos|→ Adjetivos posesivos]]
 
 ## Familia
 

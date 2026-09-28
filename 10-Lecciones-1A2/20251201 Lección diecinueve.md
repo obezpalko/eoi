@@ -70,7 +70,7 @@ Los adjetivos posesivos indican posesión o pertenencia:
 - **Nuestro** profesor es muy bueno.
 - **Vuestras** amigas son simpáticas.
 
-[[../30-Vocabulario/Adjetivos posesivos|→ Más información sobre adjetivos posesivos]]
+[[../20-Gramática/Adjetivos posesivos|→ Más información sobre adjetivos posesivos]]
 
 ## Práctica
 

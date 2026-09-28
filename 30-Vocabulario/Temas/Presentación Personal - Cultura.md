@@ -13,7 +13,7 @@ tags:
 
 ## Índice de Temas Culturales
 
-### 📋 [[../../../60-Cultura/Apellidos en España|Los Apellidos en España]]
+### 📋 [[../../60-Cultura/Apellidos en España|Los Apellidos en España]]
 
 **Contenido:**
 - Sistema de dos apellidos
@@ -30,7 +30,7 @@ tags:
 
 ---
 
-### 📱 [[../../../60-Cultura/Teléfonos en España|Teléfonos en España]]
+### 📱 [[../../60-Cultura/Teléfonos en España|Teléfonos en España]]
 
 **Contenido:**
 - Estructura de números (móviles y fijos)
@@ -47,7 +47,7 @@ tags:
 
 ---
 
-### 👋 [[../../../60-Cultura/Saludos y Contacto Físico|Saludos y Contacto Físico]]
+### 👋 [[../../60-Cultura/Saludos y Contacto Físico|Saludos y Contacto Físico]]
 
 **Contenido:**
 - Los dos besos (cuándo y cómo)
@@ -64,7 +64,7 @@ tags:
 
 ---
 
-### 🗣️ [[../../../60-Cultura/Tú vs Usted|Tú vs. Usted]]
+### 🗣️ [[../../60-Cultura/Tú vs Usted|Tú vs. Usted]]
 
 **Contenido:**
 - Cuándo usar tú (informal)
@@ -81,7 +81,7 @@ tags:
 
 ---
 
-### 💼 [[../../../60-Cultura/Profesiones y Trabajo en España|Profesiones y Trabajo]]
+### 💼 [[../../60-Cultura/Profesiones y Trabajo en España|Profesiones y Trabajo]]
 
 **Contenido:**
 - Profesiones valoradas
@@ -98,7 +98,7 @@ tags:
 
 ---
 
-### 👤 [[../../../60-Cultura/Nombres y Diminutivos|Nombres y Diminutivos]]
+### 👤 [[../../60-Cultura/Nombres y Diminutivos|Nombres y Diminutivos]]
 
 **Contenido:**
 - Nombres comunes en España
@@ -115,7 +115,7 @@ tags:
 
 ---
 
-### ⏰ [[../../../60-Cultura/Puntualidad en España|Puntualidad en España]]
+### ⏰ [[../../60-Cultura/Puntualidad en España|Puntualidad en España]]
 
 **Contenido:**
 - Contextos formales vs. sociales
@@ -132,7 +132,7 @@ tags:
 
 ---
 
-### ❓ [[../../../60-Cultura/Preguntas Personales en España|Preguntas Personales]]
+### ❓ [[../../60-Cultura/Preguntas Personales en España|Preguntas Personales]]
 
 **Contenido:**
 - ¿Es apropiado preguntar la edad?
@@ -187,10 +187,10 @@ tags:
 
 ## Otros Recursos Culturales
 
-- [[../../../60-Cultura/Navidad en España|Navidad en España]] - Tradiciones navideñas
-- [[../../../60-Cultura/Familia del rey|Familia Real Española]] - La monarquía
-- [[../../../60-Cultura/España vs Hispanoamerica|España vs. Hispanoamérica]] - Diferencias lingüísticas
-- [[../../../60-Cultura/Salir de copas|Salir de Copas]] - Cultura de bares y copas
+- [[../../60-Cultura/Navidad en España|Navidad en España]] - Tradiciones navideñas
+- [[../../60-Cultura/Familia del rey|Familia Real Española]] - La monarquía
+- [[../../60-Cultura/España vs Hispanoamerica|España vs. Hispanoamérica]] - Diferencias lingüísticas
+- [[../../60-Cultura/Salir de copas|Salir de Copas]] - Cultura de bares y copas
 
 ## Actividad Final
 
