@@ -1,4 +1,5 @@
 ---
+title: "Fiesta de Navidad EOI Dénia"
 tags:
   - calendario
   - español

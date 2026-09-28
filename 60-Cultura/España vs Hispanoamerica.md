@@ -1,4 +1,5 @@
 ---
+title: "España vs. Hispanoamericana (Diferencias de Vocabulario)"
 tags:
   - cultura
   - diferencias_regionales

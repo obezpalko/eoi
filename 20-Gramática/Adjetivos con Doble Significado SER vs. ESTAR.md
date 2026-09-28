@@ -1,3 +1,6 @@
+---
+title: "🎭 Adjetivos con Doble Significado: SER vs. ESTAR"
+---
 # 🎭 Adjetivos con Doble Significado: SER vs. ESTAR
 
 En español, el mismo adjetivo puede cambiar de "valor" según el verbo. / In Spanish, the same adjective changes its "value" depending on the verb. / В испанском языке одно и то же прилагательное меняет значение в зависимости от глагола.

@@ -1,3 +1,6 @@
+---
+title: "fichas.doc"
+---
 [← Index](../../Aules.%20Comida.md)
 
 # fichas.doc

@@ -1,4 +1,5 @@
 ---
+title: "027: Gustos, Aficiones y Tiempo Libre"
 date: 2026-01-14
 tags:
   - español

@@ -1,4 +1,5 @@
 ---
+title: "Deberes: 050: Lección template"
 date: 2026-04-29
 tags:
   - español

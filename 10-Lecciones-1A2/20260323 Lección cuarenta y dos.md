@@ -1,4 +1,5 @@
 ---
+title: "042: Mi día a día y verbos irregulares"
 tags: [lección]
 date: 2026-03-23
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Deberes - Lección uno (20250929)"
 date: 2025-09-29
 tags:
   - deberes

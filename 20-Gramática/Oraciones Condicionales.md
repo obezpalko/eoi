@@ -1,3 +1,6 @@
+---
+title: "⚖️ Oraciones Condicionales (Nivel A2)"
+---
 # ⚖️ Oraciones Condicionales (Nivel A2)
 
 Estructura: **Si + [Presente], + [Presente / Futuro / Imperativo]**

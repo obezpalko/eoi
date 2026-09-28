@@ -1,4 +1,5 @@
 ---
+title: "012: Medios de Transporte y Estado Civil"
 date: 2025-11-05
 tags: [lección, español, vocabulario]
 ---

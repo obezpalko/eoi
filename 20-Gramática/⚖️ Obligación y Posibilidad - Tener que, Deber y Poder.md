@@ -1,3 +1,6 @@
+---
+title: "⚖️ Obligación y Posibilidad: Tener que, Deber y Poder"
+---
 # ⚖️ Obligación y Posibilidad: Tener que, Deber y Poder
 
 Diferencias en el grado de obligación y libertad de elección. / Differences in the degree of obligation and freedom of choice. / Различия в степени обязательства и свободы выбора.

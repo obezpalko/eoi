@@ -1,4 +1,5 @@
 ---
+title: "📓 Deberes: Lección 035"
 tags: [deberes]
 date: 2026-02-25
 ---

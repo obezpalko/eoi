@@ -1,4 +1,5 @@
 ---
+title: "033: La Ciudad y los Interrogativos"
 tags: [lección]
 date: 2026-02-18
 ---

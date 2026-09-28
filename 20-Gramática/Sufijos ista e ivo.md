@@ -1,4 +1,5 @@
 ---
+title: "Los Sufijos -ista y -ivo/a"
 tags: [gramática, sufijos, español]
 date: 2026-01-21
 ---

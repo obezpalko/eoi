@@ -1,4 +1,5 @@
 ---
+title: "042: Deberes - [Título]"
 tags: [deberes]
 date: 2026-03-23
 ---

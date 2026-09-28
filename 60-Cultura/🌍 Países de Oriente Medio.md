@@ -1,3 +1,6 @@
+---
+title: "🌍 Países de Oriente Medio (Middle East / Ближний Восток)"
+---
 # 🌍 Países de Oriente Medio (Middle East / Ближний Восток)
 
 Lista de países con sus capitales e idiomas oficiales.

@@ -1,4 +1,5 @@
 ---
+title: "Las Partes de la Oración (Parts of Speech)"
 tags:
   - español
   - gramática

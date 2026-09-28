@@ -1,3 +1,6 @@
+---
+title: "💻 Vocabulario Completo: El Ordenador e Informática"
+---
 # 💻 Vocabulario Completo: El Ordenador e Informática
 
 > [!INFO] Gramática: Hay vs. Tener

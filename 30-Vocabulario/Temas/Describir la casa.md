@@ -1,3 +1,6 @@
+---
+title: "🏠 Gramática: Describir la Casa (Estar vs. Tener vs. Hay)"
+---
 # 🏠 Gramática: Describir la Casa (Estar vs. Tener vs. Hay)
 
 > [!ABSTRACT] El error de "La ventana está en la pared"

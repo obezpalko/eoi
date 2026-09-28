@@ -1,4 +1,5 @@
 ---
+title: "023: Descripción Física y Verbos tipo \"Gustar\""
 date: 2025-12-17
 tags:
   - español

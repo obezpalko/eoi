@@ -1,4 +1,5 @@
 ---
+title: "🏙️ Vocabulario: El Barrio y la Ciudad"
 tags: [vocabulario, tema, ciudad]
 date: 2026-02-18
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Siempre Singular (Singularia Tantum)"
 tags:
   - español
   - vocabulario

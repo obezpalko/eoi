@@ -1,3 +1,6 @@
+---
+title: "Aules. Comida."
+---
 # Aules. Comida.
 
 ## actividades

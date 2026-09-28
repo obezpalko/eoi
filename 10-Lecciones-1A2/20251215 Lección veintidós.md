@@ -1,4 +1,5 @@
 ---
+title: "022: Carácter y Personalidad"
 date: 2025-12-15
 tags:
   - español

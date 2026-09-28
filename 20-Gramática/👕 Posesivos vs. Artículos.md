@@ -1,3 +1,6 @@
+---
+title: "👕 Posesivos vs. Artículos (Ropa y Cuerpo)"
+---
 # 👕 Posesivos vs. Artículos (Ropa y Cuerpo)
 
 En español, **no usamos** los adjetivos posesivos (mi, tu, su) con la ropa o partes del cuerpo cuando la acción recae sobre el sujeto (verbos reflexivos).

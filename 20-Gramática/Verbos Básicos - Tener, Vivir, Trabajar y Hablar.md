@@ -1,4 +1,5 @@
 ---
+title: "Verbos Básicos: Tener, Vivir, Trabajar y Hablar"
 tags: [gramática, verbos, a1]
 ---
 

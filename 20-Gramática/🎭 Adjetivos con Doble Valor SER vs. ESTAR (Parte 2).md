@@ -1,3 +1,6 @@
+---
+title: "🎭 Adjetivos con Doble Valor: SER vs. ESTAR (Parte 2)"
+---
 # 🎭 Adjetivos con Doble Valor: SER vs. ESTAR (Parte 2)
 
 Más ejemplos de cómo el verbo cambia el significado del adjetivo. / More examples of how the verb changes the meaning. / Еще примеры того, как глагол меняет значение прилагательного.

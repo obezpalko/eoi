@@ -1,3 +1,6 @@
+---
+title: "Ficha 28 Menú.pdf"
+---
 [← Index](../../Aules.%20Comida.md)
 
 # Ficha 28 Menú.pdf

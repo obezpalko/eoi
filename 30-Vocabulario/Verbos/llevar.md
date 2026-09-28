@@ -1,3 +1,6 @@
+---
+title: "📘 Verbo: LLEVAR (Nivel A2)"
+---
 # 📘 Verbo: LLEVAR (Nivel A2)
 
 El verbo **llevar** es un verbo regular acabado en `-ar`. Es uno de los verbos más útiles en español porque tiene múltiples significados.

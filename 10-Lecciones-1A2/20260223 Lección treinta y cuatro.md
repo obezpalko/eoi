@@ -1,4 +1,5 @@
 ---
+title: "034: Consejos y Recomendaciones"
 tags: [lección]
 date: 2026-02-23
 ---

@@ -1,4 +1,5 @@
 ---
+title: "El Estado Civil en España"
 date: 2026-01-29
 tags: [vocabulario, español, gramática]
 ---

@@ -1,4 +1,5 @@
 ---
+title: "038: [Título de la lección]"
 tags: [lección]
 date: 2026-03-09
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Mis Preferencias: Lista de Categorías"
 tags:
   - español
   - práctica

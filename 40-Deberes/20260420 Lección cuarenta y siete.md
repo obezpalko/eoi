@@ -1,4 +1,5 @@
 ---
+title: "Deberes: 047: La ropa y Complementos Directos"
 tags:
   - español
   - deberes

@@ -1,4 +1,5 @@
 ---
+title: "051: El Imperativo, Gerundio y Verbos de Cocina"
 date: 2026-05-04
 tags:
   - español

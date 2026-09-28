@@ -1,4 +1,5 @@
 ---
+title: "Lección treinta"
 date: 2026-01-19
 tags:
   - deberes

@@ -1,3 +1,6 @@
+---
+title: "comidas_fotos.doc"
+---
 [← Index](../../Aules.%20Comida.md)
 
 # comidas_fotos.doc

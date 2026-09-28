@@ -1,3 +1,6 @@
+---
+title: "Sinónimos de \"También\" 🔄"
+---
 # Sinónimos de "También" 🔄
 
 El uso excesivo de "también" puede hacer que un texto sea monótono. Aquí tienes alternativas para conectar ideas de forma más fluida.

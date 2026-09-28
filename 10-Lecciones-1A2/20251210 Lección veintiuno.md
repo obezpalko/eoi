@@ -1,4 +1,5 @@
 ---
+title: "021: Descripción Física y Carácter"
 date: 2025-12-10
 tags:
   - español

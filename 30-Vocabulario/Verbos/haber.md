@@ -1,3 +1,6 @@
+---
+title: "El Verbo: Haber (Presente)"
+---
 # El Verbo: Haber (Presente)
 
 El verbo **Haber** es el verbo auxiliar más importante del español. Se utiliza principalmente para formar tiempos compuestos y para expresar la existencia de algo.

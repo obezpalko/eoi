@@ -1,4 +1,5 @@
 ---
+title: "039: El Tiempo y la Rutina"
 tags: [lección]
 date: 2026-03-11
 ---

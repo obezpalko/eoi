@@ -1,4 +1,5 @@
 ---
+title: "039: Deberes - El Tiempo y la Rutina"
 tags: [deberes]
 date: 2026-03-11
 ---

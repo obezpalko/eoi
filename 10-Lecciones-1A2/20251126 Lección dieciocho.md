@@ -1,4 +1,5 @@
 ---
+title: "018: Género, Colores y Sustantivos Plurales"
 date: 2025-11-26
 tags:
   - español
