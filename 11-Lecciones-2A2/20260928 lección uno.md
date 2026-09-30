@@ -61,6 +61,10 @@ M - mediación
 ## vocabulario 
 - amable
 - chapa 
+- brazo 
+- ancha
+- ganar
+- 
 
 ![[attachments/1790745904417-a61cd938-63c2-4484-bfd6-02e78424cce9_.jpg]]
 [[Evaluation unidades 4,5,6]]
