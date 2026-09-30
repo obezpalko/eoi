@@ -1,3 +1,9 @@
+---
+title: Un día en Málaga
+date: 2026-01-01
+tags:
+  - 1A2
+---
 Ernesto Rodríguez 
 
 ## Vocabulario
