@@ -61,17 +61,14 @@ M - mediación
 
 ### grupos
 4-5-6
-- 
+- las seis
 ## vocabulario 
 - amable
 - chapa 
 - brazo 
 - ancha
 - ganar
-- 
 
-![[attachments/test2.jpg]]
+### deberes
 [[Evaluation unidades 4, 5, 6]]
-
-![[attachments/test3.jpg]]
-[[Evaluación unidades 7,8,9]]
+[[Evaluación unidades 7, 8, 9]]
