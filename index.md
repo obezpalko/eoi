@@ -1,10 +1,12 @@
 ---
-title: EOI - Español A1
+title: EOI - Español A2
 draft: false
-tags: [home, inicio]
+tags:
+  - home
+  - inicio
 ---
 
-# Bienvenido a EOI - Español A1
+# Bienvenido a EOI - Español A2
 
 Materiales del curso de español nivel A1.
 
