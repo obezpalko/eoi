@@ -2,6 +2,7 @@
 title: Evaluation unidades 7, 8, 9
 tags:
   - deberes
+  - 2A2
 date: 2026-09-28
 ---
 # 📝 Evaluación: Unidades 7, 8 y 9
