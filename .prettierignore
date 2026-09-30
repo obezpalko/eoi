@@ -1,18 +1,23 @@
-# Upstream Quartz defaults
-public
-node_modules
-.quartz-cache
+# Prettier checks only Quartz code and repo config. Everything else is vault
+# content, authored in Obsidian and normalised by the obsidian-linter plugin;
+# letting prettier also rewrite notes would fight that plugin over list
+# markers, emphasis characters and line wrapping. Allow-list instead of
+# listing note folders, so a new folder in the vault can't break CI.
+/*
+!/quartz/
+!/.github/
+!/.agent/
+!/quartz.config.ts
+!/quartz.layout.ts
+!/package.json
+!/package-lock.json
+!/tsconfig.json
+!/globals.d.ts
+!/index.d.ts
+!/.prettierrc
 
-# Obsidian vault config and vendored community-plugin bundles (minified
-# third-party main.js/styles.css — not ours to format).
-.obsidian
-
-# Vault content. Notes are authored in Obsidian and normalised by the
-# obsidian-linter plugin; letting prettier also rewrite them would fight
-# that plugin over list markers, emphasis characters and line wrapping.
-/[0-9][0-9]-*/
-/*.md
-scratch
+# Upstream Quartz build cache
+quartz/.quartz-cache
 
 # Google Search Console verification token — must be served byte-for-byte.
 quartz/root/googled40ea25e54b9d2d0.html
