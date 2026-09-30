@@ -1,11 +1,11 @@
 ---
-title: "Lección uno: Introducción"
+title: "01: Introducción"
 date: 2026-09-28
 tags:
   - 2A2
   - lección
 ---
-# 001 Introducción 
+# 01 Introducción 
 Nivel: 2A2
 Profesora: Marta Romero m.romerodelgado@edu.gba.es
 
@@ -70,5 +70,5 @@ M - mediación
 - ganar
 
 ### deberes
-[[Evaluation unidades 4, 5, 6]]
-[[Evaluación unidades 7, 8, 9]]
+[[materiales/Evaluation unidades 4, 5, 6]]
+[[materiales/Evaluación unidades 7, 8, 9]]
