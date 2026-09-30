@@ -61,4 +61,5 @@ M - mediación
 ## vocabulario 
 - amable
 - chapa 
-- 
+
+![[]]
