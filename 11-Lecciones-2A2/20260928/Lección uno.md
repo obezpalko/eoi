@@ -1,5 +1,9 @@
 ---
-title: "001 Introducción"
+title: "Lección uno: Introducción"
+date: 2026-09-28
+tags:
+  - 2A2
+  - lección
 ---
 # 001 Introducción 
 Nivel: 2A2
@@ -66,8 +70,8 @@ M - mediación
 - ganar
 - 
 
-![[attachments/1790745904417-a61cd938-63c2-4484-bfd6-02e78424cce9_.jpg]]
-[[Evaluation unidades 4,5,6]]
+![[attachments/test2.jpg]]
+[[Evaluation unidades 4, 5, 6]]
 
-![[attachments/1790745877253-a4351899-2fcf-410b-8b61-93b2bca5cfa4_.jpg]]
+![[attachments/test3.jpg]]
 [[Evaluación unidades 7,8,9]]
