@@ -1,7 +1,10 @@
 ---
 date: 2026-09-30
+title: Nosotros Y El Español
+tags:
+  - 2A2
 ---
-![[../11-Lecciones-2A2/attachments/1790756874163-72cc2086-e175-4e9b-b489-a3345f1b7f89_.jpg]]# 📘 Unidad 0: Nosotros y el español
+![[../attachments/1790756874163-72cc2086-e175-4e9b-b489-a3345f1b7f89_.jpg]]# 📘 Unidad 0: Nosotros y el español
 
 ## 1. Lenguas que se hablan en clase
 - Español

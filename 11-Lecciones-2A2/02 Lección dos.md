@@ -12,7 +12,7 @@ date: 2026-09-30
 
 ## audio 
 ![[attachments/1790754693145-8fbe5849-d637-4799-86c7-4949f0c088af.jpg]]
-[[materiales/nosotros-y-español|Nosotros y el Español]]
+[[materiales/nosotros-y-espanol|Nosotros y el Español]]
 
 
 ![[attachments/1790756926805-ed48acb6-ddda-4944-84b0-c2f14d0c7138_.jpg]]
