@@ -13,6 +13,12 @@ date: 2026-09-28
 - despistada
 - asociados 
 - vocación 
+- ridiculas 
+- brindis
+- fuegos artificiales 
+- colgar
 
 ## Frases
+- déjame pensarlo
+- no pinta bien
 - 
