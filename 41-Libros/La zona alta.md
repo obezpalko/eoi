@@ -17,8 +17,11 @@ date: 2026-09-28
 - brindis
 - fuegos artificiales 
 - colgar
+- estupendo
+- atraco
 
 ## Frases
 - déjame pensarlo
 - no pinta bien
-- 
+- si, mamá, estupendo 
+- atraco a las tres
