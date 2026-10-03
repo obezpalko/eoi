@@ -5,7 +5,14 @@ tags:
 date: 2026-09-28
 ---
 ## Vocabulario
-- 
+- siendo 
+- valiente 
+- cincuentón
+- callado
+- ingenua
+- despistada
+- asociados 
+- vocación 
 
 ## Frases
 - 
