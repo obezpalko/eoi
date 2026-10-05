@@ -1,5 +1,5 @@
 ---
-title: "50-Calendario"
+title: Calendario
 ---
 
 Calendario académico con fechas importantes, exámenes y vacaciones.
