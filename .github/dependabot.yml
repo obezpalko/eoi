@@ -17,6 +17,12 @@ updates:
         update-types:
           - "minor"
           - "patch"
+    ignore:
+      # Quartz 4 (and upstream Quartz 5) is built on preact 10; preact 11
+      # drops JSXInternal.HTMLAttributes and breaks tsc (see #49). Revisit
+      # when upstream Quartz moves to preact 11.
+      - dependency-name: "preact"
+        update-types: ["version-update:semver-major"]
     # Majors stay separate — they need the build checked individually.
     commit-message:
       prefix: "chore(deps)"
