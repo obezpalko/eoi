@@ -1,5 +1,18 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { FileTrieNode } from "./quartz/util/fileTrie"
+
+// Explorer order: folders first, sorted by folder name so the 10-, 20-, ...
+// prefixes decide the order even when a folder note gives the folder another
+// title; notes sorted by title. Serialised to the browser, so keep it
+// self-contained (no helpers or named inner functions: the bundler wraps
+// those in a __name() call that doesn't exist client-side).
+const explorerSortFn = (a: FileTrieNode, b: FileTrieNode) => {
+  if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+  const keyA = a.isFolder ? a.slugSegment : a.displayName
+  const keyB = b.isFolder ? b.slugSegment : b.displayName
+  return keyA.localeCompare(keyB, undefined, { numeric: true, sensitivity: "base" })
+}
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -38,7 +51,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ sortFn: explorerSortFn }),
   ],
   right: [
     // Component.Graph(),
@@ -62,7 +75,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ sortFn: explorerSortFn }),
   ],
   right: [],
 }
