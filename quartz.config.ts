@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "EOI - Español A1",
+    pageTitle: "EOI - Español A2",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

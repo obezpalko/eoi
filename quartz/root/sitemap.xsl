@@ -7,7 +7,7 @@
     <xsl:template match="/">
         <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
             <head>
-                <title>Sitemap | EOI - Español A1</title>
+                <title>Sitemap | EOI - Español A2</title>
                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="preconnect" href="https://fonts.googleapis.com" />

@@ -8,7 +8,7 @@ tags:
 
 # Bienvenido a EOI - Español A2
 
-Materiales del curso de español nivel A1.
+Materiales del curso de español nivel A2.
 
 ## Navegación Principal
 
