@@ -1,15 +1,23 @@
 ---
-title: "03: Lección tres"
+title: "003: El español y tú, pasados y demostrativos"
 date: 2026-10-05
 tags:
+  - español
+  - lección
   - 2A2
 ---
-# grammar 
-## pasados diferentes
-- Esta noche ha llovido (participo)
+# 003: El español y tú, pasados y demostrativos
+
+[[#Deberes|📝 Deberes de la lección]]
+
+## Prácticas
+
+### Pasados diferentes
+- Esta noche ha llovido (participio)
 - Ahora (no) está lloviendo (gerundio)
-- El sábado llovió 
-## Pronombres demostrativos con *noche*
+- El sábado llovió
+
+### Demostrativos con *noche*
 
 | Expresión | Uso principal | Ejemplo |
 | :--- | :--- | :--- |
@@ -19,85 +27,35 @@ tags:
 
 > [!WARNING] Errores comunes de ortografía
 > * **esta** (demostrativo) se escribe **sin tilde**. La palabra *está* (con tilde) es una forma del verbo *estar*.
-## deberes
-# Opiniones sobre el aprendizaje de español
 
-> [!INFO] Instrucción
-> Algunos alumnos de español han hecho estas afirmaciones sobre su aprendizaje. Marca cuál es tu opinión en cada caso.
+### El español y tú (pág. 11)
 
----
+#### 1. Cuatro lenguas en casa
+1. Annelien habla en ==holandés== con sus hijos.
+2. Vasile habla en rumano con sus hijos.
+3. Nico y Daniela hablan en español entre ellos.
+4. Nico y Daniela hablan en holandés con Annelien.
+5. Nico y Daniela hablan en rumano con Vasile.
+6. Nico y Daniela hablan en holandés con sus abuelos maternos.
+7. Nico y Daniela hablan en rumano con su abuela paterna.
+8. Daniela habla en español con Lucía.
+9. Annelien y Vasile hablan en inglés.
+10. Daniela habla en inglés con su maestra.
 
-### 1. A mí me parece que en clase el profesor tiene que hablar solo en español.
-- **a.** Estoy totalmente de acuerdo. Esto es una clase de español, ¿no?
-- **b.** Depende, a veces es útil traducir algunas palabras.
-- **c.** A mí me parece que el profesor tiene que saber algo de mi idioma.
-
-### 2. Necesito trabajar yo solo para entender bien todo antes de hacer ejercicios con otros compañeros.
-- **a.** Estoy completamente de acuerdo: mis compañeros me pueden confundir.
-- **b.** A veces sí y a veces no, depende del ejercicio.
-- **c.** No estoy nada de acuerdo porque trabajar con otras personas me ayuda mucho.
-
-### 3. Internet me parece una herramienta muy útil para aprender español.
-- **a.** Sí, es verdad, sin internet ya es imposible aprender nada.
-- **b.** Bueno, es una herramienta más, pero no la más importante.
-- **c.** ¿Internet para aprender español? No, gracias.
-
-### 4. Yo aprendo mejor cuando el profesor lo escribe todo en la pizarra.
-- **a.** Yo también: necesito verlo escrito para entenderlo bien.
-- **b.** Yo creo que el profesor solo tiene que escribir lo que considera importante.
-- **c.** Yo no estoy nada de acuerdo: aprendemos mejor oyendo y hablando.
-
-### 5. Hablar en español con un buen acento es muy importante.
-- **a.** Eso es totalmente cierto. Si hablas con mucho acento extranjero, no te entienden bien.
-- **b.** El acento es importante, pero no lo más importante. Y depende de con quién hablas.
-- **c.** ¿El acento? ¡Qué va! Y además, es muy difícil tener buen acento en español.
-
-### 6. Lo mejor para aprender es hablar mucho en clase: con el profesor, con otros compañeros...
-- **a.** Sí, hablar en clase es lo más importante.
-- **b.** Yo pienso que hablar, escribir, leer... todo es importante.
-- **c.** En clase hay que hacer sobre todo ejercicios de gramática y de léxico.
-
-### 7. A mí me encanta observar textos y descubrir yo solo la gramática, no necesito explicaciones del profesor ni del libro.
-- **a.** A mí también.
-- **b.** A mí solo a veces. Otras veces lo entiendo mejor si el profesor o el libro me lo explican bien.
-- **c.** A mí me parece una idea absurda. Es el profesor quien tiene que explicar la gramática.
-
-### 8. Para avanzar es imprescindible trabajar mucho en casa.
-- **a.** Estoy completamente de acuerdo con eso. Trabajar por tu cuenta y hacer deberes es muy importante.
-- **b.** Hay que hacer deberes en casa, pero corregirlos en clase.
-- **c.** A mí me parece que venir a clase es suficiente.
-
-### 9. Entender es más difícil que hablar. Necesitamos hacer muchas audiciones en clase.
-- **a.** Eso es verdad: puedo hablar un poco, pero no entiendo nada a los nativos cuando hablan.
-- **b.** Depende, a veces es más fácil entender que hablar, pero hacer audiciones es importante.
-- **c.** Pues yo lo entiendo casi todo, pero tengo problemas para expresar todo lo que quiero.
-
-### 10. Escribir en el cuaderno un diccionario con las palabras nuevas que aprendemos es muy útil.
-- **a.** Estoy totalmente de acuerdo. Yo lo hago todos los días.
-- **b.** Claro que puede ser útil, pero no tengo tiempo para hacerlo.
-- **c.** Las palabras ya están en el libro escritas, ¿no? ¿Para qué escribirlas otra vez?
-
----
-
-> [!TIP] Expresiones útiles para opinar
-> * **Estar de acuerdo / No estar de acuerdo:** *Estoy totalmente de acuerdo*, *No estoy nada de acuerdo*.
-> * **Expresar opinión:** *A mí me parece que...*, *Yo creo que...*, *Yo pienso que...*
-> * **Matizar:** *Depende*, *A veces sí y a veces no*.
-
-
-## Vocabulario 
-- estoy *totalmente* de acuerdo (con … ) 
-- no estoy *nada* de acuerdo 
-- acuerdo 
-- recordar 
+## Vocabulario
+- estoy *totalmente* de acuerdo (con …)
+- no estoy *nada* de acuerdo
+- acuerdo
+- recordar
 - recordarse
-- confundir 
+- confundir
 - rollo
 - ¡Qué va!
 - avanzar
-- imprescindible 
+- imprescindible
 - dar consejos para …
-- dar vergüenza 
+- dar vergüenza
+
 ### Herramientas comunes en español
 
 1. **El martillo** — Hammer
@@ -124,22 +82,70 @@ tags:
 > [!NOTE] Ortografía
 > La palabra correcta es **herramientas** (femenino plural, termina en *-as*). Por lo tanto, el título correcto es *Herramientas comunes*.
 
-## El español y tú 
-Pág 11
-### 1. Cuatro lenguas en casa
-1. Annelien habla en ==holandés== con sus hijos 
-2. Basile habla en rumano con sus hijos 
-3. Nico y Daniela hablan en español entre ellos
-4. Nico y Daniela hablan en holandés con Annelien 
-5. Nico y Daniela hablan en rumano con Vasile
-6. Nico y Daniela hablan en holandés con sus abuelos maternos 
-7. Nico y Daniela hablan rumano con su abuela paterna 
-8. Daniela hablan en Español con Lucia 
-9. Annelien y Vasile hablan en Inglés 
-10. Daniela habla en Inglés con su maestra.
+## Deberes
+- Pág. 14, 15, ej. 4
 
+### Opiniones sobre el aprendizaje de español
 
+> [!INFO] Instrucción
+> Algunos alumnos de español han hecho estas afirmaciones sobre su aprendizaje. Marca cuál es tu opinión en cada caso.
 
-# deberes
-- pág 14,15, ej 4
-	
+#### 1. A mí me parece que en clase el profesor tiene que hablar solo en español.
+- **a.** Estoy totalmente de acuerdo. Esto es una clase de español, ¿no?
+- **b.** Depende, a veces es útil traducir algunas palabras.
+- **c.** A mí me parece que el profesor tiene que saber algo de mi idioma.
+
+#### 2. Necesito trabajar yo solo para entender bien todo antes de hacer ejercicios con otros compañeros.
+- **a.** Estoy completamente de acuerdo: mis compañeros me pueden confundir.
+- **b.** A veces sí y a veces no, depende del ejercicio.
+- **c.** No estoy nada de acuerdo porque trabajar con otras personas me ayuda mucho.
+
+#### 3. Internet me parece una herramienta muy útil para aprender español.
+- **a.** Sí, es verdad, sin internet ya es imposible aprender nada.
+- **b.** Bueno, es una herramienta más, pero no la más importante.
+- **c.** ¿Internet para aprender español? No, gracias.
+
+#### 4. Yo aprendo mejor cuando el profesor lo escribe todo en la pizarra.
+- **a.** Yo también: necesito verlo escrito para entenderlo bien.
+- **b.** Yo creo que el profesor solo tiene que escribir lo que considera importante.
+- **c.** Yo no estoy nada de acuerdo: aprendemos mejor oyendo y hablando.
+
+#### 5. Hablar en español con un buen acento es muy importante.
+- **a.** Eso es totalmente cierto. Si hablas con mucho acento extranjero, no te entienden bien.
+- **b.** El acento es importante, pero no lo más importante. Y depende de con quién hablas.
+- **c.** ¿El acento? ¡Qué va! Y además, es muy difícil tener buen acento en español.
+
+#### 6. Lo mejor para aprender es hablar mucho en clase: con el profesor, con otros compañeros...
+- **a.** Sí, hablar en clase es lo más importante.
+- **b.** Yo pienso que hablar, escribir, leer... todo es importante.
+- **c.** En clase hay que hacer sobre todo ejercicios de gramática y de léxico.
+
+#### 7. A mí me encanta observar textos y descubrir yo solo la gramática, no necesito explicaciones del profesor ni del libro.
+- **a.** A mí también.
+- **b.** A mí solo a veces. Otras veces lo entiendo mejor si el profesor o el libro me lo explican bien.
+- **c.** A mí me parece una idea absurda. Es el profesor quien tiene que explicar la gramática.
+
+#### 8. Para avanzar es imprescindible trabajar mucho en casa.
+- **a.** Estoy completamente de acuerdo con eso. Trabajar por tu cuenta y hacer deberes es muy importante.
+- **b.** Hay que hacer deberes en casa, pero corregirlos en clase.
+- **c.** A mí me parece que venir a clase es suficiente.
+
+#### 9. Entender es más difícil que hablar. Necesitamos hacer muchas audiciones en clase.
+- **a.** Eso es verdad: puedo hablar un poco, pero no entiendo nada a los nativos cuando hablan.
+- **b.** Depende, a veces es más fácil entender que hablar, pero hacer audiciones es importante.
+- **c.** Pues yo lo entiendo casi todo, pero tengo problemas para expresar todo lo que quiero.
+
+#### 10. Escribir en el cuaderno un diccionario con las palabras nuevas que aprendemos es muy útil.
+- **a.** Estoy totalmente de acuerdo. Yo lo hago todos los días.
+- **b.** Claro que puede ser útil, pero no tengo tiempo para hacerlo.
+- **c.** Las palabras ya están en el libro escritas, ¿no? ¿Para qué escribirlas otra vez?
+
+> [!TIP] Expresiones útiles para opinar
+> * **Estar de acuerdo / No estar de acuerdo:** *Estoy totalmente de acuerdo*, *No estoy nada de acuerdo*.
+> * **Expresar opinión:** *A mí me parece que...*, *Yo creo que...*, *Yo pienso que...*
+> * **Matizar:** *Depende*, *A veces sí y a veces no*.
+
+---
+
+**Navegación:**
+[[20260930 Lección dos|⬅️ Lección anterior]] | [[../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | Lección siguiente ➡️
