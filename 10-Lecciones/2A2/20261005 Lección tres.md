@@ -87,7 +87,7 @@ aliases:
 ## Deberes
 - Pág. 14, 15, ej. 4
 
-### Opiniones sobre el aprendizaje de español
+## Opiniones sobre el aprendizaje de español
 
 > [!INFO] Instrucción
 > Algunos alumnos de español han hecho estas afirmaciones sobre su aprendizaje. Marca cuál es tu opinión en cada caso.
