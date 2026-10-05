@@ -53,4 +53,4 @@ El género del sustantivo (masculino o femenino) determina qué artículo debemo
 [Práctica online: Artículos determinados e indeterminados](https://aprenderespanol.org/gramatica/articulos-determinados-indeterminados.html)
 
 **Navegación:**
-[[index|🏠 Inicio]] | [[El Género de los Sustantivos|El Género de los Sustantivos]] | [[El Número|El Número]]
+[[../index|🏠 Inicio]] | [[El Género de los Sustantivos|El Género de los Sustantivos]] | [[El Número|El Número]]

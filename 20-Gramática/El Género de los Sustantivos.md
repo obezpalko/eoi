@@ -99,4 +99,4 @@ Son aquellos que utilizan palabras completamente diferentes para el masculino y 
 ---
 
 **Navegación:**
-[[index|🏠 Inicio]] | [[Artículos|Artículos]] | [[El Número|El Número]]
+[[../index|🏠 Inicio]] | [[Artículos|Artículos]] | [[El Número|El Número]]
