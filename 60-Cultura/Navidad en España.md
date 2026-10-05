@@ -28,7 +28,7 @@ Los Reyes Magos visitan al niño Jesús en el pesebre y le llevan regalos.
 
 ![[Navidad en España/carta_reyes.jpg]]
 
-Los niños escriben [[../40-Deberes/Carta a los Reyes Magos|Carta a los Reyes Magos]] para pedir regalos. En las cartas, los niños:
+Los niños escriben [[../10-Lecciones/1A2/Deberes/Carta a los Reyes Magos|Carta a los Reyes Magos]] para pedir regalos. En las cartas, los niños:
 - Dicen si se han portado bien durante el año
 - Piden los regalos que quieren recibir
 - A veces prometen portarse mejor

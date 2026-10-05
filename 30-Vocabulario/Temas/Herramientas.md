@@ -7,7 +7,7 @@ tags:
 
 # Las Herramientas
 
-Herramientas comunes para el bricolaje y las reparaciones en casa. Vistas en la [[../../11-Lecciones-2A2/20261005 Lección tres|lección 003 (2A2)]].
+Herramientas comunes para el bricolaje y las reparaciones en casa. Vistas en la [[../../10-Lecciones/2A2/20261005 Lección tres|lección 003 (2A2)]].
 *Ejemplo: Necesito **un destornillador** para cambiar las pilas.*
 
 ## 1. Para cortar, golpear y perforar

@@ -6,7 +6,7 @@ tags:
 ---
 # El Tiempo Atmosférico y Verbos Impersonales
 
-[[../../40-Deberes/20260427 Lección cuarenta y nueve|📝 Deberes de la lección]]
+[[../../10-Lecciones/1A2/Deberes/20260427 Lección cuarenta y nueve|📝 Deberes de la lección]]
 
 ## 🌤️ El Tiempo Atmosférico
 

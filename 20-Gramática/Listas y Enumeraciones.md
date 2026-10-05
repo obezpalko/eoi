@@ -77,4 +77,4 @@ Para dar más fuerza a la negación, se puede poner **ni** antes de cada element
 
 ---
 **Navegación:**
-[[../index|Inicio]] | [[../20-Gramática/La Tilde Diacrítica|← La Tilde Diacrítica]]
+[[../index|Inicio]] | [[La Tilde Diacrítica|← La Tilde Diacrítica]]

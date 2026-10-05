@@ -60,4 +60,4 @@ Algunas palabras pueden usar ambos sufijos, pero el significado cambia drástica
 
 ---
 **Navegación:**
-[[../index|Inicio]] | [[../20-Gramática/Artículos|Artículos →]]
+[[../index|Inicio]] | [[Artículos|Artículos →]]

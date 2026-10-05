@@ -1,0 +1,24 @@
+---
+title: "Deberes"
+date: 2025-12-10
+tags:
+  - deberes
+  - español
+  - tarea
+aliases:
+  - "40-Deberes/20251210 Lección veintiuno"
+---
+# Deberes
+
+- [x] Árbol genealógico
+- LE. Tema3
+  - [x] 2a
+  - [x] 2b
+  - [x] 3
+  - [x] 4
+- LA. Página 26
+  - [x] 1a. ¿De qué nacionalidad crees que es cada película?
+  1. Una familia de Tokio: de Japón/japonesa
+  2. Captain fantastic: de Estados Unidos/estadounidense
+  3. La familia Bélier: de Francia/francesa
+- [ ] Verbos irregulares

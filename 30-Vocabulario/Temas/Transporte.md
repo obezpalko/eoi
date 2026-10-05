@@ -75,4 +75,4 @@ España cuenta con uno de los mejores sistemas de transporte de Europa. Aquí ti
 ---
 
 **Navegación:**
-[[../../index|🏠 Inicio]] | [[../Sustantivos|Vocabulary List]] | [[../Temas/Profesiones|Profesiones]]
+[[../../index|🏠 Inicio]] | [[../Sustantivos|Vocabulary List]] | [[Profesiones|Profesiones]]

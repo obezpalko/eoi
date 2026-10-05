@@ -45,5 +45,5 @@ tags:
 
 Esta información se encuentra en:
 
-- [[../10-Lecciones-1A2/20251210 Lección veintiuno|Lección veintiuno (10 diciembre)]]
-- [[../10-Lecciones-1A2/20251215 Lección veintidós|Lección veintidós (15 diciembre)]]
+- [[../10-Lecciones/1A2/20251210 Lección veintiuno|Lección veintiuno (10 diciembre)]]
+- [[../10-Lecciones/1A2/20251215 Lección veintidós|Lección veintidós (15 diciembre)]]

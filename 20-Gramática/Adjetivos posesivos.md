@@ -78,4 +78,4 @@ En contextos familiares o de barrio, a veces se usa "nuestro/a" para referirse a
 
 ---
 
-> 🔗 **Ver también:** [[../20-Gramática/Artículos|Los Artículos]], [[../10-Lecciones-1A2/20251203 Lección veinte|Posesivos Tónicos (Mío/Tuyo)]]
+> 🔗 **Ver también:** [[Artículos|Los Artículos]], [[../10-Lecciones/1A2/20251203 Lección veinte|Posesivos Tónicos (Mío/Tuyo)]]

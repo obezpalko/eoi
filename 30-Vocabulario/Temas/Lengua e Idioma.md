@@ -41,4 +41,4 @@ En la mayoría de los casos son intercambiables, pero:
 
 ---
 **Navegación:**
-[[../../index|Inicio]] | [[../../10-Lecciones-1A2/20260121 Lección veintinueve|← Lección 21 de enero]]
+[[../../index|Inicio]] | [[../../10-Lecciones/1A2/20260121 Lección veintinueve|← Lección 21 de enero]]

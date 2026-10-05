@@ -1,6 +1,6 @@
 # Lesson Navigation Updater
 
-This tool automatically verifies and updates the navigation section at the bottom of lesson files in the `10-Lecciones-1A2` directory.
+This tool automatically verifies and updates the navigation section at the bottom of lesson files in the `10-Lecciones/1A2` directory.
 
 ## What it does
 
@@ -18,7 +18,7 @@ The script ensures each lesson file ends with a navigation section like this:
 ---
 
 **Navegación:**
-[[20260114 Lección veintisiete|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260121 Lección veintiocho|Deberes →]]
+[[20260114 Lección veintisiete|← Lección anterior]] | [[../index|Inicio]] | [[../10-Lecciones/1A2/Deberes/20260121 Lección veintiocho|Deberes →]]
 ```
 
 ## Usage
@@ -58,11 +58,11 @@ python update_lesson_navigation.py --dry-run --verbose
 
 ## How it Works
 
-1. **Scans** the `10-Lecciones-1A2` directory for all lesson files
+1. **Scans** the `10-Lecciones/1A2` directory for all lesson files
 2. **Sorts** lessons by date (extracted from filename: `YYYYMMDD Lección <name>.md`)
 3. **For each lesson**:
    - Determines the previous and next lessons
-   - Finds the corresponding homework file in `40-Deberes`
+   - Finds the corresponding homework file in `10-Lecciones/1A2/Deberes`
    - Checks if the navigation section exists and is correct
    - Updates or adds the navigation section if needed
 
@@ -87,7 +87,7 @@ python update_lesson_navigation.py --dry-run --verbose
 Output:
 
 ```
-📚 Finding lesson files in /home/alexb/src/github.com/obezpalko/eoi/10-Lecciones-1A2
+📚 Finding lesson files in /home/alexb/src/github.com/obezpalko/eoi/10-Lecciones/1A2
 ✓ Found 29 lesson files
 
 🔍 DRY RUN MODE - No files will be modified
@@ -115,7 +115,7 @@ python update_lesson_navigation.py
 Output:
 
 ```
-📚 Finding lesson files in /home/alexb/src/github.com/obezpalko/eoi/10-Lecciones-1A2
+📚 Finding lesson files in /home/alexb/src/github.com/obezpalko/eoi/10-Lecciones/1A2
 ✓ Found 29 lesson files
 
 ============================================================
@@ -128,8 +128,8 @@ Output:
 The script expects:
 
 - Lesson files in format: `YYYYMMDD Lección <name>.md`
-- Lesson files located in `10-Lecciones-1A2/` directory
-- Homework files located in `40-Deberes/` directory
+- Lesson files located in `10-Lecciones/1A2/` directory
+- Homework files located in `10-Lecciones/1A2/Deberes/` directory
 - Homework files named: `YYYYMMDD Lección <name>.md` (matching lesson date)
 
 ## Notes
@@ -147,7 +147,7 @@ The script expects:
 
 **Problem**: Navigation links are incorrect
 
-- **Solution**: Check that homework files exist in `40-Deberes` with matching dates
+- **Solution**: Check that homework files exist in `10-Lecciones/1A2/Deberes` with matching dates
 
 **Problem**: Script doesn't update a file
 

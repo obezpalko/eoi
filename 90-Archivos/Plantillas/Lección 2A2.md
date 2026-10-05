@@ -21,4 +21,4 @@ tags:
 ---
 
 **Navegación:**
-⬅️ Lección anterior | [[../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | Lección siguiente ➡️
+⬅️ Lección anterior | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | Lección siguiente ➡️

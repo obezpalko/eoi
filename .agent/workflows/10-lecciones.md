@@ -1,8 +1,8 @@
 ---
-description: Rules for processing lesson files in 10-Lecciones-1A2/ and 11-Lecciones-2A2/
+description: Rules for processing lesson files in 10-Lecciones/1A2/ and 10-Lecciones/2A2/
 ---
 
-1. **Scope**: Apply this workflow only to files in `10-Lecciones-1A2/` and `11-Lecciones-2A2/`.
+1. **Scope**: Apply this workflow only to files in `10-Lecciones/1A2/` and `10-Lecciones/2A2/`.
 2. **Metadata**:
    - Filename MUST be `YYYYMMDD Lección [Nombre].md`.
    - Frontmatter MUST include `date: YYYY-MM-DD` and `tags: [lección]`.
@@ -11,7 +11,7 @@ description: Rules for processing lesson files in 10-Lecciones-1A2/ and 11-Lecci
    - Use H2 for sections.
 4. **Navigation**:
    - Ensure "Anterior", "Siguiente", and "Deberes" links at the bottom.
-   - 1A2: homework is a separate note in `40-Deberes/`. 2A2: homework is a `## Deberes` section in the lesson, linked as `[[#Deberes|📝 Deberes]]`.
+   - 1A2: homework is a separate note in `10-Lecciones/1A2/Deberes/`. 2A2: homework is a `## Deberes` section in the lesson, linked as `[[#Deberes|📝 Deberes]]`.
    - `80-Tools/update_lesson_navigation.py` (pre-commit hook) maintains the footer for both folders.
    - New 2A2 lessons start from `90-Archivos/Plantillas/Lección 2A2.md`.
 5. **Content**:

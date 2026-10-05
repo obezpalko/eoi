@@ -65,4 +65,4 @@ Estas dos palabras suelen confundir mucho porque ambas vienen de verbos que empi
 
 ---
 **Navegación:**
-[[../index|Inicio]] | [[../20-Gramática/Listas y Enumeraciones|← Listas y Enumeraciones]]
+[[../index|Inicio]] | [[Listas y Enumeraciones|← Listas y Enumeraciones]]

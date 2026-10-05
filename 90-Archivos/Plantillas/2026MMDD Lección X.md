@@ -5,7 +5,7 @@ tags:
 ---
 # Lección template
 
-[[../40-Deberes/20260000 Lección template|Deberes]]
+[[Deberes/20260000 Lección template|Deberes]]
 
 ## Información
 
@@ -16,4 +16,4 @@ tags:
 ---
 
 **Navegación:**
-[[20260000 Lección anterior|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260000 Lección siguiente|Deberes →]]
+[[20260000 Lección anterior|← Lección anterior]] | [[../../index|Inicio]] | [[Deberes/20260000 Lección siguiente|Deberes →]]

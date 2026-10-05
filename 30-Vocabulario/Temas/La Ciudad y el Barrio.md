@@ -6,7 +6,7 @@ date: 2026-02-18
 
 # 🏙️ Vocabulario: El Barrio y la Ciudad
 
-Este documento recopila el vocabulario y las estructuras necesarias para describir lugares, barrios y ciudades, según lo aprendido en las lecciones [[../../10-Lecciones-1A2/20260216 Lección treinta y dos|032]] y [[../../10-Lecciones-1A2/20260218 Lección treinta y tres|033]].
+Este documento recopila el vocabulario y las estructuras necesarias para describir lugares, barrios y ciudades, según lo aprendido en las lecciones [[../../10-Lecciones/1A2/20260216 Lección treinta y dos|032]] y [[../../10-Lecciones/1A2/20260218 Lección treinta y tres|033]].
 
 ---
 

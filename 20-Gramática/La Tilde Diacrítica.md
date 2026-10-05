@@ -77,4 +77,4 @@ Como has visto en los ejemplos, olvidar una tilde puede cambiar el sentido de un
 
 ---
 **Navegación:**
-[[../index|Inicio]] | [[../20-Gramática/Sufijos ista e ivo|← Sufijos -ista y -ivo/a]]
+[[../index|Inicio]] | [[Sufijos ista e ivo|← Sufijos -ista y -ivo/a]]

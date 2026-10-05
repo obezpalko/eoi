@@ -21,7 +21,7 @@ const config: QuartzConfig = {
       ".git",
       ".obsidian",
       ".trash",
-      "10-Lecciones-1A2/00000000 Lección template.md",
+      "10-Lecciones/1A2/00000000 Lección template.md",
       "80-Tools",
       "90-Archivos",
       "99-Exports",

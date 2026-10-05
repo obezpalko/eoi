@@ -1,0 +1,21 @@
+---
+title: "041: Deberes - [Título]"
+tags: [deberes]
+date: 2026-03-18
+aliases:
+  - "40-Deberes/20260318 Lección cuarenta y uno"
+---
+# 041: Deberes - [Título]
+
+## Tareas
+### La
+62 1a 1b
+63 2
+64v1a 1b 1d 2a
+65 2d
+66 1a 1b
+67 3a
+
+### mi rutina
+
+[[../20260318 Lección cuarenta y uno|⬅️ Volver a la lección]]

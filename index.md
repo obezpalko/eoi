@@ -12,10 +12,10 @@ Materiales del curso de español nivel A2.
 
 ## Navegación Principal
 
-### 📚 [[10-Lecciones-1A2/index|10-Lecciones-1A2]]
+### 📚 [[10-Lecciones/1A2/index|Lecciones 1A2]]
 Lecciones del curso 1A2 con Lorena organizadas por fecha. Cada lección incluye vocabulario, gramática y ejercicios prácticos.
 
-### 📚 [[11-Lecciones-2A2/index|11-Lecciones-2A2]]
+### 📚 [[10-Lecciones/2A2/index|Lecciones 2A2]]
 Lecciones del curso 2A2 con Marta organizadas por fecha.
 
 ### 📖 [[20-Gramática/index|20-Gramática]]

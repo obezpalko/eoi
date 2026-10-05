@@ -22,13 +22,13 @@ python update_lesson_navigation.py
 
 ## What it does
 
-For each lesson in `10-Lecciones-1A2/`, it creates or updates a navigation section like this:
+For each lesson in `10-Lecciones/1A2/`, it creates or updates a navigation section like this:
 
 ```markdown
 ---
 
 **Navegación:**
-[[20260114 Lección veintisiete|← Lección anterior]] | [[../index|Inicio]] | [[../40-Deberes/20260119 Lección veintiocho|Deberes →]]
+[[20260114 Lección veintisiete|← Lección anterior]] | [[../index|Inicio]] | [[../10-Lecciones/1A2/Deberes/20260119 Lección veintiocho|Deberes →]]
 ```
 
 Where:

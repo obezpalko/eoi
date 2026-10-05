@@ -25,11 +25,11 @@ from typing import List, Tuple, Optional
 
 
 # Lesson folders and where each one keeps its homework:
-#   "next-lesson-file": a note in 40-Deberes named after the NEXT lesson (1A2)
+#   "next-lesson-file": a note in <course>/Deberes named after the NEXT lesson (1A2)
 #   "section":          a "## Deberes" section inside the lesson itself (2A2)
 COURSES = [
-    ('10-Lecciones-1A2', 'next-lesson-file'),
-    ('11-Lecciones-2A2', 'section'),
+    ('10-Lecciones/1A2', 'next-lesson-file'),
+    ('10-Lecciones/2A2', 'section'),
 ]
 
 HOMEWORK_SECTION = re.compile(r'^## Deberes\s*$', re.MULTILINE)
@@ -144,8 +144,8 @@ def build_navigation_section(prev_lesson: Optional[LessonFile],
     else:
         parts.append("⬅️ Lección anterior")
     
-    # Home link
-    parts.append("[[../index|🏠 Inicio]]")
+    # Home link (lessons live two levels below the vault root)
+    parts.append("[[../../index|🏠 Inicio]]")
     
     # Homework link (a note path without .md, or an in-page "#Deberes" anchor)
     if homework_link:
@@ -183,8 +183,8 @@ def update_lesson_navigation(lesson: LessonFile,
         homework_link = "#Deberes" if HOMEWORK_SECTION.search(content) else None
     elif next_lesson:
         # The homework for the current lesson is expected to be in a file
-        # with the same name as the NEXT lesson, but in the 40-Deberes folder.
-        homework_link = f"../40-Deberes/{next_lesson.filename[:-3]}"
+        # with the same name as the NEXT lesson, in the course's Deberes folder.
+        homework_link = f"Deberes/{next_lesson.filename[:-3]}"
     else:
         homework_link = None
     
@@ -266,7 +266,7 @@ Examples:
     script_dir = Path(__file__).parent
     project_root = script_dir.parent
     
-    homework_dir = project_root / '40-Deberes'
+    homework_dir = project_root / '10-Lecciones' / '1A2' / 'Deberes'
 
     if not homework_dir.exists():
         print(f"⚠️  Warning: Homework directory not found: {homework_dir}")
