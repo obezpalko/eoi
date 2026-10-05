@@ -50,7 +50,7 @@ tags:
 | [Moldavia](https://es.wikipedia.org/wiki/Moldavia)                              | moldavo moldava                      | rumano, ruso                        |
 | [México](https://es.wikipedia.org/wiki/M%C3%A9xico)                             | mexicano mexicana                    | español                             |
 | [Noruega](https://es.wikipedia.org/wiki/Noruega)                                | noruego noruega                      | noruego                             |
-| [Países Bajos](https://es.wikipedia.org/wiki/Pa%C3%ADses_Bajos)                | neerlandés neerlandesa               | neerlandés                          |
+| [Países Bajos](https://es.wikipedia.org/wiki/Pa%C3%ADses_Bajos)                 | neerlandés neerlandesa               | neerlandés                          |
 | [Pakistán](https://es.wikipedia.org/wiki/Pakist%C3%A1n)                         | paquistaní                           | urdu, inglés                        |
 | [Perú](https://es.wikipedia.org/wiki/Per%C3%BA)                                 | peruano peruana                      | español, quechua, aimara            |
 | [Polonia](https://es.wikipedia.org/wiki/Polonia)                                | polaco polaca                        | polaco                              |
