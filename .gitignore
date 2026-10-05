@@ -4,6 +4,9 @@
 .obsidian/plugins/remotely-save/
 .trash/
 
+# Private notes: synced between devices by Syncthing, never committed or published
+90-Archivos/Privado/
+
 # Syncthing (vault is synced between devices; only this machine commits)
 *.sync-conflict-*
 .syncthing.*

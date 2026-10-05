@@ -44,6 +44,8 @@ Sustantivos que tienen un significado informal o que se usan comúnmente en la c
 | **Gordo/a**           | Fat (can be very offensive)                       | Толстый            | *Use "gordito/a" or "rellenito/a" to be polite.*   |
 | **Guiri**             | Foreign tourist (usually North European/American) | Иностранный турист | *Esa playa está llena de guiris.*                  |
 | **Flus-flus / Espray / Fu-fu** | Spray / Atomizer (Onomatopoeia) | Пшик-пшик / Спрей | *Ponte un poco de flus-flus (colonia).* |
+| **El rollo** | Bore, drag; long boring talk | Скукота, нудятина | *¡Qué rollo de película!* |
+| **La chapa** | Long boring talk (*dar la chapa*: to go on and on) | Нудная болтовня | *Mi vecino siempre me da la chapa.* |
 
 ## 4. Otras expresiones comunes
 - **A fuego / Afuego**: Cool, great, "on fire" / "Круто", "огонь".

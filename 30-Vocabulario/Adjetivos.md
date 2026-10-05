@@ -5,18 +5,19 @@ tags: [vocabulario, adjetivos]
 
 - **aburrido/a** - boring, bored / скучный, скучающий
 - **acogedor/a** - cozy / уютный
+- **acompañado/a** - accompanied / сопровождаемый
 - **agitado/a** - agitated / взволнованный, возбужденный
 - **agotado/a** - exhausted / истощенный, изнуренный
-- **acompañado/a** - accompanied / сопровождаемый
 - **alegre** - happy, cheerful / веселый, радостный
+- **amable** - kind, friendly / любезный, вежливый
 - **ambiguo/a** - ambiguous, unclear / неоднозначный, двусмысленный
 - **ancho/a** - wide / широкий
 - **angustiado/a** - distressed, anxious / встревоженный, страдающий
 - **animado/a** - lively, animated / оживленный
 - **ansioso/a** - anxious / тревожный, жаждущий
 - **antiguo/a** - ancient, old / древний, старый
-- **arreglado/a** - fixed, tidied / исправленный, приведенный в порядок
 - **apático/a** - apathetic / апатичный
+- **arreglado/a** - fixed, tidied / исправленный, приведенный в порядок
 - **asustado/a** - scared / испуганный
 - **avergonzado/a** - embarrassed, ashamed / пристыженный, смущенный
 - **bajo/a** - short (stature) / низкий
@@ -30,10 +31,11 @@ tags: [vocabulario, adjetivos]
 - **calmado/a** - calm / спокойный
 - **caluroso/a** - hot (person/weather) / жаркий
 - **cansado/a** - tired / уставший
-- **caro/a** - expensive / дорогой
 - **caótico/a** - chaotic / хаотичный
 - **cariñoso/a** - affectionate / ласковый
+- **caro/a** - expensive / дорогой
 - **casado/a** - married / женатый, замужняя
+- **chulo/a** - cool / крутой, классный
 - **cómodo/a** - comfortable / удобный
 - **comprometido/a** - engaged / обрученный, обрученная
 - **congelado/a** - frozen / замороженный
@@ -41,7 +43,6 @@ tags: [vocabulario, adjetivos]
 - **cortado/a** - cut, dead-end (street) / отрезанный, тупиковый (улица)
 - **cosmopolita** - cosmopolitan / космополитичный
 - **costero/a** - coastal / прибрежный
-- **chulo/a** - cool / крутой, классный
 - **cristalino/a** - crystalline, crystal clear / кристально чистый
 - **curioso/a** - curious / любопытный
 - **débil** - weak / слабый
@@ -51,10 +52,10 @@ tags: [vocabulario, adjetivos]
 - **despejado/a** - clear (weather) / ясный, безоблачный
 - **difícil** - difficult / трудный
 - **disgustado/a** - upset, annoyed / расстроенный, недовольный
+- **diurno/a** - daytime / дневной
 - **divertido/a** - fun / веселый, забавный
 - **dulce** - sweet / сладкий
 - **duro/a** - hard / твердый
-- **diurno/a** - daytime / дневной
 - **emocionado/a** - excited, emotional / взволнованный, эмоциональный
 - **enamorado/a** - in love / влюбленный
 - **encantado/a** - pleased / рад (встрече)
@@ -72,6 +73,7 @@ tags: [vocabulario, adjetivos]
 - **frío/a** - cold / холодный
 - **friolero/a** - sensitive to cold / мерзляк
 - **fuerte** - strong / сильный
+- **generoso/a** - generous / щедрый
 - **goloso/a** - sweet-toothed / сладкоежка
 - **gordito/a** - chubby / пухленький
 - **gordo/a** - fat / толстый
@@ -81,20 +83,21 @@ tags: [vocabulario, adjetivos]
 - **grosero/a** - rude, impolite / грубый, невежливый
 - **guapo/a** - handsome, beautiful / красивый
 - **harto/a** - fed up / сытый по горло
+- **imprescindible** - essential, indispensable / необходимый, незаменимый
 - **indiferente** - indifferent / безразличный
 - **infinito/a** - infinite / бесконечный
 - **insatisfecho/a** - dissatisfied / неудовлетворенный
 - **inseguro/a** - insecure / небезопасный, неуверенный
-- **inútil** - useless / бесполезный
 - **inspirado/a** - inspired / вдохновленный
 - **inteligente** - intelligent / умный
+- **inútil** - useless / бесполезный
 - **jaranero/a** - party animal / гуляка
 - **joven** - young / молодой
 - **lento/a** - slow / медленный
-- **loco/a** - crazy / сумасшедший
 - **lindo/a** - cute, pretty / красивый
 - **lleno/a** - full / полный
 - **lluvioso/a** - rainy / дождливый
+- **loco/a** - crazy / сумасшедший
 - **malo/a** - bad / плохой
 - **manchego/a** - from La Mancha / манчего
 - **mejor** - better / лучший
@@ -102,13 +105,13 @@ tags: [vocabulario, adjetivos]
 - **moderno/a** - modern / современный
 - **mucho/a** - much, many / много, многий
 - **muerto/a** - dead / мертвый
-- **nublado/a** - cloudy / облачный
-- **nocturno/a** - nocturnal, night / ночной
 - **nervioso/a** - nervous / нервный
+- **nocturno/a** - nocturnal, night / ночной
+- **nublado/a** - cloudy / облачный
 - **optimista** - optimistic / оптимистичный
 - **orgulloso/a** - proud / гордый
-- **pequeño/a** - small / маленький
 - **peor** - worse / худший
+- **pequeño/a** - small / маленький
 - **perezoso/a** - lazy / ленивый
 - **perjudicial** - harmful / вредный
 - **pesimista** - pessimistic / пессимистичный
@@ -121,8 +124,8 @@ tags: [vocabulario, adjetivos]
 - **resfriado/a** - having a cold / простуженный
 - **roto/a** - broken / сломанный
 - **salado/a** - salty / соленый
-- **seguro/a** - safe, sure / безопасный, уверенный
 - **sano/a** - healthy / здоровый
+- **seguro/a** - safe, sure / безопасный, уверенный
 - **separado/a** - separated / разошедшийся, разошедшаяся
 - **serio/a** - serious / серьезный
 - **soleado/a** - sunny / солнечный

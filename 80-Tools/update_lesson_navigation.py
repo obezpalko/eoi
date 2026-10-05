@@ -24,6 +24,17 @@ from datetime import datetime
 from typing import List, Tuple, Optional
 
 
+# Lesson folders and where each one keeps its homework:
+#   "next-lesson-file": a note in 40-Deberes named after the NEXT lesson (1A2)
+#   "section":          a "## Deberes" section inside the lesson itself (2A2)
+COURSES = [
+    ('10-Lecciones-1A2', 'next-lesson-file'),
+    ('11-Lecciones-2A2', 'section'),
+]
+
+HOMEWORK_SECTION = re.compile(r'^## Deberes\s*$', re.MULTILINE)
+
+
 class LessonFile:
     """Represents a lesson file with its metadata."""
     
@@ -136,9 +147,9 @@ def build_navigation_section(prev_lesson: Optional[LessonFile],
     # Home link
     parts.append("[[../index|🏠 Inicio]]")
     
-    # Homework link
+    # Homework link (a note path without .md, or an in-page "#Deberes" anchor)
     if homework_link:
-        parts.append(f"[[{homework_link[:-3]}|📝 Deberes]]")
+        parts.append(f"[[{homework_link}|📝 Deberes]]")
     else:
         parts.append("📝 Deberes")
     
@@ -156,21 +167,24 @@ def build_navigation_section(prev_lesson: Optional[LessonFile],
 def update_lesson_navigation(lesson: LessonFile, 
                             prev_lesson: Optional[LessonFile],
                             next_lesson: Optional[LessonFile],
-                            homework_dir: Path,
+                            homework_style: str,
                             dry_run: bool = False,
                             verbose: bool = False) -> bool:
     """
     Update the navigation section for a lesson file.
-    
+
     Returns:
         True if changes were made (or would be made in dry-run), False otherwise
     """
     content = read_file_content(lesson.filepath)
-    
-    # The homework for the current lesson is expected to be in a file
-    # with the same name as the NEXT lesson, but in the 40-Deberes folder.
-    if next_lesson:
-        homework_link = f"../40-Deberes/{next_lesson.filename}"
+
+    if homework_style == 'section':
+        # Homework lives in the lesson itself, under "## Deberes".
+        homework_link = "#Deberes" if HOMEWORK_SECTION.search(content) else None
+    elif next_lesson:
+        # The homework for the current lesson is expected to be in a file
+        # with the same name as the NEXT lesson, but in the 40-Deberes folder.
+        homework_link = f"../40-Deberes/{next_lesson.filename[:-3]}"
     else:
         homework_link = None
     
@@ -252,41 +266,43 @@ Examples:
     script_dir = Path(__file__).parent
     project_root = script_dir.parent
     
-    lessons_dir = project_root / '10-Lecciones-1A2'
     homework_dir = project_root / '40-Deberes'
-    
-    if not lessons_dir.exists():
-        print(f"❌ Error: Lessons directory not found: {lessons_dir}")
-        return 1
-    
+
     if not homework_dir.exists():
         print(f"⚠️  Warning: Homework directory not found: {homework_dir}")
-    
-    print(f"📚 Finding lesson files in {lessons_dir}")
-    lesson_files = find_lesson_files(lessons_dir)
-    
-    if not lesson_files:
-        print("❌ No valid lesson files found")
-        return 1
-    
-    print(f"✓ Found {len(lesson_files)} lesson files")
-    
+
     if args.dry_run:
         print("\n🔍 DRY RUN MODE - No files will be modified\n")
-    
+
     changes_made = 0
-    
-    for i, lesson in enumerate(lesson_files):
-        prev_lesson = lesson_files[i - 1] if i > 0 else None
-        next_lesson = lesson_files[i + 1] if i < len(lesson_files) - 1 else None
-        
-        if args.verbose:
-            print(f"\n📄 Processing: {lesson.filename}")
-        
-        if update_lesson_navigation(lesson, prev_lesson, next_lesson, 
-                                   homework_dir, args.dry_run, args.verbose):
-            changes_made += 1
-    
+
+    for folder, homework_style in COURSES:
+        lessons_dir = project_root / folder
+
+        if not lessons_dir.exists():
+            print(f"❌ Error: Lessons directory not found: {lessons_dir}")
+            return 1
+
+        print(f"📚 Finding lesson files in {lessons_dir}")
+        lesson_files = find_lesson_files(lessons_dir)
+
+        if not lesson_files:
+            print("❌ No valid lesson files found")
+            return 1
+
+        print(f"✓ Found {len(lesson_files)} lesson files")
+
+        for i, lesson in enumerate(lesson_files):
+            prev_lesson = lesson_files[i - 1] if i > 0 else None
+            next_lesson = lesson_files[i + 1] if i < len(lesson_files) - 1 else None
+
+            if args.verbose:
+                print(f"\n📄 Processing: {lesson.filename}")
+
+            if update_lesson_navigation(lesson, prev_lesson, next_lesson,
+                                       homework_style, args.dry_run, args.verbose):
+                changes_made += 1
+
     print(f"\n{'=' * 60}")
     if args.dry_run:
         print(f"🔍 {changes_made} file(s) would be updated")

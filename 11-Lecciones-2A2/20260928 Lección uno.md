@@ -13,7 +13,7 @@ tags:
 ## Información
 
 - **Nivel:** 2A2
-- **Profesora:** Marta Romero (***REMOVED***)
+- **Profesora:** Marta Romero %%[[../90-Archivos/Privado/Contactos#Marta Romero|📇 contacto]]%%
 
 ### El curso
 120 h, 60 sesiones.

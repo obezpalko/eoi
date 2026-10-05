@@ -47,7 +47,7 @@ tags:
 - no estoy *nada* de acuerdo
 - acuerdo
 - recordar
-- recordarse
+- acordarse (de) — *recordarse* no se usa con este sentido
 - confundir
 - rollo
 - ¡Qué va!
@@ -56,7 +56,7 @@ tags:
 - dar consejos para …
 - dar vergüenza
 
-### Herramientas comunes en español
+### [[../30-Vocabulario/Temas/Herramientas|Herramientas comunes en español]]
 
 1. **El martillo** — Hammer
 2. **El destornillador** — Screwdriver
@@ -71,7 +71,7 @@ tags:
 11. **El papel de lija** — Sandpaper
 12. **El cepillo de carpintero** — Hand plane
 13. **El formón** — Chisel
-14. **El cútter** — Utility knife / Cutter
+14. **El cúter** — Utility knife / Cutter
 15. **La cinta aislante** — Electrical tape
 16. **El tornillo de banco** — Vise
 17. **Los clavos** — Nails

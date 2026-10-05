@@ -3,45 +3,36 @@ tags: [vocabulario, verbos]
 ---
 # Verbos básicos
 
-- **[[Verbos/deletrear|deletrear]]** - spell out letters / произносить по буквам
-- **[[Verbos/hablar|hablar]]** - to speak / говорить
-- **[[Verbos/hacer|hacer]]** - to do, make / делать
-- **[[Verbos/llamarse|llamarse]]** - to be called / зваться
-- **[[Verbos/poner|poner]]** - to put, place / класть, ставить
-- **[[Verbos/salir|salir]]** - to go out, to leave / выходить
-- **[[Verbos/ser|ser]]** - to be (permanent) / быть
-- **[[Verbos/tener|tener]]** - to have / иметь
-- **[[Verbos/tocar|tocar]]** - to touch, play / трогать, играть
-- **[[Verbos/trabajar|trabajar]]** - to work / работать
-- **[[Verbos/vivir|vivir]]** - to live / жить
 - **abrazar(se)** - to hug / обнимать(ся)
 - **abrir** - to open / открывать
+- **acordarse (de)** - to remember / вспоминать, помнить
 - **[[Verbos/acostarse|acostarse]]** - to go to bed / ложиться спать
 - **adelgazar** - to lose weight, slim down / худеть
-- **afeitarse** - to shave / бриться
 - **adivinar** - to guess / угадывать
+- **afeitarse** - to shave / бриться
 - **almorzar** - to have lunch / обедать
 - **amanecer** - to dawn / рассветать
-- **anochecer** - to get dark / смеркаться
 - **andar** - to walk / ходить
+- **anochecer** - to get dark / смеркаться
 - **añadir** - to add / добавлять
 - **apagar** - to turn off / выключать
 - **aparcar** - to park / парковаться
 - **apellidarse** - to be named (surname) / называться (по фамилии)
 - **aprender** - to learn / учить, учиться
-- **atardecer** - to get dark (evening) / смеркаться (вечер)
 - **asar** - to roast, to grill / жарить, запекать
+- **atardecer** - to get dark (evening) / смеркаться (вечер)
+- **avanzar** - to advance, make progress / продвигаться, делать успехи
 - **ayunar** - to fast / поститься, голодать
 - **bailar** - to dance / танцевать
 - **bajar** - to go down / спускаться
 - **bañarse** - to bathe, take a bath / приниматься ванну, купаться
-- **brillar** - to shine / блестеть, сиять
-- **brindar** - to toast / чокаться, произносить тост
 - **barrer** - to sweep / подметать
 - **batir** - to beat, to whisk / взбивать
 - **beber** - to drink / пить
 - **besar(se)** - to kiss / целовать(ся)
 - **borrar** - to erase / стирать
+- **brillar** - to shine / блестеть, сиять
+- **brindar** - to toast / чокаться, произносить тост
 - **bucear** - to dive / нырять
 - **caerse** - to fall / падать
 - **caminar** - to walk / идти, шагать
@@ -58,48 +49,52 @@ tags: [vocabulario, verbos]
 - **comer** - to eat / есть
 - **comprar** - to buy / покупать
 - **conducir** - to drive / водить
+- **confundir** - to confuse, mix up / путать, сбивать с толку
 - **correr** - to run / бегать
 - **cortar** - to cut / резать
 - **cruzar** - to cross / переходить, пересекать
 - **cuajar** - to curdle, to set / свернуться (о яйце)
 - **dar** - to give / давать
+- **[[Verbos/deletrear|deletrear]]** - spell out letters / произносить по буквам
 - **depilarse** - to depilate / делать депиляцию
 - **desayunar** - to have breakfast / завтракать
-- **diluviar** - to pour with rain / лить как из ведра
-- **ducharse** - to shower / принимать душ
-- **[[Verbos/despertarse|despertarse]]** - to wake up / просыпаться
 - **desordenar** - to mess up / приводить в беспорядок
+- **despedirse** (e->i) - to say goodbye / прощаться
+- **[[Verbos/despertarse|despertarse]]** - to wake up / просыпаться
+- **diluviar** - to pour with rain / лить как из ведра
 - **disfrutar** - to enjoy / наслаждаться
 - **dividir** - to divide / делить
-- **despedirse** (e->i) - to say goodbye / прощаться
 - **dormir** - to sleep / спать
-- **echarse** - to lie down, to throw oneself / ложиться, бросаться
+- **ducharse** - to shower / принимать душ
 - **echar** - to pour, to throw in / наливать, кидать
+- **echarse** - to lie down, to throw oneself / ложиться, бросаться
 - **empezar** - to start, begin / начинать
 - **empujar** - to push / толкать
 - **encender** - to turn on / включать
 - **enfriar** - to cool / охлаждать
 - **enseñar** - to teach, to show / учить, показывать
 - **entender** - to understand / понимать
-- **esquiar** - to ski / кататься на лыжах
 - **entrar** - to enter / входить
 - **enviar** - to send / посылать
 - **eructar** - to burp / рыгать
 - **escribir** - to write / писать
-- **escurrir** - to drain / сливать, отцеживать
 - **escuchar** - to listen / слушать
+- **escurrir** - to drain / сливать, отцеживать
 - **esperar** - to wait / ждать
+- **esquiar** - to ski / кататься на лыжах
 - **exclamar** - to exclaim / восклицать
 - **fascinar** - to fascinate / очаровывать
 - **fijarse** - to notice, to pay attention / обращать внимание
 - **fotografiar** - to photograph / фотографировать
-- **freír** (e->i) - to fry / жарить (в масле)
 - **fregar** (e->ie) - to scrub, wash dishes / тереть, мыть посуду
+- **freír** (e->i) - to fry / жарить (в масле)
 - **ganar** - to win / выигрывать
 - **gozar** - to enjoy / наслаждаться
 - **granizar** - to hail / идти (о граде)
 - **gritar** - to shout / кричать
 - **haber (hay)** - to have (there is/are) / иметься (есть)
+- **[[Verbos/hablar|hablar]]** - to speak / говорить
+- **[[Verbos/hacer|hacer]]** - to do, make / делать
 - **hervir** (e->ie) - to boil / кипятить
 - **hornear** - to bake / печь
 - **ir** - to go / идти, ехать
@@ -111,9 +106,10 @@ tags: [vocabulario, verbos]
 - **limar** - to file / подпиливать
 - **limpiar** - to clean / чистить, убирать
 - **llamar** - to call / звать, звонить
+- **[[Verbos/llamarse|llamarse]]** - to be called / зваться
 - **llevar** - to wear, to carry / носить, нести
-- **llover** (o->ue) - to rain / идти (о дожде)
 - **llorar** - to cry / плакать
+- **llover** (o->ue) - to rain / идти (о дожде)
 - **luchar** - to fight / бороться
 - **machacar** - to crush, mash / разминать
 - **mandar** - to send, to command / посылать, командовать
@@ -140,13 +136,14 @@ tags: [vocabulario, verbos]
 - **parar** - to stop / остановиться
 - **parecer** - to seem / казаться
 - **pasear** - to stroll, to walk / прогуливаться
+- **pedir** (e->i) - to ask for, order / просить, заказывать
 - **peinarse** - to comb one's hair / причесываться
+- **pelar** - to peel / чистить
+- **pelear(se)** - to fight / драться
 - **pensar** - to think / думать
 - **perder** - to lose / проигрывать
-- **pedir** (e->i) - to ask for, order / просить, заказывать
-- **pelear(se)** - to fight / драться
-- **pelar** - to peel / чистить
 - **planchar** - to iron / гладить
+- **[[Verbos/poner|poner]]** - to put, place / класть, ставить
 - **ponerse** - to put on (clothes) / надевать
 - **preguntar** - to ask / спрашивать
 - **preparar** - to prepare / готовить, подготавливать
@@ -156,54 +153,60 @@ tags: [vocabulario, verbos]
 - **quejarse** - to complain / жаловаться
 - **querer** - to want, to love / хотеть, любить
 - **quitarse** - to take off (clothes) / снимать
-- **recibir** - to receive / получать
 - **rebanar** - to slice / нарезать ломтиками
+- **recibir** - to receive / получать
 - **reciclar** - to recycle / перерабатывать
-- **regar** (e->ie) - to water / поливать
 - **recordar** - to remember, to remind / помнить, напоминать
+- **regar** (e->ie) - to water / поливать
 - **regresar** - to return / возвращаться
 - **reír** - to laugh / смеяться
 - **relajarse** - to relax / расслабляться
+- **relampaguear** - to flash (lightning) / сверкать (о молнии)
+- **remover** (o->ue) - to stir / перемешивать
 - **reñir** - to scold / ругать
 - **repartir** - to distribute, to hand out / распределять, раздавать
-- **remover** (o->ue) - to stir / перемешивать
 - **repasar** - to review / повторять
-- **reunirse** - to meet, gather / встречаться, собираться
-- **relampaguear** - to flash (lightning) / сверкать (о молнии)
 - **restar** - to subtract / вычитать
-- **romper** - to break / ломать
+- **reunirse** - to meet, gather / встречаться, собираться
 - **revolver** (o->ue) - to stir / перемешивать
+- **romper** - to break / ломать
 - **sacar** - to take out / вынимать, доставать
-- **secarse** - to dry oneself / вытираться, сушиться
+- **[[Verbos/salir|salir]]** - to go out, to leave / выходить
 - **secar** - to dry / сушить
+- **secarse** - to dry oneself / вытираться, сушиться
 - **sentarse** - to sit down / садиться
 - **sentirse** - to feel / чувствоваться
 - **separar** - to separate / разделять
+- **[[Verbos/ser|ser]]** - to be (permanent) / быть
 - **servir** (e->i) - to serve / подавать
 - **soler** (o->ue) - to usually do / иметь обыкновение
 - **sonreír** - to smile / улыбаться
-- **soplar** - to blow / дуть
 - **soñar** - to dream / мечтать
+- **soplar** - to blow / дуть
 - **subir** - to go up / подниматься
 - **sumar** - to add / складывать
 - **sustituir** - to replace / заменять
 - **tapear** - to go for tapas / ходить по тапас-барам
-- **tomar** - to take, to drink / брать, пить
 - **teletrabajar** - to telework / работать удаленно
 - **tender** (e->ie) - to hang (clothes) / вешать (белье) сушиться
-- **toser** - to cough / кашлять
+- **[[Verbos/tener|tener]]** - to have / иметь
 - **tirar** - to throw, pull / кидать, тянуть
-- **tronar** - to thunder / греметь (о громе)
-- **triturar** - to grind, to blend / измельчать, блендерить
+- **[[Verbos/tocar|tocar]]** - to touch, play / трогать, играть
+- **tomar** - to take, to drink / брать, пить
+- **toser** - to cough / кашлять
+- **[[Verbos/trabajar|trabajar]]** - to work / работать
 - **trepar** - to climb / лазать, карабкаться
+- **triturar** - to grind, to blend / измельчать, блендерить
+- **tronar** - to thunder / греметь (о громе)
 - **tumbarse** - to lie down / ложиться
 - **unir** - to unite, to join / объединять
 - **usar** - to use / использовать
 - **vender** - to sell / продавать
 - **ver** - to see / видеть
-- **vigilar** - to watch, monitor / следить, караулить
 - **vestir** - to dress / одевать
 - **viajar** - to travel / путешествовать
+- **vigilar** - to watch, monitor / следить, караулить
+- **[[Verbos/vivir|vivir]]** - to live / жить
 - **volver** - to return / возвращаться
 - **yacer** - to lie, to rest / лежать, покоиться
 - **zumbar** - to buzz / жужжать
