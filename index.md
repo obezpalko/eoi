@@ -12,22 +12,22 @@ Materiales del curso de español nivel A1.
 
 ## Navegación Principal
 
-### 📚 [[10-Lecciones-1A2/]]
+### 📚 [[10-Lecciones-1A2/index|10-Lecciones-1A2]]
 Lecciones del curso 1A2 con Lorena organizadas por fecha. Cada lección incluye vocabulario, gramática y ejercicios prácticos.
 
-### 📚 [[11-Lecciones-2A2/]]
+### 📚 [[11-Lecciones-2A2/index|11-Lecciones-2A2]]
 Lecciones del curso 2A2 con Marta organizadas por fecha.
 
-### 📖 [[20-Gramática/]]
+### 📖 [[20-Gramática/index|20-Gramática]]
 Materiales de gramática española: artículos, números, orden de sustantivos y adjetivos, y más.
 
-### 📝 [[30-Vocabulario/]]
+### 📝 [[30-Vocabulario/index|30-Vocabulario]]
 Vocabulario organizado por temas y verbos. Incluye imágenes y ejemplos de uso.
 
-### 📅 [[50-Calendario/]]
+### 📅 [[50-Calendario/index|50-Calendario]]
 Calendario académico con fechas importantes, exámenes y vacaciones.
 
-### 🌍 [[60-Cultura/]]
+### 🌍 [[60-Cultura/index|60-Cultura]]
 Cultura española e hispanoamericana: tradiciones, diferencias regionales y aspectos culturales.
 
 ---
