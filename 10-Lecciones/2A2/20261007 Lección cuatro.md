@@ -87,13 +87,25 @@ tags:
 - ¿Qué te questa más de …?
 - retener
 - le cuesta
+- contar
+- aprender 
+- recortar
+- dependiente de campo
 - 
 
 ## 3. ¿Cómo aprendes?
 1.3 pág.13
 
+| Mis objetivos                             |     | Cosas que me gusta hacer en clase y que me ayudan a aprender |
+| ----------------------------------------- | --- | ------------------------------------------------------------ |
+| Ver películas y series en lengua original |     | Hacer ejercicios                                             |
+| Hablar con fluidez                        |     | Trabajar solo o con otra persona                             |
+| Conocer otra cultura                      |     | Conocer                                                      |
+|                                           |     |                                                              |
+
 
 ## Deberes
+Pág 151-154: 1, 2, 4, 5, 10
 
 ---
 
