@@ -46,11 +46,32 @@ tags:
 |     |                   |                   |                          |     |
 
 #### pág 151. 1.3
-1. Nombre: 
+1. Nombre: Alexandr
+2. Pais: Israel
+3. Profesión: informática 
+4. Otras idiomas: ruso, ucraniano, inglés, hebreo 
+5. ¿Por qué estudias español?
+	- [x] para conseguir un trabajo mejor 
+	- [x] porque tengo que hacer un examen 
+	- [ ] porque tengo amigos españoles 
+	- [x] porque conocer otra cultura, otra forma de ser
+	- [ ] porque quiero pasar un tiempo en algún país de habla hispana 
+	- [ ] porque necesito el español para mi trabajo 
+	- [ ] porque me gusta
+6. ¿Cuánto tiempo hace que estudias español?
+	1. Hace tres años 
+7. ¿Qué cosas te gusta hacer en clase?
+	1. [ ] ejercicios de gramática 
+##### preguntas 
+1. ¿Como te llamas? ¿Cuál es tu nombre?
+2. ¿De donde eres?
+3. ¿A qué te dedicas? ¿Cuál es tu profesión?
+4. Aparte de español, ¿qué idiomas hablas?
 ## Vocabulario
 - aparte de …
 - [[me defiendo]] 
-- 
+- forma de ser
+- conseguir 
 
 ## Deberes
 
