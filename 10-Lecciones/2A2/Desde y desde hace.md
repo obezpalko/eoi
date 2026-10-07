@@ -40,4 +40,45 @@ Indica la **duración** o la cantidad de tiempo transcurrido desde que empezó l
 
 > [!TIP]
 > **Truco rápido:** Si respondes a la pregunta *¿Desde cuándo?* con un número de unidades de tiempo (horas, días, años), usa siempre **desde hace**. Si respondes con el nombre de un momento o fecha, usa **desde**.
-> 
+
+# ❓ Preguntas para «Desde» y «Desde hace»
+
+Para preguntar por el inicio o la duración de una acción que continúa en el presente, se usan las siguientes estructuras principales:
+
+---
+
+## 1. ¿Desde cuándo...?
+Es la pregunta más habitual e intuitiva. Sirve para ambos casos (tanto si esperas una fecha como un periodo de tiempo).
+
+* **Pregunta:** *¿Desde cuándo estudias español?*
+* **Respuestas válidas:**
+  * *Desde 2024.* (Punto concreto)
+  * *Desde hace dos años.* (Duración)
+
+---
+
+## 2. ¿Cuánto tiempo hace que...?
+Se utiliza cuando quieres preguntar específicamente por la **duración** de una acción.
+
+* **Pregunta:** *¿Cuánto tiempo hace que vives en España?*
+* **Respuestas válidas:**
+  * *Hace cuatro años.*
+  * *Desde hace cuatro años.*
+
+---
+
+## 3. ¿Desde hace cuánto (tiempo)...?
+Es una variante muy común en el habla cotidiana que combina la preposición con la pregunta de tiempo.
+
+* **Pregunta:** *¿Desde hace cuánto tiempo trabajas aquí?*
+* **Respuesta:** *Desde hace tres meses.*
+
+---
+
+## 📊 Resumen para Obsidian
+
+| Pregunta                        | Enfoque principal               | Ejemplo de respuesta           |
+| :------------------------------ | :------------------------------ | :----------------------------- |
+| **¿Desde cuándo...?**           | Momento de inicio / Fecha       | *Desde el lunes / Desde 2022.* |
+| **¿Desde hace cuánto...?**      | Duración acumulada              | *Desde hace 3 semanas.*        |
+| **¿Cuánto tiempo hace que...?** | Cantidad de tiempo transcurrido | *Hace 5 meses.*                |
