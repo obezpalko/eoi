@@ -62,6 +62,18 @@ tags:
 	1. Hace tres años 
 7. ¿Qué cosas te gusta hacer en clase?
 	1. [ ] ejercicios de gramática 
+	2. [ ] actividades orales
+	3. [ ] leer textos 
+	4. [ ] juegos 
+	5. [ ] trabajar en grupo 
+	6. [ ] traducir 
+	7. [ ] actividades con internet 
+8. ¿Qué te cuesta más del español?
+	1. [ ] entender la gramática 
+	2. [ ] pronunciar correctamente 
+	3. [ ] recordar el vocabulario 
+	4. [ ] hablar con fluidez 
+9. ¿Qué te gusta hacer en tu tiempo libre?
 ##### preguntas 
 1. ¿Como te llamas? ¿Cuál es tu nombre?
 2. ¿De donde eres?
@@ -72,6 +84,14 @@ tags:
 - [[me defiendo]] 
 - forma de ser
 - conseguir 
+- ¿Qué te questa más de …?
+- retener
+- le cuesta
+- 
+
+## 3. ¿Cómo aprendes?
+1.3 pág.13
+
 
 ## Deberes
 
