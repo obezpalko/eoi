@@ -85,7 +85,51 @@ aliases:
 > La palabra correcta es **herramientas** (femenino plural, termina en *-as*). Por lo tanto, el título correcto es *Herramientas comunes*.
 
 ## Deberes
-- Pág. 14, 15, ej. 4
+### 1.4 Los nuevos españoles 
+Pág. 14, 15, ej. 4
+#### B. Infinitivos
+
+| Verbo on texto   | Infinitivo |
+| ---------------- | ---------- |
+| Tiene, tengo     | Tener      |
+| Vive             | Vivir      |
+| Es               | Ser        |
+| Enseña           | Enseñar    |
+| Se levante       | Levantarse |
+| Desayuna         | Desayunar  |
+| Trabajo, trabaja | Trabajar   |
+| Estudio          | Estudiar   |
+| Veo              | Ver        |
+| Cree             | Creer      |
+| Hablan, habla    | Hablar     |
+| Entiende         | Entender   |
+| Dice, dicen      | Decir      |
+| Quiere           | Querer     |
+| Piensa           | Pensar     |
+| Viaja            | Viajar     |
+| Está             | Estar      |
+| Domina           | Dominar    |
+| Reconozco        | Reconocer  |
+| Confundo         | Confundir  |
+| Va               | Ir         |
+| Pasea            | Pasear     |
+| Descubro         | Descubrir  |
+| Salgo, sale      | Salir      |
+| Vuelvo           | Volver     |
+| Sirven           | Servir     |
+| Preguntamos      | Preguntar  |
+| Tocan            | Tocar      |
+
+#### vocabulario 
+- desde hace …
+- enseña 
+- piensa 
+- domina bastante bien (dominar)
+- sin embargo
+- beca
+- rincón 
+ 
+
 
 ## Opiniones sobre el aprendizaje de español
 

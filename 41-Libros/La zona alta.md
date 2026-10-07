@@ -19,6 +19,8 @@ date: 2026-09-28
 - colgar
 - estupendo
 - atraco
+- chiringuito 
+- envidia
 
 ## Frases
 - déjame pensarlo
