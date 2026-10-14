@@ -110,4 +110,4 @@ Pág 151-154: 1, 2, 4, 5, 10
 ---
 
 **Navegación:**
-[[20261005 Lección tres|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | [[20261007 Lección cuatro.sync-conflict-20261007-091919-U63KYZO|Lección siguiente ➡️]]
+[[20261005 Lección tres|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | [[20261014 Lección cinco|Lección siguiente ➡️]]
