@@ -1,12 +1,12 @@
 ---
-title: "005: Tema"
+title: "005: Lección cinco"
 date: 2026-10-14
 tags:
   - español
   - lección
   - 2A2
 ---
-# 00X: Tema
+
 [[20261007 Lección cuatro]]
 
 [[#Deberes|📝 Deberes de la lección]]
@@ -241,6 +241,9 @@ Estoy independiente de campo visual individual
 - así que 
 - rincón 
 - comillas 
+- viajar a … vs. viajar por…
+- confundir 
+- 
 ### 📖 Leer en voz alta
 
 - **Leer en voz alta** $\rightarrow$ *Read aloud / Читать вслух*
@@ -324,7 +327,29 @@ Estoy independiente de campo visual individual
 
 * **`alex@ejemplo.com`** $\rightarrow$ *alex **arroba** ejemplo **punto** com*
 * **`https://sitio.com/notas_2026`** $\rightarrow$ *h-t-t-p-s **dos puntos barra barra** sitio **punto** com **barra** notas **guion bajo** dos mil veintiséis*
-* 
+# ✈️ Viajar A vs. Viajar POR
+
+## 📌 Reglas clave
+
+- **Viajar A + lugar:** Indica el **destino final** (*travel to / ехать в*).
+- **Viajar POR + lugar:** Indica **desplazamiento o recorrido dentro de una zona/país** (*travel around / путешествовать по*).
+
+---
+
+## 💡 Ejemplos comparativos
+
+| Estructura | Enfoque | Ejemplo | Traducción |
+| :--- | :--- | :--- | :--- |
+| **Viajar A** | Destino puntual | *El mes que viene voy a **viajar a** Italia.* | В следующем месяце я поеду в Италию. |
+| **Viajar POR** | Recorrido interno | *Quiero **viajar por** Italia durante tres semanas.* | Я хочу путешествовать по Италии в течение трех недель. |
+
+---
+
+## 📝 Más ejemplos
+
+1. *El año pasado **viajamos a** Japón.* (Поездка в конкретную страну как цель).
+2. *Nos gusta **viajar por** el norte de España en coche.* (Маршрут по северу Испании).
+3. *¿Vas a **viajar a** Barcelona o vas a **viajar por** toda Cataluña?* (Ты поедешь в Барселону или будешь путешествовать по всей Каталонии?).
 
 ## Deberes
 
