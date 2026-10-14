@@ -243,6 +243,7 @@ Estoy independiente de campo visual individual
 - comillas 
 - viajar a … vs. viajar por…
 - confundir 
+- huir
 - 
 ### 📖 Leer en voz alta
 
@@ -338,10 +339,11 @@ Estoy independiente de campo visual individual
 
 ## 💡 Ejemplos comparativos
 
-| Estructura | Enfoque | Ejemplo | Traducción |
-| :--- | :--- | :--- | :--- |
-| **Viajar A** | Destino puntual | *El mes que viene voy a **viajar a** Italia.* | В следующем месяце я поеду в Италию. |
+| Estructura     | Enfoque           | Ejemplo                                              | Traducción                                             |
+| :------------- | :---------------- | :--------------------------------------------------- | :----------------------------------------------------- |
+| **Viajar A**   | Destino puntual   | *El mes que viene voy a **viajar a** Italia.*        | В следующем месяце я поеду в Италию.                   |
 | **Viajar POR** | Recorrido interno | *Quiero **viajar por** Italia durante tres semanas.* | Я хочу путешествовать по Италии в течение трех недель. |
+|                |                   |                                                      |                                                        |
 
 ---
 
@@ -350,9 +352,93 @@ Estoy independiente de campo visual individual
 1. *El año pasado **viajamos a** Japón.* (Поездка в конкретную страну как цель).
 2. *Nos gusta **viajar por** el norte de España en coche.* (Маршрут по северу Испании).
 3. *¿Vas a **viajar a** Barcelona o vas a **viajar por** toda Cataluña?* (Ты поедешь в Барселону или будешь путешествовать по всей Каталонии?).
+# 👢 Verbos Bota / Verbos Zapato (Verbos con cambio vocálico)
+
+Son verbos cuya vocal de la raíz cambia al conjugar en **Presente de Indicativo**, excepto en las formas de *nosotros/as* y *vosotros/as*.
+
+---
+
+## 🎨 Esquema visual (La "Bota")
+
+| Persona | Cambia la raíz? | Ejemplo: *Querer* (E $\rightarrow$ IE) | Ejemplo: *Poder* (O $\rightarrow$ UE) |
+| :--- | :---: | :--- | :--- |
+| **Yo** | **Sí** 👟 | qu**ie**ro | p**ue**do |
+| **Tú** | **Sí** 👟 | qu**ie**res | p**ue**des |
+| **Él / Ella / Ud.** | **Sí** 👟 | qu**ie**re | p**ue**de |
+| **Nosotros/as** | **NO** ❌ | queremos | podemos |
+| **Vosotros/as** | **NO** ❌ | queréis | podéis |
+| **Ellos / Ellas / Uds.** | **Sí** 👟 | qu**ie**ren | p**ue**den |
+
+---
+
+## 📌 Principales patrones de cambio
+
+### 1. E $\rightarrow$ IE
+- **Querer:** qu**ie**ro, qu**ie**res, qu**ie**re, queremos, queréis, qu**ie**ren.
+- **Pensar:** p**ie**nso, p**ie**nsas, p**ie**nsa, pensamos, pensáis, p**ie**nsan.
+
+### 2. O $\rightarrow$ UE
+- **Poder:** p**ue**do, p**ue**des, p**ue**de, podemos, podéis, p**ue**den.
+- **Dormir:** d**ue**rmo, d**ue**rmes, d**ue**rme, dormimos, dormís, d**ue**rmen.
+
+### 3. E $\rightarrow$ I
+- **Pedir:** p**i**do, p**i**des, p**i**de, pedimos, pedís, p**i**den.
+- **Servir:** s**i**rvo, s**i**rves, s**i**rve, servimos, servís, s**i**rven.
+
+> [!NOTE]
+> **Excepción de patrón:** El verbo **Jugar** cambia de **U $\rightarrow$ UE** (*juego, juegas, juega, jugamos, jugáis, juegan*), pero sigue exactamente la misma regla de la bota.
+# 🎩 Verbos Sombrero (Irregulares solo en la 1.ª persona "Yo")
+
+Son verbos cuya irregularidad ocurre **únicamente en la primera persona del singular (*Yo*)** en el Presente de Indicativo. El resto de las personas (*tú, él, nosotros...*) se conjugan de forma totalmente regular.
+
+---
+
+## 🎨 Esquema visual (El "Sombrero")
+
+| Persona | Status | Ejemplo: *Hacer* | Ejemplo: *Conocer* | Ejemplo: *Dar* |
+| :--- | :---: | :--- | :--- | :--- |
+| **Yo** | **Irregular** 🎩 | **Hago** | **Conozco** | **Doy** |
+| **Tú** | Regular 🟢 | haces | conoces | das |
+| **Él / Ella / Ud.** | Regular 🟢 | hace | conoce | da |
+| **Nosotros/as** | Regular 🟢 | hacemos | conocemos | damos |
+| **Vosotros/as** | Regular 🟢 | hacéis | conocéis | dais |
+| **Ellos / Ellas / Uds.** | Regular 🟢 | hacen | conocen | dan |
+
+---
+
+## 📌 Categorías principales
+
+### 1. Verbos en -GO
+- **Hacer** $\rightarrow$ *Yo **hago***
+- **Poner** $\rightarrow$ *Yo **pongo***
+- **Salir** $\rightarrow$ *Yo **salgo***
+- **Traer** $\rightarrow$ *Yo **traigo***
+
+### 2. Verbos en -ZCO (terminados en *-cer* y *-cir*)
+- **Conocer** $\rightarrow$ *Yo **conozco***
+- **Parecer** $\rightarrow$ *Yo **parezco***
+- **Conducir** $\rightarrow$ *Yo **conduzco***
+- **Traducir** $\rightarrow$ *Yo **traduzco***
+
+### 3. Otras irregularidades en "Yo"
+- **Saber** $\rightarrow$ *Yo **sé***
+- **Dar** $\rightarrow$ *Yo **doy***
+- **Ver** $\rightarrow$ *Yo **veo***
+
+---
+
+## 💡 Verbos mixtos (Sombrero + Bota)
+
+Son verbos que combinan el **sombrero** (irregularidad en *Yo*) con la **bota** (cambio vocálico en *tú, él, ellos*):
+
+* **Tener:** **Tengo** 🎩 (Yo) / t**ie**nes 👟, t**ie**ne 👟, tenemos, tenéis, t**ie**nen 👟.
+* **Venir:** **Vengo** 🎩 (Yo) / v**ie**nes 👟, v**ie**ne 👟, venimos, venís, v**ie**nen 👟.
+* **Decir:** **Digo** 🎩 (Yo) / d**i**ces 👟, d**i**ce 👟, decimos, decís, d**i**cen 👟.
 
 ## Deberes
-
+153 - 6, 7, 8
+156 - 18
+Si. 
 ---
 
 **Navegación:**
