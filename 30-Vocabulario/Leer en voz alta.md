@@ -4,9 +4,9 @@ tags: [vocabulario, verbos]
 ---
 # 📖 Leer en voz alta
 
-- **Leer en voz alta** $\rightarrow$ *Read aloud / Читать вслух*
-- **Leer para uno mismo** $\rightarrow$ *Read to oneself / Читать про себя*
-- **Leer en silencio** $\rightarrow$ *Read silently / Читать в тишине*
+- **Leer en voz alta** → *Read aloud / Читать вслух*
+- **Leer para uno mismo** → *Read to oneself / Читать про себя*
+- **Leer en silencio** → *Read silently / Читать в тишине*
 
 ---
 

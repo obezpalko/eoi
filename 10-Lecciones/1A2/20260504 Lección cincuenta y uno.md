@@ -64,7 +64,7 @@ El verbo **soler** (o → ue) indica un hábito o costumbre (to usually do somet
 - *(Pasado)*: Yo **solía jugar** al fútbol cuando era niño.
 
 **Niveles de Frecuencia:**
-siempre $>$ a menudo $>$ a veces $>$ de vez en cuando $>$ pocas veces $>$ nunca.
+siempre > a menudo > a veces > de vez en cuando > pocas veces > nunca.
 
 ### 3. Estar + Gerundio
 

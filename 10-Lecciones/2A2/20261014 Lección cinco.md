@@ -92,11 +92,11 @@ Jutta Schneider **tiene** 38 años y desde hace cuatro **vive** en Oviedo. Es pr
 | :------------- | :-------------- | :------------------------------------------------ |
 | **levantarse** | **se levanta**  | Verbo reflexivo (*se*)                            |
 | **desayunar**  | **desayuna**    | Regular (-ar)                                     |
-| **tener**      | **tiene**       | Irregular ($e \rightarrow ie$)                    |
+| **tener**      | **tiene**       | Irregular (e → ie)                    |
 | **hablar**     | **habla**       | Regular (-ar)                                     |
 | **leer**       | **lee**         | Regular (-er)                                     |
 | **ver**        | **ve**          | Irregular en presente                             |
-| **querer**     | **quiere**      | Verbo Bota / Cambio vocálico ($e \rightarrow ie$) |
+| **querer**     | **quiere**      | Verbo Bota / Cambio vocálico (e → ie) |
 | **vivir**      | **vive**        | Regular (-ir)                                     |
 | **estudiar**   | **estudia**     | Regular (-ar)                                     |
 | **trabajar**   | **trabaja**     | Regular (-ar)                                     |
@@ -106,19 +106,19 @@ Jutta Schneider **tiene** 38 años y desde hace cuatro **vive** en Oviedo. Es pr
 
 ## 📌 Respuestas del texto
 
-- (vivir) $\rightarrow$ **Vivo**
-- (conocer) $\rightarrow$ **Conozco** *(Verbo Sombrero: irregular en Yo)*
-- (pensar) $\rightarrow$ **Pienso** *(Verbo Bota: e $\rightarrow$ ie)*
-- (levantarse) $\rightarrow$ **Me levanto**
-- (ducharse) $\rightarrow$ **Me ducho**
-- (vestirse) $\rightarrow$ **Me visto** *(Verbo Bota: e $\rightarrow$ i)*
-- (salir) $\rightarrow$ **Salgo** *(Verbo Sombrero: -go)*
-- (tener) $\rightarrow$ **Tengo** *(Sombrero + Bota)*
-- (poder) $\rightarrow$ **Puedo** *(Verbo Bota: o $\rightarrow$ ue)*
-- (empezar) $\rightarrow$ **Empiezo** *(Verbo Bota: e $\rightarrow$ ie)*
-- (cerrar) $\rightarrow$ **Cierro** *(Verbo Bota: e $\rightarrow$ ie)*
-- (trabajar) $\rightarrow$ **Trabajo**
-- (sentir) $\rightarrow$ **Siento** *(Verbo Bota: e $\rightarrow$ ie)*
+- (vivir) → **Vivo**
+- (conocer) → **Conozco** *(Verbo Sombrero: irregular en Yo)*
+- (pensar) → **Pienso** *(Verbo Bota: e → ie)*
+- (levantarse) → **Me levanto**
+- (ducharse) → **Me ducho**
+- (vestirse) → **Me visto** *(Verbo Bota: e → i)*
+- (salir) → **Salgo** *(Verbo Sombrero: -go)*
+- (tener) → **Tengo** *(Sombrero + Bota)*
+- (poder) → **Puedo** *(Verbo Bota: o → ue)*
+- (empezar) → **Empiezo** *(Verbo Bota: e → ie)*
+- (cerrar) → **Cierro** *(Verbo Bota: e → ie)*
+- (trabajar) → **Trabajo**
+- (sentir) → **Siento** *(Verbo Bota: e → ie)*
 
 ---
 
@@ -130,14 +130,14 @@ Jutta Schneider **tiene** 38 años y desde hace cuatro **vive** en Oviedo. Es pr
 
 ## 📊 Resumen gramatical de los verbos del texto
 
-| Infinitivo                             | Tipo de irregularidad                          | Forma en 1.ª persona (*Yo*)            |
-| :------------------------------------- | :--------------------------------------------- | :------------------------------------- |
-| **conocer**                            | Verbo Sombrero (-zco)                          | **conozco**                            |
-| **salir**                              | Verbo Sombrero (-go)                           | **salgo**                              |
-| **pensar / empezar / cerrar / sentir** | Verbo Bota ($e \rightarrow ie$)                | **pienso / empiezo / cierro / siento** |
-| **poder**                              | Verbo Bota ($o \rightarrow ue$)                | **puedo**                              |
-| **vestirse**                           | Verbo Bota ($e \rightarrow i$)                 | **me visto**                           |
-| **tener**                              | Mixto (Sombrero -go + Bota $e \rightarrow ie$) | **tengo**                              |
+| Infinitivo                             | Tipo de irregularidad              | Forma en 1.ª persona (*Yo*)            |
+| :------------------------------------- | :--------------------------------- | :------------------------------------- |
+| **conocer**                            | Verbo Sombrero (-zco)              | **conozco**                            |
+| **salir**                              | Verbo Sombrero (-go)               | **salgo**                              |
+| **pensar / empezar / cerrar / sentir** | Verbo Bota (e → ie)                | **pienso / empiezo / cierro / siento** |
+| **poder**                              | Verbo Bota (o → ue)                | **puedo**                              |
+| **vestirse**                           | Verbo Bota (e → i)                 | **me visto**                           |
+| **tener**                              | Mixto (Sombrero -go + Bota e → ie) | **tengo**                              |
 
 - 8
 

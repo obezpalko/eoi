@@ -10,7 +10,7 @@ Son verbos cuya vocal de la raíz cambia al conjugar en **Presente de Indicativo
 
 ## 🎨 Esquema visual (La "Bota")
 
-| Persona                  | Cambia la raíz? | Ejemplo: *Querer* (E $\rightarrow$ IE) | Ejemplo: *Poder* (O $\rightarrow$ UE) |
+| Persona                  | Cambia la raíz? | Ejemplo: *Querer* (E → IE) | Ejemplo: *Poder* (O → UE) |
 | :----------------------- | :-------------: | :------------------------------------- | :------------------------------------ |
 | **Yo**                   |    **Sí** 👟    | qu**ie**ro                             | p**ue**do                             |
 | **Tú**                   |    **Sí** 👟    | qu**ie**res                            | p**ue**des                            |
@@ -23,7 +23,7 @@ Son verbos cuya vocal de la raíz cambia al conjugar en **Presente de Indicativo
 
 ## 📌 Principales patrones de cambio
 
-### 1. E $\rightarrow$ IE
+### 1. E → IE
 - **Querer** *(to want / хотеть):* qu**ie**ro, qu**ie**res, qu**ie**re, queremos, queréis, qu**ie**ren.
 - **Pensar** *(to think / думать):* p**ie**nso, p**ie**nsas, p**ie**nsa, pensamos, pensáis, p**ie**nsan.
 - **Empezar** *(to start / начинать):* emp**ie**zo, emp**ie**zas, emp**ie**za, empezamos, empezáis, emp**ie**zan.
@@ -33,7 +33,7 @@ Son verbos cuya vocal de la raíz cambia al conjugar en **Presente de Indicativo
 - **Perder** *(to lose / терять, проигрывать):* p**ie**rdo, p**ie**rdes, p**ie**rde, perdemos, perdéis, p**ie**rden.
 - **Sentir** *(to feel / чувствовать):* s**ie**nto, s**ie**ntes, s**ie**nte, sentimos, sentís, s**ie**nten.
 
-### 2. O $\rightarrow$ UE
+### 2. O → UE
 - **Poder** *(can, to be able / мочь):* p**ue**do, p**ue**des, p**ue**de, podemos, podéis, p**ue**den.
 - **Dormir** *(to sleep / спать):* d**ue**rmo, d**ue**rmes, d**ue**rme, dormimos, dormís, d**ue**rmen.
 - **Volver** *(to return / возвращаться):* v**ue**lvo, v**ue**lves, v**ue**lve, volvemos, volvéis, v**ue**lven.
@@ -43,7 +43,7 @@ Son verbos cuya vocal de la raíz cambia al conjugar en **Presente de Indicativo
 - **Contar** *(to count, to tell / считать, рассказывать):* c**ue**nto, c**ue**ntas, c**ue**nta, contamos, contáis, c**ue**ntan.
 - **Almorzar** *(to have lunch / обедать):* alm**ue**rzo, alm**ue**rzas, alm**ue**rza, almorzamos, almorzáis, alm**ue**rzan.
 
-### 3. E $\rightarrow$ I
+### 3. E → I
 - **Pedir** *(to ask for / просить, заказывать):* p**i**do, p**i**des, p**i**de, pedimos, pedís, p**i**den.
 - **Servir** *(to serve / подавать, служить):* s**i**rvo, s**i**rves, s**i**rve, servimos, servís, s**i**rven.
 - **Repetir** *(to repeat / повторять):* rep**i**to, rep**i**tes, rep**i**te, repetimos, repetís, rep**i**ten.
@@ -52,7 +52,7 @@ Son verbos cuya vocal de la raíz cambia al conjugar en **Presente de Indicativo
 - **Vestirse** *(to get dressed / одеваться):* me v**i**sto, te v**i**stes, se v**i**ste, nos vestimos, os vestís, se v**i**sten.
 
 > [!NOTE]
-> **Excepción de patrón:** El verbo **Jugar** *(to play / играть)* cambia de **U $\rightarrow$ UE** (*juego, juegas, juega, jugamos, jugáis, juegan*), pero sigue exactamente la misma regla de la bota.
+> **Excepción de patrón:** El verbo **Jugar** *(to play / играть)* cambia de **U → UE** (*juego, juegas, juega, jugamos, jugáis, juegan*), pero sigue exactamente la misma regla de la bota.
 
 ## 💡 Ejemplos
 

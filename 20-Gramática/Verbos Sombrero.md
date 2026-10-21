@@ -24,32 +24,32 @@ Son verbos cuya irregularidad ocurre **únicamente en la primera persona del sin
 ## 📌 Categorías principales
 
 ### 1. Verbos en -GO
-- **Hacer** *(to do, to make / делать)* $\rightarrow$ *Yo **hago***
-- **Poner** *(to put / класть, ставить)* $\rightarrow$ *Yo **pongo***
-- **Salir** *(to go out, to leave / выходить)* $\rightarrow$ *Yo **salgo***
-- **Traer** *(to bring / приносить)* $\rightarrow$ *Yo **traigo***
-- **Caer** *(to fall / падать)* $\rightarrow$ *Yo **caigo***
-- **Oír** *(to hear / слышать)* $\rightarrow$ *Yo **oigo*** (además: *oyes, oye, oímos, oís, oyen*)
-- **Valer** *(to be worth / стоить)* $\rightarrow$ *Yo **valgo***
-- **Suponer** *(to suppose / предполагать)* $\rightarrow$ *Yo **supongo***
+- **Hacer** *(to do, to make / делать)* → *Yo **hago***
+- **Poner** *(to put / класть, ставить)* → *Yo **pongo***
+- **Salir** *(to go out, to leave / выходить)* → *Yo **salgo***
+- **Traer** *(to bring / приносить)* → *Yo **traigo***
+- **Caer** *(to fall / падать)* → *Yo **caigo***
+- **Oír** *(to hear / слышать)* → *Yo **oigo*** (además: *oyes, oye, oímos, oís, oyen*)
+- **Valer** *(to be worth / стоить)* → *Yo **valgo***
+- **Suponer** *(to suppose / предполагать)* → *Yo **supongo***
 
 ### 2. Verbos en -ZCO (terminados en *-cer* y *-cir*)
-- **Conocer** *(to know a person/place / знать, быть знакомым)* $\rightarrow$ *Yo **conozco***
-- **Parecer** *(to seem / казаться)* $\rightarrow$ *Yo **parezco***
-- **Conducir** *(to drive / водить)* $\rightarrow$ *Yo **conduzco***
-- **Traducir** *(to translate / переводить)* $\rightarrow$ *Yo **traduzco***
-- **Ofrecer** *(to offer / предлагать)* $\rightarrow$ *Yo **ofrezco***
-- **Agradecer** *(to thank / благодарить)* $\rightarrow$ *Yo **agradezco***
-- **Merecer** *(to deserve / заслуживать)* $\rightarrow$ *Yo **merezco***
-- **Producir** *(to produce / производить)* $\rightarrow$ *Yo **produzco***
-- **Obedecer** *(to obey / подчиняться)* $\rightarrow$ *Yo **obedezco***
+- **Conocer** *(to know a person/place / знать, быть знакомым)* → *Yo **conozco***
+- **Parecer** *(to seem / казаться)* → *Yo **parezco***
+- **Conducir** *(to drive / водить)* → *Yo **conduzco***
+- **Traducir** *(to translate / переводить)* → *Yo **traduzco***
+- **Ofrecer** *(to offer / предлагать)* → *Yo **ofrezco***
+- **Agradecer** *(to thank / благодарить)* → *Yo **agradezco***
+- **Merecer** *(to deserve / заслуживать)* → *Yo **merezco***
+- **Producir** *(to produce / производить)* → *Yo **produzco***
+- **Obedecer** *(to obey / подчиняться)* → *Yo **obedezco***
 
 ### 3. Otras irregularidades en "Yo"
-- **Saber** *(to know a fact, to know how / знать, уметь)* $\rightarrow$ *Yo **sé***
-- **Dar** *(to give / давать)* $\rightarrow$ *Yo **doy***
-- **Ver** *(to see / видеть)* $\rightarrow$ *Yo **veo***
-- **Estar** *(to be / быть, находиться)* $\rightarrow$ *Yo **estoy***
-- **Caber** *(to fit / помещаться)* $\rightarrow$ *Yo **quepo***
+- **Saber** *(to know a fact, to know how / знать, уметь)* → *Yo **sé***
+- **Dar** *(to give / давать)* → *Yo **doy***
+- **Ver** *(to see / видеть)* → *Yo **veo***
+- **Estar** *(to be / быть, находиться)* → *Yo **estoy***
+- **Caber** *(to fit / помещаться)* → *Yo **quepo***
 
 ---
 

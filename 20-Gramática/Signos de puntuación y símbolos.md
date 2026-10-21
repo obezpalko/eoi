@@ -68,4 +68,4 @@ tags: [gramática, ortografía, vocabulario]
 
 ## 💡 Consejo de pronunciación para correos y enlaces
 
-* **`alex@ejemplo.com`** $\rightarrow$ *alex **arroba** ejemplo **punto** com*
+* **`alex@ejemplo.com`** → *alex **arroba** ejemplo **punto** com*

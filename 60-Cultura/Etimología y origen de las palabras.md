@@ -21,26 +21,26 @@ tags: [cultura, vocabulario, etimología]
 
 ## 📝 Detalles por palabra
 
-1. **Mejillón** $\rightarrow$ **Gallego / Portugués**  
+1. **Mejillón** → **Gallego / Portugués**  
    Proviene del gallego-portugués *mexeillón* / *mexilhão*. Al ser una especie muy abundante en las costas del noroeste de la península ibérica, el término gallego se incorporó al castellano.
 
-2. **Ópera** $\rightarrow$ **Italiano**  
+2. **Ópera** → **Italiano**  
    Entró en el siglo XVII directamente del italiano *opera* (que a su vez viene del latín *opera*, plural de *opus*, que significa «obra»).
 
-3. **Cacao** $\rightarrow$ **Náhuatl**  
+3. **Cacao** → **Náhuatl**  
    Es un americanismo tomado de la lengua náhuatl (*cacahuatl*), hablada por los aztecas en México, de donde se expandió al resto del mundo.
 
-4. **Termómetro** $\rightarrow$ **Griego clásico** *(vía neologismo científico)*  
+4. **Termómetro** → **Griego clásico** *(vía neologismo científico)*  
    Es un cultismo compuesto por las raíces griegas **θερμός** (*therms* = caliente/calor) y **μέτρον** (*métron* = medida). Se creó en Europa en el siglo XVII para nombrar el invento científico.
 
-5. **Hotel** $\rightarrow$ **Francés**  
+5. **Hotel** → **Francés**  
    Préstamo del francés *hôtel* (que a su vez procede del francés antiguo *hostel* y este del latín *hospitale*).
 
-6. **Almohada** $\rightarrow$ **Árabe**  
+6. **Almohada** → **Árabe**  
    Proviene del árabe hispánico *al-mujádda* (المخدة), derivado de *jadd* («mejilla»). Significa literalmente «lugar donde se apoya la mejilla». El prefijo *al-* es el artículo árabe.
 
-7. **Blanco** $\rightarrow$ **Germánico**  
+7. **Blanco** → **Germánico**  
    Sustituyó al término latino *albus*. Proviene del germánico *\*blank* («brillante» / «blanco»), introducido durante las invasiones germánicas en la Península Ibérica.
 
-8. **Cóndor** $\rightarrow$ **Quechua**  
+8. **Cóndor** → **Quechua**  
    Es un americanismo de origen quechua (*kuntur*), el idioma nativo de los Andes en Sudamérica.
