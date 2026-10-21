@@ -88,18 +88,18 @@ Jutta Schneider **tiene** 38 años y desde hace cuatro **vive** en Oviedo. Es pr
 
 ## 📊 Conjugaciones utilizadas (3.ª persona del singular: Jutta / Ella)
 
-| Infinitivo     | Forma conjugada | Tipo de verbo / Notas                             |
-| :------------- | :-------------- | :------------------------------------------------ |
-| **levantarse** | **se levanta**  | Verbo reflexivo (*se*)                            |
-| **desayunar**  | **desayuna**    | Regular (-ar)                                     |
+| Infinitivo     | Forma conjugada | Tipo de verbo / Notas                 |
+| :------------- | :-------------- | :------------------------------------ |
+| **levantarse** | **se levanta**  | Verbo reflexivo (*se*)                |
+| **desayunar**  | **desayuna**    | Regular (-ar)                         |
 | **tener**      | **tiene**       | Irregular (e → ie)                    |
-| **hablar**     | **habla**       | Regular (-ar)                                     |
-| **leer**       | **lee**         | Regular (-er)                                     |
-| **ver**        | **ve**          | Irregular en presente                             |
+| **hablar**     | **habla**       | Regular (-ar)                         |
+| **leer**       | **lee**         | Regular (-er)                         |
+| **ver**        | **ve**          | Irregular en presente                 |
 | **querer**     | **quiere**      | Verbo Bota / Cambio vocálico (e → ie) |
-| **vivir**      | **vive**        | Regular (-ir)                                     |
-| **estudiar**   | **estudia**     | Regular (-ar)                                     |
-| **trabajar**   | **trabaja**     | Regular (-ar)                                     |
+| **vivir**      | **vive**        | Regular (-ir)                         |
+| **estudiar**   | **estudia**     | Regular (-ar)                         |
+| **trabajar**   | **trabaja**     | Regular (-ar)                         |
 
 ### 153.7
 # 📖 Ejercicio 7: Rutina de Anne (Presente - 1.ª persona "Yo")
