@@ -73,11 +73,14 @@ Partes del examen:
 - las seis
 
 ## Vocabulario
-- amable
-- chapa
-- brazo
-- ancha
-- ganar
+
+| Español | English | Русский |
+| :--- | :--- | :--- |
+| amable | kind, friendly | любезный, добрый |
+| chapa | badge, metal sheet; bottle cap | значок, металлический лист; крышка |
+| brazo | arm | рука (от плеча до кисти) |
+| ancha | wide | широкая |
+| ganar | to win, to earn | выигрывать, зарабатывать |
 
 ## Deberes
 - [[materiales/Evaluation unidades 4, 5, 6|Evaluación unidades 4, 5, 6]]

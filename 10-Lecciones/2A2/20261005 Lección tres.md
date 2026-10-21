@@ -45,18 +45,21 @@ aliases:
 10. Daniela habla en inglés con su maestra.
 
 ## Vocabulario
-- estoy *totalmente* de acuerdo (con …)
-- no estoy *nada* de acuerdo
-- acuerdo
-- recordar
-- acordarse (de) — *recordarse* no se usa con este sentido
-- confundir
-- rollo
-- ¡Qué va!
-- avanzar
-- imprescindible
-- dar consejos para …
-- dar vergüenza
+
+| Español | English | Русский |
+| :--- | :--- | :--- |
+| estoy *totalmente* de acuerdo (con …) | I totally agree (with …) | я полностью согласен (с …) |
+| no estoy *nada* de acuerdo | I don't agree at all | я совсем не согласен |
+| acuerdo | agreement | согласие |
+| recordar | to remember, to remind | помнить, напоминать |
+| acordarse (de) — *recordarse* no se usa con este sentido | to remember (*recordarse* is not used in this sense) | помнить, вспоминать (*recordarse* в этом значении не используется) |
+| confundir | to confuse, to mix up | путать |
+| rollo | drag, boring thing | нудятина, скукотища |
+| ¡Qué va! | No way! Not at all! | Да ну! Ничего подобного! |
+| avanzar | to advance, to make progress | продвигаться, прогрессировать |
+| imprescindible | essential, indispensable | необходимый, незаменимый |
+| dar consejos para … | to give advice for … | давать советы для … |
+| dar vergüenza | to embarrass (see [[../../20-Gramática/Me da y me dan\|me da / me dan]]) | стыдить, быть стыдно |
 
 ### [[../../30-Vocabulario/Temas/Herramientas|Herramientas comunes en español]]
 
@@ -121,15 +124,16 @@ Pág. 14, 15, ej. 4
 | Tocan            | Tocar      |            |
 
 #### vocabulario 
-- desde hace …
-- enseña 
-- piensa 
-- domina bastante bien (dominar)
-- sin embargo
-- beca
-- rincón 
- 
 
+| Español | English | Русский |
+| :--- | :--- | :--- |
+| desde hace … | for … (see [[../../20-Gramática/Desde y desde hace\|desde y desde hace]]) | уже … (период времени) |
+| enseña | he/she teaches, shows | преподаёт, показывает |
+| piensa | he/she thinks | думает |
+| domina bastante bien (dominar) | he/she masters quite well (to master) | достаточно хорошо владеет (владеть) |
+| sin embargo | however | однако |
+| beca | scholarship | стипендия |
+| rincón | corner | уголок |
 
 ## Opiniones sobre el aprendizaje de español
 

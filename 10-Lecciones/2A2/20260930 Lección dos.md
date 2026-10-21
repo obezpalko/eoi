@@ -25,12 +25,15 @@ aliases:
 ![[attachments/1790756926805-ed48acb6-ddda-4944-84b0-c2f14d0c7138_.jpg]]
 
 ## Vocabulario
-- embutidos
-- fiambre
-- ambiente
-- gente, generosa, la generosidad
-- cabaña
-- fluidez
+
+| Español | English | Русский |
+| :--- | :--- | :--- |
+| embutidos | cured sausages and meats | колбасные изделия, вяленое мясо |
+| fiambre | cold cuts | нарезка (ветчина, варёная колбаса) |
+| ambiente | atmosphere | атмосфера |
+| gente, generosa, la generosidad | people, generous, generosity | люди, щедрая, щедрость |
+| cabaña | cabin | хижина, домик |
+| fluidez | fluency | беглость, свободное владение |
 
 ---
 

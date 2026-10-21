@@ -36,7 +36,7 @@ tags:
 | Desde + fecha: Akira vive en España desde enero del año pasado              |              |
 | Desde hace + años/meses/semanas: Paul vive en España desde hace veinte años |              |
 |                                                                             |              |
-| [[../../20-Gramática/Desde y desde hace|Desde y desde hace]]                                                      |              |
+| [[../../20-Gramática/Desde y desde hace\|Desde y desde hace]]                                                      |              |
 |                                                                             |              |
 
 ### 9. 
@@ -80,18 +80,20 @@ tags:
 3. ¿A qué te dedicas? ¿Cuál es tu profesión?
 4. Aparte de español, ¿qué idiomas hablas?
 ## Vocabulario
-- aparte de …
-- [[../../30-Vocabulario/Verbos/defenderse|me defiendo]]
-- forma de ser
-- conseguir 
-- ¿Qué te questa más de …?
-- retener
-- le cuesta
-- contar
-- aprender 
-- recortar
-- dependiente de campo
-- 
+
+| Español | English | Русский |
+| :--- | :--- | :--- |
+| aparte de … | apart from …, besides … | помимо …, кроме … |
+| [[../../30-Vocabulario/Verbos/defenderse\|me defiendo]] | I get by | я справляюсь, могу объясниться |
+| forma de ser | personality, way of being | характер, склад характера |
+| conseguir | to get, to achieve | добиваться, получать |
+| ¿Qué te cuesta más de …? | What do you find hardest about …? | Что тебе даётся труднее всего в …? |
+| retener | to retain, to remember | удерживать (в памяти) |
+| le cuesta | it is hard for him/her | ему/ей трудно |
+| contar | to count, to tell | считать, рассказывать |
+| aprender | to learn | учить, учиться |
+| recortar | to cut out | вырезать |
+| dependiente de campo | field-dependent | полезависимый |
 
 ## 3. ¿Cómo aprendes?
 1.3 pág.13

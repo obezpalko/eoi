@@ -54,6 +54,25 @@ Son verbos cuya vocal de la raíz cambia al conjugar en **Presente de Indicativo
 > [!NOTE]
 > **Excepción de patrón:** El verbo **Jugar** *(to play / играть)* cambia de **U → UE** (*juego, juegas, juega, jugamos, jugáis, juegan*), pero sigue exactamente la misma regla de la bota.
 
+## 📋 Más verbos E → IE
+
+| Infinitivo | Forma («tú») | English | Русский |
+| :--- | :--- | :--- | :--- |
+| merendar | m**ie**rendas | to have an afternoon snack | полдничать |
+| fregar | fr**ie**gas | to wash up, to scrub | мыть (посуду, пол) |
+| temblar | t**ie**mblas | to tremble | дрожать |
+| gobernar | gob**ie**rnas | to govern | управлять |
+| nevar | n**ie**va | to snow | идти (о снеге) |
+| tender | t**ie**ndes | to hang out, to tend | развешивать, протягивать |
+| hervir | h**ie**rves | to boil | кипятить, кипеть |
+| manifestar | manif**ie**stas | to show, to demonstrate | выражать, демонстрировать |
+| calentar | cal**ie**ntas | to heat, to warm up | греть |
+| mentir | m**ie**ntes | to lie | лгать |
+| sembrar | s**ie**mbras | to sow | сеять |
+| apretar | apr**ie**tas | to squeeze, to tighten | сжимать, нажимать |
+| recomendar | recom**ie**ndas | to recommend | рекомендовать |
+| sentir | s**ie**ntes | to feel | чувствовать (ver [[Sentir y sentirse]]) |
+
 ## 💡 Ejemplos
 
 1. *Yo **quiero** un café, pero mis amigos **quieren** té.* (*I want a coffee, but my friends want tea.* / Я хочу кофе, а мои друзья хотят чай.)

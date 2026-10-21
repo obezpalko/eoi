@@ -59,34 +59,37 @@ Estoy independiente de campo visual individual
 [[../../20-Gramática/Signos de puntuación y símbolos|🔣 Signos de puntuación y símbolos]]
 
 ## Vocabulario
-- aprender
-- aprendizaje
-- correcto vs. correctamente
-- comprender
-- juegos de rol
-- [[../../30-Vocabulario/Leer en voz alta|📖 Leer en voz alta]]
-- percebes
-- cometer errores
-- independizarse
-- una beca
-- así que
-- rincón
-- comillas
-- [[../../20-Gramática/Viajar a vs. viajar por|viajar a … vs. viajar por…]]
-- confundir
-- huir
+
+| Español | English | Русский |
+| :--- | :--- | :--- |
+| aprender | to learn | учить, учиться |
+| aprendizaje | learning | обучение |
+| correcto vs. correctamente | correct (adj.) vs. correctly (adv.) | правильный vs. правильно |
+| comprender | to understand | понимать |
+| juegos de rol | role-plays | ролевые игры |
+| [[../../30-Vocabulario/Leer en voz alta\|📖 Leer en voz alta]] | to read aloud | читать вслух |
+| percebes | goose barnacles | морские уточки (перцебес) |
+| cometer errores | to make mistakes | делать ошибки |
+| independizarse | to become independent, to move out | становиться независимым, съехать от родителей |
+| una beca | a scholarship | стипендия |
+| así que | so, therefore | так что, поэтому |
+| rincón | corner | уголок |
+| comillas | quotation marks (see [[../../20-Gramática/Signos de puntuación y símbolos\|signos]]) | кавычки |
+| [[../../20-Gramática/Viajar a vs. viajar por\|viajar a … vs. viajar por…]] | to travel to … vs. to travel around … | ехать в … vs. путешествовать по … |
+| confundir | to confuse, to mix up | путать |
+| huir | to flee, to run away | бежать, спасаться |
 
 ## Deberes
 ### 153.6
-# 📖 Ejercicio de Presente de Indicativo: Jutta Schneider
+#### 📖 Ejercicio de Presente de Indicativo: Jutta Schneider
 
-## 📌 Texto completo resuelto
+##### 📌 Texto completo resuelto
 
 Jutta Schneider **tiene** 38 años y desde hace cuatro **vive** en Oviedo. Es profesora de alemán y **trabaja** en una escuela de idiomas. Tiene las mañanas libres y por eso **se levanta** un poco tarde y **desayuna** en un bar. **Trabaja** toda la tarde hasta las ocho y por las noches **estudia** un poco de español, **ve** la tele y **lee**, especialmente novelas de ciencia ficción. **Habla** muy bien español y le gusta mucho España. Todavía no **quiere** volver a Alemania.
 
 ---
 
-## 📊 Conjugaciones utilizadas (3.ª persona del singular: Jutta / Ella)
+##### 📊 Conjugaciones utilizadas (3.ª persona del singular: Jutta / Ella)
 
 | Infinitivo     | Forma conjugada | Tipo de verbo / Notas                 |
 | :------------- | :-------------- | :------------------------------------ |
@@ -102,9 +105,9 @@ Jutta Schneider **tiene** 38 años y desde hace cuatro **vive** en Oviedo. Es pr
 | **trabajar**   | **trabaja**     | Regular (-ar)                         |
 
 ### 153.7
-# 📖 Ejercicio 7: Rutina de Anne (Presente - 1.ª persona "Yo")
+#### 📖 Ejercicio 7: Rutina de Anne (Presente - 1.ª persona "Yo")
 
-## 📌 Respuestas del texto
+##### 📌 Respuestas del texto
 
 - (vivir) → **Vivo**
 - (conocer) → **Conozco** *(Verbo Sombrero: irregular en Yo)*
@@ -122,13 +125,13 @@ Jutta Schneider **tiene** 38 años y desde hace cuatro **vive** en Oviedo. Es pr
 
 ---
 
-## 🐾 Solución a la profesión
+##### 🐾 Solución a la profesión
 
 **ANNE es veterinaria.**
 
 ---
 
-## 📊 Resumen gramatical de los verbos del texto
+##### 📊 Resumen gramatical de los verbos del texto
 
 | Infinitivo                             | Tipo de irregularidad              | Forma en 1.ª persona (*Yo*)            |
 | :------------------------------------- | :--------------------------------- | :------------------------------------- |
@@ -139,11 +142,52 @@ Jutta Schneider **tiene** 38 años y desde hace cuatro **vive** en Oviedo. Es pr
 | **vestirse**                           | Verbo Bota (e → i)                 | **me visto**                           |
 | **tener**                              | Mixto (Sombrero -go + Bota e → ie) | **tengo**                              |
 
-- 8
+### 153.8
 
-156 - 18
+### 156.18
+
+### 👟 Ejercicio: Verbos Bota con cambio vocálico ($E \rightarrow IE$)
+
+**Regla:** La vocal **E** de la raíz cambia a **IE** en todas las personas del singular (*yo, tú, él/ella*) y en la 3.ª persona del plural (*ellos/ellas*).
+
+---
+
+#### 📋 Lista de preguntas corregidas
+
+1. ¿**Meriendas** todos los días? *(merendar)*
+2. ¿Quién **friega** / **Friegas** los platos en tu casa? *(fregar)*
+3. ¿Por qué algunos animales no **tiemblan** cuando hace frío? *(temblar)*
+4. ¿**Sientes** que avanzas bien en tu aprendizaje del español? *(sentir)*
+5. ¿Cómo es físicamente el presidente que **gobierna** en tu país? *(gobernar)*
+6. ¿**Nieva** mucho en tu país? *(nevar - impersonal)*
+7. ¿Dónde **tiendes** la ropa? *(tender)*
+8. ¿Durante cuánto tiempo **hierves** las verduras? *(hervir)*
+9. ¿**Cierras** siempre con llave la puerta de tu casa? *(cerrar)*
+10. ¿**Manifiestas** siempre tu desacuerdo si no estás de acuerdo con algo? *(manifestar)*
+11. ¿**Calientas** la leche en el microondas o en una cacerola? *(calentar)*
+12. ¿**Mientes** a menudo a tus amigos o familiares? *(mentir)*
+13. ¿En qué estación del año **siembran** los agricultores? *(sembrar)*
+14. ¿A veces **pierdes** los nervios en situaciones complicadas? *(perder)*
+15. En verano, ¿**prefieres** la playa o la montaña? *(preferir)*
+16. ¿**Aprietas** tú los dientes cuando estás enfadado? *(apretar)*
+17. ¿**Entiendes** el significado de la palabra 'ojalá'? *(entender)*
+18. ¿**Piensas** mucho en tu novio(a)? *(pensar)*
+19. ¿Qué ejercicios **recomiendas** para el dolor de espalda? *(recomendar)*
+20. ¿A qué hora **empiezas** tu clase de español? / ¿A qué hora **empieza** la clase? *(empezar)*
+
+---
+
+##### 📊 Vocabulario y cambios vocálicos ($E \rightarrow IE$)
+
+| Infinitivo | Forma conjugada (Tú) | Forma 3.ª persona (Él / Ellos) |
+| :--- | :--- | :--- |
+| **fregar** | tú fr**ie**gas | él fr**ie**ga |
+| **tender** | tú t**ie**ndes | ellos t**ie**nden |
+| **gobernar** | tú gob**ie**rnas | él gob**ie**rna |
+| **sembrar** | tú s**ie**mbras | ellos s**ie**mbran |
+| **temblar** | tú t**ie**mblas | ellos t**ie**mblan |
 
 ---
 
 **Navegación:**
-[[20261007 Lección cuatro|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | Lección siguiente ➡️
+[[20261007 Lección cuatro|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | [[20261021 Lección seis|Lección siguiente ➡️]]
