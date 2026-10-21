@@ -1,12 +1,12 @@
 ---
-title: "004: Tema"
+title: "004: Creencias sobre el aprendizaje, «desde» y «me defiendo»"
 date: 2026-10-07
 tags:
   - español
   - lección
   - 2A2
 ---
-# 004: Tema
+# 004: Creencias sobre el aprendizaje, «desde» y «me defiendo»
 
 [[#Deberes|📝 Deberes de la lección]]
 
@@ -36,7 +36,7 @@ tags:
 | Desde + fecha: Akira vive en España desde enero del año pasado              |              |
 | Desde hace + años/meses/semanas: Paul vive en España desde hace veinte años |              |
 |                                                                             |              |
-| [[Desde y desde hace]]                                                      |              |
+| [[../../20-Gramática/Desde y desde hace|Desde y desde hace]]                                                      |              |
 |                                                                             |              |
 
 ### 9. 
@@ -81,7 +81,7 @@ tags:
 4. Aparte de español, ¿qué idiomas hablas?
 ## Vocabulario
 - aparte de …
-- [[me defiendo]] 
+- [[../../30-Vocabulario/Verbos/defenderse|me defiendo]]
 - forma de ser
 - conseguir 
 - ¿Qué te questa más de …?

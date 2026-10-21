@@ -1,3 +1,7 @@
+---
+title: "Desde y desde hace"
+tags: [gramática, tiempo, preposiciones]
+---
 # ⏱️ Diferencia entre «Desde» y «Desde hace»
 
 Ambas estructuras se utilizan para indicar el origen de una acción que comenzó en el pasado y continúa en el presente, pero se diferencian en qué tipo de información introducen.
@@ -8,7 +12,7 @@ Ambas estructuras se utilizan para indicar el origen de una acción que comenzó
 Indica el **momento exacto** o la fecha en que comenzó la acción (un día, un año, una hora, un acontecimiento).
 
 * **Fórmula:** `desde + fecha / hora / momento específico`
-* **Traducción:** *since* (inglés) / *с* (español/ruso)
+* **Traducción:** *since* (inglés) / *с* (ruso)
 
 ### Ejemplos:
 * *Vivo en España **desde** 2022.*
@@ -22,7 +26,7 @@ Indica el **momento exacto** o la fecha en que comenzó la acción (un día, un 
 Indica la **duración** o la cantidad de tiempo transcurrido desde que empezó la acción hasta el momento actual.
 
 * **Fórmula:** `desde hace + cantidad de tiempo (días, meses, años, horas)`
-* **Traducción:** *for / have been... for* (inglés) / *уже (на протяжении)*
+* **Traducción:** *for / have been... for* (inglés) / *уже … / в течение* (ruso)
 
 ### Ejemplos:
 * *Vivo en España **desde hace** cuatro años.*
@@ -82,3 +86,14 @@ Es una variante muy común en el habla cotidiana que combina la preposición con
 | **¿Desde cuándo...?**           | Momento de inicio / Fecha       | *Desde el lunes / Desde 2022.* |
 | **¿Desde hace cuánto...?**      | Duración acumulada              | *Desde hace 3 semanas.*        |
 | **¿Cuánto tiempo hace que...?** | Cantidad de tiempo transcurrido | *Hace 5 meses.*                |
+
+## 💡 Más ejemplos
+
+| Español | English | Русский |
+| :--- | :--- | :--- |
+| *Estudio español **desde** septiembre.* | I have studied Spanish since September. | Я изучаю испанский с сентября. |
+| *Estudio español **desde hace** un mes.* | I have studied Spanish for a month. | Я изучаю испанский уже месяц. |
+| *Trabaja en Dénia **desde** 2020.* | She has worked in Dénia since 2020. | Она работает в Дении с 2020 года. |
+| *Trabaja en Dénia **desde hace** seis años.* | She has worked in Dénia for six years. | Она работает в Дении уже шесть лет. |
+| *Llueve **desde** esta mañana.* | It has been raining since this morning. | Дождь идёт с сегодняшнего утра. |
+| *Llueve **desde hace** tres horas.* | It has been raining for three hours. | Дождь идёт уже три часа. |
