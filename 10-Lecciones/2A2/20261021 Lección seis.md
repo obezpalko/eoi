@@ -116,4 +116,4 @@ Encuesta: pregunta a tus compañeros con *«¿Cómo te sientes cuando…?»* o *
 ---
 
 **Navegación:**
-[[20261014 Lección cinco|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | Lección siguiente ➡️
+[[20261014 Lección cinco|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | [[20261026 Lección siete|Lección siguiente ➡️]]
