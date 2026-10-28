@@ -20,6 +20,7 @@ tags: [vocabulario, sustantivos]
 - **el ajo** - garlic / чеснок
 - **el albaricoque** - apricot / абрикос
 - **la alcachofa** - artichoke / артишок
+- **la alegría** - joy / радость
 - **el algodón** - cotton / хлопок
 - **los alicates** - pliers / плоскогубцы
 - **la almendra** - almond / миндаль
@@ -35,7 +36,9 @@ tags: [vocabulario, sustantivos]
 - **el aparcamiento** - parking lot / парковка
 - **el apellido** - surname, last name / фамилия
 - **el apio** - celery / сельдерей
+- **el aprendizaje** - learning / обучение
 - **el apretón** - handshake, squeeze / рукопожатие
+- **el apuro** - awkwardness; hurry / неловкость; спешка
 - **el arándano** - blueberry / черника
 - **la arandela** - washer / шайба
 - **el arcoíris** - rainbow / радуга
@@ -57,10 +60,12 @@ tags: [vocabulario, sustantivos]
 - **el barco** - boat / корабль
 - **la barra de labios** - lipstick / губная помада
 - **el barrio** - neighborhood / район
+- **la beca** - scholarship / стипендия
 - **la bellota** - acorn / желудь
 - **la berenjena** - eggplant / баклажан
 - **el bicho** - bug / букашка, козявка
 - **la bicicleta** - bicycle / велосипед
+- **Blancanieves** - Snow White / Белоснежка
 - **el bocadillo** - sandwich / бутерброд
 - **la boda** - wedding / свадьба
 - **la bolera** - bowling alley / боулинг
@@ -82,6 +87,7 @@ tags: [vocabulario, sustantivos]
 - **el caballo** - horse / лошадь
 - **la cabaña** - cabin, hut / хижина
 - **el cacahuete** - peanut / арахис
+- **la cacerola** - saucepan / кастрюля
 - **la cadena** - chain / цепь
 - **la cafetería** - cafeteria / кафетерий
 - **el cajón** - drawer / ящик
@@ -92,6 +98,7 @@ tags: [vocabulario, sustantivos]
 - **el campamento** - camp / лагерь
 - **la canasta** - basket / корзина
 - **la canción de cuna** - lullaby / колыбельная песня
+- **Caperucita Roja** - Little Red Riding Hood / Красная Шапочка
 - **la cara** - face / лицо
 - **las carcajadas** - laughter / хохот
 - **el carrito de helados** - ice cream cart / тележка с мороженым
@@ -100,11 +107,15 @@ tags: [vocabulario, sustantivos]
 - **el casco antiguo** - old town / исторический центр
 - **el castillo de arena** - sandcastle / замок из песка
 - **la catedral** - cathedral / собор
+- **el cazo** - small pot, ladle / ковшик, половник
 - **el cebiche** - ceviche / севиче
 - **la cebolla** - onion / лук
 - **la cebra** - zebra / зебра
 - **la cena** - dinner / ужин
+- **Cenicienta** - Cinderella / Золушка
+- **la ceniza** - ash / пепел
 - **el centro comercial** - shopping mall / торговый центр
+- **el cepillo** - brush / щётка
 - **el cepillo de carpintero** - hand plane / рубанок
 - **el césped** - lawn, grass / газон, трава
 - **la chancla** - flip-flop / шлепанец
@@ -131,6 +142,7 @@ tags: [vocabulario, sustantivos]
 - **el colgante** - pendant / подвеска
 - **la coliflor** - cauliflower / цветная капуста
 - **la comida** - meal, lunch / еда, обед
+- **las comillas** - quotation marks / кавычки
 - **la comilona** - big meal, feast / пиршество
 - **la comisaría** - police station / полицейский участок
 - **el concesionario** - car dealership / автосалон
@@ -153,6 +165,7 @@ tags: [vocabulario, sustantivos]
 - **el cura** - priest / священник
 - **el cúter** - utility knife / канцелярский нож
 - **el dátil** - date (fruit) / финик
+- **las declinaciones** - declensions / склонения
 - **el dedo** - finger / палец
 - **el desayuno** - breakfast / завтрак
 - **el destornillador** - screwdriver / отвёртка
@@ -167,12 +180,17 @@ tags: [vocabulario, sustantivos]
 - **el efectivo** - cash / наличные dinero
 - **el elefante** - elephant / слон
 - **el embutido** - cold meat, sausage / колбасное изделие
+- **los embutidos** - cured sausages and meats / колбасные изделия
+- **el empollón / la empollona** - swot, nerd / зубрила, ботан
 - **el encaje** - lace / кружево
+- **el entusiasmo** - enthusiasm / энтузиазм
 - **el equinoccio** - equinox / равноденствие
 - **el equipaje** - luggage / багаж
 - **el erizo** - hedgehog / еж
+- **la erre** - the letter R (name) / буква «р»
 - **la escoba** - broom / метла
 - **la escuela** - school / школа
+- **el esfuerzo** - effort / усилие
 - **el esparadrapo** - medical tape / лейкопластырь
 - **las espinacas** - spinach / шпинат
 - **la esquina** - corner (street) / угол (улицы)
@@ -193,10 +211,12 @@ tags: [vocabulario, sustantivos]
 - **el flexo** - desk lamp / настольная лампа
 - **la floristería** - flower shop / цветочный магазин
 - **la fluidez** - fluency / беглость (речи)
+- **la forma de ser** - personality, way of being / характер
 - **el formón** - chisel / стамеска
 - **la fregona** - mop / швабра
 - **el freno** - brake / тормоз
 - **el frigorífico** - refrigerator / холодильник
+- **la frustración** - frustration / разочарование
 - **la fuente** - fountain / фонтан
 - **la funda** - cover, case / чехол
 - **el futbolín** - foosball / настольный футбол
@@ -204,6 +224,7 @@ tags: [vocabulario, sustantivos]
 - **el ganchillo** - crochet / вязание крючком
 - **el ganso** - goose / гусь
 - **el garbanzo** - chickpea / нут
+- **el Gato con Botas** - Puss in Boots / Кот в сапогах
 - **el gazpacho** - gazpacho / гаспачо
 - **la generosidad** - generosity / щедрость
 - **la gente** - people / люди
@@ -237,9 +258,11 @@ tags: [vocabulario, sustantivos]
 - **el huevo** - egg / яйцо
 - **el huevo frito** - fried egg / яичница
 - **el idioma** - language / язык
+- **la ilusión** - excitement, hope / радостное ожидание, надежда
 - **el imán** - magnet / магнит
 - **el infierno** - hell / ад
 - **el inglés** - English / английский язык
+- **la inseguridad** - insecurity / неуверенность
 - **el instituto** - institute / институт
 - **la jarana** - partying, revelry / кутеж, веселье
 - **el jarrón** - vase / ваза
@@ -252,6 +275,7 @@ tags: [vocabulario, sustantivos]
 - **la joyería** - jewelry store / ювелирный магазин
 - **las judías** - beans / фасоль
 - **las judías verdes** - green beans / стручковая фасоль
+- **los juegos de rol** - role-plays / ролевые игры
 - **el juez** - judge / судья
 - **el juzgado** - court / суд
 - **los kikos** - roasted corn / жареная кукуруза
@@ -305,6 +329,7 @@ tags: [vocabulario, sustantivos]
 - **el mercado** - market / рынок
 - **la merluza** - hake / мерлуза
 - **el metal** - metal / металл
+- **el miedo** - fear / страх
 - **el mimbre** - wicker / лоза
 - **la minúscula** - lowercase letter / строчная буква
 - **la moneda** - coin, currency / монета, валюта
@@ -328,6 +353,8 @@ tags: [vocabulario, sustantivos]
 - **la obra** - work (of art, construction) / произведение, стройка
 - **el océano** - ocean / океан
 - **la ojera** - bag under eyes / мешок под глазом
+- **la olla arrocera** - rice cooker / рисоварка
+- **la olla rápida / exprés** - pressure cooker / скороварка
 - **el olor** - smell / запах
 - **la onomatopeya** - onomatopoeia / ономатопея
 - **el orgullo** - pride / гордость
@@ -352,10 +379,14 @@ tags: [vocabulario, sustantivos]
 - **el patito** - duckling / утенок
 - **la pecera** - fishbowl / аквариум (шарообразный)
 - **el pedo** - fart / пук
+- **el peine** - comb / гребень, расчёска-гребешок
+- **la pelea** - fight, quarrel / драка, ссора
 - **la peluquería** - hair salon / парикмахерская
+- **los percebes** - goose barnacles / морские уточки (перцебес)
 - **la percha** - hanger / вешалка-плечики
 - **el perchero** - coat rack / вешалка
 - **el/la peregrino/a** - pilgrim / паломник/ца
+- **la pereza** - laziness / лень
 - **el perrito caliente** - hot dog / хот-дог
 - **el pescado** - fish (caught/food) / рыба (еда)
 - **el pez** - fish (living) / живая рыба
@@ -385,11 +416,13 @@ tags: [vocabulario, sustantivos]
 - **el puente** - long weekend / длинные выходные
 - **el pulpo** - octopus / осьминог
 - **la queja** - complaint / жалоба
+- **la rabia** - anger / злость
 - **el racimo de uvas** - bunch of grapes / гроздь винограда
 - **la raíz** - root / корень
 - **la rata** - rat / крыса
 - **el ratán** - rattan / ротанг
 - **el ratón** - mouse / мышь
+- **la raya del pelo** - hair part / пробор
 - **el rayo** - beam, lightning / луч, молния
 - **la razón** - reason / причина
 - **el reciclaje** - recycling / переработка
@@ -400,9 +433,12 @@ tags: [vocabulario, sustantivos]
 - **la resaca** - hangover / похмелье
 - **la reserva** - reservation / бронь, резерв
 - **la residencia** - residence / место жительства
+- **el reto** - challenge / вызов, испытание
 - **el retraso** - delay, lateness / опоздание, задержка
 - **el retrato** - portrait / портрет
 - **el rey** - king / король
+- **la ridiculez** - ridiculousness / нелепость
+- **el rincón** - corner / уголок
 - **la risa** - laughter / смех
 - **la rodilla** - knee / колено
 - **el rollo** - roll; (coloq.) bore, drag / рулон; (разг.) скукота
@@ -451,6 +487,7 @@ tags: [vocabulario, sustantivos]
 - **la tienda de música** - music store / музыкальный магазин
 - **la tienda de ropa** - clothing store / магазин одежды
 - **la tierra** - land, earth / земля
+- **la tila** - linden tea (herbal infusion) / липовый чай (настой)
 - **la tilde** - accent mark / тильда, ударение
 - **la toalla** - towel / полотенце
 - **la tormenta** - storm / шторм, гроза
@@ -459,6 +496,8 @@ tags: [vocabulario, sustantivos]
 - **la torre** - tower (CPU) / системный блок
 - **la tortilla de patatas** - Spanish omelette / испанская тортилья
 - **el trabalenguas** - tongue twister / скороговорка
+- **los tres cerditos** - the three little pigs / три поросёнка
+- **la tristeza** - sadness / грусть
 - **el trueno** - thunder / гром
 - **la tuerca** - nut / гайка
 - **la tumbona** - deck chair / шезлонг

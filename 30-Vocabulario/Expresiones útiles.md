@@ -5,25 +5,51 @@ tags: [vocabulario, general]
 
 - **A fuego / Afuego** - Cool, great / Круто, огонь
 - **¿A qué te dedicas?** - What do you do (for work)? / Чем ты занимаешься?
+- **a ver** - let's see / посмотрим
 - **agur** - goodbye (Basque origin) / пока, прощай (баск.)
+- **aparte de …** - apart from … / помимо …
+- **cinco minutitos** - five little minutes (diminutive) / пять минуточек
+- **¿Cómo se dice …?** - How do you say …? / Как сказать …?
 - **dar consejos (a alguien)** - to give advice / давать советы
 - **dar la chapa** - to go on and on, bore someone / надоедать болтовнёй
 - **dar vergüenza** - to be embarrassing / быть стыдно (*Me da vergüenza...*)
+- **darse cuenta (de)** - to realize / осознавать, замечать
 - **¿En qué trabajas?** - What do you work in? / Где ты работаешь?
 - **Encantado/a** - Nice to meet you / Приятно познакомиться
 - **encima** - on top, above / сверху
+- **es difícil de narices** - it is damn hard / адски трудно
 - **estar totalmente de acuerdo (con...)** - to completely agree / быть полностью согласным
 - **Fíjate en...** - Pay attention to... / Обрати внимание на...
+- **lo mejor es + infinitivo** - the best thing is to … / лучше всего …
+- **lo paso bien / mal / genial / fatal** - I have a good / bad / great / terrible time / я хорошо / плохо / здорово / ужасно провожу время
+- **lo paso bien = me divierto** - I have a good time = I enjoy myself / мне хорошо = мне весело
+- **lo paso fatal = sufrir** - I have a terrible time = to suffer / мне ужасно = страдать
+- **me cuesta …** - it is hard for me to … / мне трудно …
+- **me da vergüenza / miedo** - I am embarrassed / afraid / мне стыдно / страшно
+- **[[Verbos/defenderse|me defiendo]]** - I get by (in a language) / я могу объясниться
+- **me gusta cómo sueno** - I like how I sound / мне нравится, как я звучу
 - **Me llamo...** - My name is... / Меня зовут...
+- **me pongo nervioso** - I get nervous / я начинаю нервничать
+- **me pongo nervioso vs. estoy nervioso** - I get nervous vs. I am nervous / я начинаю нервничать vs. я нервничаю
+- **me resulta difícil …** - I find it hard to … / мне непросто …
+- **me siento fatal / seguro / bien / mal** - I feel terrible / confident / good / bad / я чувствую себя ужасно / уверенно / хорошо / плохо
 - **no estar nada de acuerdo (con...)** - to completely disagree / быть совсем не согласным
+- **no me sale la palabra** - I can't think of the word / не могу вспомнить слово
+- **o sea** - I mean / то есть
 - **ojalá** - hopefully / хоть бы, дай бог
 - **pasado mañana** - the day after tomorrow / послезавтра
+- **persona muy hermética** - very reserved person / очень закрытый человек
 - **Piel de gallina** - Goosebumps / Мурашки по коже
 - **plof** - plop (onomatopoeia) / плюх (ономатопея)
 - **poner la lavadora** - to do the laundry / запустить стиральную машину
 - **¡Qué rollo!** - How boring! / Какая скукота!
+- **¿Qué te cuesta más de …?** - What do you find hardest about …? / Что тебе труднее всего в …?
 - **¡Qué va!** - No way! Not at all! / Да ну! Вовсе нет!
 - **quitar el polvo** - to dust / вытирать пыль
+- **retener el vocabulario** - to retain vocabulary / запоминать слова
 - **Soy de...** - I am from... / Я из...
+- **tengo la palabra en la punta de la lengua** - I have the word on the tip of my tongue / слово вертится на языке
+- **tienes que + infinitivo** - you have to … / тебе надо …
+- **va (muy) bien + infinitivo** - it works (very) well to … / (очень) хорошо …
 - **Vale** - OK / Ладно
 - **Vivo en...** - I live in... / Я живу в...

@@ -73,6 +73,30 @@ Son verbos cuya vocal de la raíz cambia al conjugar en **Presente de Indicativo
 | recomendar | recom**ie**ndas | to recommend | рекомендовать |
 | sentir | s**ie**ntes | to feel | чувствовать (ver [[Sentir y sentirse]]) |
 
+## 📋 Más verbos O → UE
+
+| Infinitivo | Forma («yo» / «tú») | English | Русский |
+| :--- | :--- | :--- | :--- |
+| aprobar | apr**ue**bo / apr**ue**bas | to pass (an exam), to approve | сдать (экзамен), одобрять |
+| llover | ll**ue**ve | to rain | идти (о дожде) |
+| soñar | s**ue**ño / s**ue**ñas | to dream | мечтать, видеть сны |
+| mostrar | m**ue**stro / m**ue**stras | to show | показывать |
+| morder | m**ue**rdo / m**ue**rdes | to bite | кусать |
+| volver | v**ue**lvo / v**ue**lves | to return | возвращаться |
+| volar | v**ue**lo / v**ue**las | to fly | летать |
+| colgar | c**ue**lgo / c**ue**lgas | to hang | вешать |
+| morir | m**ue**ro / m**ue**res | to die | умирать |
+| cocer | c**ue**zo / c**ue**ces | to cook, to boil | варить |
+| probar | pr**ue**bo / pr**ue**bas | to try, to taste | пробовать |
+| tostar | t**ue**sto / t**ue**stas | to toast | поджаривать |
+| resolver | res**ue**lvo / res**ue**lves | to solve | решать |
+| mover | m**ue**vo / m**ue**ves | to move | двигать |
+| encontrar | enc**ue**ntro / enc**ue**ntras | to find | находить |
+| costar | c**ue**sta / c**ue**stan | to cost; to be hard (ver [[Cuesta vs. me cuesta]]) | стоить; даваться с трудом |
+
+> [!WARNING] No todos los verbos «parecidos» cambian
+> **empollar** *(to swot / зубрить)* es **regular**: *empollo, empollas*. **Coser** *(to sew / шить)* también: *coso, coses*, pero **cocer** sí cambia (*cuezo*).
+
 ## 💡 Ejemplos
 
 1. *Yo **quiero** un café, pero mis amigos **quieren** té.* (*I want a coffee, but my friends want tea.* / Я хочу кофе, а мои друзья хотят чай.)

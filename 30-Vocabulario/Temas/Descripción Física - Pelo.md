@@ -64,3 +64,5 @@ tags:
 3. **La palabra "Pelo" vs. "Cabello":**
     - **Pelo:** Es la palabra más común en el día a día en España.
     - **Cabello:** Es más formal, poético o de uso comercial (shampoo commercials).
+
+Ver también: [[La raya del pelo|La raya del pelo, el peine y el cepillo]]

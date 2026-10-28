@@ -1,157 +1,114 @@
 ---
-title: "007: Tema"
+title: "007: Verbos O → UE, «me cuesta» y ortografía C/Z"
 date: 2026-10-26
 tags:
   - español
   - lección
   - 2A2
 ---
-# 007: Tema
+# 007: Verbos O → UE, «me cuesta» y ortografía C/Z
 
 [[#Deberes|📝 Deberes de la lección]]
 
-## Información
-
 ## Prácticas
-### verbos irregularidades 
-- sentir [[../../20-Gramática/Sentir y sentirse|Sentir y sentirse]]
-- almorzar 
-- aprobar
-- llover
-- soñar
-- mostrar
-- dormir
-- costar (cuánto)
-- morder
-- volver
-- volar
-- contar
-- colgar
-- morir
-- cocer: cuezo cueces
-- probar
-- tostar
-- resolver
-- poder
-- mover
-- encontrar
-- empollar 
 
-| Nombres     | Adjetivos     | Eng | Rus |
-| ----------- | ------------- | --- | --- |
-| Inseguridad | Inseguro      |     |     |
-| Ansiedad    | Ansioso       |     |     |
-| Frustración | Frustrado     |     |     |
-| Miedo       | Miedoso       |     |     |
-| Ilusión     | Ilusionado    |     |     |
-| Ridiculez   | Ridiculo      |     |     |
-| Entusiasmo  | Entusiasmado  |     |     |
-### 7. Me cuesta (página 17)
-#### 💶 Expresar precios: General vs. Personal (Cuesta vs. Me cuesta)
+### Verbos irregulares
+Ver [[../../20-Gramática/Verbos Bota|👢 Verbos Bota]] (tablas completas) y [[../../20-Gramática/Sentir y sentirse|💓 Sentir y sentirse]].
 
-##### 📌 Diferencia de uso
+| Infinitivo | Forma | English | Русский |
+| :--- | :--- | :--- | :--- |
+| sentir | s**ie**nto | to feel | чувствовать |
+| almorzar | alm**ue**rzo | to have lunch | обедать |
+| aprobar | apr**ue**bo | to pass (an exam) | сдать (экзамен) |
+| llover | ll**ue**ve | to rain | идти (о дожде) |
+| soñar | s**ue**ño | to dream | мечтать, видеть сны |
+| mostrar | m**ue**stro | to show | показывать |
+| dormir | d**ue**rmo | to sleep | спать |
+| costar (cuánto) | c**ue**sta | to cost (how much) | стоить (сколько) |
+| morder | m**ue**rdo | to bite | кусать |
+| volver | v**ue**lvo | to return | возвращаться |
+| volar | v**ue**lo | to fly | летать |
+| contar | c**ue**nto | to count, to tell | считать, рассказывать |
+| colgar | c**ue**lgo | to hang | вешать |
+| morir | m**ue**ro | to die | умирать |
+| cocer | c**ue**zo, c**ue**ces | to cook, to boil | варить |
+| probar | pr**ue**bo | to try, to taste | пробовать |
+| tostar | t**ue**sto | to toast | поджаривать |
+| resolver | res**ue**lvo | to solve | решать |
+| poder | p**ue**do | can, to be able | мочь |
+| mover | m**ue**vo | to move | двигать |
+| encontrar | enc**ue**ntro | to find | находить |
+| empollar | empollo (**regular**) | to swot, to cram | зубрить |
 
-| Oración | Tipo de precio | Significado |
-| :--- | :--- | :--- |
-| **El café cuesta 6 €** | Precio público / general | Es el valor oficial de la carta para todo el mundo. |
-| **A mí el café me cuesta 3 €** | Precio personal / con descuento | Es lo que pago yo de forma particular (descuento, socio, etc.). |
+### Nombres y adjetivos de emociones
+Ver [[../../30-Vocabulario/Temas/Sentimientos y emociones|🎭 Sentimientos y emociones]].
 
----
+| Nombre | Adjetivo | English | Русский |
+| :--- | :--- | :--- | :--- |
+| la inseguridad | inseguro/a | insecurity / insecure | неуверенность / неуверенный |
+| la ansiedad | ansioso/a | anxiety / anxious | тревога / тревожный |
+| la frustración | frustrado/a | frustration / frustrated | разочарование / разочарованный |
+| el miedo | miedoso/a | fear / fearful | страх / боязливый |
+| la ilusión | ilusionado/a | excitement / excited | радостное ожидание / воодушевлённый |
+| la ridiculez | ridículo/a | ridiculousness / ridiculous | нелепость / нелепый |
+| el entusiasmo | entusiasmado/a | enthusiasm / enthusiastic | энтузиазм / увлечённый |
 
-##### 📐 Estructura con pronombre de objeto indirecto
+### 7. Me cuesta (pág. 17)
+Ver [[../../20-Gramática/Cuesta vs. me cuesta|💶 Cuesta vs. me cuesta]]: precio general (*El café cuesta 6 €*) vs. personal (*A mí me cuesta 3 €*), y esfuerzo (*Me cuesta hablar en público*).
 
-Cuando el precio o el esfuerzo afecta a una persona en particular, el verbo **costar** funciona como el verbo **gustar**:
-
-- **A mí me** cuesta...
-- **A ti te** cuesta...
-- **A él / ella le** cuesta...
-- **A nosotros nos** cuesta...
-- **A vosotros os** cuesta...
-- **A ellos / ellas les** cuesta...
-
----
-
-##### 💡 Otros ejemplos prácticos
-
-- *El menú cuesta 15 €, pero **a los estudiantes les cuesta** 10 €.*
-- *La entrada al museo cuesta 8 €, pero **a mí me cuesta** 4 € porque tengo carné joven.*
-- *El billete de tren cuesta 20 €, pero **a nosotros nos cuesta** menos con el abono.*
-
-> [!NOTE]
-> **Uso figurado:** Esta misma estructura se usa para hablar de esfuerzo o dificultad personal:
-> - *Me cuesta mucho hablar en público.* (Мне трудно говорить на публике).
-> - *A mi compañero le cuesta la gramática.* (Moему одногруппнику тяжело дается грамматика).
-
-
+### Ortografía y pronunciación
+Ver [[../../20-Gramática/Ortografía C y Z|🔤 Ortografía C y Z]]: za, zo, zu · ce, ci · plurales (lápiz → lápices) · -zar (empecé).
 
 ## Vocabulario
-- miedoso 
-- el reto
-- la erre
-- ansioso
-- empollón empollona (ботан, задрот, зануда)
-- persona muy hermética 
-- ojalá 
-- en burro VS a caballo? (Vuelve)
-- Caperucita roja 
-- los tres cerditos 
-- ceniza
-- Cenicienta 
-- Blancanieves
-- Gato con Botas 
-- percha y perchero 
-- cocer y coser
-- la cacerola
-- la olla rápida/exprés 
-- el cazo
-- la olla arrocera 
-- lo paso bien = me divierto 
-- lo paso fatal = sufrir
-- cometo errores
-- 
 
-## 🔤 Ortografía y Pronunciación: Sonidos de C y Z
+| Español                           | English                             | Русский                 |
+| :-------------------------------- | :---------------------------------- | :---------------------- |
+| miedoso                           | fearful                             | боязливый               |
+| el reto                           | challenge                           | вызов, испытание        |
+| la erre                           | the letter R (name)                 | буква «р»               |
+| ansioso                           | anxious                             | тревожный               |
+| empollón / empollona              | swot, nerd                          | зубрила, ботан          |
+| persona muy hermética             | very reserved person                | очень закрытый человек  |
+| ojalá                             | hopefully, I wish                   | хоть бы, дай бог        |
+| en burro vs. a caballo (¿vuelve?) | on a donkey vs. on horseback        | на осле vs. на лошади   |
+| la ceniza                         | ash                                 | пепел                   |
+| la percha y el perchero           | clothes hanger and coat rack        | плечики и вешалка       |
+| cocer y coser                     | to cook / to sew                    | варить / шить           |
+| la cacerola                       | saucepan                            | кастрюля                |
+| la olla rápida / exprés           | pressure cooker                     | скороварка              |
+| el cazo                           | small pot, ladle                    | ковшик, половник        |
+| la olla arrocera                  | rice cooker                         | рисоварка               |
+| lo paso bien = me divierto        | I have a good time = I enjoy myself | мне хорошо = мне весело |
+| lo paso fatal = sufrir            | I have a terrible time = to suffer  | мне ужасно = страдать   |
+| cometo errores                    | I make mistakes                     | я делаю ошибки          |
+| abrelatas                         |                                     |                         |
+| reñir                             |                                     |                         |
+| sonreír                           |                                     |                         |
+| conseguir                         |                                     |                         |
+| seguir                            |                                     |                         |
+| impedir                           |                                     |                         |
+| elegir                            |                                     |                         |
+| embestir                          |                                     |                         |
+| murciélago                        |                                     |                         |
+| reirse                            |                                     |                         |
+| vestirse                          |                                     |                         |
 
-### 📌 Regla fundamental
+### Cuentos
+[[../../30-Vocabulario/Temas/Cuentos de hadas|🧚 Cuentos de hadas]]: 
+Caperucita Roja (Little Red Riding Hood / Красная Шапочка), los tres cerditos (the three little pigs / три поросёнка), Cenicienta (Cinderella / Золушка), Blancanieves (Snow White / Белоснежка), el Gato con Botas (Puss in Boots / Кот в сапогах).
 
-El sonido $/ \theta /$ (interdental) cambia de grafía según la vocal siguiente:
-- **Z + A, O, U** $\rightarrow$ *za, zo, zu*
-- **C + E, I** $\rightarrow$ *ce, ci*
+### Cocina
+[[../../30-Vocabulario/Temas/Utensilios de cocina|🍳 Utensilios de cocina]]: cacerola, olla, olla exprés, cazo, olla arrocera.
 
----
-
-### 📊 Combinación por vocales
-
-| Vocal | Grafía correcta | Grafía incorrecta / Rara | Ejemplos |
-| :---: | :---: | :---: | :--- |
-| **A** | **ZA** | ~~CA~~ (Suena /k/) | *Zapatos, plaza, manzana* |
-| **E** | **CE** | ~~ZE~~ | *Cena, cero, hacer* |
-| **I** | **CI** | ~~ZI~~ | *Ciudad, cine, cocina* |
-| **O** | **ZO** | ~~CO~~ (Suena /k/) | *Zona, pozo, marzo* |
-| **U** | **ZU** | ~~CU~~ (Suena /k/) | *Zumo, azul, azúcar* |
-
----
-
-### ⚠️ Cambios ortográficos obligatorios
-
-1. **Plurales ($Z \rightarrow C$):**
-   - *lápiz* $\rightarrow$ **lápices**
-   - *luz* $\rightarrow$ **luces**
-   - *pez* $\rightarrow$ **peces**
-
-2. **Verbos en -ZAR en pasado (Yo):**
-   - *Empezar* $\rightarrow$ Yo **empecé**
-   - *Comenzar* $\rightarrow$ Yo **comencé**
-   - *Cruzar* $\rightarrow$ Yo **crucé**
-   - 
 ## Deberes
-### página 155-157
+### Páginas 155-157
 - 15
 - 17
-### fotocopia con verbos 
+
+### Fotocopia con verbos
 ![[attachments/JPEG_20261026_105246_8473189507348818405.jpg]]
 
 ---
 
 **Navegación:**
-[[20261021 Lección seis|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | Lección siguiente ➡️
+[[20261021 Lección seis|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | [[20261028 Lección ocho|Lección siguiente ➡️]]

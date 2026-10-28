@@ -8,6 +8,7 @@ tags: [vocabulario, adjetivos]
 - **acompañado/a** - accompanied / сопровождаемый
 - **agitado/a** - agitated / взволнованный, возбужденный
 - **agotado/a** - exhausted / истощенный, изнуренный
+- **agradecido/a** - grateful / благодарный
 - **alegre** - happy, cheerful / веселый, радостный
 - **amable** - kind, friendly / любезный, вежливый
 - **ambiguo/a** - ambiguous, unclear / неоднозначный, двусмысленный
@@ -38,8 +39,10 @@ tags: [vocabulario, adjetivos]
 - **chulo/a** - cool / крутой, классный
 - **cómodo/a** - comfortable / удобный
 - **comprometido/a** - engaged / обрученный, обрученная
+- **confundido/a** - confused / растерянный
 - **congelado/a** - frozen / замороженный
 - **contento/a** - happy, content / довольный
+- **correcto/a** - correct / правильный
 - **cortado/a** - cut, dead-end (street) / отрезанный, тупиковый (улица)
 - **cosmopolita** - cosmopolitan / космополитичный
 - **costero/a** - coastal / прибрежный
@@ -47,11 +50,13 @@ tags: [vocabulario, adjetivos]
 - **curioso/a** - curious / любопытный
 - **débil** - weak / слабый
 - **delgado/a** - slim / стройный
+- **dependiente de campo** - field-dependent / полезависимый
 - **desamorado/a** - indifferent, unloving / нелюбящий, равнодушный
 - **descuidado/a** - neglected, careless / запущенный, небрежный
 - **despejado/a** - clear (weather) / ясный, безоблачный
 - **difícil** - difficult / трудный
 - **disgustado/a** - upset, annoyed / расстроенный, недовольный
+- **distinto/a** - different / другой, различный
 - **diurno/a** - daytime / дневной
 - **divertido/a** - fun / веселый, забавный
 - **dulce** - sweet / сладкий
@@ -62,7 +67,9 @@ tags: [vocabulario, adjetivos]
 - **encantador/a** - charming / очаровательный
 - **enfadado/a** - angry / сердитый
 - **enfermo/a** - sick / больной
+- **entusiasmado/a** - enthusiastic / увлечённый
 - **estrecho/a** - narrow / узкий
+- **estresado/a** - stressed / в стрессе
 - **extranjero/a** - foreign, foreigner / иностранный, иностранец
 - **fácil** - easy / легкий
 - **facilísimo/a** - very easy / очень легкий
@@ -72,6 +79,7 @@ tags: [vocabulario, adjetivos]
 - **flaco/a** - thin / худой
 - **frío/a** - cold / холодный
 - **friolero/a** - sensitive to cold / мерзляк
+- **frustrado/a** - frustrated / разочарованный
 - **fuerte** - strong / сильный
 - **generoso/a** - generous / щедрый
 - **goloso/a** - sweet-toothed / сладкоежка
@@ -83,7 +91,10 @@ tags: [vocabulario, adjetivos]
 - **grosero/a** - rude, impolite / грубый, невежливый
 - **guapo/a** - handsome, beautiful / красивый
 - **harto/a** - fed up / сытый по горло
+- **hermético/a** - reserved, closed / замкнутый, закрытый
+- **ilusionado/a** - excited, hopeful / воодушевлённый
 - **imprescindible** - essential, indispensable / необходимый, незаменимый
+- **independiente de campo** - field-independent / поленезависимый
 - **indiferente** - indifferent / безразличный
 - **infinito/a** - infinite / бесконечный
 - **insatisfecho/a** - dissatisfied / неудовлетворенный
@@ -102,7 +113,9 @@ tags: [vocabulario, adjetivos]
 - **manchego/a** - from La Mancha / манчего
 - **mejor** - better / лучший
 - **melancólico/a** - melancholy / меланхоличный
+- **miedoso/a** - fearful / боязливый
 - **moderno/a** - modern / современный
+- **motivado/a** - motivated / мотивированный
 - **mucho/a** - much, many / много, многий
 - **muerto/a** - dead / мертвый
 - **nervioso/a** - nervous / нервный
@@ -122,6 +135,7 @@ tags: [vocabulario, adjetivos]
 - **redondo/a** - round / круглый
 - **relajado/a** - relaxed / расслабленный
 - **resfriado/a** - having a cold / простуженный
+- **ridículo/a** - ridiculous / нелепый, смешной
 - **roto/a** - broken / сломанный
 - **salado/a** - salty / соленый
 - **sano/a** - healthy / здоровый

@@ -45,6 +45,10 @@ En español usamos **Costar** para decir que algo es difícil (It's hard / Эт�
 
 ---
 
+Ver también: [[../../20-Gramática/Cuesta vs. me cuesta|Cuesta vs. me cuesta]] (precio general vs. personal).
+
+---
+
 ## ✍️ Ejemplos de Práctica
 
 1. Esta **pantalla** es muy buena, pero **cuesta** mucho dinero.

@@ -53,3 +53,12 @@ tags: [vocabulario, general]
 | **Muy**              | very <br>очень                              | Es **muy** rápido.                |
 | **Nunca**            | never <br>никогда                           | **Nunca** llego tarde.            |
 | **Siempre**          | always <br>всегда                           | **Siempre** estudio.              |
+
+## Conectores y expresiones de tiempo
+
+| Palabra | Significado<br>(EN / RU) | Ejemplo |
+| :--- | :--- | :--- |
+| **Aparte de** | apart from, besides <br>помимо, кроме | **Aparte de** español, hablo ruso e inglés. |
+| **Así que** | so, therefore <br>так что, поэтому | Llueve, **así que** me quedo en casa. |
+| **Sin embargo** | however <br>однако | Estudia mucho; **sin embargo**, le cuesta la gramática. |
+| **Desde hace** | for (a period of time) <br>уже (период времени) | Vivo aquí **desde hace** tres años. ([[../20-Gramática/Desde y desde hace\|ver gramática]]) |

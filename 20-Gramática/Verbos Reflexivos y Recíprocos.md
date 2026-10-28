@@ -95,3 +95,22 @@ Algunos verbos cambian de significado o añaden un matiz de "totalidad" cuando s
 - **Parecerse** - to look like / быть похожим: Alex **se parece** a su padre.
 - **Poner** - to put / класть: Pongo el libro en la mesa.
 - **Ponerse** - to put on (clothes) / to become / надевать, становиться: **Me pongo** la chaqueta. / **Se pone** nervioso.
+
+---
+
+## 5. Más verbos reflexivos de rutina y emociones
+
+| Verbo | English | Русский | Tipo | Ejemplo |
+| :--- | :--- | :--- | :--- | :--- |
+| **arreglarse** | to get ready, to dress up | приводить себя в порядок | regular | *Tardo media hora en arreglarme por la mañana.* |
+| **despertarse** | to wake up | просыпаться | Bota E → IE | *Me despierto a las 7:00 todos los días.* |
+| **pelearse** | to fight, to argue | ссориться, драться | regular | *Los hermanos se pelean por el mando.* |
+| **divertirse** | to have fun | веселиться | Bota E → IE | *¡Espero que te diviertas en las vacaciones!* |
+| **esforzarse** | to make an effort | стараться, прилагать усилия | Bota O → UE | *Ella se esfuerza mucho para aprender español.* |
+| **estirarse** | to stretch | потягиваться | regular | *Me estiro al levantarme.* |
+| **enfadarse / enojarse** | to get angry | сердиться | regular | *Me enfado cuando llego tarde.* (*enojarse* es más común en Latinoamérica) |
+| **desenredarse** | to untangle (one's hair) | распутывать (волосы) | regular | *Me desenredo el pelo con un cepillo.* |
+
+> [!TIP]
+> Otros pronombres: [[Se vs. le - les|SE vs. LE / LES]] · Estados de ánimo: [[Ponerse vs. estar]] · [[Sentir y sentirse]] · Peine y cepillo: [[../30-Vocabulario/Temas/La raya del pelo|La raya del pelo]].
+
