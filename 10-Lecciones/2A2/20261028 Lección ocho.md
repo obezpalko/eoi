@@ -55,29 +55,56 @@ Soluciones completas con traducción en [[../../20-Gramática/Dar consejos y rec
 
 ## Vocabulario
 
-| Español | English | Русский |
-| :--- | :--- | :--- |
-| enojarse vs. enfadarse | to get angry (*enojarse*: Latin America) | сердиться |
-| el peine vs. el cepillo | comb vs. brush | расчёска-гребешок vs. щётка |
-| desenredar | to untangle | распутывать |
-| la [[../../30-Vocabulario/Temas/La raya del pelo\|raya del pelo]] | hair part | пробор |
-| la tila (infusión) | linden tea | липовый чай |
-| me gusta cómo sueno | I like how I sound | мне нравится, как я звучу |
-| retener el vocabulario | to retain vocabulary | запоминать слова |
-| pelearse (una pelea) | to fight (a fight) | ссориться (ссора) |
-| esforzarse (el esfuerzo) | to make an effort (effort) | стараться (усилие) |
-| las declinaciones | declensions | склонения |
-| los consejos | advice | советы |
-| grabar | to record | записывать |
-| lo mejor es / va (muy) bien / tienes que | the best thing is / works (very) well / you have to | лучше всего / (очень) хорошо / тебе надо |
+| Español                                                           | English                                             | Русский                                  |
+| :---------------------------------------------------------------- | :-------------------------------------------------- | :--------------------------------------- |
+| enojarse vs. enfadarse                                            | to get angry (*enojarse*: Latin America)            | сердиться                                |
+| el peine vs. el cepillo                                           | comb vs. brush                                      | расчёска-гребешок vs. щётка              |
+| desenredar                                                        | to untangle                                         | распутывать                              |
+| la [[../../30-Vocabulario/Temas/La raya del pelo\|raya del pelo]] | hair part                                           | пробор                                   |
+| la tila (infusión)                                                | linden tea                                          | липовый чай                              |
+| me gusta cómo sueno                                               | I like how I sound                                  | мне нравится, как я звучу                |
+| retener el vocabulario                                            | to retain vocabulary                                | запоминать слова                         |
+| pelearse (una pelea)                                              | to fight (a fight)                                  | ссориться (ссора)                        |
+| esforzarse (el esfuerzo)                                          | to make an effort (effort)                          | стараться (усилие)                       |
+| las declinaciones                                                 | declensions                                         | склонения                                |
+| los consejos                                                      | advice                                              | советы                                   |
+| grabar                                                            | to record                                           | записывать                               |
+| lo mejor es / va (muy) bien / tienes que                          | the best thing is / works (very) well / you have to | лучше всего / (очень) хорошо / тебе надо |
+| yo solo                                                           |                                                     |                                          |
+| maravilloso                                                       |                                                     |                                          |
+| pisar                                                             |                                                     |                                          |
+| regresar                                                          |                                                     |                                          |
+| extraída                                                          |                                                     |                                          |
 
 ## Deberes
 ### Pág. 29
-- c
-- d
-- e
-- f
-- g
+- c. ¿Qué dos conjugaciones tienen las mismas terminaciones en pretérito indefinido?
+	- segunda (-ER)
+	- tercera (-IR)
+- d. En dos casos, la forma es la misma que en presente de indicativo. ¿Cuales?
+	- primera y tercera conjugaciones 1ª persona plural (nosotros/nosotras): pasamos, vivimos 
+- e. Ahora, conjuga en tu cuaderno los verbos visitar, aprender y recibir
+
+|                   | visitar     | aprender     | recibir     |
+| ----------------- | ----------- | ------------ | ----------- |
+| yo                | visité      | aprendí      | recibí      |
+| tú, vos           | visitaste   | aprendiste   | recibiste   |
+| él/ella, usted    | visitó      | aprendió     | recibió     |
+| nosotros/as       | visitamos   | aprendemos   | recibimos   |
+| vosotros/as       | visitasteis | aprendisteis | recibisteis |
+| ellos/as, ustedes | visitaron   | aprendieron  | recibieron  |
+
+- f. Fijate en esta frase extraída de uno de los textos de A. ¿Cuál es el infinitivo de la forma en indefinido marcada en negrita? ¿Qué cambio observas en la raíz? ¿Entiendes por qué pasa?
+> 	El año pasado publiqué un libro sobre esa experiencia.
+	- [[Cambio 1ª persona pretérito indefinido]]
+- g. Escribe la primera persona del singular de estos verbos en pretérito indefinido. ¿Qué cambios observas? ¿A qué se deben?
+	- cruzar - crucé 
+	- empezar - empecé 
+	- organizar - organicé
+	- tocar - toqué
+	- jugar - jugué 
+	- pagar - pagué 
+	- [[Cambio 1ª persona pretérito indefinido]]
 
 ### Pág. 159
 - 6
