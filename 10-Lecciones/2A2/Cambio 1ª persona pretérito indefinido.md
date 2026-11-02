@@ -104,3 +104,49 @@ El cambio ortográfico **solo afecta a la 1.ª persona del singular (`yo`)**, po
 1. *Ayer **almorcé** a las dos y **comencé** a trabajar inmediatamente.* (-ZAR)
 2. **Aparqué** el coche cerca del centro y **saqué** las entradas del cine.* (-CAR)
 3. **Llegué** a casa, **apagué** las luces y **descansé** un poco.* (-GAR)
+
+# 🔤 Excepciones Ortográficas: Palabras con ZE y ZI
+
+## 📌 Regla general de la Z en español
+
+En español estándar, la letra **Z** se escribe delante de las vocales **A, O, U** (*zapato, zona, zumo*). 
+
+Ante las vocales **E, I**, la **Z** se cambia por **C** (*empezar $\rightarrow$ empecé*, *lápiz $\rightarrow$ lápices*).
+
+Sin embargo, existen **excepciones** (extranjerismos, neologismos, palabras de origen científico o nombres propios) que sí mantienen **ZE** y **ZI**:
+
+---
+
+## 📋 Lista de ejemplos con ZE y ZI
+
+### 1. Palabras con ZE
+| Palabra (Español) | Ruso | Inglés | Notas / Origen |
+| :--- | :--- | :--- | :--- |
+| **Zen** | Дзен | Zen | Filosofía / Origen japonés. |
+| **Zeta** | Зета | Zeta | Nombre de la letra Z / Letra griega. |
+| **Zeppelin** / **Zepelín** | Цеппелин | Zeppelin | Dirigible / Alemán. |
+| **Enzima** | Фермент / Энзим | Enzyme | Término biológico / Químico. |
+| **Kamikaze** | Камикадзе | Kamikaze | Préstamo del japonés. |
+| **Zelote** | Зелот | Zealot | Término histórico / Religioso. |
+| **Azerbaiyán** | Азербайджан | Azerbaijan | Nombre propio de país. |
+
+### 2. Palabras con ZI
+| Palabra (Español) | Ruso | Inglés | Notas / Origen |
+| :--- | :--- | :--- | :--- |
+| **Zinc** (o *Cinc*) | Цинк | Zinc | Elemento químico (admitido con Z y C). |
+| **Zigzag** | Зигзаг | Zigzag | Línea en Z / Préstamo del francés. |
+| **Zirconio** | Цирконий | Zirconium | Elemento químico / Mineral. |
+| **Nazi** | Нацист | Nazi | Préstamo del alemán. |
+| **Pizzería** | Пиццерия | Pizzeria | Préstamo del italiano. |
+| **Cizaña** / **Zizania** | Сорняк / Вражда | Weed / Discord | Discordia o mala hierba. |
+| **Zimbabue** | Зимбабве | Zimbabwe | Nombre propio de país. |
+
+---
+
+## 📊 Resumen ortográfico
+
+|  Combinación   | Estado en español                          | Ejemplos                    |
+| :------------: | :----------------------------------------- | :-------------------------- |
+| **ZA, ZO, ZU** | 🟢 Uso regular y habitual                  | *zapato, zona, zumo*        |
+|   **ZE, ZI**   | ⚠️ Excepciones / Extranjerismos            | *zen, zinc, zigzag, enzima* |
+|   **CE, CI**   | 🟢 Regla estándar para el sonido /s/ o /θ/ | *cero, cien, cena, cine*    |
