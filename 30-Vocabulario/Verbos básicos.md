@@ -8,6 +8,7 @@ tags: [vocabulario, verbos]
 - **aconsejar** - to advise / советовать
 - **acordarse (de)** - to remember / вспоминать, помнить
 - **[[Verbos/acostarse|acostarse]]** - to go to bed / ложиться спать
+- **actuar** - to act / играть (роль), действовать
 - **adelgazar** - to lose weight, slim down / худеть
 - **adivinar** - to guess / угадывать
 - **afeitarse** - to shave / бриться
@@ -44,6 +45,7 @@ tags: [vocabulario, verbos]
 - **caminar** - to walk / идти, шагать
 - **cantar** - to sing / петь
 - **casarse** - to get married / жениться, выходить замуж
+- **casarse (con)** - to get married (to) / жениться, выходить замуж
 - **cenar** - to have dinner / ужинать
 - **cepillarse** - to brush (teeth/hair) / чистить (зубы), причесываться
 - **cerrar** - to close / закрывать
@@ -69,6 +71,7 @@ tags: [vocabulario, verbos]
 - **cruzar** - to cross / переходить, пересекать
 - **cuajar** - to curdle, to set / свернуться (о яйце)
 - **dar** - to give / давать
+- **decir** - to say, to tell / говорить, сказать
 - **[[Verbos/deletrear|deletrear]]** - spell out letters / произносить по буквам
 - **depilarse** - to depilate / делать депиляцию
 - **desayunar** - to have breakfast / завтракать
@@ -77,6 +80,7 @@ tags: [vocabulario, verbos]
 - **despedirse** (e->i) - to say goodbye / прощаться
 - **[[Verbos/despertarse|despertarse]]** - to wake up / просыпаться
 - **diluviar** - to pour with rain / лить как из ведра
+- **dirigir** - to direct / режиссировать, руководить
 - **disfrutar** - to enjoy / наслаждаться
 - **divertirse** - to have fun / веселиться
 - **dividir** - to divide / делить
@@ -96,6 +100,7 @@ tags: [vocabulario, verbos]
 - **enseñar** - to teach, to show / учить, показывать
 - **entender** - to understand / понимать
 - **entrar** - to enter / входить
+- **entregar** - to hand in, to deliver / сдавать, вручать
 - **enviar** - to send / посылать
 - **eructar** - to burp / рыгать
 - **escribir** - to write / писать
@@ -105,6 +110,7 @@ tags: [vocabulario, verbos]
 - **esperar** - to wait / ждать
 - **esquiar** - to ski / кататься на лыжах
 - **estirarse** - to stretch / потягиваться
+- **estrenar** - to premiere; to wear/use for the first time / выпускать на экран; надевать впервые
 - **exclamar** - to exclaim / восклицать
 - **fascinar** - to fascinate / очаровывать
 - **fijarse** - to notice, to pay attention / обращать внимание
@@ -138,6 +144,7 @@ tags: [vocabulario, verbos]
 - **limpiar** - to clean / чистить, убирать
 - **llamar** - to call / звать, звонить
 - **[[Verbos/llamarse|llamarse]]** - to be called / зваться
+- **llegar** - to arrive / приезжать, прибывать
 - **llevar** - to wear, to carry / носить, нести
 - **llorar** - to cry / плакать
 - **llover** (o->ue) - to rain / идти (о дожде)
@@ -160,6 +167,7 @@ tags: [vocabulario, verbos]
 - **morir** - to die / умирать
 - **mostrar** - to show / показывать
 - **mover** - to move / двигать
+- **mudarse** - to move (house) / переезжать
 - **multiplicar** - to multiply / умножать
 - **nacer** - to be born / рождаться
 - **navegar** - to browse, navigate / плавать, сидеть в интернете
@@ -190,6 +198,8 @@ tags: [vocabulario, verbos]
 - **preguntar** - to ask / спрашивать
 - **preparar** - to prepare / готовить, подготавливать
 - **probar** - to try, to taste / пробовать
+- **protagonizar** - to star in / играть главную роль
+- **publicar** - to publish / публиковать
 - **quebrar** - to break / ломать, разбивать
 - **quedar** - to stay, to meet / оставаться, встречаться
 - **quedarse** - to stay / оставаться
@@ -216,6 +226,7 @@ tags: [vocabulario, verbos]
 - **retener** - to retain / удерживать (в памяти)
 - **reunirse** - to meet, gather / встречаться, собираться
 - **revolver** (o->ue) - to stir / перемешивать
+- **rodar** - to shoot (a film) / снимать (фильм)
 - **romper** - to break / ломать
 - **sacar** - to take out / вынимать, доставать
 - **[[Verbos/salir|salir]]** - to go out, to leave / выходить
@@ -247,6 +258,7 @@ tags: [vocabulario, verbos]
 - **toser** - to cough / кашлять
 - **tostar** - to toast / поджаривать
 - **[[Verbos/trabajar|trabajar]]** - to work / работать
+- **tratar de** - to be about; to try to / быть о; пытаться
 - **trepar** - to climb / лазать, карабкаться
 - **triturar** - to grind, to blend / измельчать, блендерить
 - **tronar** - to thunder / греметь (о громе)

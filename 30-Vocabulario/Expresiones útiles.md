@@ -4,11 +4,18 @@ tags: [vocabulario, general]
 # Expresiones útiles
 
 - **A fuego / Afuego** - Cool, great / Круто, огонь
+- **ayer / anoche / anteayer** - yesterday / last night / the day before yesterday / вчера / вчера вечером / позавчера
+- **de repente** - suddenly / вдруг
+- **es decir** - that is, i.e. / то есть
+- **hace dos años** - two years ago / два года назад
+- **el otro día** - the other day / на днях
+- **la semana pasada** - last week / на прошлой неделе
 - **¿A qué te dedicas?** - What do you do (for work)? / Чем ты занимаешься?
 - **a ver** - let's see / посмотрим
 - **agur** - goodbye (Basque origin) / пока, прощай (баск.)
 - **aparte de …** - apart from … / помимо …
 - **cinco minutitos** - five little minutes (diminutive) / пять минуточек
+- **¿Cómo se dice … en español?** - How do you say … in Spanish? / Как сказать … по-испански?
 - **¿Cómo se dice …?** - How do you say …? / Как сказать …?
 - **dar consejos (a alguien)** - to give advice / давать советы
 - **dar la chapa** - to go on and on, bore someone / надоедать болтовнёй

@@ -48,4 +48,4 @@ El sonido /θ/ (interdental, como *th* en *think* / межзубный «с») c
 | cruzar | **crucé** | I crossed | я пересёк |
 | almorzar | **almorcé** | I had lunch | я пообедал |
 
-Ver también: [[La letra Ñ (N vs Ñ)]] · [[La Tilde Diacrítica]]
+Ver también: [[Ortografía G y GU]] · [[Pretérito indefinido - cambios ortográficos]] · [[La letra Ñ (N vs Ñ)]] · [[La Tilde Diacrítica]]

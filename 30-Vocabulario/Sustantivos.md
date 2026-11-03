@@ -8,6 +8,7 @@ tags: [vocabulario, sustantivos]
 - **el abrazo** - hug / объятие
 - **el abrigo** - coat / пальто
 - **el aceite** - oil / масло
+- **el actor / la actriz** - actor / actress / актёр, актриса
 - **el acuario** - aquarium / аквариум
 - **el acuerdo** - agreement / согласие, соглашение
 - **la advertencia** - warning / предупреждение
@@ -42,6 +43,7 @@ tags: [vocabulario, sustantivos]
 - **el arándano** - blueberry / черника
 - **la arandela** - washer / шайба
 - **el arcoíris** - rainbow / радуга
+- **el argumento** - plot / сюжет
 - **el armario** - wardrobe, closet / шкаф
 - **la arroba** (@) - at symbol / символ собака
 - **el arroz con leche** - rice pudding / рисовый пудинг
@@ -53,6 +55,7 @@ tags: [vocabulario, sustantivos]
 - **el ayuntamiento** - city hall / мэрия
 - **la azafata** - flight attendant / стюардесса
 - **el banco** - bank, bench / банк, скамейка
+- **la banda sonora** - soundtrack / саундтрек
 - **la bañera** - bathtub / ванна
 - **el baño** - bathroom / ванная комната
 - **la barbería** - barbershop / барбершоп
@@ -63,6 +66,7 @@ tags: [vocabulario, sustantivos]
 - **la beca** - scholarship / стипендия
 - **la bellota** - acorn / желудь
 - **la berenjena** - eggplant / баклажан
+- **la biblioteca** - library / библиотека
 - **el bicho** - bug / букашка, козявка
 - **la bicicleta** - bicycle / велосипед
 - **Blancanieves** - Snow White / Белоснежка
@@ -101,6 +105,7 @@ tags: [vocabulario, sustantivos]
 - **Caperucita Roja** - Little Red Riding Hood / Красная Шапочка
 - **la cara** - face / лицо
 - **las carcajadas** - laughter / хохот
+- **el carnet de biblioteca** - library card / читательский билет
 - **el carrito de helados** - ice cream cart / тележка с мороженым
 - **la carta** - letter, menu, card / письмо, меню, карта
 - **el cartón** - cardboard / картон
@@ -155,6 +160,7 @@ tags: [vocabulario, sustantivos]
 - **el cristal** - glass (or crystal) / хрусталь, стекло
 - **las croquetas** - croquettes / крокеты
 - **el cuaderno** - notebook / тетрадь
+- **el cuadro** - painting / картина
 - **el cubo** - bucket / ведро
 - **la cuchara** - spoon / ложка
 - **el cuchillo** - knife / нож
@@ -173,7 +179,9 @@ tags: [vocabulario, sustantivos]
 - **el diamante** - diamond / алмаз
 - **el diario** - diary, daily / дневник, ежедневная газета
 - **el diminutivo** - diminutive, nickname / уменьшительное имя
+- **el diptongo** - diphthong / дифтонг
 - **la dirección** - address / адрес
+- **el director / la directora** - director / режиссёр
 - **el diseñador / la diseñadora** - designer / дизайнер
 - **la droga** - drug / наркотик
 - **la edad** - age / возраст
@@ -199,6 +207,7 @@ tags: [vocabulario, sustantivos]
 - **la estantería** - shelf, bookcase / полка, стеллаж
 - **la estatua** - statue / статуя
 - **la estilista** - stylist / стилист
+- **el estreno** - premiere / премьера
 - **el estribillo** - chorus, refrain / припев
 - **el estuche** - pencil case / пенал
 - **la estufa** - stove, heater / печь, обогреватель
@@ -226,6 +235,7 @@ tags: [vocabulario, sustantivos]
 - **el garbanzo** - chickpea / нут
 - **el Gato con Botas** - Puss in Boots / Кот в сапогах
 - **el gazpacho** - gazpacho / гаспачо
+- **el género** - genre / жанр
 - **la generosidad** - generosity / щедрость
 - **la gente** - people / люди
 - **el geranio** - geranium / герань
@@ -239,6 +249,7 @@ tags: [vocabulario, sustantivos]
 - **la grasa** - fat / жир
 - **el grosellero** - redcurrant / смородина
 - **el guaraní** - Guarani (language) / гуарани (язык)
+- **el guion** - script / сценарий
 - **el guisante** - pea / горох
 - **el gusano** - worm / червяк
 - **el halago** - compliment, flattery / комплимент, лесть
@@ -381,6 +392,7 @@ tags: [vocabulario, sustantivos]
 - **el pedo** - fart / пук
 - **el peine** - comb / гребень, расчёска-гребешок
 - **la pelea** - fight, quarrel / драка, ссора
+- **la película** - film, movie / фильм
 - **la peluquería** - hair salon / парикмахерская
 - **los percebes** - goose barnacles / морские уточки (перцебес)
 - **la percha** - hanger / вешалка-плечики
@@ -413,6 +425,7 @@ tags: [vocabulario, sustantivos]
 - **el prendedor** - brooch, pin / брошь, булавка
 - **la profesión** - profession / профессия
 - **la propina** - tip / чаевые
+- **el/la protagonista** - main character / главный герой, героиня
 - **el puente** - long weekend / длинные выходные
 - **el pulpo** - octopus / осьминог
 - **la queja** - complaint / жалоба
@@ -429,6 +442,7 @@ tags: [vocabulario, sustantivos]
 - **la recomendación** - recommendation / рекомендация
 - **la redundancia** - redundancy / избыточность
 - **el relámpago** - lightning / молния
+- **el reparto** - cast / актёрский состав
 - **el reposo** - rest / отдых, покой
 - **la resaca** - hangover / похмелье
 - **la reserva** - reservation / бронь, резерв

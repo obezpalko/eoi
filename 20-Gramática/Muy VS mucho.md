@@ -70,4 +70,21 @@ Se usa después de un verbo para indicar cantidad de acción. **No cambia**.
    *(Today I don't have much time to study / Сегодня у меня нет много времени на учебу)*
 
 ---
+
+## 3. MUCHO / MÁS con un verbo: van **después**
+
+Cuando **mucho** o **más** modifican un verbo, se colocan **después del verbo**. *(With a verb, "a lot / more" goes after it / С глаголом «много / больше» ставится после глагола.)*
+
+| ❌ Incorrecto | ✅ Correcto | English | Русский |
+| :--- | :--- | :--- | :--- |
+| ~~Mucho escribir~~ | **Escribir mucho** | to write a lot | много писать |
+| ~~Más estudiar~~ | **Estudiar más** | to study more | больше учиться |
+| ~~Mucho hablo~~ | **Hablo mucho** | I talk a lot | я много говорю |
+
+> [!TIP] Con infinitivo como sujeto
+> *Escribir mucho ayuda a aprender.* · *Va bien hablar mucho en clase.* · *Estudiar más es necesario.*
+
+Ver también: [[Decir vs. hablar]]
+
+---
 #español #gramática #A2 #muy-mucho

@@ -96,7 +96,7 @@ Soluciones completas con traducción en [[../../20-Gramática/Dar consejos y rec
 
 - f. Fijate en esta frase extraída de uno de los textos de A. ¿Cuál es el infinitivo de la forma en indefinido marcada en negrita? ¿Qué cambio observas en la raíz? ¿Entiendes por qué pasa?
 > 	El año pasado publiqué un libro sobre esa experiencia.
-	- [[Cambio 1ª persona pretérito indefinido]]
+	- [[../../20-Gramática/Pretérito indefinido - cambios ortográficos|Pretérito indefinido: cambios ortográficos]]
 - g. Escribe la primera persona del singular de estos verbos en pretérito indefinido. ¿Qué cambios observas? ¿A qué se deben?
 	- cruzar - crucé 
 	- empezar - empecé 
@@ -104,7 +104,7 @@ Soluciones completas con traducción en [[../../20-Gramática/Dar consejos y rec
 	- tocar - toqué
 	- jugar - jugué 
 	- pagar - pagué 
-	- [[Cambio 1ª persona pretérito indefinido]]
+	- [[../../20-Gramática/Pretérito indefinido - cambios ortográficos|Pretérito indefinido: cambios ortográficos]]
 
 ### Pág. 159
 - 6
@@ -113,4 +113,4 @@ Soluciones completas con traducción en [[../../20-Gramática/Dar consejos y rec
 ---
 
 **Navegación:**
-[[20261026 Lección siete|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | Lección siguiente ➡️
+[[20261026 Lección siete|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | [[20261102 Lección nueve|Lección siguiente ➡️]]
