@@ -32,18 +32,18 @@ tags:
 
 
 ### Revisión de los deberes de la lección anterior
-Ver los deberes de [[20261028 Lección ocho#Deberes|la lección ocho]] (págs. 29 y 159, pretérito indefinido).
+Ver los deberes de [[20261028 Lección ocho#Deberes|la lección ocho]] (páginas 29 y 159, pretérito indefinido).
 
 ---
 
 ## Una vida de película
 
-### Pág. 25 — Pretérito indefinido
+### Página 25 — Pretérito indefinido
 - Gramática general: [[../../20-Gramática/Pretérito indefinido|Pretérito indefinido]].
 - Cambios ortográficos de «yo» (-CAR, -GAR, -ZAR): [[../../20-Gramática/Pretérito indefinido - cambios ortográficos|Pretérito indefinido: cambios ortográficos]].
 - Cultura: [[../../60-Cultura/Las señoritas de Aviñón - Picasso|Las señoritas de Aviñón, Pablo Picasso]].
 
-### Pág. 26 — Películas biográficas
+### Página 26 — Películas biográficas
 Lista completa de biopics (música, política, arte) y obras maestras por género, con título original y en ruso: [[../../60-Cultura/Cine - películas biográficas y géneros|Películas biográficas y géneros]].
 
 | Película | Protagonista | Tema |
@@ -82,8 +82,6 @@ Vocabulario completo: [[../../30-Vocabulario/Temas/Cine|Cine]].
 | películas **de terror** | películas **bélicas** |
 
 Ver [[../../20-Gramática/Películas de + género|Películas de + género]].
-> [!NOTE] Corrección
-> En los apuntes: *~~de acciones~~* → *de **acción*** · *~~bélica~~* → ***bélicas***.
 
 ### Juego «Adivina la película»
 

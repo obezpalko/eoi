@@ -4,6 +4,9 @@ tags: [cultura, arte, pintura, Picasso]
 ---
 # 🎨 «Las señoritas de Aviñón» — Pablo Picasso
 
+![[attachments/picasso-las-senoritas-de-avinon.jpg|500]]
+*Pablo Picasso, «Les Demoiselles d'Avignon», 1907. MoMA, Nueva York. (Imagen: [Wikipedia](https://en.wikipedia.org/wiki/Les_Demoiselles_d%27Avignon).)*
+
 | Dato | Español | English | Русский |
 | :--- | :--- | :--- | :--- |
 | Título original | *Les Demoiselles d'Avignon* | *The Young Ladies of Avignon* | «Авиньонские девицы» |

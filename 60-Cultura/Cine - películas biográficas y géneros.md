@@ -12,35 +12,35 @@ Lista de películas para ver y comentar en clase. Vocabulario: [[../30-Vocabular
 
 | Película (título en español) | Año | Original / Русский | Protagonista | Argumento | Estilo |
 | :--- | :---: | :--- | :--- | :--- | :--- |
-| **Rocketman** | 2019 | *Rocketman* / «Рокетмен» | Elton John (Taron Egerton) | La transformación del tímido prodigio del piano Reginald Dwight en la superestrella Elton John, con secuencias musicales fantásticas; trata sus adicciones y la aceptación personal. | Musical fantástico, vistoso y emotivo |
-| **Elvis** | 2022 | *Elvis* / «Элвис» | Elvis Presley (Austin Butler) | La vida y la música del «Rey del Rock and Roll» vista a través de su relación con su mánager, el coronel Tom Parker. | Dinámico y deslumbrante (dir. Baz Luhrmann) |
-| **Walk the Line** (*En la cuerda floja*) | 2005 | *Walk the Line* / «Переступить черту» | Johnny Cash (Joaquin Phoenix) | Juventud y ascenso del cantante country, su adicción y su historia de amor con June Carter. | Drama musical clásico |
-| **Ray** | 2004 | *Ray* / «Рэй» | Ray Charles (Jamie Foxx) | La vida del músico de soul, de sus humildes comienzos al éxito mundial. | Drama biográfico |
-| **La Vie en Rose** (*La môme*) | 2007 | *La Môme* / «Жизнь в розовом цвете» | Édith Piaf (Marion Cotillard) | Desde su infancia en la pobreza hasta su consagración internacional y sus trágicos últimos años. | Drama no lineal, oscuro y conmovedor |
-| **Judy** | 2019 | *Judy* / «Джуди» | Judy Garland (Renée Zellweger) | Sus últimos conciertos en Londres a finales de los años 60. | Drama íntimo |
+| **[Rocketman](https://es.wikipedia.org/wiki/Rocketman_%28película%29)** | 2019 | *Rocketman* / «Рокетмен» | [Elton John](https://es.wikipedia.org/wiki/Elton_John) ([Taron Egerton](https://es.wikipedia.org/wiki/Taron_Egerton)) | La transformación del tímido prodigio del piano Reginald Dwight en la superestrella Elton John, con secuencias musicales fantásticas; trata sus adicciones y la aceptación personal. | Musical fantástico, vistoso y emotivo |
+| **[Elvis](https://es.wikipedia.org/wiki/Elvis_%28película_de_2022%29)** | 2022 | *Elvis* / «Элвис» | [Elvis Presley](https://es.wikipedia.org/wiki/Elvis_Presley) ([Austin Butler](https://es.wikipedia.org/wiki/Austin_Butler)) | La vida y la música del «Rey del Rock and Roll» vista a través de su relación con su mánager, el coronel Tom Parker. | Dinámico y deslumbrante (dir. Baz Luhrmann) |
+| **[Walk the Line](https://es.wikipedia.org/wiki/Walk_the_Line)** (*En la cuerda floja*) | 2005 | *Walk the Line* / «Переступить черту» | [Johnny Cash](https://es.wikipedia.org/wiki/Johnny_Cash) ([Joaquin Phoenix](https://es.wikipedia.org/wiki/Joaquin_Phoenix)) | Juventud y ascenso del cantante country, su adicción y su historia de amor con June Carter. | Drama musical clásico |
+| **[Ray](https://es.wikipedia.org/wiki/Ray_%28película%29)** | 2004 | *Ray* / «Рэй» | [Ray Charles](https://es.wikipedia.org/wiki/Ray_Charles) ([Jamie Foxx](https://es.wikipedia.org/wiki/Jamie_Foxx)) | La vida del músico de soul, de sus humildes comienzos al éxito mundial. | Drama biográfico |
+| **[La Vie en Rose](https://es.wikipedia.org/wiki/La_vida_en_rosa_%28película%29)** (*La môme*) | 2007 | *La Môme* / «Жизнь в розовом цвете» | [Édith Piaf](https://es.wikipedia.org/wiki/Édith_Piaf) ([Marion Cotillard](https://es.wikipedia.org/wiki/Marion_Cotillard)) | Desde su infancia en la pobreza hasta su consagración internacional y sus trágicos últimos años. | Drama no lineal, oscuro y conmovedor |
+| **[Judy](https://es.wikipedia.org/wiki/Judy)** | 2019 | *Judy* / «Джуди» | [Judy Garland](https://es.wikipedia.org/wiki/Judy_Garland) ([Renée Zellweger](https://es.wikipedia.org/wiki/Renée_Zellweger)) | Sus últimos conciertos en Londres a finales de los años 60. | Drama íntimo |
 
 ## 🏛️ Biopics: figuras históricas, políticas y artistas
 
 | Película | Año | Original / Русский | Protagonista | Argumento | Estilo |
 | :--- | :---: | :--- | :--- | :--- | :--- |
-| **La dama de hierro** | 2011 | *The Iron Lady* / «Железная леди» | Margaret Thatcher (Meryl Streep) | La primera mujer primera ministra del Reino Unido, recordada desde la vejez: crisis económica, Malvinas y el precio personal del poder. | Drama político íntimo |
-| **Jackie** | 2016 | *Jackie* / «Джеки» | Jacqueline Kennedy (Natalie Portman) | Los días tras el asesinato de J. F. Kennedy en 1963: el funeral de Estado y el duelo de una nación. | Tenso, psicológico, intimista |
-| **Frida** | 2002 | *Frida* / «Фрида» | Frida Kahlo (Salma Hayek) | Desde su accidente de autobús hasta su relación con Diego Rivera; transforma el dolor en arte. | Visualmente rico, estética surrealista |
-| **Lincoln** | 2012 | *Lincoln* / «Линкольн» | Abraham Lincoln (Daniel Day-Lewis) | Los últimos meses de mandato y su esfuerzo por abolir la esclavitud. | Drama histórico |
-| **Oppenheimer** | 2023 | *Oppenheimer* / «Оппенгеймер» | J. Robert Oppenheimer (Cillian Murphy) | El físico que lideró el Proyecto Manhattan y las primeras armas nucleares. | Retrato monumental |
-| **La lista de Schindler** | 1993 | *Schindler's List* / «Список Шиндлера» | Oskar Schindler (Liam Neeson) | El empresario alemán que salvó a más de mil judíos polacos en el Holocausto. | Drama histórico |
+| **[La dama de hierro](https://es.wikipedia.org/wiki/La_dama_de_hierro)** | 2011 | *The Iron Lady* / «Железная леди» | [Margaret Thatcher](https://es.wikipedia.org/wiki/Margaret_Thatcher) ([Meryl Streep](https://es.wikipedia.org/wiki/Meryl_Streep)) | La primera mujer primera ministra del Reino Unido, recordada desde la vejez: crisis económica, Malvinas y el precio personal del poder. | Drama político íntimo |
+| **[Jackie](https://es.wikipedia.org/wiki/Jackie_%28película%29)** | 2016 | *Jackie* / «Джеки» | [Jacqueline Kennedy](https://es.wikipedia.org/wiki/Jacqueline_Kennedy_Onassis) ([Natalie Portman](https://es.wikipedia.org/wiki/Natalie_Portman)) | Los días tras el asesinato de J. F. Kennedy en 1963: el funeral de Estado y el duelo de una nación. | Tenso, psicológico, intimista |
+| **[Frida](https://es.wikipedia.org/wiki/Frida)** | 2002 | *Frida* / «Фрида» | [Frida Kahlo](https://es.wikipedia.org/wiki/Frida_Kahlo) ([Salma Hayek](https://es.wikipedia.org/wiki/Salma_Hayek)) | Desde su accidente de autobús hasta su relación con Diego Rivera; transforma el dolor en arte. | Visualmente rico, estética surrealista |
+| **[Lincoln](https://es.wikipedia.org/wiki/Lincoln_%28película%29)** | 2012 | *Lincoln* / «Линкольн» | [Abraham Lincoln](https://es.wikipedia.org/wiki/Abraham_Lincoln) ([Daniel Day-Lewis](https://es.wikipedia.org/wiki/Daniel_Day-Lewis)) | Los últimos meses de mandato y su esfuerzo por abolir la esclavitud. | Drama histórico |
+| **[Oppenheimer](https://es.wikipedia.org/wiki/Oppenheimer_%28película%29)** | 2023 | *Oppenheimer* / «Оппенгеймер» | [J. Robert Oppenheimer](https://es.wikipedia.org/wiki/Robert_Oppenheimer) ([Cillian Murphy](https://es.wikipedia.org/wiki/Cillian_Murphy)) | El físico que lideró el Proyecto Manhattan y las primeras armas nucleares. | Retrato monumental |
+| **[La lista de Schindler](https://es.wikipedia.org/wiki/La_lista_de_Schindler)** | 1993 | *Schindler's List* / «Список Шиндлера» | [Oskar Schindler](https://es.wikipedia.org/wiki/Oskar_Schindler) ([Liam Neeson](https://es.wikipedia.org/wiki/Liam_Neeson)) | El empresario alemán que salvó a más de mil judíos polacos en el Holocausto. | Drama histórico |
 
 ### 📊 Comparativa rápida
 
 | Película | Eje central | Tono | Punto fuerte |
 | :--- | :--- | :--- | :--- |
-| **Rocketman** | identidad y superación | musical, colorido | números musicales |
-| **Elvis** | fama y control de la industria | frenético, deslumbrante | interpretación y dirección de arte |
-| **La Vie en Rose** | arte nacido del dolor | trágico, apasionado | transformación de Marion Cotillard |
-| **Walk the Line** | amor, adicción, redención | realista, emotivo | química entre los protagonistas |
-| **La dama de hierro** | poder y memoria | solemne, melancólico | actuación de Meryl Streep |
-| **Frida** | creación y pasión | artístico, vibrante | estética pictórica mexicana |
-| **Jackie** | trauma, legado, política | claustrofóbico | banda sonora y primeros planos |
+| **[Rocketman](https://es.wikipedia.org/wiki/Rocketman_%28película%29)** | identidad y superación | musical, colorido | números musicales |
+| **[Elvis](https://es.wikipedia.org/wiki/Elvis_%28película_de_2022%29)** | fama y control de la industria | frenético, deslumbrante | interpretación y dirección de arte |
+| **[La Vie en Rose](https://es.wikipedia.org/wiki/La_vida_en_rosa_%28película%29)** | arte nacido del dolor | trágico, apasionado | transformación de Marion Cotillard |
+| **[Walk the Line](https://es.wikipedia.org/wiki/Walk_the_Line)** | amor, adicción, redención | realista, emotivo | química entre los protagonistas |
+| **[La dama de hierro](https://es.wikipedia.org/wiki/La_dama_de_hierro)** | poder y memoria | solemne, melancólico | actuación de Meryl Streep |
+| **[Frida](https://es.wikipedia.org/wiki/Frida)** | creación y pasión | artístico, vibrante | estética pictórica mexicana |
+| **[Jackie](https://es.wikipedia.org/wiki/Jackie_%28película%29)** | trauma, legado, política | claustrofóbico | banda sonora y primeros planos |
 
 ---
 
@@ -48,26 +48,26 @@ Lista de películas para ver y comentar en clase. Vocabulario: [[../30-Vocabular
 
 | Género | Película | Año | Original / Русский | Idea |
 | :--- | :--- | :---: | :--- | :--- |
-| 💥 **Acción** | La jungla de cristal | 1988 | *Die Hard* / «Крепкий орешек» | Un policía neoyorquino se enfrenta solo a unos criminales en un rascacielos. |
-| | Mad Max: Furia en la carretera | 2015 | *Mad Max: Fury Road* / «Безумный Макс: Дорога ярости» | Persecución constante en un mundo postapocalíptico. |
-| | Terminator 2: El juicio final | 1991 | *Terminator 2: Judgment Day* / «Терминатор 2: Судный день» | Un cíborg del futuro protege a un niño. |
-| 🎭 **Drama** | Cadena perpetua | 1994 | *The Shawshank Redemption* / «Побег из Шоушенка» | Amistad y esperanza entre dos prisioneros. |
-| | El padrino | 1972 | *The Godfather* / «Крёстный отец» | Ascenso de la familia mafiosa Corleone. |
-| | Forrest Gump | 1994 | *Forrest Gump* / «Форрест Гамп» | Un hombre de gran corazón vive los hechos del siglo XX. |
-| 😂 **Comedia** | Con faldas y a lo loco | 1959 | *Some Like It Hot* / «В джазе только девушки» | Dos músicos se disfrazan de mujeres para huir de la mafia. |
-| | La vida es bella | 1997 | *La vita è bella* / «Жизнь прекрасна» | Un padre protege a su hijo con humor en un campo de concentración. |
-| | Resacón en Las Vegas | 2009 | *The Hangover* / «Мальчишник в Вегасе» | Tres amigos despiertan sin recordar nada y sin el novio. |
-| 👻 **Terror** | El exorcista | 1973 | *The Exorcist* / «Изгоняющий дьявола» | Una madre y dos sacerdotes luchan por salvar a una niña poseída. |
-| | El resplandor | 1980 | *The Shining* / «Сияние» | Un escritor y su familia en un hotel aislado en invierno; espiral de locura. |
-| | Psicosis | 1960 | *Psycho* / «Психо» | Una joven se hospeda en el motel de Norman Bates. |
-| 🚀 **Ciencia ficción** | Matrix | 1999 | *The Matrix* / «Матрица» | La humanidad vive en una simulación creada por IA. |
-| | Interstellar | 2014 | *Interstellar* / «Интерстеллар» | Astronautas viajan por un agujero de gusano buscando un nuevo hogar. |
-| | Blade Runner | 1982 | *Blade Runner* / «Бегущий по лезвию» | Un detective caza «replicantes» rebeldes. |
-| 🕵️ **Intriga** | El silencio de los corderos | 1991 | *The Silence of the Lambs* / «Молчание ягнят» | Una agente del FBI pide ayuda a un psiquiatra caníbal para atrapar a un asesino. |
-| | Seven | 1995 | *Se7en* / «Семь» | Dos detectives persiguen a un asesino que sigue los siete pecados capitales. |
-| | Shutter Island | 2010 | *Shutter Island* / «Остров проклятых» | Misterio en un hospital psiquiátrico en una isla remota. |
-| 🧙 **Fantasía** | El Señor de los Anillos: El retorno del Rey | 2003 | *The Lord of the Rings: The Return of the King* / «Властелин колец: Возвращение короля» | Batalla final por la Tierra Media; 11 premios Óscar. |
-| | Harry Potter y la piedra filosofal | 2001 | *Harry Potter and the Sorcerer's Stone* / «Гарри Поттер и философский камень» | Un niño huérfano descubre que es mago. |
+| 💥 **Acción** | [La jungla de cristal](https://es.wikipedia.org/wiki/Die_Hard) | 1988 | *Die Hard* / «Крепкий орешек» | Un policía neoyorquino se enfrenta solo a unos criminales en un rascacielos. |
+| | [Mad Max: Furia en la carretera](https://es.wikipedia.org/wiki/Mad_Max:_Fury_Road) | 2015 | *Mad Max: Fury Road* / «Безумный Макс: Дорога ярости» | Persecución constante en un mundo postapocalíptico. |
+| | [Terminator 2: El juicio final](https://es.wikipedia.org/wiki/Terminator_2:_el_juicio_final) | 1991 | *Terminator 2: Judgment Day* / «Терминатор 2: Судный день» | Un cíborg del futuro protege a un niño. |
+| 🎭 **Drama** | [Cadena perpetua](https://es.wikipedia.org/wiki/The_Shawshank_Redemption) | 1994 | *The Shawshank Redemption* / «Побег из Шоушенка» | Amistad y esperanza entre dos prisioneros. |
+| | [El padrino](https://es.wikipedia.org/wiki/El_padrino_%28película%29) | 1972 | *The Godfather* / «Крёстный отец» | Ascenso de la familia mafiosa Corleone. |
+| | [Forrest Gump](https://es.wikipedia.org/wiki/Forrest_Gump_%28película%29) | 1994 | *Forrest Gump* / «Форрест Гамп» | Un hombre de gran corazón vive los hechos del siglo XX. |
+| 😂 **Comedia** | [Con faldas y a lo loco](https://es.wikipedia.org/wiki/Some_Like_It_Hot) | 1959 | *Some Like It Hot* / «В джазе только девушки» | Dos músicos se disfrazan de mujeres para huir de la mafia. |
+| | [La vida es bella](https://es.wikipedia.org/wiki/La_vida_es_bella) | 1997 | *La vita è bella* / «Жизнь прекрасна» | Un padre protege a su hijo con humor en un campo de concentración. |
+| | [Resacón en Las Vegas](https://es.wikipedia.org/wiki/The_Hangover) | 2009 | *The Hangover* / «Мальчишник в Вегасе» | Tres amigos despiertan sin recordar nada y sin el novio. |
+| 👻 **Terror** | [El exorcista](https://es.wikipedia.org/wiki/El_exorcista_%28película%29) | 1973 | *The Exorcist* / «Изгоняющий дьявола» | Una madre y dos sacerdotes luchan por salvar a una niña poseída. |
+| | [El resplandor](https://es.wikipedia.org/wiki/El_resplandor_%28película%29) | 1980 | *The Shining* / «Сияние» | Un escritor y su familia en un hotel aislado en invierno; espiral de locura. |
+| | [Psicosis](https://es.wikipedia.org/wiki/Psicosis_%28película%29) | 1960 | *Psycho* / «Психо» | Una joven se hospeda en el motel de Norman Bates. |
+| 🚀 **Ciencia ficción** | [Matrix](https://es.wikipedia.org/wiki/Matrix) | 1999 | *The Matrix* / «Матрица» | La humanidad vive en una simulación creada por IA. |
+| | [Interstellar](https://es.wikipedia.org/wiki/Interstellar) | 2014 | *Interstellar* / «Интерстеллар» | Astronautas viajan por un agujero de gusano buscando un nuevo hogar. |
+| | [Blade Runner](https://es.wikipedia.org/wiki/Blade_Runner) | 1982 | *Blade Runner* / «Бегущий по лезвию» | Un detective caza «replicantes» rebeldes. |
+| 🕵️ **Intriga** | [El silencio de los corderos](https://es.wikipedia.org/wiki/The_Silence_of_the_Lambs_%28película%29) | 1991 | *The Silence of the Lambs* / «Молчание ягнят» | Una agente del FBI pide ayuda a un psiquiatra caníbal para atrapar a un asesino. |
+| | [Seven](https://es.wikipedia.org/wiki/Seven) | 1995 | *Se7en* / «Семь» | Dos detectives persiguen a un asesino que sigue los siete pecados capitales. |
+| | [Shutter Island](https://es.wikipedia.org/wiki/Shutter_Island) | 2010 | *Shutter Island* / «Остров проклятых» | Misterio en un hospital psiquiátrico en una isla remota. |
+| 🧙 **Fantasía** | [El Señor de los Anillos: El retorno del Rey](https://es.wikipedia.org/wiki/El_Señor_de_los_Anillos:_el_retorno_del_Rey) | 2003 | *The Lord of the Rings: The Return of the King* / «Властелин колец: Возвращение короля» | Batalla final por la Tierra Media; 11 premios Óscar. |
+| | [Harry Potter y la piedra filosofal](https://es.wikipedia.org/wiki/Harry_Potter_y_la_piedra_filosofal_%28película%29) | 2001 | *Harry Potter and the Sorcerer's Stone* / «Гарри Поттер и философский камень» | Un niño huérfano descubre que es mago. |
 
 ---
 
