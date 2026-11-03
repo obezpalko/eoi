@@ -137,17 +137,18 @@ Ver [[../../20-Gramática/Muy VS mucho|Muy vs. mucho]] (sección 3).
 ## Deberes
 
 ### Pág. 158–160 (ejercicios 1, 2, 4, 5, 7, 9)
-| Ejercicio | Hecho  |
-| :-------: | :----: |
-|     1     | ✓==\== |
-|     2     |   ☐    |
-|     4     |   ☐    |
-|     5     |   ☐    |
-|     7     |   ☐    |
-|     9     |   ☐    |
+| Ejercicio | Hecho |     |
+| :-------: | :---: | --- |
+|     1     |   ✓   |     |
+|     2     |   ✓   |     |
+|     4     |   ✓   |     |
+|     5     |   ☐   |     |
+|     7     |   ☐   |     |
+|     9     |   ☐   |     |
 
 ### Tarjetitas
 ☐ Preparar tarjetitas (fichas de vocabulario).
+[[20261102-deberes]]
 
 ---
 
