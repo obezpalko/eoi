@@ -143,8 +143,8 @@ Ver [[../../20-Gramática/Muy VS mucho|Muy vs. mucho]] (sección 3).
 |     2     |   ✓   |     |
 |     4     |   ✓   |     |
 |     5     |   ✓   |     |
-|     7     |   ☐   |     |
-|     9     |   ☐   |     |
+|     7     |   ✓   |     |
+|     9     |   ✓   |     |
 
 ### Tarjetitas
 ☐ Preparar tarjetitas (fichas de vocabulario).
