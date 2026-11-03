@@ -142,7 +142,7 @@ Ver [[../../20-Gramática/Muy VS mucho|Muy vs. mucho]] (sección 3).
 |     1     |   ✓   |     |
 |     2     |   ✓   |     |
 |     4     |   ✓   |     |
-|     5     |   ☐   |     |
+|     5     |   ✓   |     |
 |     7     |   ☐   |     |
 |     9     |   ☐   |     |
 
