@@ -115,35 +115,36 @@ Ver [[../../20-Gramática/Muy VS mucho|Muy vs. mucho]] (sección 3).
 
 ## Vocabulario
 
-| Español | English | Русский |
-| :--- | :--- | :--- |
-| la biblioteca | library | библиотека |
-| el carnet de biblioteca | library card | читательский билет |
-| sacarse / hacerse el carnet | to get (sign up for) a card | оформить билет |
-| la película | film | фильм |
-| el/la protagonista | main character | главный герой |
-| el director / la directora | director | режиссёр |
-| protagonizar | to star in | играть главную роль |
-| dirigir | to direct | режиссировать |
-| actuar | to act | играть (роль) |
-| contar la historia de | to tell the story of | рассказывать историю |
-| ser sobre / tratar de | to be about | быть о |
-| de acción / de terror | action / horror | боевик / ужасы |
+| Español                       | English                     | Русский                           |
+| :---------------------------- | :-------------------------- | :-------------------------------- |
+| la biblioteca                 | library                     | библиотека                        |
+| el carnet de biblioteca       | library card                | читательский билет                |
+| sacarse / hacerse el carnet   | to get (sign up for) a card | оформить билет                    |
+| la película                   | film                        | фильм                             |
+| el/la protagonista            | main character              | главный герой                     |
+| el director / la directora    | director                    | режиссёр                          |
+| protagonizar                  | to star in                  | играть главную роль               |
+| dirigir                       | to direct                   | режиссировать                     |
+| actuar                        | to act                      | играть (роль)                     |
+| contar la historia de         | to tell the story of        | рассказывать историю              |
+| ser sobre / tratar de         | to be about                 | быть о                            |
+| de acción / de terror         | action / horror             | боевик / ужасы                    |
 | infantil / romántico / bélico | children's / romantic / war | детский / романтический / военный |
+|                               |                             |                                   |
 
 ---
 
 ## Deberes
 
 ### Pág. 158–160 (ejercicios 1, 2, 4, 5, 7, 9)
-| Ejercicio | Hecho |
-| :---: | :---: |
-| 1 | ☐ |
-| 2 | ☐ |
-| 4 | ☐ |
-| 5 | ☐ |
-| 7 | ☐ |
-| 9 | ☐ |
+| Ejercicio | Hecho  |
+| :-------: | :----: |
+|     1     | ✓==\== |
+|     2     |   ☐    |
+|     4     |   ☐    |
+|     5     |   ☐    |
+|     7     |   ☐    |
+|     9     |   ☐    |
 
 ### Tarjetitas
 ☐ Preparar tarjetitas (fichas de vocabulario).
