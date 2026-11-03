@@ -10,15 +10,16 @@ tags:
 
 [[#Deberes|📝 Deberes de la lección]]
 
-## Información
-
-
 ## Prácticas
-### acentos 
-- H nunca pronuncia 
-- televisión: tele[b]i[ss]ión
-- v o b
+
+### Pronunciación
+| Letra | Regla | Ejemplo | English | Русский |
+| :---: | :--- | :--- | :--- | :--- |
+| **H** | nunca se pronuncia | *hola, hotel, hablar* | H is always silent | H никогда не произносится |
+| **V / B** | suenan igual (/b/) | *televisión* → tele[b]i[s]ión | V and B sound the same | V и B звучат одинаково |
+
 ### 📑 Creencias y preferencias sobre el aprendizaje del español
+Marca lo que va contigo.
 
 - [ ] Doy mucha importancia a la corrección.
 - [ ] Necesito conocer las reglas gramaticales para sentirme seguro/a.
@@ -29,27 +30,26 @@ tags:
 - [ ] No me gusta ver películas o series en español porque no lo entiendo todo.
 - [ ] Me gusta hacer juegos de rol para practicar el idioma.
 - [ ] Aprendo mucho escuchando canciones.
+
 ### 5. Desde
 
-| en español                                                                  | En mi lengua |
-| --------------------------------------------------------------------------- | ------------ |
-| Desde + fecha: Akira vive en España desde enero del año pasado              |              |
-| Desde hace + años/meses/semanas: Paul vive en España desde hace veinte años |              |
-|                                                                             |              |
-| [[../../20-Gramática/Desde y desde hace\|Desde y desde hace]]                                                      |              |
-|                                                                             |              |
+| Estructura | Ejemplo | English | Русский |
+| :--- | :--- | :--- | :--- |
+| **desde** + fecha / momento | *Akira vive en España **desde** enero del año pasado.* | Akira has lived in Spain since January last year. | Акира живёт в Испании с января прошлого года. |
+| **desde hace** + años / meses / semanas | *Paul vive en España **desde hace** veinte años.* | Paul has lived in Spain for twenty years. | Пол живёт в Испании уже двадцать лет. |
 
-### 9. 
+➡️ Ver [[../../20-Gramática/Desde y desde hace|Desde y desde hace]].
 
-|     | ¿Que nivel tiene? | ¿Con quien habla? | ¿Qué hace en esa lengua? |     |
-| --- | ----------------- | ----------------- | ------------------------ | --- |
-|     |                   |                   |                          |     |
+### 9. Lenguas y niveles (tabla de clase)
+| Persona | ¿Qué nivel tiene? | ¿Con quién habla? | ¿Qué hace en esa lengua? |
+| :--- | :--- | :--- | :--- |
+| | | | |
 
-#### pág 151. 1.3
+### Pág. 151, 1.3 (ficha personal)
 1. Nombre: Alexandr
 2. Pais: Israel
 3. Profesión: informática 
-4. Otras idiomas: ruso, ucraniano, inglés, hebreo 
+4. Otros idiomas: ruso, ucraniano, inglés, hebreo 
 5. ¿Por qué estudias español?
 	- [x] para conseguir un trabajo mejor 
 	- [x] porque tengo que hacer un examen 
@@ -74,11 +74,19 @@ tags:
 	3. [ ] recordar el vocabulario 
 	4. [ ] hablar con fluidez 
 9. ¿Qué te gusta hacer en tu tiempo libre?
-##### preguntas 
+#### Preguntas
 1. ¿Como te llamas? ¿Cuál es tu nombre?
 2. ¿De donde eres?
 3. ¿A qué te dedicas? ¿Cuál es tu profesión?
 4. Aparte de español, ¿qué idiomas hablas?
+### 3. ¿Cómo aprendes? (1.3, pág. 13)
+
+| Mis objetivos | | Cosas que me gusta hacer en clase y que me ayudan a aprender |
+| :--- | :-: | :--- |
+| Ver películas y series en lengua original |     | Hacer ejercicios                                             |
+| Hablar con fluidez                        |     | Trabajar solo o con otra persona                             |
+| Conocer otra cultura                      |     | Conocer                                                      |
+
 ## Vocabulario
 
 | Español | English | Русский |
@@ -95,19 +103,17 @@ tags:
 | recortar | to cut out | вырезать |
 | dependiente de campo | field-dependent | полезависимый |
 
-## 3. ¿Cómo aprendes?
-1.3 pág.13
-
-| Mis objetivos                             |     | Cosas que me gusta hacer en clase y que me ayudan a aprender |
-| ----------------------------------------- | --- | ------------------------------------------------------------ |
-| Ver películas y series en lengua original |     | Hacer ejercicios                                             |
-| Hablar con fluidez                        |     | Trabajar solo o con otra persona                             |
-| Conocer otra cultura                      |     | Conocer                                                      |
-|                                           |     |                                                              |
-
-
 ## Deberes
-Pág 151-154: 1, 2, 4, 5, 10
+
+### Págs. 151–154 (ejercicios 1, 2, 4, 5, 10)
+| Ejercicio | Hecho |
+| :-: | :-: |
+| 1 | ☐ |
+| 2 | ☐ |
+| 4 | ☐ |
+| 5 | ☐ |
+| 10 | ☐ |
+
 
 ---
 

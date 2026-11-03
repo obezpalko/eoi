@@ -10,38 +10,42 @@ tags:
 
 [[#Deberes|📝 Deberes de la lección]]
 
-## Información
-
 ## Prácticas
-### 1.3. ¿Cómo aprendes? (Pág 13)
-- el estudiante es:
-	- dependiente de campo 
-	- independiente de campo
 
-Estoy independiente de campo visual individual 
-#### el aprendizaje de lenguas (pág 18)
-- mi objetivo ==es==:
-	- hablar con nativos/as
-	- comunicarme con nativos 
-	- hablar con fluidez y correctamente 
-	- ver películas en español 
-	- leer revistas 
-	- aprobar el examen
-	- escribir un diario
-	- conocer otra cultura 
-	- comunicarme con nativos fluidamente 
-	- entender ==a== mis amigos 
-#### ¿Qué me gusta? ¿Qué me ayuda?
-- me gusta (infinitivo)
-	- me ayuda hacer ejercicios 
-	- me gusta escuchar la radio 
-	- me gusta ver películas 
-	- me ayuda leer revistas
-	- me ayuda tomar notas
-- me gusta(n) (subjetivo)
-	- me gustan los ejercicios de gramática 
+### 1.3. ¿Cómo aprendes? (pág. 13)
+| Tipo de estudiante | English | Русский |
+| :--- | :--- | :--- |
+| dependiente de campo | field-dependent | полезависимый |
+| independiente de campo | field-independent | поленезависимый |
 
+> [!NOTE] Mi perfil
+> Soy **independiente de campo**, visual e individual. *(I am field-independent, visual and individual. / Я поленезависимый, визуал и индивидуалист.)*
 
+### El aprendizaje de lenguas (pág. 18)
+**Mi objetivo es…**
+
+| Objetivo | English | Русский |
+| :--- | :--- | :--- |
+| hablar con nativos/as | to speak with native speakers | говорить с носителями языка |
+| comunicarme con nativos | to communicate with natives | общаться с носителями |
+| hablar con fluidez y correctamente | to speak fluently and correctly | говорить свободно и правильно |
+| ver películas en español | to watch films in Spanish | смотреть фильмы на испанском |
+| leer revistas | to read magazines | читать журналы |
+| aprobar el examen | to pass the exam | сдать экзамен |
+| escribir un diario | to keep a diary | вести дневник |
+| conocer otra cultura | to get to know another culture | познакомиться с другой культурой |
+| comunicarme con nativos fluidamente | to communicate fluently with natives | свободно общаться с носителями |
+| entender **a** mis amigos | to understand my friends (personal *a*) | понимать моих друзей (личное *a*) |
+
+### ¿Qué me gusta? ¿Qué me ayuda?
+| Estructura | Ejemplo | English | Русский |
+| :--- | :--- | :--- | :--- |
+| me ayuda + infinitivo | *Me ayuda hacer ejercicios.* | Doing exercises helps me. | Мне помогает выполнять упражнения. |
+| me ayuda + infinitivo | *Me ayuda leer revistas.* | Reading magazines helps me. | Мне помогает чтение журналов. |
+| me ayuda + infinitivo | *Me ayuda tomar notas.* | Taking notes helps me. | Мне помогает делать заметки. |
+| me gusta + infinitivo | *Me gusta escuchar la radio.* | I like listening to the radio. | Мне нравится слушать радио. |
+| me gusta + infinitivo | *Me gusta ver películas.* | I like watching films. | Мне нравится смотреть фильмы. |
+| me gusta**n** + sustantivo plural | *Me gustan los ejercicios de gramática.* | I like grammar exercises. | Мне нравятся грамматические упражнения. |
 
 ### Me ayuda…
 [[../../20-Gramática/Me ayuda|🇪🇸 Me ayuda / Me ayudan]] — infinitivo, subjuntivo y sustantivos.
@@ -80,7 +84,7 @@ Estoy independiente de campo visual individual
 | huir | to flee, to run away | бежать, спасаться |
 
 ## Deberes
-### 153.6
+### Pág. 153, ejercicio 6
 #### 📖 Ejercicio de Presente de Indicativo: Jutta Schneider
 
 ##### 📌 Texto completo resuelto
@@ -104,7 +108,7 @@ Jutta Schneider **tiene** 38 años y desde hace cuatro **vive** en Oviedo. Es pr
 | **estudiar**   | **estudia**     | Regular (-ar)                         |
 | **trabajar**   | **trabaja**     | Regular (-ar)                         |
 
-### 153.7
+### Pág. 153, ejercicio 7
 #### 📖 Ejercicio 7: Rutina de Anne (Presente - 1.ª persona "Yo")
 
 ##### 📌 Respuestas del texto
@@ -142,11 +146,7 @@ Jutta Schneider **tiene** 38 años y desde hace cuatro **vive** en Oviedo. Es pr
 | **vestirse**                           | Verbo Bota (e → i)                 | **me visto**                           |
 | **tener**                              | Mixto (Sombrero -go + Bota e → ie) | **tengo**                              |
 
-### 153.8
-
-### 156.18
-
-### 👟 Ejercicio: Verbos Bota con cambio vocálico ($E \rightarrow IE$)
+### Pág. 156, ejercicio 18 — 👟 Verbos Bota (E → IE)
 
 **Regla:** La vocal **E** de la raíz cambia a **IE** en todas las personas del singular (*yo, tú, él/ella*) y en la 3.ª persona del plural (*ellos/ellas*).
 
@@ -155,7 +155,7 @@ Jutta Schneider **tiene** 38 años y desde hace cuatro **vive** en Oviedo. Es pr
 #### 📋 Lista de preguntas corregidas
 
 1. ¿**Meriendas** todos los días? *(merendar)*
-2. ¿Quién **friega** / **Friegas** los platos en tu casa? *(fregar)*
+2. ¿Quién **friega** los platos en tu casa? *(fregar)*
 3. ¿Por qué algunos animales no **tiemblan** cuando hace frío? *(temblar)*
 4. ¿**Sientes** que avanzas bien en tu aprendizaje del español? *(sentir)*
 5. ¿Cómo es físicamente el presidente que **gobierna** en tu país? *(gobernar)*
@@ -177,7 +177,7 @@ Jutta Schneider **tiene** 38 años y desde hace cuatro **vive** en Oviedo. Es pr
 
 ---
 
-##### 📊 Vocabulario y cambios vocálicos ($E \rightarrow IE$)
+##### 📊 Vocabulario y cambios vocálicos (E → IE)
 
 | Infinitivo | Forma conjugada (Tú) | Forma 3.ª persona (Él / Ellos) |
 | :--- | :--- | :--- |
