@@ -35,11 +35,11 @@ Gramática: [[../../20-Gramática/Pretérito indefinido|Pretérito indefinido]] 
 
 ### Directores y películas
 
-| Pregunta | Respuesta | English | Русский |
-| :--- | :--- | :--- | :--- |
-| ¿Quién **dirigió** *El padrino*? | [Francis Ford Coppola](https://es.wikipedia.org/wiki/Francis_Ford_Coppola) dirigió [*El padrino*](https://es.wikipedia.org/wiki/El_padrino_%28película%29) (1972). | Who directed *The Godfather*? | Кто снял «Крёстного отца»? |
-| ¿Quién dirigió *Harry Potter*? | [Alfonso Cuarón](https://es.wikipedia.org/wiki/Alfonso_Cuarón) dirigió [*Harry Potter y el prisionero de Azkaban*](https://es.wikipedia.org/wiki/Harry_Potter_y_el_prisionero_de_Azkaban_%28película%29) (2004), la tercera película de la saga. | Who directed *Harry Potter*? | Кто снял «Гарри Поттера»? |
-| Otra película de Cuarón | [*Hijos de los hombres*](https://es.wikipedia.org/wiki/Children_of_Men) (2006) | Another film by Cuarón: *Children of Men* | Ещё фильм Куарона: «Дитя человеческое» |
+| Película | Director | Pregunta | English | Русский |
+| :---: | :---: | :--- | :--- | :--- |
+| ![[../../60-Cultura/attachments/posters/the-godfather.jpg\|70]]<br>[*El padrino*](https://es.wikipedia.org/wiki/El_padrino_%28película%29) (1972) | ![[../../60-Cultura/attachments/personas/francis-ford-coppola.jpg\|60]]<br>[Francis Ford Coppola](https://es.wikipedia.org/wiki/Francis_Ford_Coppola) | ¿Quién **dirigió** *El padrino*? → Coppola **dirigió** *El padrino*. | Who directed *The Godfather*? | Кто снял «Крёстного отца»? |
+| ![[../../60-Cultura/attachments/posters/harry-potter-and-the-prisoner-of-azkaban-film.jpg\|70]]<br>[*Harry Potter y el prisionero de Azkaban*](https://es.wikipedia.org/wiki/Harry_Potter_y_el_prisionero_de_Azkaban_%28película%29) (2004) | ![[../../60-Cultura/attachments/personas/alfonso-cuaron.jpg\|60]]<br>[Alfonso Cuarón](https://es.wikipedia.org/wiki/Alfonso_Cuarón) | ¿Quién dirigió *Harry Potter*? → Cuarón dirigió la tercera película de la saga. | Who directed *Harry Potter*? | Кто снял «Гарри Поттера»? |
+| ![[../../60-Cultura/attachments/posters/children-of-men.jpg\|70]]<br>[*Hijos de los hombres*](https://es.wikipedia.org/wiki/Children_of_Men) (2006) | ![[../../60-Cultura/attachments/personas/alfonso-cuaron.jpg\|60]]<br>[Alfonso Cuarón](https://es.wikipedia.org/wiki/Alfonso_Cuarón) | Otra película de Cuarón. | Another film by Cuarón: *Children of Men* | Ещё фильм Куарона: «Дитя человеческое» |
 
 
 ### Juego «¿Qué peli es?» (ficha de clase)
@@ -77,7 +77,11 @@ Pistas extra: ¿Puedes tararear su banda sonora? · ¿Cuántas letras tiene el t
 | 9 | *El título tiene **19 letras** y empieza por **«El»**.* | The title has 19 letters and starts with "El". | В названии 19 букв, оно начинается с «El». |
 
 > [!TIP]- Respuesta
-> **El Señor de los Anillos** (*The Lord of the Rings*, 2001–2003 / «Властелин колец»), de Peter Jackson, basada en la novela de J. R. R. Tolkien. Protagonista: **Frodo Bolsón** (Elijah Wood).
+> **[El Señor de los Anillos](https://es.wikipedia.org/wiki/Trilogía_cinematográfica_de_El_Señor_de_los_Anillos)** (*The Lord of the Rings*, 2001–2003 / «Властелин колец»), de [Peter Jackson](https://es.wikipedia.org/wiki/Peter_Jackson), basada en la novela de [J. R. R. Tolkien](https://es.wikipedia.org/wiki/J._R._R._Tolkien). Protagonista: **[Frodo Bolsón](https://es.wikipedia.org/wiki/Frodo_Bolsón)** ([Elijah Wood](https://es.wikipedia.org/wiki/Elijah_Wood)).
+>
+> | ![[../../60-Cultura/attachments/posters/the-lord-of-the-rings-the-fellowship-of-the-ring.jpg\|70]]<br>[*La Comunidad del Anillo*](https://es.wikipedia.org/wiki/El_Señor_de_los_Anillos:_la_Comunidad_del_Anillo) (2001) | ![[../../60-Cultura/attachments/personas/peter-jackson.jpg\|60]]<br>[Peter Jackson](https://es.wikipedia.org/wiki/Peter_Jackson) | ![[../../60-Cultura/attachments/personas/j-r-r-tolkien.jpg\|60]]<br>[J. R. R. Tolkien](https://es.wikipedia.org/wiki/J._R._R._Tolkien) | ![[../../60-Cultura/attachments/personas/elijah-wood.jpg\|60]]<br>[Elijah Wood](https://es.wikipedia.org/wiki/Elijah_Wood) |
+> | :---: | :---: | :---: | :---: |
+> | primera película | director | autor del libro | Frodo |
 >
 > En los apuntes: *El Señor ~~de anillos~~* → *El Señor **de los** Anillos*.
 >
@@ -106,6 +110,12 @@ Ver [[../../20-Gramática/Pretérito indefinido - cambios vocálicos|Pretérito 
 | 📜 **Historia** | *El hombre fue al espacio por primera vez en 1969.* | El primer viaje espacial fue en **1961** ([Yuri Gagarin](https://es.wikipedia.org/wiki/Yuri_Gagarin)). En 1969 fue la llegada a la **Luna**. |
 | 🎵 **Música** | *El álbum Thriller, de Michael Jackson, no tuvo mucho éxito.* | [*Thriller*](https://es.wikipedia.org/wiki/Thriller_%28álbum%29) (1982) fue un **éxito histórico** y es el disco más vendido de la historia. |
 
+**Quién es quién en este ejercicio:**
+
+| ![[../../60-Cultura/attachments/posters/lincoln-film.jpg\|70]]<br>[*Lincoln*](https://es.wikipedia.org/wiki/Lincoln_%28película%29) | ![[../../60-Cultura/attachments/posters/argo-2012-film.jpg\|70]]<br>[*Argo*](https://es.wikipedia.org/wiki/Argo_%28película_de_2012%29) | ![[../../60-Cultura/attachments/personas/daniel-day-lewis.jpg\|60]]<br>[Daniel Day-Lewis](https://es.wikipedia.org/wiki/Daniel_Day-Lewis) | ![[../../60-Cultura/attachments/personas/yuri-gagarin.jpg\|60]]<br>[Yuri Gagarin](https://es.wikipedia.org/wiki/Yuri_Gagarin) | ![[../../60-Cultura/attachments/personas/michael-jackson.jpg\|60]]<br>[Michael Jackson](https://es.wikipedia.org/wiki/Michael_Jackson) |
+| :---: | :---: | :---: | :---: | :---: |
+| película: Óscar 2013 (nominada) | película: Óscar 2013 (ganadora) | actor de *Lincoln* | primer hombre en el espacio (1961) | autor de *Thriller* (1982) |
+
 ---
 
 ## Vocabulario
@@ -131,7 +141,7 @@ Ver [[../../20-Gramática/Pretérito indefinido - cambios vocálicos|Pretérito 
 ### Pág. 27
 | Ejercicio | Detalle | Hecho |
 | :---: | :--- | :---: |
-| 3 | [Isabel Coixet](https://es.wikipedia.org/wiki/Isabel_Coixet): directora de cine y guionista española (Sant Adrià del Besós, 1960). Dirigió *La vida secreta de las palabras*. | ☐ |
+| 3 | ![[../../60-Cultura/attachments/personas/isabel-coixet.jpg\|60]]<br>[Isabel Coixet](https://es.wikipedia.org/wiki/Isabel_Coixet): directora de cine y guionista española (Sant Adrià del Besós, 1960). Dirigió [*La vida secreta de las palabras*](https://es.wikipedia.org/wiki/La_vida_secreta_de_las_palabras). | ☐ |
 
 ---
 
