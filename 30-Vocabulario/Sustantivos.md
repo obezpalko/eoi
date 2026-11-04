@@ -329,6 +329,7 @@ tags: [vocabulario, sustantivos]
 - **el marisco** - seafood / морепродукты
 - **la marmota** - marmot, woodchuck / сурок
 - **el martillo** - hammer / молоток
+- **el máster** - master's degree (postgraduate course) / магистратура
 - **el matiz** - nuance / нюанс
 - **la mayúscula** - capital letter / заглавная буква
 - **la mejilla** - cheek / щека

@@ -58,6 +58,7 @@ tags: [vocabulario, verbos]
 - **comenzar** - to start, begin / начинать
 - **comer** - to eat / есть
 - **cometer** - to commit, to make (mistakes) / совершать, допускать (ошибки)
+- **componer** - to compose / сочинять
 - **comprar** - to buy / покупать
 - **comprender** - to understand / понимать
 - **conducir** - to drive / водить
@@ -78,6 +79,7 @@ tags: [vocabulario, verbos]
 - **desenredar** - to untangle / распутывать
 - **desordenar** - to mess up / приводить в беспорядок
 - **despedirse** (e->i) - to say goodbye / прощаться
+- **despedirse (de)** - to say goodbye (to) / прощаться
 - **[[Verbos/despertarse|despertarse]]** - to wake up / просыпаться
 - **diluviar** - to pour with rain / лить как из ведра
 - **dirigir** - to direct / режиссировать, руководить
@@ -87,8 +89,10 @@ tags: [vocabulario, verbos]
 - **dominar** - to master / владеть, доминировать
 - **dormir** - to sleep / спать
 - **ducharse** - to shower / принимать душ
+- **durar** - to last / длиться
 - **echar** - to pour, to throw in / наливать, кидать
 - **echarse** - to lie down, to throw oneself / ложиться, бросаться
+- **elegir** - to choose / выбирать
 - **empezar** - to start, begin / начинать
 - **empollar** - to swot, to cram; to hatch / зубрить; высиживать
 - **empujar** - to push / толкать
@@ -132,6 +136,7 @@ tags: [vocabulario, verbos]
 - **hornear** - to bake / печь
 - **huir** - to flee / бежать, спасаться
 - **independizarse** - to become independent, to move out / становиться независимым, съехать от родителей
+- **iniciar** - to start, to begin / начинать
 - **ir** - to go / идти, ехать
 - **irse** - to leave / уходить
 - **jugar** - to play / играть
@@ -173,6 +178,7 @@ tags: [vocabulario, verbos]
 - **navegar** - to browse, navigate / плавать, сидеть в интернете
 - **nevar** (e->ie) - to snow / идти (о снеге)
 - **nevar** - to snow / идти (о снеге)
+- **obtener** - to obtain / получать, добиваться
 - **odiar** - to hate / ненавидеть
 - **oír** - to hear / слышать
 - **oler** - to smell / пахнуть
@@ -221,6 +227,7 @@ tags: [vocabulario, verbos]
 - **reñir** - to scold / ругать
 - **repartir** - to distribute, to hand out / распределять, раздавать
 - **repasar** - to review / повторять
+- **repetir** - to repeat / повторять
 - **resolver** - to solve / решать
 - **restar** - to subtract / вычитать
 - **retener** - to retain / удерживать (в памяти)
@@ -232,6 +239,7 @@ tags: [vocabulario, verbos]
 - **[[Verbos/salir|salir]]** - to go out, to leave / выходить
 - **secar** - to dry / сушить
 - **secarse** - to dry oneself / вытираться, сушиться
+- **seguir** - to follow, to continue / следовать, продолжать
 - **sembrar** - to sow / сеять
 - **sentarse** - to sit down / садиться
 - **sentir** - to feel / чувствовать
@@ -247,11 +255,13 @@ tags: [vocabulario, verbos]
 - **sumar** - to add / складывать
 - **sustituir** - to replace / заменять
 - **tapear** - to go for tapas / ходить по тапас-барам
+- **tararear** - to hum / напевать
 - **teletrabajar** - to telework / работать удаленно
 - **tender** (e->ie) - to hang (clothes) / вешать (белье) сушиться
 - **temblar** - to tremble / дрожать
 - **tender** - to hang out; to tend / развешивать; протягивать
 - **[[Verbos/tener|tener]]** - to have / иметь
+- **tener éxito** - to be successful / иметь успех
 - **tirar** - to throw, pull / кидать, тянуть
 - **[[Verbos/tocar|tocar]]** - to touch, play / трогать, играть
 - **tomar** - to take, to drink / брать, пить

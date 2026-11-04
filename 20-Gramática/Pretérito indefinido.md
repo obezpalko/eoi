@@ -43,6 +43,7 @@ Se usa para hablar de **acciones terminadas en el pasado**: hechos concretos, bi
 | el mes / año pasado | last month / year | в прошлом месяце / году |
 | hace dos años | two years ago | два года назад |
 | en 1907 | in 1907 | в 1907 году |
+| en los (años) 80 | in the 80s | в 80-е годы |
 | de repente | suddenly | вдруг |
 | una vez | once | однажды |
 
@@ -56,7 +57,15 @@ Los verbos en **-CAR, -GAR, -ZAR** cambian la ortografía en la 1.ª persona: *t
 
 ---
 
-## 4. Verbos muy frecuentes (irregulares)
+## 4. Cambios vocálicos en verbos -IR
+
+*pedir → **pidió***, *dormir → **durmió***, *morir → **murió***: cambio solo en las terceras personas.
+
+➡️ Ver [[Pretérito indefinido - cambios vocálicos]].
+
+---
+
+## 5. Verbos muy frecuentes (irregulares)
 
 | Infinitivo | Yo | Tú | Él / Ella | Nosotros | Ellos | English | Русский |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -64,13 +73,17 @@ Los verbos en **-CAR, -GAR, -ZAR** cambian la ortografía en la 1.ª persona: *t
 | **dar** | di | diste | dio | dimos | dieron | to give | давать |
 | **ver** | vi | viste | vio | vimos | vieron | to see | видеть |
 | **leer** | leí | leíste | le**y**ó | leímos | le**y**eron | to read | читать |
+| **tener** | tuve | tuviste | tuvo | tuvimos | tuvieron | to have | иметь |
+| **estar** | estuve | estuviste | estuvo | estuvimos | estuvieron | to be (located) | быть, находиться |
+| **obtener** | obtuve | obtuviste | obtuvo | obtuvimos | obtuvieron | to obtain | получать |
+| **componer** | compuse | compusiste | compuso | compusimos | compusieron | to compose | сочинять |
 
 > [!WARNING] *Ser* e *ir* son idénticos
 > *Fue a Madrid.* (*he went / он ездил*) · *Fue un gran actor.* (*he was / он был*). El contexto decide.
 
 ---
 
-## 5. Verbos para contar una biografía
+## 6. Verbos para contar una biografía
 
 | Verbo | Él / Ella | Ejemplo | English | Русский |
 | :--- | :--- | :--- | :--- | :--- |

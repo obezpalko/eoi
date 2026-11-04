@@ -153,4 +153,4 @@ Ver [[../../20-Gramática/Muy VS mucho|Muy vs. mucho]] (sección 3).
 ---
 
 **Navegación:**
-[[20261028 Lección ocho|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | Lección siguiente ➡️
+[[20261028 Lección ocho|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | [[20261104 Lección diez|Lección siguiente ➡️]]

@@ -6,6 +6,7 @@ tags: [vocabulario, general]
 - **A fuego / Afuego** - Cool, great / Круто, огонь
 - **ayer / anoche / anteayer** - yesterday / last night / the day before yesterday / вчера / вчера вечером / позавчера
 - **de repente** - suddenly / вдруг
+- **en los (años) 80** - in the 80s / в 80-е годы
 - **es decir** - that is, i.e. / то есть
 - **hace dos años** - two years ago / два года назад
 - **el otro día** - the other day / на днях
@@ -60,3 +61,4 @@ tags: [vocabulario, general]
 - **va (muy) bien + infinitivo** - it works (very) well to … / (очень) хорошо …
 - **Vale** - OK / Ладно
 - **Vivo en...** - I live in... / Я живу в...
+- **¿Quién fue? / ¿Qué hizo?** - Who was he/she? / What did he/she do? / Кто это был(а)? / Что сделал(а)?

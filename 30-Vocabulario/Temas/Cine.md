@@ -86,5 +86,35 @@ tags: [vocabulario, cine, tema]
 | documentales | documentary | документальные |
 | musicales | musical | мюзиклы |
 
+---
+
+## 6. Ficha «¿Qué peli es?» (juego de clase)
+
+Piensa en una película (sin decir cuál) y responde; tu compañero/a debe adivinarla. *(Think of a film and answer; your partner guesses it. / Загадай фильм и ответь на вопросы; партнёр должен угадать.)*
+
+| Pregunta | Opciones | English | Русский |
+| :--- | :--- | :--- | :--- |
+| 1. ¿Cuánto **dura**? | menos de 100 min / más de 100 min | How long is it? | Сколько длится? |
+| 2. ¿Cuándo **se rodó**? | antes de 1950, años 50, 60, 70, 80, 90, 2000, 2010, 2020 | When was it shot? | Когда снят? |
+| 3. ¿Está **inspirada en un libro**? | sí / no | Is it based on a book? | Вдохновлён ли книгой? |
+| 4. ¿En qué **idioma** está rodada? | inglés / francés / español / otro | What language is it shot in? | На каком языке снят? |
+| 5. **Género** | comedia, terror, ciencia ficción, acción, aventura, drama, animación, historia, fantasía | Genre | Жанр |
+| 6. ¿Ha **ganado premios**? | sí / no | Has it won awards? | Получил ли награды? |
+| 7. El/La **protagonista** es | femenino / masculino / hay varios / animal u otros | The lead is… | Главный герой — |
+| 8. ¿Está **basada en hechos reales**? | sí / no | Is it based on real events? | Основан ли на реальных событиях? |
+| 9. ¿La has visto? | sí, y me gustó / sí, pero no me gustó / no | Have you seen it? | Ты его смотрел? |
+
+**Pistas extra:** ¿Puedes **tararear** su banda sonora? · ¿Cuántas letras tiene el título? · ¿Nombre de los o las protagonistas?
+
+| Expresión | English | Русский |
+| :--- | :--- | :--- |
+| **en los (años) 80** | in the 80s | в 80-е |
+| **durar** (*dura / duró*) | to last | длиться |
+| **más de 100 minutos** | more than 100 minutes | более 100 минут |
+| **tener (mucho) éxito** (*tuvo éxito*) | to be (very) successful | иметь (большой) успех |
+| **tararear** | to hum | напевать |
+| **rodarse** (*se rodó*) | to be shot | сниматься (о фильме) |
+| ¿**Quién fue**…? / ¿**Qué hizo**…? | Who was…? / What did … do? | Кто такой / что сделал…? |
+
 ➡️ Gramática: [[../../20-Gramática/Películas de + género|Películas de + género]] · [[../../20-Gramática/Decir vs. hablar|Decir vs. hablar]]
 ➡️ Cultura: [[../../60-Cultura/Cine - películas biográficas y géneros|Películas biográficas y obras maestras por género]]
