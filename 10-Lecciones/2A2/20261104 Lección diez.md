@@ -62,6 +62,27 @@ Mis respuestas en la ficha:
 
 Pistas extra: ¿Puedes tararear su banda sonora? · ¿Cuántas letras tiene el título? · ¿Nombre de los o las protagonistas? → [[../../30-Vocabulario/Temas/Cine#6. Ficha «¿Qué peli es?» (juego de clase)|Vocabulario de la ficha]].
 
+### 🕵️ Más pistas para adivinar mi película
+
+| # | Pista (en pretérito indefinido) | English | Русский |
+| :-: | :--- | :--- | :--- |
+| 1 | *Se rodó en **Nueva Zelanda**.* | It was shot in New Zealand. | Её снимали в Новой Зеландии. |
+| 2 | *Es una **trilogía**: se estrenaron tres películas entre 2001 y 2003.* | It's a trilogy: three films were released between 2001 and 2003. | Это трилогия: три фильма вышли в 2001–2003 годах. |
+| 3 | *Cada película **duró** entre casi tres horas y más de tres horas.* | Each film lasted between almost three and over three hours. | Каждый фильм длился от почти трёх до более трёх часов. |
+| 4 | *Un escritor inglés **escribió** el libro en la primera mitad del siglo XX.* | An English writer wrote the book in the first half of the 20th century. | Английский писатель написал книгу в первой половине XX века. |
+| 5 | *Un director neozelandés la **dirigió** y **ganó** el Óscar.* | A New Zealand director directed it and won the Oscar. | Режиссёр из Новой Зеландии снял её и получил «Оскар». |
+| 6 | *La última película **ganó** 11 premios Óscar.* | The last film won 11 Oscars. | Последний фильм получил 11 «Оскаров». |
+| 7 | *El protagonista **tuvo que** llevar un anillo muy peligroso hasta un volcán.* | The hero had to carry a very dangerous ring to a volcano. | Герою пришлось нести очень опасное кольцо к вулкану. |
+| 8 | *Los protagonistas son pequeños, viven en un lugar verde y **les gusta** comer y descansar.* | The heroes are small, live in a green place and like eating and resting. | Герои маленькие, живут в зелёном краю и любят поесть и отдохнуть. |
+| 9 | *El título tiene **19 letras** y empieza por **«El»**.* | The title has 19 letters and starts with "El". | В названии 19 букв, оно начинается с «El». |
+
+> [!TIP]- Respuesta
+> **El Señor de los Anillos** (*The Lord of the Rings*, 2001–2003 / «Властелин колец»), de Peter Jackson, basada en la novela de J. R. R. Tolkien. Protagonista: **Frodo Bolsón** (Elijah Wood).
+>
+> En los apuntes: *El Señor ~~de anillos~~* → *El Señor **de los** Anillos*.
+>
+> Más sobre la película: [[../../60-Cultura/Cine - películas biográficas y géneros|Obras maestras por género]] (Fantasía).
+
 ---
 
 ## Gramática: pretérito indefinido

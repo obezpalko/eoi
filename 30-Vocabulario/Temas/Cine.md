@@ -68,23 +68,23 @@ tags: [vocabulario, cine, tema]
 
 ## 5. Géneros
 
-| Género | English | Русский |
-| :--- | :--- | :--- |
-| de acción | action | боевик |
-| de animación | animation | анимация |
-| de aventuras | adventure | приключения |
-| de ciencia ficción | sci-fi | фантастика |
-| de terror | horror | ужасы |
-| de superhéroes | superhero | супергерои |
+| Género                    | English            | Русский            |
+| :------------------------ | :----------------- | :----------------- |
+| de acción                 | action             | боевик             |
+| de animación              | animation          | анимация           |
+| de aventuras              | adventure          | приключения        |
+| de ciencia ficción        | sci-fi             | фантастика         |
+| de terror                 | horror             | ужасы              |
+| de superhéroes            | superhero          | супергерои         |
 | de suspense / de misterio | suspense / mystery | триллер / детектив |
-| infantiles | children's | детские |
-| románticas | romantic | романтические |
-| bélicas | war | военные |
-| históricas | historical | исторические |
-| comedia | comedy | комедия |
-| drama | drama | драма |
-| documentales | documentary | документальные |
-| musicales | musical | мюзиклы |
+| infantiles                | children's         | детские            |
+| románticas                | romantic           | романтические      |
+| bélicas                   | war                | военные            |
+| históricas                | historical         | исторические       |
+| comedia                   | comedy             | комедия            |
+| drama                     | drama              | драма              |
+| documentales              | documentary        | документальные     |
+| musicales                 | musical            | мюзиклы            |
 
 ---
 
