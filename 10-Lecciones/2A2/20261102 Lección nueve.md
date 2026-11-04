@@ -148,7 +148,7 @@ Ver [[../../20-Gramática/Muy VS mucho|Muy vs. mucho]] (sección 3).
 
 ### Tarjetitas
 ☐ Preparar tarjetitas (fichas de vocabulario).
-[[20261102-deberes]]
+[[Deberes/20261102-deberes]]
 
 ---
 
