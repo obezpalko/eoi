@@ -3,5 +3,6 @@
   "baseFontSize": 20,
   "monospaceFontFamily": "Source Code Pro",
   "textFontFamily": "Verdana",
-  "interfaceFontFamily": "Tahoma"
+  "interfaceFontFamily": "Tahoma",
+  "showRibbon": true
 }
