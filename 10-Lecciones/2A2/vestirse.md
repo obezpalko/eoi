@@ -43,4 +43,13 @@
 - *Ella **se vistió de** rojo para el concierto.* $\rightarrow$ She dressed in red for the concert. / Она оделась в красное на концерт.
 - *Los novios **se visten de** blanco.* $\rightarrow$ The bride and groom dress in white. / Жених и невеста одеваются в белое.
 
-### 2. **Vestirse con + prenda
+### 2. **Vestirse con + prenda o estilo** *(To dress with)*
+- ***Se vistió con** unos vaqueros y una camiseta.* $\rightarrow$ He/She dressed in jeans and a T-shirt. / Он/она оделся(лась) в джинсы и футболку.
+
+### 3. **Vestirse bien / mal / elegante / informal** *(Adverbios de modo)*
+- *Mis amigos **se visten** muy informal.* $\rightarrow$ My friends dress very casually. / Мои друзья одеваются очень неформально.
+
+### 4. **Vestir (Sin pronombre)** *(Vestir a otra persona o estilo general)*
+- *La madre **vistió** al bebé.* $\rightarrow$ The mother dressed the baby. / Мама одела малыша.
+- *Esta marca **viste** a muchos actores famosos.* $\rightarrow$ This brand dresses many famous actors. / Этот бренд одевает многих известных актёров.
+- 
