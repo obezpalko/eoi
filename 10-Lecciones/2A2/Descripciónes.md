@@ -5,8 +5,8 @@
 2. **El novio:** Es un hombre joven y pelirrojo, lleva un traje azul elegante con pajarita y tiene una flor en la solapa.
 3. **El hombre del bigote:** Está al lado del novio, tiene el pelo negro engominado, lleva bigote y un traje oscuro.
 4. **La señora del sombrero:** Es una mujer mayor y un poco gordita, lleva un sombrero amarillo con una cinta roja y mira la tarta.
-5. **El hombre de la camisa de cuadros:** Lleva gafas cuadradas, tiene una nariz grande y viste una camisa de cuadros rosas y morados.
-6. **El niño:** Es un chico bajo que está detrás de la novia, lleva una camisa azul y tiene un vaso en la mano.
+5. **El hombre de la camisa de topos blancos:** Lleva gafas cuadradas, tiene una nariz grande y viste una camisa de topos rosas y morados.
+6. **El niño:** Es un chico bajo que está detrás de la novia, lleva una camisa azul y tiene un tarta en la mano.
 7. **La chica de las gafas de sol:** Tiene el pelo rubio muy corto, lleva gafas de sol rosas y un vestido rosa sin mangas.
 
 ---
