@@ -31,6 +31,8 @@ tags: [vocabulario, adjetivos]
 - **caliente** - hot / горячий
 - **calmado/a** - calm / спокойный
 - **caluroso/a** - hot (person/weather) / жаркий
+- **calvo/a** - bald / лысый
+- **canoso/a** - grey-haired / седой
 - **cansado/a** - tired / уставший
 - **caótico/a** - chaotic / хаотичный
 - **cariñoso/a** - affectionate / ласковый
@@ -109,6 +111,7 @@ tags: [vocabulario, adjetivos]
 - **lleno/a** - full / полный
 - **lluvioso/a** - rainy / дождливый
 - **loco/a** - crazy / сумасшедший
+- **majo/a** - nice, lovely (colloquial) / милый, славный (разг.)
 - **malo/a** - bad / плохой
 - **manchego/a** - from La Mancha / манчего
 - **mejor** - better / лучший
@@ -142,6 +145,7 @@ tags: [vocabulario, adjetivos]
 - **seguro/a** - safe, sure / безопасный, уверенный
 - **separado/a** - separated / разошедшийся, разошедшаяся
 - **serio/a** - serious / серьезный
+- **sofisticado/a** - sophisticated / утончённый, изысканный
 - **soleado/a** - sunny / солнечный
 - **soltero/a** - single / холостой, незамужняя
 - **sorprendido/a** - surprised / удивленный

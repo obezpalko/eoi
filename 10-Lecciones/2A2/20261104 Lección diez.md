@@ -146,4 +146,4 @@ Ver [[../../20-Gramática/Pretérito indefinido - cambios vocálicos|Pretérito 
 ---
 
 **Navegación:**
-[[20261102 Lección nueve|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | Lección siguiente ➡️
+[[20261102 Lección nueve|⬅️ Lección anterior]] | [[../../index|🏠 Inicio]] | [[#Deberes|📝 Deberes]] | [[20261116 Lección trece|Lección siguiente ➡️]]

@@ -1,4 +1,15 @@
+---
+title: "Descripción Física - Quién es quién en la boda"
+tags:
+  - español
+  - vocabulario
+  - descripción_física
+---
 # 🥂 Juego: ¿Quién es quién en la boda?
+
+Descripciones de los invitados de la boda del hermano de María del Mar (libro, pág. 167). Practicamos *ser / tener / llevar*, colores, pelo y ropa. Vocabulario: [[Descripción Física - Cara]] · [[Descripción Física - Pelo]] · [[Descripción Física - Barba|Barba]] · [[Ropa y Accesorios]].
+
+![[../../10-Lecciones/2A2/attachments/JPEG_20261123_101520_9110707184452508201.jpg|600]]
 
 ## 1. En el centro (Los novios y alrededor de la tarta)
 1. **La novia:** Es una mujer joven, tiene el pelo castaño recogido con una tiara y lleva un vestido blanco.
@@ -6,7 +17,7 @@
 3. **El hombre del bigote:** Está al lado del novio, tiene el pelo negro engominado, lleva bigote y un traje oscuro.
 4. **La señora del sombrero:** Es una mujer mayor y un poco gordita, lleva un sombrero amarillo con una cinta roja y mira la tarta.
 5. **El hombre de la camisa de topos blancos:** Lleva gafas cuadradas, tiene una nariz grande y viste una camisa de topos rosas y morados.
-6. **El niño:** Es un chico bajo que está detrás de la novia, lleva una camisa azul y tiene un tarta en la mano.
+6. **El niño:** Es un chico bajo que está detrás de la novia, lleva una camisa azul y tiene una tarta en la mano.
 7. **La chica de las gafas de sol:** Tiene el pelo rubio muy corto, lleva gafas de sol rosas y un vestido rosa sin mangas.
 
 ---
@@ -47,4 +58,3 @@
 28. **El camarero de abajo:** Está a la derecha en primer plano, lleva un traje negro de camarero y lleva una bandeja con copas.
 29. **El hombre negro:** Está a la derecha, tiene el pelo corto y negro, y lleva un chaleco amarillo sobre una camisa naranja.
 30. **La chica rubia de la derecha:** Tiene el pelo rubio y ondulado, lleva un vestido claro y bebe de una copa mientras habla con el hombre negro.
-31. 

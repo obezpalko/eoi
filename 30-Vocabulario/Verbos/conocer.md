@@ -1,4 +1,13 @@
+---
+title: "conocer"
+tags:
+  - español
+  - vocabulario
+  - verbos
+---
 # 🔤 Verbo: CONOCER (Presente y Pretérito Indefinido)
+
+Ver también: [[saber]] · [[../../20-Gramática/Pretérito indefinido|Pretérito indefinido]]
 
 ## 📌 Significado y cambio de sentido según el tiempo
 
@@ -23,35 +32,35 @@
 ## 📝 Ejemplos en Presente vs. Pretérito Indefinido
 
 ### 1. Presente (*Conocer* = estar familiarizado con alguien o algo)
-- *Yo **conozco** muy bien Madrid.* $\rightarrow$ I know Madrid very well. / Я очень хорошо знаю Мадрид.
-- *¿**Conoces** a mi hermano?* $\rightarrow$ Do you know my brother? / Ты знаешь моего брата?
-- *Ellos no **conocen** esta película.* $\rightarrow$ They don't know this movie. / Они не знают этот фильм.
+- *Yo **conozco** muy bien Madrid.* → I know Madrid very well. / Я очень хорошо знаю Мадрид.
+- *¿**Conoces** a mi hermano?* → Do you know my brother? / Ты знаешь моего брата?
+- *Ellos no **conocen** esta película.* → They don't know this movie. / Они не знают этот фильм.
 
 ### 2. Pretérito Indefinido (*Conocer* = encontrarse por primera vez con alguien o descubrir un lugar)
-- ***Conocí** a mi mujer en 2020.* $\rightarrow$ I met my wife in 2020. / Я познакомился со своей женой в 2020 году.
-- *El año pasado **conocimos** México.* $\rightarrow$ Last year we visited / got to know Mexico. / В прошлом году мы впервые побывали в Мексике (познакомились с Мексикой).
-- *¿Dónde **conociste** a tus amigos?* $\rightarrow$ Where did you meet your friends? / Где ты познакомился со своими друзьями?
+- ***Conocí** a mi mujer en 2020.* → I met my wife in 2020. / Я познакомился со своей женой в 2020 году.
+- *El año pasado **conocimos** México.* → Last year we visited / got to know Mexico. / В прошлом году мы впервые побывали в Мексике (познакомились с Мексикой).
+- *¿Dónde **conociste** a tus amigos?* → Where did you meet your friends? / Где ты познакомился со своими друзьями?
 
 ---
 
 ## 💬 Frases comunes y construcciones con «CONOCER»
 
 ### 1. **Conocer a + persona / mascota** *(Uso obligatorio de la «a» personal)*
-- *¿**Conoces a** María?* $\rightarrow$ Do you know María? / Ты знаком с Марией?
-- *Ayer **conocimos al** nuevo profesor.* *(a + el = al)* $\rightarrow$ Yesterday we met the new teacher. / Вчера мы познакомились с новым учителем.
+- *¿**Conoces a** María?* → Do you know María? / Ты знаком с Марией?
+- *Ayer **conocimos al** nuevo profesor.* *(a + el = al)* → Yesterday we met the new teacher. / Вчера мы познакомились с новым учителем.
 
 ### 2. **Conocer + lugar / cosa / obra** *(Sin preposición «a»)*
-- *No **conozco** ese restaurante.* $\rightarrow$ I don't know that restaurant. / Я не знаю этот ресторан.
-- *¿**Conoces** la novela «Don Quijote»?* $\rightarrow$ Do you know the novel "Don Quixote"? / Ты знаком с романом «Дон Кихот»?
+- *No **conozco** ese restaurante.* → I don't know that restaurant. / Я не знаю этот ресторан.
+- *¿**Conoces** la novela «Don Quijote»?* → Do you know the novel "Don Quixote"? / Ты знаком с романом «Дон Кихот»?
 
 ### 3. **Conocerse** *(Uso recíproco: conocerse mutuamente)*
-- *Nos **conocimos** en la universidad.* $\rightarrow$ We met (each other) at the university. / Мы познакомились в университете.
-- *Ellos se **conocen** desde niños.* $\rightarrow$ They have known each other since they were kids. / Они знают друг друга с детства.
+- *Nos **conocimos** en la universidad.* → We met (each other) at the university. / Мы познакомились в университете.
+- *Ellos se **conocen** desde niños.* → They have known each other since they were kids. / Они знают друг друга с детства.
 
 ### 4. Expresiones hechas (Idioms)
-- ***Encantado/a de conocerte.*** $\rightarrow$ Nice to meet you. / Приятно познакомиться.
-- ***Mucho gusto en conocerlo/la.*** $\rightarrow$ Pleased to meet you (formal). / Очень приятно с вами познакомиться.
-- ***Conocer algo como la palma de la mano.*** $\rightarrow$ To know something like the back of one's hand. / Знать что-либо как свои пять пальцев.
+- ***Encantado/a de conocerte.*** → Nice to meet you. / Приятно познакомиться.
+- ***Mucho gusto en conocerlo/la.*** → Pleased to meet you (formal). / Очень приятно с вами познакомиться.
+- ***Conocer algo como la palma de la mano.*** → To know something like the back of one's hand. / Знать что-либо как свои пять пальцев.
 
 ---
 

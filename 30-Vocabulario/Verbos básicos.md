@@ -33,6 +33,7 @@ tags: [vocabulario, verbos]
 - **bajar** - to go down / спускаться
 - **bañarse** - to bathe, take a bath / приниматься ванну, купаться
 - **barrer** - to sweep / подметать
+- **[[Verbos/basar|basar(se)]]** - to base (on) / основывать(ся)
 - **batir** - to beat, to whisk / взбивать
 - **beber** - to drink / пить
 - **besar(se)** - to kiss / целовать(ся)
@@ -63,6 +64,7 @@ tags: [vocabulario, verbos]
 - **comprender** - to understand / понимать
 - **conducir** - to drive / водить
 - **confundir** - to confuse, mix up / путать, сбивать с толку
+- **[[Verbos/conocer|conocer]]** - to know, to meet / знать, быть знакомым, познакомиться
 - **conseguir** - to get, to achieve / добиваться, получать
 - **contar** - to count; to tell / считать; рассказывать
 - **correr** - to run / бегать
@@ -72,6 +74,7 @@ tags: [vocabulario, verbos]
 - **cruzar** - to cross / переходить, пересекать
 - **cuajar** - to curdle, to set / свернуться (о яйце)
 - **dar** - to give / давать
+- **dar a luz** - to give birth / рожать
 - **decir** - to say, to tell / говорить, сказать
 - **[[Verbos/deletrear|deletrear]]** - spell out letters / произносить по буквам
 - **depilarse** - to depilate / делать депиляцию
@@ -96,6 +99,7 @@ tags: [vocabulario, verbos]
 - **empezar** - to start, begin / начинать
 - **empollar** - to swot, to cram; to hatch / зубрить; высиживать
 - **empujar** - to push / толкать
+- **enamorarse (de)** - to fall in love (with) / влюбляться
 - **encender** - to turn on / включать
 - **encontrar** - to find / находить
 - **enfadarse** - to get angry / сердиться
@@ -139,6 +143,7 @@ tags: [vocabulario, verbos]
 - **iniciar** - to start, to begin / начинать
 - **ir** - to go / идти, ехать
 - **irse** - to leave / уходить
+- **jubilarse** - to retire / выходить на пенсию
 - **jugar** - to play / играть
 - **juntar** - to put together / соединять, собирать вместе
 - **juzgar** - to judge / судить
@@ -278,6 +283,7 @@ tags: [vocabulario, verbos]
 - **vender** - to sell / продавать
 - **ver** - to see / видеть
 - **vestir** - to dress / одевать
+- **[[Verbos/vestirse|vestirse]]** - to get dressed / одеваться
 - **viajar** - to travel / путешествовать
 - **vigilar** - to watch, monitor / следить, караулить
 - **[[Verbos/vivir|vivir]]** - to live / жить

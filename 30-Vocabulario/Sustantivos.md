@@ -58,6 +58,7 @@ tags: [vocabulario, sustantivos]
 - **la banda sonora** - soundtrack / саундтрек
 - **la bañera** - bathtub / ванна
 - **el baño** - bathroom / ванная комната
+- **la barba** - beard / борода
 - **la barbería** - barbershop / барбершоп
 - **la barca** - small boat / лодка
 - **el barco** - boat / корабль
@@ -69,6 +70,7 @@ tags: [vocabulario, sustantivos]
 - **la biblioteca** - library / библиотека
 - **el bicho** - bug / букашка, козявка
 - **la bicicleta** - bicycle / велосипед
+- **el bigote** - moustache / усы
 - **Blancanieves** - Snow White / Белоснежка
 - **el bocadillo** - sandwich / бутерброд
 - **la boda** - wedding / свадьба
@@ -220,6 +222,7 @@ tags: [vocabulario, sustantivos]
 - **el flexo** - desk lamp / настольная лампа
 - **la floristería** - flower shop / цветочный магазин
 - **la fluidez** - fluency / беглость (речи)
+- **el fondo** - background, bottom, far end / задний план, дно, глубина
 - **la forma de ser** - personality, way of being / характер
 - **el formón** - chisel / стамеска
 - **la fregona** - mop / швабра
@@ -250,6 +253,7 @@ tags: [vocabulario, sustantivos]
 - **el grosellero** - redcurrant / смородина
 - **el guaraní** - Guarani (language) / гуарани (язык)
 - **el guion** - script / сценарий
+- **el/la guionista** - screenwriter / сценарист
 - **el guisante** - pea / горох
 - **el gusano** - worm / червяк
 - **el halago** - compliment, flattery / комплимент, лесть
@@ -314,6 +318,7 @@ tags: [vocabulario, sustantivos]
 - **la llave inglesa** - adjustable wrench / разводной ключ
 - **el llavero** - keychain / брелок
 - **el logro** - achievement, accomplishment / достижение
+- **el lunar** - mole, polka dot / родинка, горошек
 - **la madera** - wood / дерево
 - **la madre** - mother / мать
 - **el madroño** - strawberry tree fruit / земляничное дерево (плод)
@@ -385,6 +390,7 @@ tags: [vocabulario, sustantivos]
 - **la parada de autobús** - bus stop / автобусная остановка
 - **el paraguas** - umbrella / зонт
 - **el paraíso** - paradise / рай
+- **el/la pariente** - relative / родственник, родственница
 - **el paso de peatones** - pedestrian crossing / пешеходный переход
 - **las patatas fritas** - French fries / жареный картофель
 - **el patinete** - scooter / самокат
@@ -400,6 +406,7 @@ tags: [vocabulario, sustantivos]
 - **el perchero** - coat rack / вешалка
 - **el/la peregrino/a** - pilgrim / паломник/ца
 - **la pereza** - laziness / лень
+- **la perilla** - goatee / эспаньолка
 - **el perrito caliente** - hot dog / хот-дог
 - **el pescado** - fish (caught/food) / рыба (еда)
 - **el pez** - fish (living) / живая рыба
@@ -505,6 +512,7 @@ tags: [vocabulario, sustantivos]
 - **la tila** - linden tea (herbal infusion) / липовый чай (настой)
 - **la tilde** - accent mark / тильда, ударение
 - **la toalla** - towel / полотенце
+- **el topo** - polka dot (*de topos*); mole (animal) / горошек; крот
 - **la tormenta** - storm / шторм, гроза
 - **el tornillo** - screw / винт, шуруп
 - **el tornillo de banco** - vise / тиски

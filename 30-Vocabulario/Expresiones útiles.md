@@ -6,10 +6,13 @@ tags: [vocabulario, general]
 - **A fuego / Afuego** - Cool, great / Круто, огонь
 - **ayer / anoche / anteayer** - yesterday / last night / the day before yesterday / вчера / вчера вечером / позавчера
 - **de repente** - suddenly / вдруг
+- **de topos / de lunares / de puntitos** - polka-dotted / в горошек
 - **en los (años) 80** - in the 80s / в 80-е годы
 - **es decir** - that is, i.e. / то есть
+- **¿Es pariente tuyo?** - Is he/she a relative of yours? / Он(а) твой родственник?
 - **hace dos años** - two years ago / два года назад
 - **el otro día** - the other day / на днях
+- **quedar con alguien** - to meet up with someone / договориться о встрече
 - **la semana pasada** - last week / на прошлой неделе
 - **¿A qué te dedicas?** - What do you do (for work)? / Чем ты занимаешься?
 - **a ver** - let's see / посмотрим
@@ -56,6 +59,7 @@ tags: [vocabulario, general]
 - **quitar el polvo** - to dust / вытирать пыль
 - **retener el vocabulario** - to retain vocabulary / запоминать слова
 - **Soy de...** - I am from... / Я из...
+- **tener / llevar barba** - to have / wear a beard / иметь / носить бороду
 - **tengo la palabra en la punta de la lengua** - I have the word on the tip of my tongue / слово вертится на языке
 - **tienes que + infinitivo** - you have to … / тебе надо …
 - **va (muy) bien + infinitivo** - it works (very) well to … / (очень) хорошо …

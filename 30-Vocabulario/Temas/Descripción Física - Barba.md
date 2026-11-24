@@ -1,4 +1,13 @@
+---
+title: "La barba"
+tags:
+  - español
+  - vocabulario
+  - descripción_física
+---
 # 🧔 Vocabulario: LA BARBA (Definición, Descripción y Frases)
+
+Ver también: [[Descripción Física - Cara#Accesorios, Pelo Facial y Marcas (Tener vs. Llevar)|Tener vs. llevar (barba, bigote…)]] · [[Descripción Física - Pelo|Pelo]]
 
 ## 📌 Definición (ES / EN / RU)
 - **La barba** (sustantivo femenino): Pelo que nace y crece en la cara del hombre (en las mejillas, la barbilla y debajo de la nariz).
@@ -35,10 +44,10 @@
 
 ## 📝 Ejemplos prácticos en contexto
 
-- *Mi hermano **se ha dejado barba** este invierno y le queda muy bien.* $\rightarrow$ My brother grew a beard this winter and it suits him very well. / Мой брат отпустил бороду этой зимой, и она ему очень идёт.
-- *Hoy tengo que ir al barbero para **recortarme la barba**.* $\rightarrow$ Today I have to go to the barber to trim my beard. / Сегодня мне нужно сходить к барберу, чтобы подровнять бороду.
-- *Ayer **me afeité** después de dos meses con **barba**.* $\rightarrow$ Yesterday I shaved after two months with a beard. / Вчера я побрился после двух месяцев с бородой.
-- *Tiene **barba de tres días** porque no se afeitó el fin de semana.* $\rightarrow$ He has stubble because he didn't shave over the weekend. / У него трёхдневная щетина, потому что он не брился на выходных.
+- *Mi hermano **se ha dejado barba** este invierno y le queda muy bien.* → My brother grew a beard this winter and it suits him very well. / Мой брат отпустил бороду этой зимой, и она ему очень идёт.
+- *Hoy tengo que ir al barbero para **recortarme la barba**.* → Today I have to go to the barber to trim my beard. / Сегодня мне нужно сходить к барберу, чтобы подровнять бороду.
+- *Ayer **me afeité** después de dos meses con **barba**.* → Yesterday I shaved after two months with a beard. / Вчера я побрился после двух месяцев с бородой.
+- *Tiene **barba de tres días** porque no se afeitó el fin de semana.* → He has stubble because he didn't shave over the weekend. / У него трёхдневная щетина, потому что он не брился на выходных.
 
 ---
 
@@ -49,5 +58,4 @@
   - *Si no pones límites, se te van a **subir a las barbas**.*
 - ***Hacer la barba*** (Hispanoamérica) *(to flatter / подлизываться)*: Adular a alguien para conseguir un favor.
 - ***Por barba*** *(per head / per person / на душу, с человека)*: Por cada persona.
-  - *La cena nos costó veinte euros **por barba**.* $\rightarrow$ Dinner cost us twenty euros per person. / Ужин обошёлся нам в двадцать евро с человека.
-  - 
+  - *La cena nos costó veinte euros **por barba**.* → Dinner cost us twenty euros per person. / Ужин обошёлся нам в двадцать евро с человека.

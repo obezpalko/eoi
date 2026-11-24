@@ -1,4 +1,13 @@
+---
+title: "Este, ese, aquel"
+tags:
+  - español
+  - gramática
+  - demostrativos
+---
 # 📍 Demostrativos: ESTE vs. ESE vs. AQUEL
+
+Ver también: [[Aquí, ahí, allí]] (adverbios de lugar) · [[../30-Vocabulario/Temas/Descripción Física - Quién es quién en la boda|Quién es quién en la boda]].
 
 ## 📌 1. Diferencia por distancia en el ESPACIO
 
@@ -14,15 +23,15 @@
 
 Los demostrativos también sitúan acciones o épocas en el tiempo:
 
-- **ESTE** $\rightarrow$ **Presente** (el momento actual o un periodo que no ha terminado).
-  - ***Esta** semana tengo mucho trabajo.* $\rightarrow$ This week I have a lot of work. / На этой неделе у меня много работы.
-  - ***Este** año viajamos a México.* $\rightarrow$ This year we traveled to Mexico. / В этом году мы ездили в Мексику.
-- **ESE** $\rightarrow$ **Pasado reciente o futuro cercano** (un momento mencionado antes o no muy lejano).
-  - *Nos conocimos en 2022; **ese** año nos mudamos a España.* $\rightarrow$ We met in 2022; that year we moved to Spain. / Мы познакомились в 2022-м; в том году мы переехали в Испанию.
-  - *¿Recuerdas **esa** tarde en la playa?* $\rightarrow$ Do you remember that afternoon at the beach? / Помнишь тот вечер на пляже?
-- **AQUEL** $\rightarrow$ **Pasado lejano** (recuerdos distantes o épocas históricas).
-  - *En **aquella** época no existían los teléfonos móviles.* $\rightarrow$ In that era (back then), mobile phones didn't exist. / В ту эпоху (в те времена) мобильных телефонов не существовало.
-  - ***Aquellos** veranos de mi infancia eran inolvidables.* $\rightarrow$ Those summers of my childhood were unforgettable. / Те летние каникулы моего детства были незабываемыми.
+- **ESTE** → **Presente** (el momento actual o un periodo que no ha terminado).
+  - ***Esta** semana tengo mucho trabajo.* → This week I have a lot of work. / На этой неделе у меня много работы.
+  - ***Este** año viajamos a México.* → This year we traveled to Mexico. / В этом году мы ездили в Мексику.
+- **ESE** → **Pasado reciente o futuro cercano** (un momento mencionado antes o no muy lejano).
+  - *Nos conocimos en 2022; **ese** año nos mudamos a España.* → We met in 2022; that year we moved to Spain. / Мы познакомились в 2022-м; в том году мы переехали в Испанию.
+  - *¿Recuerdas **esa** tarde en la playa?* → Do you remember that afternoon at the beach? / Помнишь тот вечер на пляже?
+- **AQUEL** → **Pasado lejano** (recuerdos distantes o épocas históricas).
+  - *En **aquella** época no existían los teléfonos móviles.* → In that era (back then), mobile phones didn't exist. / В ту эпоху (в те времена) мобильных телефонов не существовало.
+  - ***Aquellos** veranos de mi infancia eran inolvidables.* → Those summers of my childhood were unforgettable. / Те летние каникулы моего детства были незабываемыми.
 
 ---
 
@@ -30,9 +39,9 @@ Los demostrativos también sitúan acciones o épocas en el tiempo:
 
 ### A. Acompañando a un sustantivo *(Adjetivo demostrativo)*
 Concuerdan siempre en género (masculino/femenino) y número (singular/plural) con el sustantivo:
-- ***Este** café está muy caliente.*
-- *Me gusta **esa** chaqueta roja.*
-- ***Aquellos** árboles son muy altos.*
+- ***Este** café está muy caliente.* → This coffee is very hot. / Этот кофе очень горячий.
+- *Me gusta **esa** chaqueta roja.* → I like that red jacket. / Мне нравится та красная куртка.
+- ***Aquellos** árboles son muy altos.* → Those trees (over there) are very tall. / Те деревья очень высокие.
 
 ### B. Sustituyendo al sustantivo *(Pronombre demostrativo)*
 Cuando ya sabemos de qué hablamos, se omite el sustantivo para no repetirlo (**Nota:** hoy en día la RAE recomienda escribirlos **sin tilde**):
@@ -71,7 +80,6 @@ Cuando ya sabemos de qué hablamos, se omite el sustantivo para no repetirlo (**
   - **RU:** Это моя сестра Лаура, а вон та девушка, которая разговаривает с официантом, — моя двоюродная сестра.
 
 ### Reaccionando a una situación (Neutros)
-- ***Esto** es increíble.* $\rightarrow$ This is incredible. / Это невероятно.
-- ***Eso** no es problema mío.* $\rightarrow$ That is not my problem. / Это не моя проблема.
-- ***Aquello** fue un gran error.* $\rightarrow$ That (back then) was a big mistake. / То (в прошлом) было большой ошибкой.
-- 
+- ***Esto** es increíble.* → This is incredible. / Это невероятно.
+- ***Eso** no es problema mío.* → That is not my problem. / Это не моя проблема.
+- ***Aquello** fue un gran error.* → That (back then) was a big mistake. / То (в прошлом) было большой ошибкой.
