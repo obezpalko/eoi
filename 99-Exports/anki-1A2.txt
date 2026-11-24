@@ -1,0 +1,680 @@
+#separator:tab
+#html:false
+#notetype:Basic (and reversed card)
+#deck:Español 1A2
+#tags column:3
+Lechuga	Салат	1A2 leccion_cinco
+Lejos	Далеко	1A2 leccion_cinco
+Lágrima	Слеза	1A2 leccion_cinco
+Lago	Озеро	1A2 leccion_cinco
+Luchar	Бороться	1A2 leccion_cinco
+Lindo/a	Красивый	1A2 leccion_cinco
+Limar	Подпиливать	1A2 leccion_cinco
+Limpiaparabrisas	Стеклоочиститель	1A2 leccion_cinco
+Manchego	Манчего	1A2 leccion_cinco
+Mamá / Papá	Мама, Папа	1A2 leccion_cinco
+Mancha	Пятно	1A2 leccion_cinco
+Mezclar	Смешивать	1A2 leccion_cinco
+Mentira	Ложь	1A2 leccion_cinco
+Lista	Список	1A2 leccion_cinco
+Marisco	Морепродукты	1A2 leccion_cinco
+Caballo	Лошадь	1A2 leccion_cinco
+Nube	Облако	1A2 leccion_cinco
+Navaja	Складной нож	1A2 leccion_cinco
+Raíz	Корень	1A2 leccion_cinco
+Oler	Пахнуть	1A2 leccion_cinco
+Asustado/a	Испуганный	1A2 leccion_catorce
+Avergonzado/a	Смущенный	1A2 leccion_catorce
+Cansado/a	Уставший	1A2 leccion_catorce
+Enamorado/a	Влюбленный	1A2 leccion_catorce
+Enfadado/a	Сердитый	1A2 leccion_catorce
+Enfermo/a	Больной	1A2 leccion_catorce
+Feliz	Счастливый	1A2 leccion_catorce
+Gracioso/a	Смешной	1A2 leccion_catorce
+Nervioso/a	Нервный	1A2 leccion_catorce
+Orgulloso/a	Гордый	1A2 leccion_catorce
+Preocupado/a	Обеспокоенный	1A2 leccion_catorce
+Serio/a	Серьезный	1A2 leccion_catorce
+Sorprendido/a	Удивленный	1A2 leccion_catorce
+Triste	Грустный	1A2 leccion_catorce
+Chispear	Моросить	1A2 leccion_diecinueve
+El perchero	Вешалка	1A2 leccion_diecinueve
+La margarita	Ромашка	1A2 leccion_diecinueve
+La pizarra	Доска	1A2 leccion_diecinueve
+El cuaderno	Тетрадь	1A2 leccion_diecinueve
+El sacapuntas	Точилка	1A2 leccion_diecinueve
+La papelera	Мусорная корзина	1A2 leccion_diecinueve
+El contenedor	Контейнер	1A2 leccion_diecinueve
+Reciclar	Перерабатывать	1A2 leccion_diecinueve
+Tonto/a	Глупый	1A2 leccion_diecinueve
+El equipaje	Багаж	1A2 leccion_diecinueve
+contaminar	загрязнять, заражать	1A2 leccion_veinte
+despistado	рассеянный	1A2 leccion_veinte
+parentesco	родство, сходство	1A2 leccion_veinte
+mellizos	двойняшки	1A2 leccion_veinte
+gemelos	близнецы	1A2 leccion_veinte
+además	кроме того, помимо, также	1A2 leccion_veinte
+padrastro	отчим (negativo). Usa marido de mi madre	1A2 leccion_veinte
+madrastra	мачеха (negativo). La (nueva) mujer de mi padre	1A2 leccion_veinte
+Pasear	Прогуливаться	1A2 leccion_veintiocho
+Grosero/a	Грубый	1A2 leccion_veintiocho
+Gastar	Тратить	1A2 leccion_veintiocho
+La comilona	Пиршество	1A2 leccion_veintiocho
+La boda	Свадьба	1A2 leccion_veintiocho
+Reír	Смеяться	1A2 leccion_veintiocho
+La cola	Очередь	1A2 leccion_veintiocho
+La bolera	Боулинг	1A2 leccion_veintiocho
+El centro comercial	ТЦ	1A2 leccion_veintiocho
+Quedar	Встречаться	1A2 leccion_veintiocho
+Mantita	Одеяльце	1A2 leccion_veintiocho
+Aburrido/a	Скучный	1A2 leccion_veintiocho
+Perrito caliente	Хот-дог	1A2 leccion_veintiocho
+La galleta	Печенье	1A2 leccion_veintiocho
+Leche condensada	Сгущенка	1A2 leccion_veintiocho
+Las palomitas	Попкорн	1A2 leccion_veintiocho
+Broma	Шутка	1A2 leccion_veintiocho
+Lengua de señas	Язык жестов	1A2 leccion_veintiocho
+añadir	добавлять	1A2 leccion_cincuenta_y_uno
+asar	жарить, запекать	1A2 leccion_cincuenta_y_uno
+batir	взбивать	1A2 leccion_cincuenta_y_uno
+cortar	резать	1A2 leccion_cincuenta_y_uno
+cuajar	свернуться (о яйце)	1A2 leccion_cincuenta_y_uno
+echar	наливать, кидать	1A2 leccion_cincuenta_y_uno
+enfriar	охлаждать	1A2 leccion_cincuenta_y_uno
+escurrir	сливать, отцеживать	1A2 leccion_cincuenta_y_uno
+freír	жарить (в масле)	1A2 leccion_cincuenta_y_uno
+hervir	кипятить	1A2 leccion_cincuenta_y_uno
+hornear	печь	1A2 leccion_cincuenta_y_uno
+lavar	мыть	1A2 leccion_cincuenta_y_uno
+machacar	разминать	1A2 leccion_cincuenta_y_uno
+pelar	чистить	1A2 leccion_cincuenta_y_uno
+rebanar	нарезать ломтиками	1A2 leccion_cincuenta_y_uno
+remover / revolver	перемешивать	1A2 leccion_cincuenta_y_uno
+secar	сушить	1A2 leccion_cincuenta_y_uno
+servir	подавать	1A2 leccion_cincuenta_y_uno
+triturar	измельчать, блендерить	1A2 leccion_cincuenta_y_uno
+el trabalenguas	скороговорка	1A2 leccion_cincuenta_y_uno
+el puente	длинные выходные	1A2 leccion_cincuenta_y_uno
+el abecedario	алфавит	1A2 sustantivo
+el/la abogado/a	адвокат	1A2 sustantivo
+el abrigo	пальто	1A2 sustantivo
+el acuario	аквариум	1A2 sustantivo
+la advertencia	предупреждение	1A2 sustantivo
+el aeropuerto	аэропорт	1A2 sustantivo
+la afonía	афония, потеря голоса	1A2 sustantivo
+la agencia de viajes	туристическое агентство	1A2 sustantivo
+el ajo	чеснок	1A2 sustantivo
+el albaricoque	абрикос	1A2 sustantivo
+la alcachofa	артишок	1A2 sustantivo
+el algodón	хлопок	1A2 sustantivo
+la almohada	подушка	1A2 sustantivo
+el amanecer	рассвет	1A2 sustantivo
+la amistad	дружба	1A2 sustantivo
+el anacardo	кешью	1A2 sustantivo
+el anochecer	сумерки	1A2 sustantivo
+el antecedente	антецедент	1A2 sustantivo
+el aparcamiento	парковка	1A2 sustantivo
+el apellido	фамилия	1A2 sustantivo
+el apretón	рукопожатие	1A2 sustantivo
+el arcoíris	радуга	1A2 sustantivo
+el armario	шкаф	1A2 sustantivo
+el aseo	туалет	1A2 sustantivo
+el autocar	междугородний автобус	1A2 sustantivo
+el ayuntamiento	мэрия	1A2 sustantivo
+la azafata	стюардесса	1A2 sustantivo
+el banco	банк, скамейка	1A2 sustantivo
+la bañera	ванна	1A2 sustantivo
+el baño	ванная комната	1A2 sustantivo
+la barbería	барбершоп	1A2 sustantivo
+la barca	лодка	1A2 sustantivo
+el barco	корабль	1A2 sustantivo
+la barra de labios	губная помада	1A2 sustantivo
+el barrio	район	1A2 sustantivo
+la berenjena	баклажан	1A2 sustantivo
+el bicho	букашка, козявка	1A2 sustantivo
+la bicicleta	велосипед	1A2 sustantivo
+el bolígrafo borrable	стираемая ручка	1A2 sustantivo
+el bolo	кегля	1A2 sustantivo
+la bolsa	пакет	1A2 sustantivo
+el bolso	сумка	1A2 sustantivo
+el borrador	ластик	1A2 sustantivo
+el botón de arranque	кнопка запуска	1A2 sustantivo
+el brazo	рука (от плеча до кисти)	1A2 sustantivo
+la broma	шутка	1A2 sustantivo
+la bruja	ведьма	1A2 sustantivo
+el bullicio	шум, суета	1A2 sustantivo
+el burro	oсел	1A2 sustantivo
+el buzón	почтовый ящик	1A2 sustantivo
+el caballo	лошадь	1A2 sustantivo
+la cafetería	кафетерий	1A2 sustantivo
+el cajón	ящик	1A2 sustantivo
+la calculadora	калькулятор	1A2 sustantivo
+el campamento	лагерь	1A2 sustantivo
+la canasta	корзина	1A2 sustantivo
+la canción de cuna	колыбельная песня	1A2 sustantivo
+las carcajadas	хохот	1A2 sustantivo
+la carta	письмо, меню, карта	1A2 sustantivo
+el cartón	картон	1A2 sustantivo
+el casco antiguo	исторический центр	1A2 sustantivo
+el castillo de arena	замок из песка	1A2 sustantivo
+la catedral	собор	1A2 sustantivo
+el cebiche	севиче	1A2 sustantivo
+la cebra	зебра	1A2 sustantivo
+la cena	ужин	1A2 sustantivo
+el césped	газон, трава	1A2 sustantivo
+la chancla	шлепанец	1A2 sustantivo
+el charco	лужа	1A2 sustantivo
+el chef	шеф-повар	1A2 sustantivo
+el chirimiri	моросящий дождь	1A2 sustantivo
+la chuchería / las chuches	сладости, конфеты	1A2 sustantivo
+la chuleta	шпаргалка	1A2 sustantivo
+el chupito	шот (стопка)	1A2 sustantivo
+el cine	кинотеатр	1A2 sustantivo
+la clara	яичный белок	1A2 sustantivo
+el clima	климат	1A2 sustantivo
+el cojín	подушка (декоративная)	1A2 sustantivo
+el cojón (vulgar)	яйцо (вульг.)	1A2 sustantivo
+el colegio	колледж, школа	1A2 sustantivo
+la comida	еда, обед	1A2 sustantivo
+la comisaría	полицейский участок	1A2 sustantivo
+el concesionario	автосалон	1A2 sustantivo
+el correo electrónico	электронная почта	1A2 sustantivo
+correos	почта	1A2 sustantivo
+el cristal	хрусталь, стекло	1A2 sustantivo
+la cuchara	ложка	1A2 sustantivo
+el cuchillo	нож	1A2 sustantivo
+la cuenta	счет	1A2 sustantivo
+los cuernos	рога	1A2 sustantivo
+la cumbia	кумбия (танец)	1A2 sustantivo
+el cumpleaños	день рождения	1A2 sustantivo
+el cura	священник	1A2 sustantivo
+el dátil	финик	1A2 sustantivo
+el dedo	палец	1A2 sustantivo
+la destreza	мастерство, ловкость	1A2 sustantivo
+el diamante	алмаз	1A2 sustantivo
+el diario	дневник, ежедневная газета	1A2 sustantivo
+el diminutivo	уменьшительное имя	1A2 sustantivo
+la dirección	адрес	1A2 sustantivo
+el diseñador / la diseñadora	дизайнер	1A2 sustantivo
+la droga	наркотик	1A2 sustantivo
+la edad	возраст	1A2 sustantivo
+el efectivo	наличные dinero	1A2 sustantivo
+el elefante	слон	1A2 sustantivo
+el embutido	колбасное изделие	1A2 sustantivo
+el encaje	кружево	1A2 sustantivo
+el equinoccio	равноденствие	1A2 sustantivo
+el erizo	еж	1A2 sustantivo
+la escoba	метла	1A2 sustantivo
+la escuela	школа	1A2 sustantivo
+la esquina	угол (улицы)	1A2 sustantivo
+el estante	полка	1A2 sustantivo
+la estantería	полка, стеллаж	1A2 sustantivo
+la estatua	статуя	1A2 sustantivo
+la estilista	стилист	1A2 sustantivo
+el estribillo	припев	1A2 sustantivo
+el estuche	пенал	1A2 sustantivo
+la estufa	печь, обогреватель	1A2 sustantivo
+el éxito	успех	1A2 sustantivo
+la falla	ошибка, неисправность	1A2 sustantivo
+el flato	колика (боку)	1A2 sustantivo
+la fregona	швабра	1A2 sustantivo
+el freno	тормоз	1A2 sustantivo
+el frigorífico	холодильник	1A2 sustantivo
+la funda	чехол	1A2 sustantivo
+el futbolín	настольный футбол	1A2 sustantivo
+el ganchillo	вязание крючком	1A2 sustantivo
+el garbanzo	нут	1A2 sustantivo
+el gazpacho	гаспачо	1A2 sustantivo
+el geranio	герань	1A2 sustantivo
+el gitano	цыган	1A2 sustantivo
+el gofre	вафля	1A2 sustantivo
+la gota	капля	1A2 sustantivo
+la granada	гранат	1A2 sustantivo
+el granizo	град	1A2 sustantivo
+el guisante	горох	1A2 sustantivo
+el halago	комплимент, лесть	1A2 sustantivo
+la historia	история	1A2 sustantivo
+el holgazán	бездельник	1A2 sustantivo
+el hombro	плечо	1A2 sustantivo
+la hormiga	муравей	1A2 sustantivo
+las hortalizas	овощи, зелень	1A2 sustantivo
+el huevo	яйцо	1A2 sustantivo
+el huevo frito	яичница	1A2 sustantivo
+el idioma	язык	1A2 sustantivo
+el imán	магнит	1A2 sustantivo
+el infierno	ад	1A2 sustantivo
+el inglés	английский язык	1A2 sustantivo
+el instituto	институт	1A2 sustantivo
+la jarana	кутеж, веселье	1A2 sustantivo
+el jarrón	ваза	1A2 sustantivo
+la jefatura	руководство, управление	1A2 sustantivo
+el/la jefe/a	начальник, босс	1A2 sustantivo
+la jeta	морда, наглость	1A2 sustantivo
+la jirafa	жираф	1A2 sustantivo
+la jornada	рабочий день	1A2 sustantivo
+la joya	драгоценность	1A2 sustantivo
+la joyería	ювелирный магазин	1A2 sustantivo
+las judías	фасоль	1A2 sustantivo
+las judías verdes	стручковая фасоль	1A2 sustantivo
+el lago	озеро	1A2 sustantivo
+la lágrima	слеза	1A2 sustantivo
+la lana	шерсть	1A2 sustantivo
+la leche condensada	сгущенное молоко	1A2 sustantivo
+la lechuga	салат	1A2 sustantivo
+las legumbres	бобовые	1A2 sustantivo
+la lengua	язык	1A2 sustantivo
+la lengua de señas	язык жестов	1A2 sustantivo
+la lengua materna	родной язык	1A2 sustantivo
+la lenteja	чечевица	1A2 sustantivo
+la librería	книжный магазин	1A2 sustantivo
+el/la licenciado/a	дипломированный специалист	1A2 sustantivo
+la licra	ликра	1A2 sustantivo
+el limpiaparabrisas	стеклоочиститель	1A2 sustantivo
+el lino	лён	1A2 sustantivo
+la lista	список	1A2 sustantivo
+el llavero	брелок	1A2 sustantivo
+la madera	дерево	1A2 sustantivo
+la madre	мать	1A2 sustantivo
+el madroño	земляничное дерево (плод)	1A2 sustantivo
+el maíz	кукуруза	1A2 sustantivo
+la mamá	мама	1A2 sustantivo
+la mancha	пятно	1A2 sustantivo
+el mantel	скатерть	1A2 sustantivo
+el mariachi	мариачи	1A2 sustantivo
+el marisco	морепродукты	1A2 sustantivo
+el matiz	нюанс	1A2 sustantivo
+la mayúscula	заглавная буква	1A2 sustantivo
+la mejilla	щека	1A2 sustantivo
+el melocotón	персик	1A2 sustantivo
+la merluza	мерлуза	1A2 sustantivo
+el metal	металл	1A2 sustantivo
+el mimbre	лоза	1A2 sustantivo
+la moneda	монета, валюта	1A2 sustantivo
+la montaña rusa	американские горки	1A2 sustantivo
+el motivo	мотив, повод	1A2 sustantivo
+el móvil	мобильный телефон (móvil)	1A2 sustantivo
+la muela del juicio	зуб мудрости	1A2 sustantivo
+la nacionalidad	национальность	1A2 sustantivo
+el nailon	нейлон	1A2 sustantivo
+la nana	колыбельная (нана)	1A2 sustantivo
+la natación	плавание	1A2 sustantivo
+la navaja	складной нож	1A2 sustantivo
+la nevera	холодильник	1A2 sustantivo
+la niebla	туман	1A2 sustantivo
+la nube	облако	1A2 sustantivo
+la nuez	грецкий орех	1A2 sustantivo
+la nuez de macadamia	макадамия	1A2 sustantivo
+la nuez pecana	пекан	1A2 sustantivo
+la obra	произведение, стройка	1A2 sustantivo
+el océano	океан	1A2 sustantivo
+la ojera	мешок под глазом	1A2 sustantivo
+el olor	запах	1A2 sustantivo
+la onomatopeya	ономатопея	1A2 sustantivo
+el orgullo	гордость	1A2 sustantivo
+la orilla	берег	1A2 sustantivo
+el oro	золото	1A2 sustantivo
+el oso / la osa	медведь	1A2 sustantivo
+el padre	отец	1A2 sustantivo
+la paella de marisco	паэлья с морепродуктами	1A2 sustantivo
+la palomita / palomitas de maíz	попкорн	1A2 sustantivo
+la pantalla	экран	1A2 sustantivo
+el papel	бумага	1A2 sustantivo
+la parada de autobús	автобусная остановка	1A2 sustantivo
+el paso de peatones	пешеходный переход	1A2 sustantivo
+el patinete	самокат	1A2 sustantivo
+el patito	утенок	1A2 sustantivo
+la pecera	аквариум (шарообразный)	1A2 sustantivo
+el pedo	пук	1A2 sustantivo
+la peluquería	парикмахерская	1A2 sustantivo
+la percha	вешалка-плечики	1A2 sustantivo
+el perrito caliente	хот-дог	1A2 sustantivo
+el pescado	рыба (еда)	1A2 sustantivo
+el pez	живая рыба	1A2 sustantivo
+la piedra	камень	1A2 sustantivo
+la piel	кожа	1A2 sustantivo
+la pierna	нога	1A2 sustantivo
+la pimienta	перец (приправа)	1A2 sustantivo
+el pincho	пинчо (закуска)	1A2 sustantivo
+el piñón	кедровый орех	1A2 sustantivo
+las pipas	семечки	1A2 sustantivo
+el pistacho	фисташка	1A2 sustantivo
+el placer	удовольствие	1A2 sustantivo
+el plástico	пластик	1A2 sustantivo
+la plata	серебро	1A2 sustantivo
+el plátano	банан	1A2 sustantivo
+el plato	тарелка	1A2 sustantivo
+el polideportivo	спорткомплекс	1A2 sustantivo
+el polvo	пыль	1A2 sustantivo
+la profesión	профессия	1A2 sustantivo
+la queja	жалоба	1A2 sustantivo
+la raíz	корень	1A2 sustantivo
+la rata	крыса	1A2 sustantivo
+el ratán	ротанг	1A2 sustantivo
+el rayo	луч, молния	1A2 sustantivo
+la razón	причина	1A2 sustantivo
+el reciclaje	переработка	1A2 sustantivo
+la recomendación	рекомендация	1A2 sustantivo
+la redundancia	избыточность	1A2 sustantivo
+el relámpago	молния	1A2 sustantivo
+la resaca	похмелье	1A2 sustantivo
+la residencia	место жительства	1A2 sustantivo
+el retraso	опоздание, задержка	1A2 sustantivo
+el retrato	портрет	1A2 sustantivo
+el rey	король	1A2 sustantivo
+la risa	смех	1A2 sustantivo
+la rodilla	колено	1A2 sustantivo
+la rueda	колесо	1A2 sustantivo
+la sal	соль	1A2 sustantivo
+el salmorejo	сальморехо	1A2 sustantivo
+la sed	жажда	1A2 sustantivo
+la seda	шёлк	1A2 sustantivo
+el seguidor	последователь, подписчик	1A2 sustantivo
+el semáforo	светофор	1A2 sustantivo
+el seno	грудь, пазуха	1A2 sustantivo
+el servicio	служебное помещение, туалет	1A2 sustantivo
+la siesta	сиеста	1A2 sustantivo
+el signo de exclamación	восклицательный знак	1A2 sustantivo
+el signo de interrogación	вопросительный знак	1A2 sustantivo
+el snorkel	снорклинг	1A2 sustantivo
+el solsticio	солнцестояние	1A2 sustantivo
+la sombrilla	зонтик (от солнца)	1A2 sustantivo
+la suciedad	грязь	1A2 sustantivo
+el suelo	пол	1A2 sustantivo
+la sugerencia	предложение	1A2 sustantivo
+el taller	мастерская	1A2 sustantivo
+la tapa	крышка, тапа	1A2 sustantivo
+la taza	чашка, кружка	1A2 sustantivo
+el teatro	театр	1A2 sustantivo
+el teléfono	телефон	1A2 sustantivo
+el teléfono fijo	городской (стационарный) телефон	1A2 sustantivo
+el terciopelo	бархат	1A2 sustantivo
+la tienda de electrodomésticos	магазин бытовой техники	1A2 sustantivo
+la tienda de música	музыкальный магазин	1A2 sustantivo
+la tienda de ropa	магазин одежды	1A2 sustantivo
+la tilde	тильда, ударение	1A2 sustantivo
+la toalla	полотенце	1A2 sustantivo
+la tormenta	шторм, гроза	1A2 sustantivo
+la torre	системный блок	1A2 sustantivo
+la tumbona	шезлонг	1A2 sustantivo
+el/la turista	турист	1A2 sustantivo
+la ubicación	местоположение	1A2 sustantivo
+la UNED	университет дистанционного обучения	1A2 sustantivo
+la unidad	единица	1A2 sustantivo
+la uña	ноготь	1A2 sustantivo
+urgencias	отделение скорой помощи	1A2 sustantivo
+el usuario	пользователь	1A2 sustantivo
+el valor	ценность, смелость	1A2 sustantivo
+la vela	свеча, парус, парусный спорт	1A2 sustantivo
+la vergüenza	стыд	1A2 sustantivo
+el vidrio	стекло	1A2 sustantivo
+el viento	ветер	1A2 sustantivo
+el vino	вино	1A2 sustantivo
+la vocal	гласная	1A2 sustantivo
+el volante	руль	1A2 sustantivo
+la voluntad	воля	1A2 sustantivo
+la voz	голос	1A2 sustantivo
+el xilófono	ксилофон	1A2 sustantivo
+el yate	яхта	1A2 sustantivo
+la yaya	бабуля	1A2 sustantivo
+la yema	желток	1A2 sustantivo
+el yen	йена	1A2 sustantivo
+el yodo	йод	1A2 sustantivo
+el yunque	наковальня	1A2 sustantivo
+la zambomba	самбомба (музыкальный инструмент)	1A2 sustantivo
+la zamburiña	гребешок (моллюск)	1A2 sustantivo
+la zanahoria	морковь	1A2 sustantivo
+la zapatería	обувной магазин	1A2 sustantivo
+el zar	царь	1A2 sustantivo
+el zócalo	плинтус	1A2 sustantivo
+el zorro	лиса	1A2 sustantivo
+la zumba	зумба	1A2 sustantivo
+acogedor/a	уютный	1A2 adjetivo
+agitado/a	взволнованный, возбужденный	1A2 adjetivo
+agotado/a	истощенный, изнуренный	1A2 adjetivo
+alegre	веселый, радостный	1A2 adjetivo
+ambiguo/a	неоднозначный, двусмысленный	1A2 adjetivo
+ancho/a	широкий	1A2 adjetivo
+angustiado/a	встревоженный, страдающий	1A2 adjetivo
+animado/a	оживленный	1A2 adjetivo
+ansioso/a	тревожный, жаждущий	1A2 adjetivo
+antiguo/a	древний, старый	1A2 adjetivo
+apático/a	апатичный	1A2 adjetivo
+bajo/a	низкий	1A2 adjetivo
+barato/a	дешевый	1A2 adjetivo
+blando/a	мягкий	1A2 adjetivo
+bohemio/a	богемный	1A2 adjetivo
+borracho/a	пьяный	1A2 adjetivo
+bueno/a	хороший	1A2 adjetivo
+bullicioso/a	шумный, суетливый	1A2 adjetivo
+caliente	горячий	1A2 adjetivo
+calmado/a	спокойный	1A2 adjetivo
+caluroso/a	жаркий	1A2 adjetivo
+caótico/a	хаотичный	1A2 adjetivo
+cariñoso/a	ласковый	1A2 adjetivo
+casado/a	женатый, замужняя	1A2 adjetivo
+cómodo/a	удобный	1A2 adjetivo
+comprometido/a	обрученный, обрученная	1A2 adjetivo
+congelado/a	замороженный	1A2 adjetivo
+contento/a	довольный	1A2 adjetivo
+cortado/a	отрезанный, тупиковый (улица)	1A2 adjetivo
+cosmopolita	космополитичный	1A2 adjetivo
+costero/a	прибрежный	1A2 adjetivo
+cristalino/a	кристально чистый	1A2 adjetivo
+curioso/a	любопытный	1A2 adjetivo
+débil	слабый	1A2 adjetivo
+delgado/a	стройный	1A2 adjetivo
+desamorado/a	нелюбящий, равнодушный	1A2 adjetivo
+descuidado/a	запущенный, небрежный	1A2 adjetivo
+despejado/a	ясный, безоблачный	1A2 adjetivo
+difícil	трудный	1A2 adjetivo
+disgustado/a	расстроенный, недовольный	1A2 adjetivo
+divertido/a	веселый, забавный	1A2 adjetivo
+dulce	сладкий	1A2 adjetivo
+duro/a	твердый	1A2 adjetivo
+emocionado/a	взволнованный, эмоциональный	1A2 adjetivo
+encantado/a	рад (встрече)	1A2 adjetivo
+encantador/a	очаровательный	1A2 adjetivo
+estrecho/a	узкий	1A2 adjetivo
+extranjero/a	иностранный, иностранец	1A2 adjetivo
+fácil	легкий	1A2 adjetivo
+facilísimo/a	очень легкий	1A2 adjetivo
+feo/a	некрасивый	1A2 adjetivo
+fino/a	тонкий	1A2 adjetivo
+flaco/a	худой	1A2 adjetivo
+frío/a	холодный	1A2 adjetivo
+friolero/a	мерзляк	1A2 adjetivo
+fuerte	сильный	1A2 adjetivo
+goloso/a	сладкоежка	1A2 adjetivo
+gordito/a	пухленький	1A2 adjetivo
+gordo/a	толстый	1A2 adjetivo
+grande	большой	1A2 adjetivo
+gratuito/a	бесплатный	1A2 adjetivo
+guapo/a	красивый	1A2 adjetivo
+harto/a	сытый по горло	1A2 adjetivo
+indiferente	безразличный	1A2 adjetivo
+infinito/a	бесконечный	1A2 adjetivo
+insatisfecho/a	неудовлетворенный	1A2 adjetivo
+inseguro/a	небезопасный, неуверенный	1A2 adjetivo
+inspirado/a	вдохновленный	1A2 adjetivo
+inteligente	умный	1A2 adjetivo
+jaranero/a	гуляка	1A2 adjetivo
+joven	молодой	1A2 adjetivo
+lento/a	медленный	1A2 adjetivo
+lleno/a	полный	1A2 adjetivo
+lluvioso/a	дождливый	1A2 adjetivo
+malo/a	плохой	1A2 adjetivo
+manchego/a	манчего	1A2 adjetivo
+mejor	лучший	1A2 adjetivo
+melancólico/a	меланхоличный	1A2 adjetivo
+moderno/a	современный	1A2 adjetivo
+mucho/a	много, многий	1A2 adjetivo
+muerto/a	мертвый	1A2 adjetivo
+optimista	оптимистичный	1A2 adjetivo
+peor	худший	1A2 adjetivo
+perezoso/a	ленивый	1A2 adjetivo
+perjudicial	вредный	1A2 adjetivo
+pesimista	пессимистичный	1A2 adjetivo
+pintoresco/a	живописный	1A2 adjetivo
+rápido/a	быстрый	1A2 adjetivo
+rectangular	прямоугольный	1A2 adjetivo
+redondo/a	круглый	1A2 adjetivo
+relajado/a	расслабленный	1A2 adjetivo
+resfriado/a	простуженный	1A2 adjetivo
+roto/a	сломанный	1A2 adjetivo
+salado/a	соленый	1A2 adjetivo
+sano/a	здоровый	1A2 adjetivo
+separado/a	разошедшийся, разошедшаяся	1A2 adjetivo
+soleado/a	солнечный	1A2 adjetivo
+soltero/a	холостой, незамужняя	1A2 adjetivo
+temeroso/a	боязливый	1A2 adjetivo
+templado/a	умеренный	1A2 adjetivo
+tenso/a	напряженный	1A2 adjetivo
+tranquilo/a	спокойный, тихий	1A2 adjetivo
+útil	полезный	1A2 adjetivo
+vacío/a	пустой	1A2 adjetivo
+viejo/a	старый	1A2 adjetivo
+viudo/a	вдовец, вдова	1A2 adjetivo
+vivo/a	живой	1A2 adjetivo
+abrazar(se)	обнимать(ся)	1A2 verbo
+abrir	открывать	1A2 verbo
+acostarse	ложиться спать	1A2 verbo
+adelgazar	худеть	1A2 verbo
+adivinar	угадывать	1A2 verbo
+almorzar	обедать	1A2 verbo
+amanecer	рассветать	1A2 verbo
+andar	ходить	1A2 verbo
+apagar	выключать	1A2 verbo
+aparcar	парковаться	1A2 verbo
+apellidarse	называться (по фамилии)	1A2 verbo
+aprender	учить, учиться	1A2 verbo
+ayunar	поститься, голодать	1A2 verbo
+bailar	танцевать	1A2 verbo
+bajar	спускаться	1A2 verbo
+bañarse	приниматься ванну, купаться	1A2 verbo
+barrer	подметать	1A2 verbo
+beber	пить	1A2 verbo
+besar(se)	целовать(ся)	1A2 verbo
+borrar	стирать	1A2 verbo
+bucear	нырять	1A2 verbo
+caerse	падать	1A2 verbo
+caminar	идти, шагать	1A2 verbo
+cantar	петь	1A2 verbo
+casarse	жениться, выходить замуж	1A2 verbo
+cenar	ужинать	1A2 verbo
+cepillarse	чистить (зубы), причесываться	1A2 verbo
+cerrar	закрывать	1A2 verbo
+charlar	болтать, разговаривать	1A2 verbo
+cocinar	готовить	1A2 verbo
+coger	брать (в Испании)	1A2 verbo
+comenzar	начинать	1A2 verbo
+comer	есть	1A2 verbo
+comprar	покупать	1A2 verbo
+conducir	водить	1A2 verbo
+correr	бегать	1A2 verbo
+cruzar	переходить, пересекать	1A2 verbo
+dar	давать	1A2 verbo
+depilarse	делать депиляцию	1A2 verbo
+desayunar	завтракать	1A2 verbo
+desordenar	приводить в беспорядок	1A2 verbo
+disfrutar	наслаждаться	1A2 verbo
+dividir	делить	1A2 verbo
+dormir	спать	1A2 verbo
+empezar	начинать	1A2 verbo
+empujar	толкать	1A2 verbo
+encender	включать	1A2 verbo
+enseñar	учить, показывать	1A2 verbo
+entender	понимать	1A2 verbo
+entrar	входить	1A2 verbo
+enviar	посылать	1A2 verbo
+eructar	рыгать	1A2 verbo
+escribir	писать	1A2 verbo
+escuchar	слушать	1A2 verbo
+esperar	ждать	1A2 verbo
+exclamar	восклицать	1A2 verbo
+fascinar	очаровывать	1A2 verbo
+fijarse	обращать внимание	1A2 verbo
+fotografiar	фотографировать	1A2 verbo
+ganar	выигрывать	1A2 verbo
+gozar	наслаждаться	1A2 verbo
+granizar	идти (о граде)	1A2 verbo
+gritar	кричать	1A2 verbo
+haber (hay)	иметься (есть)	1A2 verbo
+ir	идти, ехать	1A2 verbo
+irse	уходить	1A2 verbo
+jugar	играть	1A2 verbo
+juntar	соединять, собирать вместе	1A2 verbo
+lavarse	умываться	1A2 verbo
+levantarse	вставать	1A2 verbo
+limpiar	чистить, убирать	1A2 verbo
+llamar	звать, звонить	1A2 verbo
+llevar	носить, нести	1A2 verbo
+llorar	плакать	1A2 verbo
+mandar	посылать, командовать	1A2 verbo
+maquillarse	краситься	1A2 verbo
+merendar	полдничать	1A2 verbo
+meter	вставлять, класть внутрь	1A2 verbo
+mirar	смотреть	1A2 verbo
+mirarse	смотреться (в зеркало)	1A2 verbo
+mojarse	мокнуть	1A2 verbo
+molestar	мешать, беспокоить	1A2 verbo
+montar	кататься, ездить верхом	1A2 verbo
+morir	умирать	1A2 verbo
+multiplicar	умножать	1A2 verbo
+nacer	рождаться	1A2 verbo
+navegar	плавать, сидеть в интернете	1A2 verbo
+odiar	ненавидеть	1A2 verbo
+oír	слышать	1A2 verbo
+olvidar	забывать	1A2 verbo
+ordenar	заказывать, приводить в порядок	1A2 verbo
+pagar	платить	1A2 verbo
+parar	остановиться	1A2 verbo
+parecer	казаться	1A2 verbo
+peinarse	причесываться	1A2 verbo
+pensar	думать	1A2 verbo
+perder	проигрывать	1A2 verbo
+planchar	гладить	1A2 verbo
+ponerse	надевать	1A2 verbo
+preguntar	спрашивать	1A2 verbo
+preparar	готовить, подготавливать	1A2 verbo
+quebrar	ломать, разбивать	1A2 verbo
+quedarse	оставаться	1A2 verbo
+quejarse	жаловаться	1A2 verbo
+querer	хотеть, любить	1A2 verbo
+quitarse	снимать	1A2 verbo
+recordar	помнить, напоминать	1A2 verbo
+regresar	возвращаться	1A2 verbo
+relajarse	расслабляться	1A2 verbo
+reñir	ругать	1A2 verbo
+repartir	распределять, раздавать	1A2 verbo
+repasar	повторять	1A2 verbo
+restar	вычитать	1A2 verbo
+sacar	вынимать, доставать	1A2 verbo
+sentarse	садиться	1A2 verbo
+sentirse	чувствоваться	1A2 verbo
+separar	разделять	1A2 verbo
+sonreír	улыбаться	1A2 verbo
+soñar	мечтать	1A2 verbo
+subir	подниматься	1A2 verbo
+sumar	складывать	1A2 verbo
+sustituir	заменять	1A2 verbo
+tapear	ходить по тапас-барам	1A2 verbo
+teletrabajar	работать удаленно	1A2 verbo
+tirar	кидать, тянуть	1A2 verbo
+trepar	лазать, карабкаться	1A2 verbo
+tumbarse	ложиться	1A2 verbo
+unir	объединять	1A2 verbo
+usar	использовать	1A2 verbo
+vender	продавать	1A2 verbo
+ver	видеть	1A2 verbo
+vestir	одевать	1A2 verbo
+viajar	путешествовать	1A2 verbo
+volver	возвращаться	1A2 verbo
+yacer	лежать, покоиться	1A2 verbo
+zumbar	жужжать	1A2 verbo
+agur	пока, прощай (баск.)	1A2 expresion
+Fíjate en...	Обрати внимание на...	1A2 expresion
+Me llamo...	Меня зовут...	1A2 expresion
+ojalá	хоть бы, дай бог	1A2 expresion
+pasado mañana	послезавтра	1A2 expresion
+poner la lavadora	запустить стиральную машину	1A2 expresion
+quitar el polvo	вытирать пыль	1A2 expresion

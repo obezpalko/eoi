@@ -1,0 +1,593 @@
+#separator:tab
+#html:false
+#notetype:Basic (and reversed card)
+#deck:Español 2A2
+#tags column:3
+nacer (nací / nació)	родиться	2A2 lecciones_13_15 life
+empezar a (empecé)	начать	2A2 lecciones_13_15 life
+terminar el colegio	закончить школу	2A2 lecciones_13_15 life
+ir a la universidad (fui)	поступить / пойти в университет	2A2 lecciones_13_15 life
+encontrar trabajo (encontré)	найти работу	2A2 lecciones_13_15 life
+dejar el trabajo (dejé)	уволиться	2A2 lecciones_13_15 life
+cambiar de trabajo	сменить работу	2A2 lecciones_13_15 life
+hacer amigos (hice)	подружиться, завести друзей	2A2 lecciones_13_15 life
+hacer deporte	заниматься спортом	2A2 lecciones_13_15 life
+conocer a alguien (conocí)	познакомиться с кем-то	2A2 lecciones_13_15 life
+enamorarse de (me enamoré)	влюбиться в	2A2 lecciones_13_15 life
+vivir juntos	жить вместе	2A2 lecciones_13_15 life
+casarse (me casé)	пожениться, выйти замуж	2A2 lecciones_13_15 life
+mudarse (me mudé)	переехать	2A2 lecciones_13_15 life
+quedarse embarazada	забеременеть	2A2 lecciones_13_15 life
+dar a luz (di)	родить	2A2 lecciones_13_15 life
+tener hijos / nietos (tuve)	иметь детей / внуков	2A2 lecciones_13_15 life
+viajar (viajé)	путешествовать	2A2 lecciones_13_15 life
+separarse	расстаться	2A2 lecciones_13_15 life
+divorciarse	развестись	2A2 lecciones_13_15 life
+escribir un libro (escribió)	написать книгу	2A2 lecciones_13_15 life
+jubilarse (se jubiló)	выйти на пенсию	2A2 lecciones_13_15 life
+morir (murió)	умереть	2A2 lecciones_13_15 life
+quedar con alguien	договориться о встрече, встретиться	2A2 lecciones_13_15 life
+quedarse en casa	остаться дома	2A2 lecciones_13_15 life
+andar → anduve	ходить → я ходил	2A2 lecciones_13_15 irregular
+estar → estuve	быть → я был	2A2 lecciones_13_15 irregular
+tener → tuve	иметь → я имел	2A2 lecciones_13_15 irregular
+caber → cupe	помещаться → я поместился	2A2 lecciones_13_15 irregular
+haber → hubo	быть (есть) → было	2A2 lecciones_13_15 irregular
+poder → pude	мочь → я смог	2A2 lecciones_13_15 irregular
+poner → puse	класть → я положил	2A2 lecciones_13_15 irregular
+saber → supe	узнать → я узнал	2A2 lecciones_13_15 irregular
+hacer → hice / hizo	делать → я сделал / он сделал	2A2 lecciones_13_15 irregular
+querer → quise	хотеть → я захотел	2A2 lecciones_13_15 irregular
+venir → vine	приходить → я пришёл	2A2 lecciones_13_15 irregular
+decir → dije / dijeron	говорить → я сказал / они сказали	2A2 lecciones_13_15 irregular
+traer → traje	приносить → я принёс	2A2 lecciones_13_15 irregular
+conducir → conduje	водить → я вёл (машину)	2A2 lecciones_13_15 irregular
+traducir → traduje	переводить → я перевёл	2A2 lecciones_13_15 irregular
+ser / ir → fui	быть / идти → я был / я пошёл	2A2 lecciones_13_15 irregular
+dar → di	давать → я дал	2A2 lecciones_13_15 irregular
+leer → leyó / leyeron	читать → он прочитал / они прочитали	2A2 lecciones_13_15 irregular
+construir → construyó	строить → он построил	2A2 lecciones_13_15 irregular
+destruir → destruyó	разрушать → он разрушил	2A2 lecciones_13_15 irregular
+sentir → sintió	чувствовать → он почувствовал	2A2 lecciones_13_15 irregular
+pagar → pagué	платить → я заплатил	2A2 lecciones_13_15 irregular
+buscar → busqué	искать → я искал	2A2 lecciones_13_15 irregular
+empezar → empecé	начинать → я начал	2A2 lecciones_13_15 irregular
+cara redonda	круглое лицо	2A2 lecciones_13_15 fisico
+cara cuadrada	квадратное лицо	2A2 lecciones_13_15 fisico
+cara ovalada	овальное лицо	2A2 lecciones_13_15 fisico
+cara fina	узкое (худое) лицо	2A2 lecciones_13_15 fisico
+ojos saltones	глаза навыкате	2A2 lecciones_13_15 fisico
+ojos separados / juntos	широко / близко посаженные глаза	2A2 lecciones_13_15 fisico
+ojos cansados	уставшие глаза	2A2 lecciones_13_15 fisico
+ojos miopes	близорукие глаза	2A2 lecciones_13_15 fisico
+nariz aguileña	орлиный нос	2A2 lecciones_13_15 fisico
+nariz chata	курносый (приплюснутый) нос	2A2 lecciones_13_15 fisico
+nariz con piercing	нос с пирсингом	2A2 lecciones_13_15 fisico
+nariz puntiaguda	острый нос	2A2 lecciones_13_15 fisico
+nariz torcida	кривой нос	2A2 lecciones_13_15 fisico
+boca enorme / diminuta	огромный / крошечный рот	2A2 lecciones_13_15 fisico
+boca carnosa	пухлые губы	2A2 lecciones_13_15 fisico
+boca fina	тонкие губы	2A2 lecciones_13_15 fisico
+boca maquillada	накрашенный рот	2A2 lecciones_13_15 fisico
+orejas de soplillo	оттопыренные уши	2A2 lecciones_13_15 fisico
+orejas puntiagudas	острые уши	2A2 lecciones_13_15 fisico
+orejas perforadas	проколотые уши	2A2 lecciones_13_15 fisico
+orejas asimétricas	асимметричные уши	2A2 lecciones_13_15 fisico
+pelo rapado	бритый налысо	2A2 lecciones_13_15 fisico
+pelo encrespado	пушистые, взъерошенные волосы	2A2 lecciones_13_15 fisico
+pelo con cresta	волосы с ирокезом	2A2 lecciones_13_15 fisico
+pelo rizado	кудрявые волосы	2A2 lecciones_13_15 fisico
+pelo trenzado	заплетённые в косы волосы	2A2 lecciones_13_15 fisico
+pelo repeinado	гладко причёсанные волосы	2A2 lecciones_13_15 fisico
+piel con arrugas	морщинистая кожа	2A2 lecciones_13_15 fisico
+piel con acné	кожа с акне	2A2 lecciones_13_15 fisico
+piel tatuada	татуированная кожа	2A2 lecciones_13_15 fisico
+piel flácida	дряблая кожа	2A2 lecciones_13_15 fisico
+piel con cicatrices	кожа со шрамами	2A2 lecciones_13_15 fisico
+la barba	борода	2A2 lecciones_13_15 fisico
+barba espesa / poblada	густая борода	2A2 lecciones_13_15 fisico
+barba rala	редкая борода	2A2 lecciones_13_15 fisico
+barba de tres días	трёхдневная щетина	2A2 lecciones_13_15 fisico
+barba canosa	седая борода	2A2 lecciones_13_15 fisico
+la perilla	эспаньолка	2A2 lecciones_13_15 fisico
+el bigote	усы	2A2 lecciones_13_15 fisico
+las patillas	бакенбарды	2A2 lecciones_13_15 fisico
+dejarse barba	отпустить бороду	2A2 lecciones_13_15 fisico
+tener / llevar barba	иметь / носить бороду	2A2 lecciones_13_15 fisico
+afeitarse	бриться	2A2 lecciones_13_15 fisico
+recortarse la barba	подравнивать бороду	2A2 lecciones_13_15 fisico
+por barba	с человека, на душу	2A2 lecciones_13_15 fisico
+este / esta / esto + aquí	этот / эта / это + здесь (рядом со мной)	2A2 lecciones_13_15 gramatica
+ese / esa / eso + ahí	тот / та / то + там (рядом с тобой)	2A2 lecciones_13_15 gramatica
+aquel / aquella / aquello + allí	вон тот / вон та / вон то + вон там (далеко от обоих)	2A2 lecciones_13_15 gramatica
+aquí	здесь, тут	2A2 lecciones_13_15 gramatica
+ahí	там (рядом с тобой)	2A2 lecciones_13_15 gramatica
+allí	вон там, далеко	2A2 lecciones_13_15 gramatica
+saber (supe)	знать (факты), уметь; узнать	2A2 lecciones_13_15 vocab
+conocer (conocí)	быть знакомым; познакомиться	2A2 lecciones_13_15 vocab
+vestirse (se vistió)	одеваться	2A2 lecciones_13_15 vocab
+vestirse de + color / disfraz	одеться в / нарядиться кем-то	2A2 lecciones_13_15 vocab
+basarse en / estar basado/a en	основываться на / быть основанным на	2A2 lecciones_13_15 vocab
+las películas basadas en libros	фильмы по мотивам книг	2A2 lecciones_13_15 vocab
+canoso/a	седой	2A2 lecciones_13_15 vocab
+calvo/a	лысый	2A2 lecciones_13_15 vocab
+sofisticado/a	утончённый, изысканный	2A2 lecciones_13_15 vocab
+majo/a	милый, славный (разг., Испания)	2A2 lecciones_13_15 vocab
+¿Es pariente tuyo?	Он(а) твой родственник?	2A2 lecciones_13_15 vocab
+el/la pariente	родственник, родственница	2A2 lecciones_13_15 vocab
+el fondo	задний план, дно, глубина	2A2 lecciones_13_15 vocab
+de topos / de lunares / de puntitos	в горошек	2A2 lecciones_13_15 vocab
+el/la guionista	сценарист	2A2 lecciones_13_15 vocab
+alegre	весёлый, радостный	2A2 lecciones_13_15 vocab
+amable	любезный, добрый	2A2 leccion_uno
+chapa	значок, металлический лист; крышка	2A2 leccion_uno
+brazo	рука (от плеча до кисти)	2A2 leccion_uno
+ancha	широкая	2A2 leccion_uno
+ganar	выигрывать, зарабатывать	2A2 leccion_uno
+embutidos	колбасные изделия, вяленое мясо	2A2 leccion_dos
+fiambre	нарезка (ветчина, варёная колбаса)	2A2 leccion_dos
+ambiente	атмосфера	2A2 leccion_dos
+gente, generosa, la generosidad	люди, щедрая, щедрость	2A2 leccion_dos
+cabaña	хижина, домик	2A2 leccion_dos
+fluidez	беглость, свободное владение	2A2 leccion_dos
+estoy totalmente de acuerdo (con …)	я полностью согласен (с …)	2A2 leccion_tres
+no estoy nada de acuerdo	я совсем не согласен	2A2 leccion_tres
+acuerdo	согласие	2A2 leccion_tres
+recordar	помнить, напоминать	2A2 leccion_tres
+acordarse (de) — recordarse no se usa con este sentido	помнить, вспоминать (recordarse в этом значении не используется)	2A2 leccion_tres
+confundir	путать	2A2 leccion_tres
+rollo	нудятина, скукотища	2A2 leccion_tres
+¡Qué va!	Да ну! Ничего подобного!	2A2 leccion_tres
+avanzar	продвигаться, прогрессировать	2A2 leccion_tres
+imprescindible	необходимый, незаменимый	2A2 leccion_tres
+dar consejos para …	давать советы для …	2A2 leccion_tres
+dar vergüenza	стыдить, быть стыдно	2A2 leccion_tres
+aparte de …	помимо …, кроме …	2A2 leccion_cuatro
+me defiendo	я справляюсь, могу объясниться	2A2 leccion_cuatro
+forma de ser	характер, склад характера	2A2 leccion_cuatro
+conseguir	добиваться, получать	2A2 leccion_cuatro
+¿Qué te cuesta más de …?	Что тебе даётся труднее всего в …?	2A2 leccion_cuatro
+retener	удерживать (в памяти)	2A2 leccion_cuatro
+le cuesta	ему/ей трудно	2A2 leccion_cuatro
+contar	считать, рассказывать	2A2 leccion_cuatro
+aprender	учить, учиться	2A2 leccion_cuatro
+recortar	вырезать	2A2 leccion_cuatro
+dependiente de campo	полезависимый	2A2 leccion_cuatro
+aprendizaje	обучение	2A2 leccion_cinco
+correcto vs. correctamente	правильный vs. правильно	2A2 leccion_cinco
+comprender	понимать	2A2 leccion_cinco
+juegos de rol	ролевые игры	2A2 leccion_cinco
+📖 Leer en voz alta	читать вслух	2A2 leccion_cinco
+percebes	морские уточки (перцебес)	2A2 leccion_cinco
+cometer errores	делать ошибки	2A2 leccion_cinco
+independizarse	становиться независимым, съехать от родителей	2A2 leccion_cinco
+una beca	стипендия	2A2 leccion_cinco
+así que	так что, поэтому	2A2 leccion_cinco
+rincón	уголок	2A2 leccion_cinco
+comillas	кавычки	2A2 leccion_cinco
+viajar a … vs. viajar por…	ехать в … vs. путешествовать по …	2A2 leccion_cinco
+huir	бежать, спасаться	2A2 leccion_cinco
+ridículo	нелепый, смешной	2A2 leccion_seis
+aparecer	появляться	2A2 leccion_seis
+distinto	другой, различный	2A2 leccion_seis
+triste	грустный	2A2 leccion_seis
+vergüenza	стыд	2A2 leccion_seis
+juzgar	судить	2A2 leccion_seis
+confundido	растерянный	2A2 leccion_seis
+lo paso muy bien / mal / genial	я провожу время очень хорошо / плохо / отлично	2A2 leccion_seis
+me siento fatal / seguro / bien / mal	я чувствую себя ужасно / уверенно / хорошо / плохо	2A2 leccion_seis
+me da vergüenza / miedo	мне стыдно / страшно	2A2 leccion_seis
+me pongo nervioso	я начинаю нервничать	2A2 leccion_seis
+cinco minutitos	пять минуточек (уменьшительное)	2A2 leccion_seis
+miedoso	боязливый	2A2 leccion_siete
+el reto	вызов, испытание	2A2 leccion_siete
+la erre	буква «р»	2A2 leccion_siete
+ansioso	тревожный	2A2 leccion_siete
+empollón / empollona	зубрила, ботан	2A2 leccion_siete
+persona muy hermética	очень закрытый человек	2A2 leccion_siete
+ojalá	хоть бы, дай бог	2A2 leccion_siete
+en burro vs. a caballo (¿vuelve?)	на осле vs. на лошади	2A2 leccion_siete
+la ceniza	пепел	2A2 leccion_siete
+la percha y el perchero	плечики и вешалка	2A2 leccion_siete
+cocer y coser	варить / шить	2A2 leccion_siete
+la cacerola	кастрюля	2A2 leccion_siete
+la olla rápida / exprés	скороварка	2A2 leccion_siete
+el cazo	ковшик, половник	2A2 leccion_siete
+la olla arrocera	рисоварка	2A2 leccion_siete
+lo paso bien = me divierto	мне хорошо = мне весело	2A2 leccion_siete
+lo paso fatal = sufrir	мне ужасно = страдать	2A2 leccion_siete
+cometo errores	я делаю ошибки	2A2 leccion_siete
+enojarse vs. enfadarse	сердиться	2A2 leccion_ocho
+el peine vs. el cepillo	расчёска-гребешок vs. щётка	2A2 leccion_ocho
+desenredar	распутывать	2A2 leccion_ocho
+la raya del pelo	пробор	2A2 leccion_ocho
+la tila (infusión)	липовый чай	2A2 leccion_ocho
+me gusta cómo sueno	мне нравится, как я звучу	2A2 leccion_ocho
+retener el vocabulario	запоминать слова	2A2 leccion_ocho
+pelearse (una pelea)	ссориться (ссора)	2A2 leccion_ocho
+esforzarse (el esfuerzo)	стараться (усилие)	2A2 leccion_ocho
+las declinaciones	склонения	2A2 leccion_ocho
+los consejos	советы	2A2 leccion_ocho
+grabar	записывать	2A2 leccion_ocho
+lo mejor es / va (muy) bien / tienes que	лучше всего / (очень) хорошо / тебе надо	2A2 leccion_ocho
+la biblioteca	библиотека	2A2 leccion_nueve
+el carnet de biblioteca	читательский билет	2A2 leccion_nueve
+sacarse / hacerse el carnet	оформить билет	2A2 leccion_nueve
+la película	фильм	2A2 leccion_nueve
+el/la protagonista	главный герой	2A2 leccion_nueve
+el director / la directora	режиссёр	2A2 leccion_nueve
+protagonizar	играть главную роль	2A2 leccion_nueve
+dirigir	режиссировать	2A2 leccion_nueve
+actuar	играть (роль)	2A2 leccion_nueve
+contar la historia de	рассказывать историю	2A2 leccion_nueve
+ser sobre / tratar de	быть о	2A2 leccion_nueve
+de acción / de terror	боевик / ужасы	2A2 leccion_nueve
+infantil / romántico / bélico	детский / романтический / военный	2A2 leccion_nueve
+el máster	магистратура, мастер-программа	2A2 leccion_diez
+una persona interesante	интересный человек	2A2 leccion_diez
+tener (tuvo)	иметь (он/она имел(а))	2A2 leccion_diez
+tener éxito	иметь успех	2A2 leccion_diez
+componer (compuso)	сочинять (он/она сочинил(а))	2A2 leccion_diez
+iniciar (iniciaron)	начинать (они начали)	2A2 leccion_diez
+durar (duró)	длиться	2A2 leccion_diez
+tararear	напевать	2A2 leccion_diez
+en los (años) 80	в 80-е годы	2A2 leccion_diez
+¿Quién fue? / ¿Qué hizo?	Кто это был(а)? / Что сделал(а)?	2A2 leccion_diez
+el carnet digital	цифровой билет	2A2 leccion_diez
+las películas basadas en libros (en los apuntes: )	фильмы по мотивам книг	2A2 leccion_quince
+basar, estar basado/a en	основывать, быть основанным на	2A2 leccion_quince
+tener la barba canosa	иметь седую бороду	2A2 leccion_quince
+de topos blancos / de lunares / de puntos (puntitos)	в белый горошек / в горошек / в точечку	2A2 leccion_quince
+el/la guionista de un programa de la tele	сценарист телепрограммы	2A2 leccion_quince
+aquel, aquella…	вон тот, вон та…	2A2 leccion_quince
+majo/a (maja)	милый, славный (разг., Испания)	2A2 leccion_quince
+el abrazo	объятие	2A2 sustantivo
+el aceite	масло	2A2 sustantivo
+el actor / la actriz	актёр, актриса	2A2 sustantivo
+el acuerdo	согласие, соглашение	2A2 sustantivo
+la agenda	ежедневник, расписание	2A2 sustantivo
+el aguacate	авокадо	2A2 sustantivo
+el aimara	аймара (язык)	2A2 sustantivo
+la alegría	радость	2A2 sustantivo
+los alicates	плоскогубцы	2A2 sustantivo
+la almendra	миндаль	2A2 sustantivo
+la alubia	фасоль	2A2 sustantivo
+el ambiente	атмосфера, окружающая среда	2A2 sustantivo
+la ansiedad	тревога	2A2 sustantivo
+el apio	сельдерей	2A2 sustantivo
+el aprendizaje	обучение	2A2 sustantivo
+el apuro	неловкость; спешка	2A2 sustantivo
+el arándano	черника	2A2 sustantivo
+la arandela	шайба	2A2 sustantivo
+el argumento	сюжет	2A2 sustantivo
+el arroz con leche	рисовый пудинг	2A2 sustantivo
+el asco	отвращение	2A2 sustantivo
+el atardecer	закат	2A2 sustantivo
+la avellana	фундук	2A2 sustantivo
+la banda sonora	саундтрек	2A2 sustantivo
+la beca	стипендия	2A2 sustantivo
+la bellota	желудь	2A2 sustantivo
+Blancanieves	Белоснежка	2A2 sustantivo
+el bocadillo	бутерброд	2A2 sustantivo
+el boquerón	анчоус	2A2 sustantivo
+el brécol / el brócoli	брокколи	2A2 sustantivo
+la broca	сверло	2A2 sustantivo
+la cabaña	хижина	2A2 sustantivo
+el cacahuete	арахис	2A2 sustantivo
+la cadena	цепь	2A2 sustantivo
+el calabacín	кабачок	2A2 sustantivo
+el calamar	кальмар	2A2 sustantivo
+el camarero / la camarera	официант, официантка	2A2 sustantivo
+Caperucita Roja	Красная Шапочка	2A2 sustantivo
+la cara	лицо	2A2 sustantivo
+el carrito de helados	тележка с мороженым	2A2 sustantivo
+la cebolla	лук	2A2 sustantivo
+Cenicienta	Золушка	2A2 sustantivo
+el cepillo	щётка	2A2 sustantivo
+el cepillo de carpintero	рубанок	2A2 sustantivo
+la chapa	жесть, значок, крышка	2A2 sustantivo
+el cilantro	кинза	2A2 sustantivo
+la cinta aislante	изолента	2A2 sustantivo
+la cinta métrica / el metro	рулетка	2A2 sustantivo
+el clavo	гвоздь	2A2 sustantivo
+el cochinillo	поросенок	2A2 sustantivo
+la col	капуста	2A2 sustantivo
+el colgante	подвеска	2A2 sustantivo
+la coliflor	цветная капуста	2A2 sustantivo
+las comillas	кавычки	2A2 sustantivo
+la comilona	пиршество	2A2 sustantivo
+el consejo	совет	2A2 sustantivo
+la consonante	согласная	2A2 sustantivo
+la cremallera	молния	2A2 sustantivo
+las croquetas	крокеты	2A2 sustantivo
+el cuadro	картина	2A2 sustantivo
+el cubo	ведро	2A2 sustantivo
+el cúter	канцелярский нож	2A2 sustantivo
+el desayuno	завтрак	2A2 sustantivo
+el destornillador	отвёртка	2A2 sustantivo
+el diptongo	дифтонг	2A2 sustantivo
+los embutidos	колбасные изделия	2A2 sustantivo
+el empollón / la empollona	зубрила, ботан	2A2 sustantivo
+el entusiasmo	энтузиазм	2A2 sustantivo
+el equipaje	багаж	2A2 sustantivo
+el esfuerzo	усилие	2A2 sustantivo
+el esparadrapo	лейкопластырь	2A2 sustantivo
+las espinacas	шпинат	2A2 sustantivo
+la estación de tren	вокзал	2A2 sustantivo
+el estreno	премьера	2A2 sustantivo
+la farmacia	аптека	2A2 sustantivo
+el fiambre	мясная нарезка	2A2 sustantivo
+el finde	выходные (коротко)	2A2 sustantivo
+el flexo	настольная лампа	2A2 sustantivo
+la floristería	цветочный магазин	2A2 sustantivo
+la fluidez	беглость (речи)	2A2 sustantivo
+la forma de ser	характер	2A2 sustantivo
+el formón	стамеска	2A2 sustantivo
+la frustración	разочарование	2A2 sustantivo
+la fuente	фонтан	2A2 sustantivo
+el ganso	гусь	2A2 sustantivo
+el Gato con Botas	Кот в сапогах	2A2 sustantivo
+el género	жанр	2A2 sustantivo
+la generosidad	щедрость	2A2 sustantivo
+la gente	люди	2A2 sustantivo
+la goma de borrar	ластик	2A2 sustantivo
+la goma para el pelo	резинка для волос	2A2 sustantivo
+la grasa	жир	2A2 sustantivo
+el grosellero	смородина	2A2 sustantivo
+el guaraní	гуарани (язык)	2A2 sustantivo
+el guion	сценарий	2A2 sustantivo
+el gusano	червяк	2A2 sustantivo
+el helado	мороженое	2A2 sustantivo
+la herida	рана	2A2 sustantivo
+la herramienta	инструмент	2A2 sustantivo
+el hinojo	фенхель	2A2 sustantivo
+el hospital	больница	2A2 sustantivo
+la hucha	копилка	2A2 sustantivo
+la huelga	забастовка	2A2 sustantivo
+la ilusión	радостное ожидание, надежда	2A2 sustantivo
+la inseguridad	неуверенность	2A2 sustantivo
+los juegos de rol	ролевые игры	2A2 sustantivo
+el juez	судья	2A2 sustantivo
+el juzgado	суд	2A2 sustantivo
+los kikos	жареная кукуруза	2A2 sustantivo
+el kiwi	киви	2A2 sustantivo
+el lapicero	подставка для карандашей	2A2 sustantivo
+el lavadero	прачечная (ручная стирка)	2A2 sustantivo
+la lavandería	прачечная	2A2 sustantivo
+la lencería	нижнее белье	2A2 sustantivo
+la llave inglesa	разводной ключ	2A2 sustantivo
+el logro	достижение	2A2 sustantivo
+el lunar	родинка, горошек	2A2 sustantivo
+la madrugada	рассвет, раннее утро	2A2 sustantivo
+el mango	манго	2A2 sustantivo
+la mantita	одеяльце	2A2 sustantivo
+la marmota	сурок	2A2 sustantivo
+el martillo	молоток	2A2 sustantivo
+el melón	дыня	2A2 sustantivo
+el menú	меню	2A2 sustantivo
+el menú del día	меню дня	2A2 sustantivo
+el mercadillo	блошиный рынок, ярмарка	2A2 sustantivo
+el mercado	рынок	2A2 sustantivo
+el miedo	страх	2A2 sustantivo
+la minúscula	строчная буква	2A2 sustantivo
+el nivel	строительный уровень; уровень	2A2 sustantivo
+el nombre	имя	2A2 sustantivo
+la panadería	пекарня	2A2 sustantivo
+el papá	папа	2A2 sustantivo
+el papel de lija	наждачная бумага	2A2 sustantivo
+el paraguas	зонт	2A2 sustantivo
+el paraíso	рай	2A2 sustantivo
+las patatas fritas	жареный картофель	2A2 sustantivo
+el peine	гребень, расчёска-гребешок	2A2 sustantivo
+la pelea	драка, ссора	2A2 sustantivo
+los percebes	морские уточки (перцебес)	2A2 sustantivo
+el/la peregrino/a	паломник/ца	2A2 sustantivo
+la pereza	лень	2A2 sustantivo
+la pinza del pelo	заколка для волос	2A2 sustantivo
+la piscina	бассейн	2A2 sustantivo
+la pizzería	пиццерия	2A2 sustantivo
+el pomelo	грейпфрут	2A2 sustantivo
+el prendedor	брошь, булавка	2A2 sustantivo
+la propina	чаевые	2A2 sustantivo
+el pulpo	осьминог	2A2 sustantivo
+la rabia	злость	2A2 sustantivo
+el racimo de uvas	гроздь винограда	2A2 sustantivo
+el ratón	мышь	2A2 sustantivo
+el reparto	актёрский состав	2A2 sustantivo
+el reposo	отдых, покой	2A2 sustantivo
+la reserva	бронь, резерв	2A2 sustantivo
+la ridiculez	нелепость	2A2 sustantivo
+el rincón	уголок	2A2 sustantivo
+el rollo	рулон; (разг.) скукота	2A2 sustantivo
+la rúcula	руккола	2A2 sustantivo
+la salchicha	сосиска	2A2 sustantivo
+la sandía	арбуз	2A2 sustantivo
+el serrucho	ножовка	2A2 sustantivo
+la servilleta	салфетка	2A2 sustantivo
+la sierra	пила	2A2 sustantivo
+el sujetador	бюстгальтер	2A2 sustantivo
+la sustitución	замена	2A2 sustantivo
+la tachuela	кнопка, заклепка	2A2 sustantivo
+el taladro	дрель	2A2 sustantivo
+la taquilla	шкафчик, билетная касса	2A2 sustantivo
+el teclado	клавиатура	2A2 sustantivo
+la tela	ткань	2A2 sustantivo
+el tendón	сухожилие	2A2 sustantivo
+el tenedor	вилка	2A2 sustantivo
+la tierra	земля	2A2 sustantivo
+la tila	липовый чай (настой)	2A2 sustantivo
+el topo	горошек; крот	2A2 sustantivo
+el tornillo	винт, шуруп	2A2 sustantivo
+el tornillo de banco	тиски	2A2 sustantivo
+la tortilla de patatas	испанская тортилья	2A2 sustantivo
+los tres cerditos	три поросёнка	2A2 sustantivo
+la tristeza	грусть	2A2 sustantivo
+el trueno	гром	2A2 sustantivo
+la tuerca	гайка	2A2 sustantivo
+la uva pasa	изюм	2A2 sustantivo
+el vaso	стакан	2A2 sustantivo
+la vida saludable	здоровый (полезный) образ жизни	2A2 sustantivo
+la vida sana	здоровый образ жизни	2A2 sustantivo
+el vinagre	уксус	2A2 sustantivo
+las vistas	виды (из окна, на горы)	2A2 sustantivo
+acompañado/a	сопровождаемый	2A2 adjetivo
+agradecido/a	благодарный	2A2 adjetivo
+arreglado/a	исправленный, приведенный в порядок	2A2 adjetivo
+caro/a	дорогой	2A2 adjetivo
+chulo/a	крутой, классный	2A2 adjetivo
+confundido/a	растерянный	2A2 adjetivo
+correcto/a	правильный	2A2 adjetivo
+distinto/a	другой, различный	2A2 adjetivo
+diurno/a	дневной	2A2 adjetivo
+entusiasmado/a	увлечённый	2A2 adjetivo
+estresado/a	в стрессе	2A2 adjetivo
+frustrado/a	разочарованный	2A2 adjetivo
+generoso/a	щедрый	2A2 adjetivo
+hermético/a	замкнутый, закрытый	2A2 adjetivo
+ilusionado/a	воодушевлённый	2A2 adjetivo
+independiente de campo	поленезависимый	2A2 adjetivo
+inútil	бесполезный	2A2 adjetivo
+loco/a	сумасшедший	2A2 adjetivo
+miedoso/a	боязливый	2A2 adjetivo
+motivado/a	мотивированный	2A2 adjetivo
+nocturno/a	ночной	2A2 adjetivo
+nublado/a	облачный	2A2 adjetivo
+pequeño/a	маленький	2A2 adjetivo
+ridículo/a	нелепый, смешной	2A2 adjetivo
+seguro/a	безопасный, уверенный	2A2 adjetivo
+aconsejar	советовать	2A2 verbo
+acordarse (de)	вспоминать, помнить	2A2 verbo
+anochecer	смеркаться	2A2 verbo
+apretar	сжимать, нажимать	2A2 verbo
+aprobar	сдать (экзамен); одобрять	2A2 verbo
+arreglarse	приводить себя в порядок	2A2 verbo
+atardecer	смеркаться (вечер)	2A2 verbo
+basar(se)	основывать(ся)	2A2 verbo
+brillar	блестеть, сиять	2A2 verbo
+brindar	чокаться, произносить тост	2A2 verbo
+calentar	греть	2A2 verbo
+casarse (con)	жениться, выходить замуж	2A2 verbo
+cocer	варить	2A2 verbo
+colgar	вешать	2A2 verbo
+cometer	совершать, допускать (ошибки)	2A2 verbo
+componer	сочинять	2A2 verbo
+conocer	знать, быть знакомым, познакомиться	2A2 verbo
+coser	шить	2A2 verbo
+costar	стоить; даваться с трудом	2A2 verbo
+dar a luz	рожать	2A2 verbo
+decir	говорить, сказать	2A2 verbo
+deletrear	произносить по буквам	2A2 verbo
+despedirse (de)	прощаться	2A2 verbo
+despertarse	просыпаться	2A2 verbo
+diluviar	лить как из ведра	2A2 verbo
+divertirse	веселиться	2A2 verbo
+dominar	владеть, доминировать	2A2 verbo
+ducharse	принимать душ	2A2 verbo
+durar	длиться	2A2 verbo
+echarse	ложиться, бросаться	2A2 verbo
+elegir	выбирать	2A2 verbo
+empollar	зубрить; высиживать	2A2 verbo
+enamorarse (de)	влюбляться	2A2 verbo
+encontrar	находить	2A2 verbo
+enfadarse	сердиться	2A2 verbo
+enojarse	сердиться	2A2 verbo
+entregar	сдавать, вручать	2A2 verbo
+escurrir	сливать, отцеживать	2A2 verbo
+esforzarse	стараться	2A2 verbo
+esquiar	кататься на лыжах	2A2 verbo
+estirarse	потягиваться	2A2 verbo
+estrenar	выпускать на экран; надевать впервые	2A2 verbo
+fregar	мыть (посуду, пол)	2A2 verbo
+gobernar	управлять	2A2 verbo
+hablar	говорить	2A2 verbo
+hacer	делать	2A2 verbo
+hervir	кипеть, кипятить	2A2 verbo
+iniciar	начинать	2A2 verbo
+jubilarse	выходить на пенсию	2A2 verbo
+lavar	мыть, стирать	2A2 verbo
+llamarse	зваться	2A2 verbo
+llegar	приезжать, прибывать	2A2 verbo
+llover	идти (о дожде)	2A2 verbo
+manifestar	выражать, демонстрировать	2A2 verbo
+mentir	лгать	2A2 verbo
+morder	кусать	2A2 verbo
+mostrar	показывать	2A2 verbo
+mover	двигать	2A2 verbo
+mudarse	переезжать	2A2 verbo
+nevar	идти (о снеге)	2A2 verbo
+obtener	получать, добиваться	2A2 verbo
+pasarlo	проводить время	2A2 verbo
+pelar	чистить	2A2 verbo
+pelear(se)	драться	2A2 verbo
+pelearse	ссориться, драться	2A2 verbo
+poder	мочь	2A2 verbo
+poner	класть, ставить	2A2 verbo
+preferir	предпочитать	2A2 verbo
+probar	пробовать	2A2 verbo
+publicar	публиковать	2A2 verbo
+recibir	получать	2A2 verbo
+recomendar	рекомендовать	2A2 verbo
+relampaguear	сверкать (о молнии)	2A2 verbo
+repetir	повторять	2A2 verbo
+resolver	решать	2A2 verbo
+reunirse	встречаться, собираться	2A2 verbo
+rodar	снимать (фильм)	2A2 verbo
+romper	ломать	2A2 verbo
+salir	выходить	2A2 verbo
+secarse	вытираться, сушиться	2A2 verbo
+seguir	следовать, продолжать	2A2 verbo
+sembrar	сеять	2A2 verbo
+sentir	чувствовать	2A2 verbo
+ser	быть	2A2 verbo
+soplar	дуть	2A2 verbo
+temblar	дрожать	2A2 verbo
+tender	развешивать; протягивать	2A2 verbo
+tener	иметь	2A2 verbo
+tocar	трогать, играть	2A2 verbo
+tomar	брать, пить	2A2 verbo
+toser	кашлять	2A2 verbo
+tostar	поджаривать	2A2 verbo
+trabajar	работать	2A2 verbo
+tratar de	быть о; пытаться	2A2 verbo
+triturar	измельчать, блендерить	2A2 verbo
+tronar	греметь (о громе)	2A2 verbo
+vestirse	одеваться	2A2 verbo
+vigilar	следить, караулить	2A2 verbo
+vivir	жить	2A2 verbo
+volar	летать	2A2 verbo
+A fuego / Afuego	Круто, огонь	2A2 expresion
+ayer / anoche / anteayer	вчера / вчера вечером / позавчера	2A2 expresion
+de repente	вдруг	2A2 expresion
+es decir	то есть	2A2 expresion
+hace dos años	два года назад	2A2 expresion
+el otro día	на днях	2A2 expresion
+la semana pasada	на прошлой неделе	2A2 expresion
+¿A qué te dedicas?	Чем ты занимаешься?	2A2 expresion
+a ver	посмотрим	2A2 expresion
+¿Cómo se dice … en español?	Как сказать … по-испански?	2A2 expresion
+¿Cómo se dice …?	Как сказать …?	2A2 expresion
+dar consejos (a alguien)	давать советы	2A2 expresion
+dar la chapa	надоедать болтовнёй	2A2 expresion
+darse cuenta (de)	осознавать, замечать	2A2 expresion
+¿En qué trabajas?	Где ты работаешь?	2A2 expresion
+Encantado/a	Приятно познакомиться	2A2 expresion
+encima	сверху	2A2 expresion
+es difícil de narices	адски трудно	2A2 expresion
+estar totalmente de acuerdo (con...)	быть полностью согласным	2A2 expresion
+lo mejor es + infinitivo	лучше всего …	2A2 expresion
+lo paso bien / mal / genial / fatal	я хорошо / плохо / здорово / ужасно провожу время	2A2 expresion
+me cuesta …	мне трудно …	2A2 expresion
+me pongo nervioso vs. estoy nervioso	я начинаю нервничать vs. я нервничаю	2A2 expresion
+me resulta difícil …	мне непросто …	2A2 expresion
+no estar nada de acuerdo (con...)	быть совсем не согласным	2A2 expresion
+no me sale la palabra	не могу вспомнить слово	2A2 expresion
+o sea	то есть	2A2 expresion
+Piel de gallina	Мурашки по коже	2A2 expresion
+plof	плюх (ономатопея)	2A2 expresion
+¡Qué rollo!	Какая скукота!	2A2 expresion
+Soy de...	Я из...	2A2 expresion
+tengo la palabra en la punta de la lengua	слово вертится на языке	2A2 expresion
+tienes que + infinitivo	тебе надо …	2A2 expresion
+va (muy) bien + infinitivo	(очень) хорошо …	2A2 expresion
+Vale	Ладно	2A2 expresion
+Vivo en...	Я живу в...	2A2 expresion
